@@ -1,0 +1,203 @@
+Anke Badenhorst (AcquiMatch): Well, thank you so much for meeting with me today. What we're going to do today is a technical onboarding. I'm going to take you through some slides to refresh your memory on what the onboarding process is going to look like, and then after that we'll get you set up on the different platforms that you need.
+
+Peter Jackson: Okay, cool.
+
+Anke Badenhorst (AcquiMatch): Perfect. And stop me anytime if you have a question. All right, beautiful. Let me share my screen. Can you see it?
+
+Peter Jackson: Yes.
+
+Anke Badenhorst (AcquiMatch): Perfect. So just a quick refresher. I know we looked at this screen last time as well. We're going to be setting you up on Slack and Notion. During the onboarding process, you're going to fill in a client information form. Then you're going to have two two-hour onboarding calls. One's going to be with Athena, the other one's going to be with Ryan, and that's where they're going to go through detailed questions, building your deal box, your buyer profile. You're going to fill out a detailed questionnaire as well. After that, we'll finalize your deal box and buyer profile for you to sign off on. I'm going to take you through getting SBA pre-qualified, and then there's some homework on your dashboard.
+
+So what the investor profile is, is we're going to take everything that we've learned from you, everything that Athena and Ryan get from you in all of these onboarding sessions and the questionnaires. You're going to be sending me your LinkedIn and resume on some of the forms that I'm going to give you. And then from all of that, we build out what we call your investor profile. This is what we then use when we introduce you to brokers and owners. It's a nice page that has everything they need to know about you.
+
+Okay, so what happens after you've gone through this onboarding process: there's going to be a period where we're on the back end setting up the on- and off-market campaigns to identify opportunities that align with your criteria, and then we're going to launch your search. The first period is the calibration period, where the first week we're going to focus on understanding your preferences. We might give you a few temp checks. And then you can expect two to four high-quality deals per month that we're going to put in front of you.
+
+So the key engagement point is, you've heard Athena say this a thousand times, time kills all deals, right? So you're going to have to move fast. When we put a deal in front of you, we would like you to share your thoughts within 48 hours so that if you want to move forward with this deal, we can go ahead and make the introductions needed. As you know, the market is extremely competitive. Moving fast gets you in front of the brokers and the sellers quicker. Also, giving us feedback on the deals that we put in front of you helps us fine-tune and calibrate your deal box even further.
+
+So the different tools and resources that we use: we're going to be using Slack for communication. Have you ever used Slack? Are you familiar with it?
+
+Peter Jackson: Yes, yes, I have used it. And inside of our company, we use Microsoft Teams, Microsoft's rip-off of Slack.
+
+Anke Badenhorst (AcquiMatch): Okay, yeah. So that's going to make the onboarding process even easier since you're already familiar with Slack. We're going to keep all communication inside of Slack. You're going to have your own dedicated Slack channel. The entire team is going to be on that. Any question you have, anything you want to send us, do it in that channel. We keep all of the comms in that channel so the entire team is aware of everything that's going on with your deals, and anybody can jump in and support at any time. And for your AcquiMatch dashboard, we're utilizing Notion, so that's where your homework is going to be. Your deal tracker is also going to be on that. You're going to see your write-ups on those, as well as some deal resources.
+
+Any questions on that before I get you set up?
+
+Peter Jackson: No.
+
+Anke Badenhorst (AcquiMatch): Okay, perfect. Let me ask you this first. Do you have Slack installed on your PC?
+
+Peter Jackson: I do. Yes, I do. I have a couple of channels. I haven't opened it in a while, but I have a couple of channels on it right now.
+
+Anke Badenhorst (AcquiMatch): Okay, good. This email that I sent you on, is that the ideal email that I can use for everything we're going to be working with you on?
+
+Peter Jackson: Did you send it to MillerIndustrial99@gmail.com? Is that the one?
+
+Anke Badenhorst (AcquiMatch): Yes, perfect. Then I can use that email. I'm going to send you an invite directly from Slack. MillerIndustrial99@gmail.com. Okay, sent. Let me know if you have received that email. Just go through the steps in that email, and then I will see you pop up in this channel.
+
+Peter Jackson: Thank you.
+
+Anke Badenhorst (AcquiMatch): Oh, perfect. All right. Did you get my message?
+
+Peter Jackson: Yes, yes, yes, I did. I was just about to send you a message as well, but okay.
+
+Anke Badenhorst (AcquiMatch): Okay, so what I'm going to do is share my screen again quickly, take you through a few items on your channel. Let me just... where is it? Okay, that works. Take you through a few items on the channel. Depending on how familiar you are with Slack—Slack is amazing. You can record an audio. It records the entire audio, like a voice note you send, and when you send it, it actually transcribes the audio. I'm going to do this as a test now. It transcribes the audio. I know how busy everybody is, so not everybody has time to give an update on how it went with the seller meeting or the broker call, right? But if you can just quickly drop in a two-minute voice note, Slack transcribes the entire voice note for you. Anybody on the team can read it, they can listen to it, and everybody can be updated on it.
+
+You can also record a video clip where you can turn off your own camera, and then you can record a screen share. So let's say you're getting stuck on some of the financial modeling, or you want to talk about something specific in your LOI or the write-up. You can record a quick screen share and send it right here in Slack. I'm not going to send this because I'm just going to bombard your channel with a bunch of dummy test stuff.
+
+Then another thing that we really want you to do is: when somebody sends something in Slack, Slack has a function where you can reply in a thread. I'm sure you know about this. You can reply inside of the thread without having to reply in the main channel the whole time. Did you see how I went into the thread?
+
+Peter Jackson: All right, one more time with that, sorry.
+
+Anke Badenhorst (AcquiMatch): So in any message, you can click Reply in thread. When you reply in a thread, all of the conversation stays in the same thread. Everything that's being said is connected to the same thread. Let's say it's a write-up or an LOI. It's like comments the way that Facebook can comment underneath a post. When you have to go back, you can track the conversation right off what happened in this conversation. There's going to be a lot of different stuff being posted in your channel—recording clips of your calls with Athena and Ryan, Buyers Club updates—so doing it in thread keeps everything nice and clean inside of the channel.
+
+Peter Jackson: So the best practice, Anke, is just to respond in thread as much as possible.
+
+Anke Badenhorst (AcquiMatch): Exactly. So just respond in thread as much as possible. And if you want to tag somebody specific, you can say @Anke. When you're tagging me, I get a specific ping knowing that you're talking to me in a thread. So if you want to talk to @Ryan or @Athena, anybody on the team, if you @ them, they will get that specific thread notification. If you just type their name, there's a chance the notification is not going to come through. Obviously everybody is monitoring these channels and we communicate with each other inside of the team, but best practices.
+
+Perfect. Okay. That's it on the best practice usage for Slack itself. At the top here, you'll see there's the Peter Jackson AcquiMatch Resources. This is a shortcut link to your dashboard, which I'm going to give you access to now. This is also a shortcut link to some of the deal resources that you can take a look at, but that's also on your dashboard. It's just a shortcut to get to your dashboard so it's easy to find what you need. If you just go into Slack, you'll find what you need.
+
+Peter Jackson: And where were those links?
+
+Anke Badenhorst (AcquiMatch): It's at the top of your channel.
+
+Peter Jackson: Ah, missed that. Okay, now I see it. Interesting. Okay.
+
+Anke Badenhorst (AcquiMatch): So while we're on Slack, do you have Slack installed on your phone? Do you want to quickly get that installed on your phone as well so you can get messages when the team contacts you?
+
+Peter Jackson: Yeah, I have my phone. Let me just pull that up, too. All right, now on my phone as well. Let me just go to notifications to see what those are.
+
+Anke Badenhorst (AcquiMatch): All right, cool. Are you in the AcquiMatch workspace on your phone as well?
+
+Peter Jackson: Yes.
+
+Anke Badenhorst (AcquiMatch): All right, I'm going to send a message. I'm going to say “test mobile,” and we'll see if the notification is coming through on your mobile.
+
+Peter Jackson: I had it open, but I can see... All right, I'm going to close out of it. Do you want to send me another test?
+
+Anke Badenhorst (AcquiMatch): Sure.
+
+Peter Jackson: Oh, I know why. I have my phone on DND like all day.
+
+Anke Badenhorst (AcquiMatch): Same here.
+
+Peter Jackson: I'm going to add Slack to allowed, and then, okay, now we should be good. That's why.
+
+Anke Badenhorst (AcquiMatch): All right, makes sense. Do you want me to send another message just one more time?
+
+Peter Jackson: Thanks.
+
+Anke Badenhorst (AcquiMatch): Sure. What about that one?
+
+Peter Jackson: Weird. Okay. That did not...
+
+Anke Badenhorst (AcquiMatch): There's a screen that I normally have our clients select on your PC. I'm going to send you a screenshot of it. Okay, here's the screenshot on my side. It's still uploading—sorry.
+
+Peter Jackson: No worries.
+
+Anke Badenhorst (AcquiMatch): You'll see it on your PC. It's a setting you have to set on your PC that says when you're active on your PC to also send the notifications to your phone. I think that's what's happening—you’re active on the PC, so it's not pinging on your phone. I think it's sent on my side, so you should receive it. If you look at the first image, click on your profile picture in the bottom left corner of Slack, then click Preferences. I'm sorry, I hovered over Profile, but I meant Preferences.
+
+Peter Jackson: All right, yes.
+
+Anke Badenhorst (AcquiMatch): In Preferences, scroll down almost to the bottom where it says “When I'm not active on my desktop.”
+
+Peter Jackson: You know, it looks a little bit different. I was on the desktop app that I have, so now I'm just going to go to the actual...
+
+Anke Badenhorst (AcquiMatch): You're welcome to share your screen with me if you'd like.
+
+Peter Jackson: Give me one second here. You said Preferences, right, not Profile?
+
+Anke Badenhorst (AcquiMatch): Yes, Preferences. I'm sorry, I moved before I took the screenshot.
+
+Peter Jackson: And then, okay...
+
+Anke Badenhorst (AcquiMatch): You're going to scroll down to almost at the bottom.
+
+Peter Jackson: It says “When I'm not active on desktop...”
+
+Anke Badenhorst (AcquiMatch): Yes. Set that setting to say “Immediately. Even if I'm active.”
+
+Peter Jackson: Got it. Okay. That's the one you want. And then should I also check, like, send me email—you know, that's easier for me in case I miss anything. Okay, so “Immediately, even if I'm active.” Okay. “Send me a mobile notification.” Okay, great. Okay.
+
+Anke Badenhorst (AcquiMatch): Now I'm going to do a final test, and then you should receive this one on your mobile.
+
+Peter Jackson: Yes, I did. Perfect.
+
+Anke Badenhorst (AcquiMatch): And I'm going to do an @Peter tagging test as well. I'm going to delete all of these to not clutter up the channel, but it's just for testing purposes.
+
+Peter Jackson: All right. I'm responding from mobile.
+
+Anke Badenhorst (AcquiMatch): Perfect. All right. So that's Slack. This is our communication platform. The team will be saying hi in a bit. The next step is getting you set up on Notion. I'm going to send you an email inviting you to your dashboard. Let me know if you've received that email, and then just go through the steps.
+
+Peter Jackson: All right. I just got it.
+
+Anke Badenhorst (AcquiMatch): Ah, there you are. Thank you. Okay, perfect. I'm going to share my screen, and then I'm going to take you through your dashboard. This is your AcquiMatch dashboard. On the left, we have some onboarding action items. It's the same stuff I just went through on the presentation. This is what we're going to get done. Setting Slack on your PC and phone—we've done that, so I'm going to mark that as done. The next thing I'm going to do is send you the client information form, get you started on SBA, and then the perfect day exercise needs to be completed before you have your onboarding session with Athena next week Friday.
+
+Peter Jackson: Yep. That's a week from tomorrow.
+
+Anke Badenhorst (AcquiMatch): Yes. More than enough time. I'm going to take you through each of these step by step. After your session with Athena, you're going to do a business questionnaire, which needs to be completed and sent back to us before your session with Ryan the following Friday.
+
+Peter Jackson: Yep. Got it.
+
+Anke Badenhorst (AcquiMatch): Perfect. Then you're going to be approving your buyer profile and deal box after we've put everything together and sent it to you for sign-off. And then when you get your SBA approval letter back, please send that over to us because we need it on our side as well. We're going to be assigning some homework specifically to you. Like I mentioned, Athena said you've already bought a business before, so we're going to be tailor-making these different homeworks for you. I'll let you know as soon as they are loaded onto your homework. Just wanted to make sure you're getting set up on it.
+
+This is your deal tracker. As you can see, it's a pipeline. Because you're going to be working on multiple deals at the same time, each deal is going to be presented to you as a card in a write-up. If you click on this, you can open up the write-up. It's going to be links to the CIM and financials. It's probably going to be a recording from the broker call that the team had with the broker. There's going to be a video in here with a walkthrough of the entire CIM and financials to you, some basic calculations that we did on this, the reasons why we like this opportunity for you, some concerns that we have about this opportunity, options for growth, areas of clarification needed, and then what we see your next steps are going to be on this. This is what a write-up looks like. Ryan's going to get you on a call with your first write-up, walking you through everything. After that, you're going to be an absolute expert on it and you'll go through the write-ups on your own. Like I mentioned before, give feedback as soon as possible so we can get you either introduced to the broker, or we can fine-tune your deal box if there's something specific about this business that you realized you didn't like and you want to make some adaptations.
+
+In your deal tracker, you can track where you're at with each deal. Say you've got a meeting scheduled with a broker, then you attended the meeting, now you've got some documents that you requested from them. Eventually we've got the LOI out, then we're going through due diligence, etc. This is a way to keep track of all the different deals you're working on and which stage you're at with each of them. If you pass on a deal or if the deal is lost because it's a competitive market or it gets taken off the market, then we'll move this deal to Lost so we can keep track of all the deals we've already put in front of you. This is just a dummy write-up for presentation purposes.
+
+So that's basically your dashboard. After your buyer profile is built, we're going to put it in here so it's a shortcut link for you to click on it. This is where you're going to get all of the deal resources. On the left-hand side, you're going to get some very cool questions. We've got questions for brokers—which is a big list of questions that you can ask when you get on these broker calls. The team is also going to work with you on specific talk tracks with business-specific questions to that write-up when you get on a broker call. We've got seller meeting questions. We've got interview questions for lawyers when you start building up your deal team. There's great information here like ETA 101 definitions, which I'm sure you're pretty aware of. This is the setting the destination exercise that needs to be done before Athena's call. We've got some information on the different types of seller notes, the seller mindset. We've got a personal financial statement template that you can fill out for yourself. When you start talking to lenders, it's a great way to put everything that you have in front of yourself so you don't need to copy-paste it into everything that you need.
+
+This is our financial modeling template. We are currently working on updates which are going live today—some amazing stuff that Athena did on these. We've also got an LOI template that was set up in collaboration with us and Barlow Williams, if you're aware of them. Two very important documents: the pre-LOI checklist and the post-LOI checklist. These documents are specifically catered to how you go into LOI and then utilize us—how you're utilizing us as your advisors, the steps you need to take, everything you need to do, and how AcquiMatch fits into each different stage of this entire process.
+
+Then we've got some external resources. There are some great webinars to watch—you might be aware of or have watched some of them—but here are some great webinars to refresh. Some books to read if you're a big reader. Athena—we call her the book lady because she's got a book for everything.
+
+When you get into due diligence, I built this DD tracker, and there's also a video here on how to use it. Basically it's a big spreadsheet keeping track of all the due diligence documents going back and forth that the different team members on your deal team need—SBA, lawyers, QoE, etc.
+
+Peter Jackson: And where's that stuff stored?
+
+Anke Badenhorst (AcquiMatch): It's on your dashboard.
+
+Peter Jackson: So when I'm in the middle of a deal and there's obviously a lot of documents involved, all of that's stored in this Notion space?
+
+Anke Badenhorst (AcquiMatch): Oh, in due diligence itself—I thought you meant the templates. The due diligence tracker is connected to a drive that you use. We normally just use Google Drive. So we just put it in Google Drive.
+
+Peter Jackson: Got it. That was my question. Makes sense. Perfect.
+
+Anke Badenhorst (AcquiMatch): And then on the right-hand side, we have all of our Buyers Club recordings. I'm sure Athena's mentioned Buyers Club. We have Buyers Club every Tuesday and Thursday, which you will be added to as part of your onboarding process when you get to that stage. This is for any of the recaps that you want to watch. We've had some experts come in—this is a real estate expert, this was a top M&A lawyer that came in. We've got insurance diligence experts, ROBS experts, QoE experts, and more experts coming in going forward with Buyers Club. For any of these, you just go into them and there's a video for you to watch. You can watch the video right within here. There's also a quick summary and the resource that's connected to that video.
+
+So that is your dashboard. I don't want you to worry too much about the dashboard right now. You're going to be starting to use it. I'm going to be sending you what you need to complete in Slack. It's going to be easy for me to drop in the links for you to complete. You let me know when you're done, send me back what I need. Beautiful.
+
+Peter Jackson: No, it's all pretty straightforward. I mean, I'll have way more questions once I start doing all this homework.
+
+Anke Badenhorst (AcquiMatch): Yes, absolutely. And then—okay, wait, you sent me direct messages. Oh, you sent me a direct message as a test.
+
+Peter Jackson: I realized all of it's happening in that channel thread, so yeah.
+
+Anke Badenhorst (AcquiMatch): So just keep all of the communication in the thread. If you DM me in Slack, I'm just going to forward it to the thread as well so everybody is always aware of everything in the channel.
+
+Okay, Peter, next steps on this. I just wanted to quickly confirm with you that the onboarding next week Friday and the week after is still set on your calendar. You've got those links and are good to go?
+
+Peter Jackson: Yes.
+
+Anke Badenhorst (AcquiMatch): Okay, amazing. Next steps coming out of this call: I'm going to send you the client information form and the setting the destination exercise for you to get done before your call with Athena. No need to send it back to me—it's just the process she wants you to work through before the call—but I'll add the steps and the instructions in my message when I send that over to you.
+
+Peter Jackson: Great. All right. Awesome.
+
+Anke Badenhorst (AcquiMatch): And then any questions that pop up, anything you need, use the Slack channel. It's the best, quickest way to get a response from us instead of an email.
+
+Peter Jackson: And if I know only you would be responsible, instead of doing a direct message, still put it in the channel?
+
+Anke Badenhorst (AcquiMatch): Perfect. Regardless, just @Anke, @Athena, @Ryan—no matter who you need. Even if you know it's probably one of us specifically versus you don't know who the responsibility is—always put it in the channel so that the whole team is aware and involved. And if you don't know who it is, just say “Hi team, help me,” and each person will jump in to help you anytime.
+
+Peter Jackson: Beautiful. All right. All makes sense.
+
+Anke Badenhorst (AcquiMatch): Perfect. Peter, thank you so much. If there's anything else, please send me a message on Slack. I'm always available to help you, especially when it comes to technical issues. I'm always there helping clients with any technical problems that they have. Please reach out. Like you see, I also sometimes have my own technical issues. But please reach out anytime that you need anything from any of us.
+
+Peter Jackson: Beautiful. I will. Awesome. Awesome.
+
+Anke Badenhorst (AcquiMatch): Great stuff. Amazing. We're excited to be on this journey with you. Thank you, Peter. You have a great day and enjoy your weekend.
+
+Peter Jackson: Yeah, likewise. Cheers. Thank you.
+
+Anke Badenhorst (AcquiMatch): Bye.
+
+Peter Jackson: Bye.
