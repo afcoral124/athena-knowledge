@@ -1,0 +1,546 @@
+# 03/18/25 AcquiMatch Buyers Club
+
+[00:00:00] 
+
+**Athena:** Hello. Hello. Welcome. Welcome. Thank you. 
+
+**Gil:** Hello. 
+
+**Athena:** How's it going? 
+
+**Gil:** Wonderful. And yourself? 
+
+**Athena:** Yeah, really good. Thanks. 
+
+**Gil:** Good. Good. 
+
+**Athena:** You've been, uh, experimenting with the new model. 
+
+**Gil:** I have, we'd love 
+
+**Athena:** to dig into that today. If you're feeling brave and want to share, see how it's going. Sure. Not a problem. Awesome. And I think Joe might be around somewhere to Joe.
+
+**Joe:** I am. Hey, Athena. Cool. 
+
+**Athena:** I, uh, I saw you, you've got some term sheets and so I don't know. Um, I don't think you and Ryan have had a chance to catch up. So I thought it'd be worth chatting through that too. If you're up for it. 
+
+**Joe:** Uh, yeah, um, can on a high level. I mean, you saw what 3 of them, they're kind of big differences and all over the place.
+
+Um, in my mind, I'm going to try to right size the 1 that looks good so far. So, 
+
+**Athena:** yeah, is that the local 1? [00:01:00] 
+
+**Joe:** Yeah, it will. Yeah. And frankly, I mean, well, when it's when it's time to talk, I'm glad to talk about it. Uh, you know, just a lot less resistance, I think, in the overall just getting to this term sheet.
+
+Right versus a lot of the more detailed stuff that came from a live. 
+
+**Athena:** Yeah, so I think let's talk about those and then we can spend some time, like, digging into the model with guilt because I, we don't need to pull up any screens or anything to talk through yours. So, do you just want to give us an overview where you feel like you're at with those and then go, we'll circle back to you and get that model up and messed around with it.
+
+**Joe:** Sure. Yeah. Apologies. I'm parking here in just a couple minutes on the road. So, for my HVAC, uh, deal or company and letter of intent, I went out to three lenders, [00:02:00] uh, one being Live Oak, who, uh, I know Athena and AquaMatch, they, they favor Live Oak, uh, just based on relationship history, terms, kind of the ideas to work more seamlessly with, uh, with us buyers.
+
+And there was also a credit union called DFCU that I've worked with the past couple of years, uh, when I was going at this on my own, formed a really good relationship. Um, With the, I guess it'd be the banker for the lender there and also took a reference from Ryan and Aquamatch for going through. I think they're called City, City National Bank and a guy named Tuney.
+
+I haven't talked with Tuney yet. Um, I talked this morning with DFCW on things that were included in the closing costs and what was not included. And then I also had a call yesterday with Wendy from Live Oak, and then that's when she sent the term sheets after that. [00:03:00] Um, best way to, I'll try to summarize it is, uh, Live Oak, they want, they were a bit more particular and wanted more specifics early on in the process.
+
+Um, some of the nitty gritty, especially when it comes to, you know, AR and AP, which is important. Um, you know, don't get me wrong. And they just want to make sure that, uh, me or, or anyone else I'd be looking to buy doesn't go too far down the process, start spending money, legal fees, due diligence, um, activities, that sort of thing.
+
+And come to find out that, you know, there were, there were still several things that weren't looked into, or maybe the term sheets going to change. Once you start getting due diligence, now you have to kind of keep spending money and kind of retrain everything. So that offer, uh, or not, I guess the term sheet [00:04:00] came in well under what the offer price is for the deal and Uh, I want to say I don't have the the sheet in front of me.
+
+I know it's in the chat Athena, I don't know if you want to pull it up or if I don't know if you want to get into that many specifics But it's many, you know many hundreds of thousand dollars less, uh than what my offer price was Um, wendy said it it has it had to do with she wasn't aware of a rent increase Which really was in my model and LOI the whole time And then also leasing a license from the seller for the age from the HVAC company until I can get my own license And again, that was something that was in my model and in spelled out in my LOI So a little bit of frustration that I don't know why there they would be surprises at this point um, she's saying that those are the couple terms that changed and and are making them at this point not be able to [00:05:00] lend up to my Offer price of two and a half million.
+
+Uh, right now, the other two are showing that they're, they're lending to my offer price. Um, DFCW is the kind of the local credit union. That was the, the second one I talked about. Um, they, I asked her for a little more description of what's included in their closing costs. And not everything we talked about today seemed positive, and it wasn't really affecting their overall offer and lending to me.
+
+If that makes sense.
+
+And then last 
+
+**Athena:** go ahead, keep going. No, lastly, 
+
+**Joe:** I haven't had a call with Tony. Um, from city national. His rates are quite a bit higher. I'm just going to see where he's coming from and just some more detail of what's making sure he has a lot of things included. Uh, you bring up good points, uh, Athena in the, uh, Slack chat around making [00:06:00] sure, you know, our legal is there an allotment or allowance for legal fees already accounted for in the closing costs, the quality of earnings, that sort of thing.
+
+So that that helped me with some good questions and conversation. To have today when I had the call with DFCW and most of the answers were positive to neutral, or they weren't included, but it's again, it's not going to affect their ability to lend to me. 
+
+**Athena:** Yeah. Um, so. With with Wendy's with live structure, I would assume just by 1st glance, the reason why it is significantly less is because they're suggesting only an 85 percent buyout rather than 100%, which the other ones would be doing so at the.
+
+Like, if you were to buy 100 percent of the business, then I imagine the offers might match, but maybe Ryan, you could do the calculations while we're sitting here talking to back me up because I hadn't done the calculations. But 
+
+**Joe:** can I stop you [00:07:00] there? Well, I'm I'm confused what even that was 1 of the 1st statements in the term sheet.
+
+Why is it 85%? What am I missing? On that. 
+
+**Athena:** Yeah. So, um, they are saying that they would want the owner to retain 15 percent ownership because he's the license holder. 
+
+**Joe:** I'll ask you with a license. Okay. 
+
+**Athena:** Yeah. Um, so, you know, this is why we go to different lenders, even though we like. Live Oak, and they're great to work with in some regards, um, they have different tastes for risk.
+
+And 1 of the risks is the license. And because they're 1 of the more conservative lenders, then that's a way that they de risk the license situation because if your license holder walks, for whatever reason, it puts you in a situation. So if the owner has. Like, an ownership percentage, then the license stays in the business.
+
+Now, you don't need to do that as part of the sale, but that's what they're saying. They would be comfortable [00:08:00] with and why they're proposing an 85 percent buyout. Now, you have 2 other lenders that are not. Proposing that what the difference between what Live Oak did and what the other vendors do, and this is why it can be very confusing on the buyer side is every bank has their own process and what they ask for at what stage and whether they give you things and that sort of thing.
+
+And Wendy likes to make sure that she kind of goes through a commitment letter. Later, which requires a lot of underwriting and, like, digging into a lot of these things, because she doesn't want to put a term sheet out where she has to reach it. Like, she has to offer a different, um, scenario later. So she runs pretty far down the track so that whatever she proposes.
+
+You know, has a 98. 5 percent close rate at that point. But in order to get that high of a close rate, there's a lot more information that's asked. These other banks don't ask for a lot of that information. They just put a term sheet out based on the numbers that they're seeing. Once you sign that term sheet, [00:09:00] then they're going to go to try to get a commitment letter or an approval of the loan, which is going through a lot of the stuff that you just went through with.
+
+Wendy in more detail, and they need to be satisfied that those things are there. So what she's given you is a kind of preview of what you could potentially expect for these other lenders. And then that way, you can get ahead of it and ask them. Well, how do you feel about the, the license holder situation?
+
+Right? Like, what requirements are you going to have for me there? They might be happy with the scenario that you're talking about with Pino, where you release the license from him for a while. Also, your local bank. I mean, those are pretty, um, attractive and competitive offers that they're giving the interest rate, the interest only payments for 6 months, which gives you a lot of bandwidth cash flow wise, and they gave you a more substantial line of credit.
+
+Um, I didn't see the live of what they offered there, but this is something y'all. Always want to build into the [00:10:00] your deals is like to also get an additional pot of line of credit access, which you don't have to pull down. You know, you're not going to be paying interest on it unless you use it. But you want to make sure that you have that additional pot of money there, which is separate from working capital that they should be giving you.
+
+Um. And then when they are doing the whole term sheet to make sure that all of the fees that you're going to be looking at, you know, your legal fees, your fees to us, because we're, you know, like, uh, advisor or whatever. So they need to put that in the loan and that sort of things so that you're able to make sure that all of those things are good.
+
+And the numbers still work for them in that regard. And it's not cutting in your working capital because you want to have additional working capital when you take over the business. Um, Joe, you're following all that. And then, like, that all makes sense. I'm saying it for the benefit of everybody listening to 
+
+**Joe:** yes.
+
+Yeah. Thank you for that. I mean, 
+
+**Athena:** from the [00:11:00] 3, I don't know where you're leaning, but I feel like your local bank and also their preferred lender, which means they don't have to. So I would, I would be having more conversations with them. Like, how many HVAC. Deals have you done and have you done HVAC deals where the buyer was not the license holder?
+
+How did you guys handle that? Or how would you handle that? Right? So these things that are kind of like, throwing up red flags or speed bumps for these other lenders, you can have the conversation with them before. Moving further with them and seeing how they feel about it, you know, because they might not be as scared about it, or they might not be as concerned because they're not as big of a lender like Live Oak, you know, 
+
+**Joe:** right?
+
+Yeah, those are good points. And there were a couple of things I brought up on the call today. Really had to do with, um, are still trying to get clarity on the aging AR. So I asked my agent about that, or broker, and, uh, [00:12:00] she said, yeah, well, what is the status of that? So I sent her an explanation that came from the owners, and as she, you know, she was reading it, and I sent her an email live as we were talking today.
+
+And she brought up a couple of things I need to still try to get clarity on. Uh, otherwise it's going to be something that will have to be included in escrows and a lot of confusion, maybe just a lot of undue stress that may have to be placed into an ultimate, you know, if there's a final agreement. Uh, if the strange negative AR number doesn't get, uh, better explained, uh, also, you know, I made sure that she saw the latest document that I had put in their share file, which was their AP aging.
+
+So, you know, it's not like I wanted to hide anything, but I want to make sure you're kind of following the Wendy, the Wendy process, which is a rather than wasting time getting a term sheet that maybe if they don't have all the docs in front of them. I want to make sure that I was reviewing the last things that I'd put in there, right, uh, to make sure we're, we're covering [00:13:00] enough.
+
+So, um, yeah, I have yet to have a call with Tuney for how, uh, savvy and aggressive and energetic that guy is. I'm surprised he hasn't responded yet. I'll, I'll reach out to him again by tomorrow. Um, but again, their rates, uh, and everything, and really just, I haven't had as many touch points with him. So, it's not crossing off the list, but I want to see what he explains through his term sheet.
+
+Um, and then I'll have some decisions, you know, to make and get some clarification really on the next call with the seller, which will probably be this Thursday and, um, go from there, try to think of, you know, making decisions or if there has to be any tweaks to the term sheets within the next week or 2.
+
+And go forward. 
+
+**Athena:** Yeah, I think, you know, this is this is 1 of those, like, really great examples of like, what's SBA requirements versus bank requirements versus legal requirements. Right? So [00:14:00] this is why going to different folks and having different conversations about it. And then also doing your own kind of legally.
+
+What what do I need? What is the legal thing that I need to do in order to continue this business? And then you can start from there and use that as your kind of like. Negotiation tool, you know, it's like, no, the owner doesn't need to own 15 percent of the business. That's something that you guys are wanting, like, or there are other ways, or there's a lender locally.
+
+That's comfortable with it under the provisions that you put in place. So then you just need to. You know, think through what if something happens to him? What is my backup plan? What are my contingencies? Am I comfortable with that kind of risk? So these this process, even though it might be a little bit frustrating when the lenders are asking a lot of questions and stuff, like, when Kevin came on and talked through his SBA, if you haven't, if you weren't on that virus club, or you haven't watched it, I highly recommend doing that, but they, They see things that are risks, you know, [00:15:00] because it's been a risk and it's had an issue with the, the, you know, people before.
+
+So it throws up an opportunity for you to look like, well, how would I solve for that? How do I get comfortable with that? What are some, like, plan B's and C's they can put in place for something like that so that you get to see what might be a potential problem before it happens. Um, also. Okay. Joe, you said the broker, are you planning, you're planning on doing a QV also?
+
+**Joe:** Uh, yes. So the Q what they had included, I mean, they have a valuation, business valuations included in their closing costs and their estimate. I specifically asked about QV. They said no, and they don't do it for X, Y, Z reasons. And, you know, I think it's a minimal, um, expense out of my pocket that obviously would be well worth it.
+
+**Athena:** Yeah, so vendor doesn't normally [00:16:00] order the QV, um, which is why we always say, like, yes, it is an extra expense, but it's, it's that peace of mind that you have a 3rd party actually go through all of those numbers, highlight anything that might be an issue for you, um, you know, and, uh, did you see Chris's walkthrough of a QV report?
+
+**Joe:** Yeah, I was on that call. 
+
+**Athena:** Yeah, so like, he also picks up other things like turnover or seasonality and he'll be able to tell you what the, you know, the working capital needs to be. And then it's easier for you to go to Pino and be like, Hey, you know, this is how it works. This is what the working capital needs are.
+
+I need this money, regardless of whether you put it in the purchase price or not. If he's like, yeah, include it. Then the purchase price stands because when you made the offer, there was the assumption that there was no working capital needed because he got paid cash. And now you're finding out that's not the case.
+
+So this is why we do this diligence afterwards. It's like, well, you made an offer [00:17:00] based on best assumptions. Once we do the diligence and everything, and we start getting that list of all the things that we're going to need to do a renegotiation on, and we don't do it. Bit by bit, right? Because then it creates fatigue.
+
+So you can write down all these things and it's like, okay, the working capital, let's say it comes back to be 100, 000. It's like, you know, you need to leave 100, 000, you know, in, uh, working capital in the business, or you need to lower the purchase price by 100, 000, you know, so then you get to retrade, but you'll have a report.
+
+You know, to be able to be like, here's how it works and it can be very confusing for sellers to understand, you know, and I know, uh, especially when there's complicated billing practices and stuff like that. Often sellers don't understand their own books or accounts payable accounts receivable working capital, et cetera.
+
+So you'll probably have a better idea of how their books work than they do by the end of this process. But that means you understand it even better when you go into it. So, yeah, I. [00:18:00] Highly recommend, um, you know, doing that. Usually lenders, even if you pay for that out of pocket, you can get that packaged in the loan costs like your, your legal costs, your costs, you know, your advisor costs, they'll just, you know, increase the amount of the loan so that you can amortize it over the life of the loan and then be able to get those, um, you know, tax benefits of depreciation of deal expenses over time.
+
+But that's the main thing I talked about with her is like, or, you know, these other folks, it's like the license name, the things that are coming up that were issues for Live Oak, how would they feel about them? How would they handle them? What would they want to see to feel comfortable with them? And then you can make a decision on who you feel like is the best lender for you in the situation.
+
+I would, your local bank, I would ask them if they've done HVAC deals with someone that, like, someone buying it that didn't have the license. If they have, [00:19:00] then that would make you feel pretty comfortable that they've been through this before. Okay. 
+
+**Joe:** Yeah, I'll have to, uh, that's a good specific question. I may not have come up in our conversation, but I'll make sure I ask on any, uh, re review conversation with them, with DFCW.
+
+**Athena:** Or similar, you know, trades business where a license is required with a license. Like, how did your bank handle that? What did they want in place if they haven't done it at all? Like, maybe they don't even have it on their radar and they don't, you know, it's like, okay, well, then you need to then get comfortable with what your risks are.
+
+And it's, it's like, great. They're not digging under that. A lot of lenders will just sign things off and not get as deep as some of the other ones. Live Oak is only a cash flow lender, so they don't do all the other things that that some of these other banks do. So that's why they're so conservative and they look under the hood, but they catch a lot of things that could be potential issues for you.[00:20:00] 
+
+It's good though. I mean, term sheets are a positive thing, right? In the first place, you've got a couple banks that are interested and, you know, uh, different things to talk about and chew on with them. Some, you know, potentially really great. I mean, you know, some of the rates are looking good, uh, good term sheets.
+
+So moving in the right direction. How are you feeling about the relationship with Pino? How's that going? 
+
+**Joe:** Um, pretty good. Uh, pretty good. Very good. Uh, it's pretty, it's very responsive. I did catch up with him yesterday, specifically when I was kind of chasing my tail around the response on the license, uh, items and when he wanted more specifics around it.
+
+So, um, he, he helped me with a little bit of verbiage. And I think that's what. Move this to the next step and getting things moving with Wendy. So just an example of, uh, yeah, he's, he's responsive, quick, just kind of knows the, uh, the market [00:21:00] and, um, kind of just a savvy guy knows the industry. So I'll be able to learn a lot from him.
+
+**Athena:** Nice. Great. You feeling good then, you know, what the next steps are, anything else we can have with today? 
+
+**Joe:** No, not the moment. Um, want to have the call with Tuney, uh, have a call with Pino Thursday. Um, kind of bring back a couple notes to DFCW that she specifically needed for, um, around the, uh, ARNAP. And there was something else, something else I wrote on the folder, um, but yeah, I'll have better direction if there's any tweaking needed on the term sheet.
+
+I'm assuming term sheets can get tweaked based on short term information, right? Yeah, same. Maybe that's what would be needed just to make them feel comfortable. Same with me. Okay, and then, um You know, start looking at, I guess, the commitment process. 
+
+**Athena:** Yeah. So the term sheet, once you [00:22:00] decide which one you want to kind of move forward with, and then that's where they'll start working towards getting a commitment letter and a commitment letters where, you know, they will do a lot more underwriting.
+
+Some are going to put your credit at that point. And then when you get a commitment letter, that's basically like an approval from the bank subject. Who, you know, the final underwriting that they're going to do. Um, so it's more of an exhaustive process, kind of what you've been through already with Wendy, in a sense of them wanting to, like, look under the hood though, you know, not something you can ask your local bank.
+
+It's like, hey, has anyone from your credit or underwriting team how to look at this? You know, um, so sometimes lenders will just have, like, the lender themselves will do it and then they'll send out a term sheet. Others like live Oak, they'll run it through their credit team or their underwriting team to see if they see anything that they're uncomfortable with it might come up through the process.
+
+So, asking, like, hey, who's how to look at this? Like, who's going to look at it going [00:23:00] forward? What hiccups normally happen? You know, what to expect? What's your process? Um. Because if nobody on the credit or underwriting team has had a look at it, then, then that can be where, oh, they'll find a bunch of things like later down the line that you have to overcome and figure out.
+
+But it sounds like you're moving in the right direction. So that's good. 
+
+**Joe:** Thanks. 
+
+**Anke:** Exciting. 
+
+**Athena:** Nice work, Joe. Okay, cool. We'll talk to you soon. Keep us posted. Yeah, thanks. Awesome. Gil, how are you feeling? You've got a deal that you are excited about. You've started doing some modeling. Give us an overview on where you're at with that one.
+
+**Gil:** So I have two models. Uh, one for a deal that was overpriced and one for a deal that was not priced at all. So which one do you want to take a look at? 
+
+**Athena:** Well, uh, the overpriced one before we, before we pull it up, did that, was that [00:24:00] interesting to kind of play around with that and see if you could make it work?
+
+Did you, did you find a way to make it work? How did that process feel? 
+
+**Gil:** Uh, it felt okay. I mean, I, uh. I already already knew in my head what, what, what, what would work and what and what wouldn't work. So it wasn't a surprise. Uh, but I can show you and send, uh, see what, see where it goes. 
+
+**Athena:** Let's, uh, oh, Anca, can you give share access to Gil?
+
+All 
+
+**Gil:** right, can you guys see this? 
+
+**Athena:** Yes, we can. 
+
+**Gil:** All right. Um, so, first of all, and, uh, two questions about this page. Um, the trillion and twelve months, I didn't have them. I don't, I don't have that information. So, I just put in the last of December 31st, uh, 2024. 
+
+**Athena:** Yep, that's perfect. And if you wanted to, like, to have, like, year by year, um, No, no, no, actually, that's perfect.
+
+You can do that. That's fine. 
+
+**Gil:** Okay, and the corp type. Is that the corp that it's currently, or the [00:25:00] one that I or the corp type that it'll probably end up being under me? Um, 
+
+**Athena:** so If, yeah, I mean, we do it as, uh, the one that you would be taking it over as like, so if it's an asset still, then you can make whatever you want.
+
+If it's a stock sale, then you keep the current, uh, corporation set up. Right. So if you're doing an asset sale, most likely you would probably be setting it up as an S corp rather than a C corp. 
+
+**Gil:** Okay, um, so this is going to be, it's probably going to be a C corp because I'll probably use Rob's, uh, as 
+
+**Athena:** part of the finance.
+
+Ah, okay, okay, great. Yep. 
+
+**Gil:** Okay. Uh, financials tab. Um, so this is what the numbers look like right now, uh, off of, uh, their balance off of their p and l. But one thing, uh, bothered me a little bit, and that was the EBITDA numbers, because they weren't aligning up with what was in [00:26:00] the, in, in, in, in their p and l.
+
+So what happened? I looked at the formula. This is, um, E15, which is the net income minus these things. And on this cell, it's plus these things, and this cell is actually what's in the sim. What's in the, uh, yeah, in the sim. 
+
+**Athena:** Got it. 
+
+**Gil:** So I don't know if this should be plus or minus. 
+
+**Athena:** Yeah, um, so if it's, uh, if it's income, like interest, so your net income, uh, so it's, you're saying it's subtracting the interest depreciation taxes.
+
+**Gil:** Yeah, so here you can see the formula. It's E15, which is the net income minus a sum of all of these, while this cell, uh, is plus sum of all of these. And this cell right now That's a 
+
+**Joe:** real 
+
+**Athena:** catch. [00:27:00] 
+
+**Gil:** I'm sorry? 
+
+**Athena:** That's a good catch, because it should be adding those back. So this is exactly why we wanted you guys So we thought we caught all these things, but that should absolutely be adding it back, because it's You know, earnings before interest taxes, depreciation, amortization.
+
+So we're adding those things back to the net income. So that 300, if it's adding it back, then that's that's what it should be. 
+
+**Gil:** Okay, um, so that's that was 1 thing. Um. And this is what the adjusted looks like the 461. Um, and, uh. These are the swings, right, the big swings that they've had, and they had some pretty big swings, and the biggest one was from 23 or 24, obviously.
+
+**Joe:** They almost 
+
+**Gil:** doubled themselves, which was one of the first things that were troubling me when I was looking at their numbers. 
+
+**Athena:** But if the formula is off, [00:28:00] then it might not be as big of a swing. 
+
+**Gil:** It is, uh, because even when it's, uh, when I fixed it on a different sheet, it was, it was a big swing. Yeah. 
+
+**Athena:** Okay, gotcha.
+
+Okay. So we got a big EBITDA swing from 23 to 24. 
+
+**Gil:** Yes. 
+
+**Athena:** Got it. 
+
+**Gil:** Um, so this sheet was pretty simple to put, to plug everything in. Uh, it was weird to me that they had a negative number for interest for 2022. I left it as is. It was, it was a minuscule number. Um, and other than that, this was pretty simple to, to, to, to, to plug in.
+
+**Athena:** They might've had like a short term line of credit or something where they paid interest. 
+
+**Gil:** Hmm. Okay. Makes sense. 
+
+**Athena:** Cool. Great. And then how did you end up structuring this? 
+
+**Gil:** So the deal structure, um, there's the B scenario, which is they're asking, [00:29:00] they're asking price, uh, which was 2. 09. And then I did it by a three multiple for, I think that's the best case and the worst case 3.
+
+5. I didn't, I knew these are just the numbers I pulled out of the air. Um, but these are the numbers that I was playing with. Um, what else did I have here? Uh, I don't think I got it. I think I had a question here. I know I did.
+
+**Athena:** Seller notes are putting in 5%? 
+
+**Gil:** Yeah, here's my question. Um, no, where is it? Yes, here it is. If I, uh, my equity injection, should that still be 10 percent if the seller note has a 5%, if there's a 5 percent seller note? Or should it just move down to 5%? 
+
+**Athena:** So, um, this is something that I want to add in so [00:30:00] y'all can see the total equity injection.
+
+But when, when we ask the seller for a 5 percent seller note, then you need to also, like, if you want to use it towards your equity injection, then you need the seller to agree that they will put it on 2 years. That's how that works. Use it towards the equity injection of the loan. Now, normally, they're only going to do 5 percent of the purchase price, not the total loan value.
+
+So, when you get the loan, you're going to have all the additional costs that you're going to be adding in. That's your total project cost. So, you can reduce your equity inject they want, like, the, the lender wants 10 percent of the total loan value. So let's say you're offering the seller 900, 000 and the total loan value is 1, 000, 000.
+
+The seller will put, you know, 45, 000 as a 5 percent note and you'll need to make up that 55, 000 to be able to be 10 percent of the total [00:31:00] loan value. So if you put it at about 6%, say on your end, then that should cover you and then you'll just have to do the exact calculations there. But that's something I want to enter in so we can give you guys like.
+
+So you can see the total amount. Okay. Um, that's going in there. 
+
+**Gil:** So I moved this, I moved these to 6%. Um, and plugged in here for the worst case that the repayment period is 5 years for the seller debt, as opposed to 10 years. Sorry, 7 years as opposed to 10 years. Again, just a number that I pulled out saying, Hey, what's the worst case that could happen?
+
+Um, interest rate again, I figured, Okay. 7 is fair. Uh, I don't know what I'll be getting in term sheets or what I will be coming in from the S from from the banks. So I just put 7 as a number. Um, and balloon payments. Sure. Why not? 
+
+**Athena:** So, um, so with your [00:32:00] repayment period, if you're going to do a balloon, then making the repayment period longer means that your, your loan payments are going to be less, but you're going to pay the total amount after 5 years.
+
+So, the, the 1 that you've done in that worst case scenario, where it's standby for 2 years, repayment of 5 years, balloon of 5 years, it just means that you're going to be making bigger payments in those 3 years. That you're making low payments before you do the full. 
+
+**Joe:** Right. 
+
+**Athena:** Yeah. 
+
+**Joe:** So 
+
+**Athena:** I, I typically like to see it like longer just so it helps you with the cashflow scenario.
+
+And then at year five is when you do the total amount. Also I typically use balloon as like a back pocket. Like if they're like, I don't want to wait 10 years to get paid, then you can offer the balloon. But it, you know. I wouldn't normally structure it in like on the first go. So that's, that's something for you to think about as like a tool that if they're like, [00:33:00] well, yeah, we'll take a seller note, but we don't want to wait 10 years to get paid.
+
+Then it's like, okay, well, then I can do a balloon for you at five years. And that's where you can use that tool as an additional negotiation tactic for you. Um, does that make sense? 
+
+**Gil:** Yeah, it makes perfect sense. Cool. Um, yeah. So that's, that's this page. Um,
+
+I figured that for best case, um, so right now they're, they're doing very, very, very little marketing and, uh, spending, uh, under 10 K on that. So if you could 15 K for best case, uh, or 20 K and worst case, 35 K. So, um, Assumptions here, everything's here is, is assumed. I left the forecast numbers as a, as is.
+
+**Athena:** Yep. 
+
+**Gil:** Didn't touch those. Great. I do not [00:34:00] have tax returns. So this remains empty. 
+
+**Athena:** Yeah, that's okay. You this, this is something it's a bonus later, but it doesn't doesn't affect really your 
+
+**Gil:** forecasts left this empty as well. Uh, for now. And, uh,
+
+so this, this is what no change looks like. Um, the DSCR is pretty low. 
+
+**Joe:** This is 
+
+**Gil:** their asking price, um, and the numbers just, uh, is there a total number here?
+
+There's a negative distribution, I'd say, in one of the years, so yeah, there's a total here, 553. [00:35:00] Um, so this is no change, this is the best case, the best case looks much nicer, obviously. Um, and the worst case, again, we're looking at very bad numbers. So that's what I played with, and that is as far as I got with this one and the other one as well.
+
+I didn't go into schedules or debt schedules or anything like that. 
+
+**Athena:** No, debt schedules, you're not going to change anything. That's literally, it's just calculating off of that. So you did a lot of great work here. Um, what I would. So if we're, if we're doing best, worst, no change, I like to see what it looks like if you're offering the same amount on all of those, because you're playing with so many variables on that, that it's hard to see like, okay, well.[00:36:00] 
+
+If they want, you know, let's say they want the 4. 5 if you went in just real quick into the, um, deal structure and just do me a favor and change the, um, method a on the 2nd and 3rd column to 4. 5. For the multiple
+
+**Gil:** for both of them. 
+
+**Joe:** Yeah. 
+
+**Gil:** Oops.
+
+**Athena:** Okay, great. So we're, we're working with about the same offer price now. Now let's go back to the best case and see what that looks like. So the debt service is actually pretty good there, provided that all of those other. Numbers work, right? So this is an opportunity for us to think about, well, is there, you know, so [00:37:00] if these things happened that we were able to get that kind of revenue growth rate and reduce the expenses or whatever we put in the best, best case, then we can start looking at, like, could we do performance based notes?
+
+To make this scenario happen, because we know like, you know, it's too tight in the other one where there's like, literally no change. But if that's their asking price, and they're motivated by that, and, you know, maybe there's a way for us to incentivize them or have something in there that we could, we could get it there.
+
+So, if those best case numbers were actually happening for. You know, the, um, growth and, um, expense reduction, then we're looking pretty good at that offer price. Um, go to the worst case for me real quick. Okay, this 1, you know, let's say the worst happens and. Revenue drops by, I think we had a revenue dropping at like 10 percent [00:38:00] and expenses increasing by 20%.
+
+Then in year two, you know, you're already like pretty much in a place you can't pay the bills. So somewhere in the middle there is, is where you can make it work. But even on that no change, go back to that for me really quick. So 1. 35, that's close enough to 1. 5 that I'm like, there's some wiggle room there, right?
+
+If, if we don't want to get it to 4. 5, you know, go back to the, um, uh, deal structure for me again real quick. Let's put the, um, first column, the no change column at 4 and switch that to method 8 real quick and see what that looks like.
+
+Great. 
+
+**Gil:** Okay. Should we delete that or does it doesn't matter? 
+
+**Athena:** No, it doesn't matter because [00:39:00] it'll, it'll, whatever letter that you're selecting, that's what sell it'll pull off of. So go back to no change. Okay. Look, we're, you know, in that first one, two years, we're pretty close to 1. 5, um, with them only putting in a 5 percent note.
+
+So this is where I'm like, we can get a little bit creative if we ask them to take more of a note. Um, if there's something in the numbers that allow us to do some sort of like performance space note, um, or pull it down a little bit more. So I always like playing around with these different scenarios, either around the same purchase price, or if we're changing the purchase price, we want to keep those forecast assumptions the same so you can kind of toggle around the same thing.
+
+So if you wanted to try those different purchase prices that you mentioned, then I would put the same forecast to click into the forecast assumptions real quick. So people can see what this looks like then in the, you know, then you might want to do it like no change [00:40:00] for all of them. Like, right. Just to give yourself an idea of like, what does it look like if I offered a 4.
+
+5, uh, three and a 3. 5 multiple and nothing changed in any of these businesses, then what, what does it look like? Can you just zero these 
+
+**Gil:** numbers out? 
+
+**Athena:** Exactly, so I either toggle around, you know, the different forecast numbers and the same purchase price or different purchase price and, um, uh, same forecast numbers, but you can that's what's fun about this is you can go in and like.
+
+You know, play around with it just as we've done there. And it's like, ah, maybe there is a way to make this work. If we mess around with different tools and, um, what we look for with performance based notes, go into the financials tab for me really quick. So, okay. We have in 2022. We actually have a potential for a performance based [00:41:00] note because the revenue was 1.
+
+5 million almost in 2022. Then it dropped in 23 and 24. So we can't do earnouts with SBA. But what we can do is performance based notes, which is saying, I want you to get this back to the performance level that you had in the past. So if they had a revenue number like that in the past, then we could potentially attach a note to them getting the business back to that number in the future.
+
+So if we say, okay. I'm going to offer you, um, 2 million, but that's on the, you know, that's on, that's going to be attached to a performance based note that you need to get the business, help me get the business back up to 1. 5 million. If we don't get it back up to 1. 5 million, um. Or you can even do it higher.
+
+So like 1. 5 and then on top of [00:42:00] that, um, then I will pay you this note. If we don't get there, then it's going to be forgiven. So it's not a massive swing. It's like a hundred thousand here. So you'd have to see exactly what the lender would be comfortable with of doing, but I've seen it before or where, cause there was a peg in the past where they had higher revenue rates, then you can attach it to that in the future.
+
+**Gil:** Can I do the same thing? Uh, not on the revenue, but on the profit. 
+
+**Athena:** Yeah, so they'll do it based on EBITDA, so if they had a higher EBITDA number in the past. 
+
+**Gil:** So EBITDA numbers are, are, are, are not, right? So it's, it's, it's, 2024 is at 300, 960, 300, 916.
+
+**Athena:** Yeah, so, um, but the revenue was higher in 2022. So that's all we're looking for is like, are there numbers in the past that were higher and better performing than what they've done now? In which case that's [00:43:00] not an earn out. That's you saying like, hey, I want you to get the business back to a way it performed in the past.
+
+That's allowable by SBA. So. Where some people see volatility in the past and they see a spike, and usually it's post COVID. We see a spike because it was a slowdown when everybody was like, you know, living through the apocalypse and then business and so it was like a temporary spike and then it dropped down back to normal levels.
+
+Well, that spike. Opens up an opportunity to potentially use that as a performance based note to incentivize the seller to get you back to a higher amount that they achieved in the past, which is allowable by SBA. But if they don't achieve that, then that portion of the note that's attached to it is forgiven.
+
+And so when you model this out, you want to do it as, you know, uh, forgiven if if it's not met. So that's why we have those 3 different notes in the, um. Deal structure, [00:44:00] so that 3rd, 1, that performance note, um, the performance percentage. So what percentage of the overall deal? So say, you know, for example, 10%, and then you have a 10 percent increase in performance.
+
+In revenue target, so just for the sake of it, put 10 percent in both of those.
+
+Yeah, and then payment 1, you could do 50 percent
+
+and then it's automatically going to calculate what payment 2 is and then repayment period. You can do it as 8 years and 7 percent interest rate because it'll be after 2 years. Just to make it easy. And then again, you have that balloon payment in your back pocket if you want to do it. So now let's [00:45:00] look at what the, um, scenarios look like the no change.
+
+If we go into no change. Okay, so we're looking pretty good there. Um, if they help you get that that revenue up.
+
+**Gil:** Yeah, if they, if they, if they can actually, um, keep the margins that they did in 24 and replicate them forward. Then that's 1 thing that, uh, that that's the key here. 
+
+**Athena:** Well, so here's here's where I get uncomfortable with you as the new owner setting a note based on margins is. Then you get into a conversation with the seller about what you're going to spend money on.
+
+I don't like that personally. I like attaching it to revenue performance because you are the new owner and you can control what the money is spent on. But say you decide that you want to reinvest into something that's on your prerogative. But if you agree that you're doing it based on the profit margins [00:46:00] with the seller, guess what?
+
+Mr. Seller isn't going to want to spend want you to spend any money because it's going to affect their note. 
+
+**Gil:** That makes sense. Okay. Gotcha. 
+
+**Athena:** So that's, that's just a person. I mean, like, I've seen people do it on, on all sorts of things and you can do it on, you know, um, net profit or gross profit, you know, but I personally think you have more control.
+
+If you do not get into an argument over what ingredients you're using in the recipe after you take over the kitchen, you know what I mean? 
+
+**Joe:** Yeah, 
+
+**Athena:** as opposed to like, okay, I've got the restaurant now and you're going to help me like, get diners in here. And it's like, well, then then you don't want someone in the kitchen kind of telling you how to make the recipes and stuff.
+
+That's going to be on your prerogative to make sure that the spend that you're spending is like, okay. Or you might be like, Hey, you know, like in, in Jason's situation, that guy's been doing paper orders and he's like, no, I want to [00:47:00] invest into a digital system and it might be a short term hit, but long term, I think it's going to be better.
+
+But if, if you agree some sort of performance metric based on profit or net, and then they're gonna, they're gonna want to have a say in what, what expenses that you are making in the business, so it doesn't affect their opportunity to get a performance based note. 
+
+**Gil:** Yeah, okay. That makes sense. 
+
+**Athena:** Yeah? 
+
+**Gil:** Yeah.
+
+**Athena:** Cool. Good work on this. Um, how'd that feel? Did it, did it feel like you were getting a good handle on modeling and? 
+
+**Gil:** It feels, uh, much better now that we've played around with it and you, and you talked me through a few things. Uh, it makes the, the blocks have been fitting in like a, like a, like a Tetris a bit better now.
+
+**Athena:** Cool. That's so good. That's, that's it. You know, like the more you mess around with these things and, you know, you're going to get a little. Oh, yeah. Do you want to unmute? Oh, no. [00:48:00] Uh, sorry. She sent that to me.
+
+Yeah, I was just saying what it's awesome to see you doing this because, um, you know, the financial modeling was something that you said you wanted to dive into and take on as a challenge. So you're clearly like. Taking it on and it's good. And the more you input these numbers and then, and then hopefully we've, I've protected the cells so that, you know, it's like, Oh, no, you're going to break something, but even if you break it, you can just make a new copy.
+
+Um, and do that there. And you even caught a thing that we should have caught ourselves. So that's awesome. Like, but. Allows you more tools to just scenario rather than it's like, oh, gosh, that feels expensive. It's like, well, is it and under what conditions would this work? You know, every this is going to be completely different.
+
+You know, they might have had like a amazing year or 5 years ago and you're like, sweet. That gives me this cool tool to be like, okay, Mr seller. I'm I'm only going to offer you, you know, [00:49:00] uh, 2. 5 X. On last year's performance, but I could get you up to a four if you do, you know, these things with me and provided that that it's allowable by SBA.
+
+So that's the thing we have to be careful on with the performance based notes. It's like, we just need to check that the, what we're suggesting will work based on what happened in the past. But typically, if we see a past high year performance, then to me, I love seeing that because it allows you to offer a much lower base, um, Um, With this performance based note, and then if the performance isn't met, it's just forgiven and you don't have to pay it.
+
+**Gil:** Yeah. Okay. That makes sense. Perfect. 
+
+**Athena:** Great. Nice work on this. Did you want to talk through the other one too? 
+
+**Gil:** Uh, sure I can. Let me just, uh, go there. 
+
+**Athena:** If it would be useful, I think it's, it's nice to kind of hear this talked about with people too, as they, as you know, just seeing other people using it and kind of wrapping your head around it is helpful.
+
+**Gil:** So same thing here with the training 12 months and then the C [00:50:00] Corp. Um, same issue with the financials, uh, with the formula. Yeah, um, but, uh. 
+
+**Athena:** It is projecting off trailing 12, so as long as at least for your modeling, it won't have thrown off that the, um, percentages will be a little bit off. We'll get that fixed today and we'll have the template updated and uncle will send a message to everybody when when that's ready.
+
+So then any new copies that you make, we'll make sure that that's all tightened up there. But at least for the forecasting assumptions, it's pulling off that that final column. So your 4th. Car. Casting assumptions still be okay. Yeah. 
+
+**Gil:** Um, so I've also I did here. I changed. He says a little bit partner related expenses permit partner.
+
+We can't retirement plan, which was a few that they had in there. Um, so that's what it looks like right now under financials. Uh, deal structure. [00:51:00] And this is just, they don't have a price. They're, they didn't, there's no price for this business. So I had to go with A. And I did either 4, 5. Um, again, these are just numbers that I pulled out.
+
+There's no rhyme or reason behind them. 
+
+**Joe:** Okay. 
+
+**Gil:** And I, so there's no rhyme or reason behind these. I figured no change will be 4%, best case 3, worst case 4. 5. Um, 
+
+**Joe:** okay. 
+
+**Gil:** Um, what else? Uh, this LS is 10%. Right. So we said we move this down to six, right? Or six, seven. 
+
+**Athena:** I mean, 10. So the bank, depending on the deal, they might ask you for a little bit more.
+
+So if you're putting in 10 yourself, that's pretty safe. Um, always. And if you put the more [00:52:00] you put in, the more it like makes everything favorable down the line. So it's not a problem to put that in. I do always like to see at least 5 percent from the seller, um, like a seller getting 100 percent of the cash at close.
+
+It's just like, you're going to have to end up as long as you have lawyers that are good and know what they're doing. Like, the seller is going to have to put money aside and escrow account. Like, you don't want the seller getting 100 percent of their. You know, deal at close because there's, there's nothing incentivizing them to make sure that they're staying with you or being honest.
+
+So most sellers should be okay with a 5 to 10 percent note, you know, um, but at 5 percent minimum, and then you use that 5 percent towards equity injection, then it just, you know, can lower your equity injection requirements. 
+
+**Gil:** So that's what I did here, and I left these as 2 and 8, uh, and 7 [00:53:00] percent again, uh, throughout all 3 scenarios.
+
+Um, and I think that is about it for this sheet. Uh, assumptions, I left them, uh, so I'm going to need Um, to hire two people, at least, so I'll need, uh, 200, 000 in salaries. Best case worse, uh, uh, or two 50 worst case 300. 
+
+**Athena:** Uh, huh. 
+
+**Gil:** Uh, and they do no marketing now. So I just figured 20, 000 for marketing versus 30, 000 for marketing.
+
+Worst case. Um, no, no. And so this is what no change looks like. 
+
+**Athena:** Yeah, that's at the 4. 5, I believe. 
+
+**Gil:** Uh, best case looks really nice. 
+
+**Athena:** Right, so again, because the forecast assumptions are [00:54:00] different than I would model around the same purchase price. Or if you're wanting to see what different, um, what different offers you could make, like, if you want to do, like, you know, 3, 3.
+
+5, 4, because they have no offer on the business. Then then I would make all those forecast assumptions, like, no change or, you know, a drop in a very, very conservative growth after 2 years. Um, so that you can make a comparison, right? Because you're you're it's. Do you, are you familiar with the scientific method, Gil?
+
+**Gil:** Uh, from high school. 
+
+**Athena:** Yeah. Well, just the basics, right? It's like, if you're, if you're studying one thing, then you got to keep other variables standard, you know? So like, if we, if we change. Like variables on both sides, and we can't actually say what the thing was that was causing the outcome. So that's why, [00:55:00] you know, if we're trying to figure out a purchase price, then I would get all those forecast assumptions.
+
+What I would typically do is, like, no change your 1, your 2, or even a drop your 1, your 2, maybe a 5 or 10 percent drop and then, like. No growth, no growth, and then 3 percent growth, you know, so just something very conservative as a starting point. And then once you like, get closer to an asking price, or if they're hell bent on a certain asking price, that's where we can start forecasting these different, uh, uh, ideas.
+
+So 1 or the other, but when you're toggling both, it's hard to make a comparison because you have swings on both sides. Does that make 
+
+**Gil:** sense? Yeah, it makes perfect sense. 
+
+**Athena:** So what I would say, you've done awesome here. I think you're really getting a handle on it. You're putting the assumptions in the right place in terms of the increases that you're going to have to make.
+
+So what you can do is have a think, [00:56:00] you know, for, for no No price on the business. That's where I would be modeling around. Well, what is a 3, a 3. 5 and a 4 look like if I were to have a drop or no change in the 1st, couple of years, very conservative growth after that. Where do I feel like the number needs to be in terms of what I initially offer and then once I get that, then.
+
+I'll stick that number and say, like, maybe land on a 3. 5 and it's like, okay, let's put 3. 5 across all three of those columns and then mess with the, um, forecasting to see, like, does that 3. 5 still stand? Like, what if I have a bad couple of years? Um, what if nothing changes for the next 10 years or, you know, if things go the way I think they do, what does that look like?
+
+So then you want to stress test that 3. 5 with different forecasting assumptions. 
+
+**Joe:** Yeah. Okay. 
+
+**Athena:** Perfect. This is great. Ryan can go through this with you because I know you're circling this deal. So, [00:57:00] like, you know, this is great. But when you, when you all fill this out, then it gives us, you know, things to talk about with you and work through with you and, you know, we can pull up the spreadsheets and get in there, but I didn't even need to do that with you.
+
+So, um, we'll get that 1 formula fixed. Uh, it shouldn't affect your, your forecasting that you've done so far. Um, and this is great. Nice work. 
+
+**Gil:** Thank you. 
+
+**Athena:** How are you feeling? Like a little more confident than we were when we started about forecasting, I hope. 
+
+**Gil:** Yes. Yes. Extremely more confidence. Yes. 
+
+**Athena:** It simplifies 
+
+**Gil:** things.
+
+**Athena:** Yeah. And it looks a little bit scary at first, but once you got in there, did it, did it feel like you kind of could work your way around it? 
+
+**Gil:** Yeah. It's again, it's, it's like a checklist, you know, uh, fill this in, fill this in, fill this in, answer this question. It's, it's pretty self explanatory to a certain degree.
+
+Um, and then just. What we just talked about now, playing with the numbers in the right place. So, yeah. 
+
+**Athena:** Fantastic. Well, well [00:58:00] done. Uh, thanks for being the first guinea pig for getting that up to, um, it's fun. So it was fun to talk through that with you. And I, I just realized like, gosh, we're at time already.
+
+So time fly. Um, so great work on that. Keep working on it with Ryan. This, this deal, I think you're looking at sounds exciting too. So, uh, hopefully this, this helps you be even more confident going into those discussions. Um, For everyone else watching, we'll get that fixed ASAP. Anca, I'm looking at you to get on Mitch to get that one fixed for me, and then we'll get it relaunched on the platform and we'll let you all know when that's ready.
+
+As you all are going through this, if you spot any of those things, please feel free to let us know. Just tag Anca in your channel if you want to, if you catch those things, and we can get them updated very quickly there. So, yeah, great. Thanks Gil. And the Thursday, we're going to have Valerie from Pioneer Capital joining us.
+
+They are going to be talking [00:59:00] through kind of Pioneer Capital is a broker. It's Mathias Smith, who is very well known and has done hundreds of these kinds of transactions as a SBA broker. So they help buyers to kind of shop around and figure out the term sheets and then go through the process. So they're going to be talking about kind of common pitfalls that they see folks do when they go through the SBA process.
+
+Um, and talk through their process and how they help people why you might want a broker versus going directly. So that should be really great discussion. They're so competent and have a ton of SBA experience. You know, Valerie was an SBA lender for a very long time. Same with Mathias before they started this brokerage.
+
+So that should be a really good opportunity to have a lot of conversations and talk with them because they work with a bunch of different lenders too. So it's a little bit different than speaking directly to a lender. So that will be. On Thursday in buyer's club. So that's coming up excited. Sounds like there's a lot [01:00:00] of juicy deals that everybody's sinking their teeth into.
+
+So we're really excited about that. Uh, next week we're going to have a little market update by our very own Luke as well. I've gotten a preview of it. It's awesome. So, uh, we're going to keep bringing things to you that help you. Stay abreast with what's happening, um, with all the changing policies and landscapes and all of that stuff also.
+
+And as always, Tuesdays, we'll talk through. Oh, gosh, no, you're so right on. Thank you. You can just unmute and correct me. We're not doing fires club next week. We're taking a little break. So the following week, we'll have a market update for y'all and. We have some other guest speakers that we are bringing into.
+
+So yes, thank you for reminding me. No buyers club next week. We're taking a week off a little breather and then we'll come back strong after that. So, but we'll be here on Thursday with Valerie from pioneer capital SBA lending more discussions about that, [01:01:00] which we can never get enough of. So, thank you all.
+
+Have a great day and we will see you on Thursday. 
+
