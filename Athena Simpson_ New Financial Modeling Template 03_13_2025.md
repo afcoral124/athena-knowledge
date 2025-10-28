@@ -1,0 +1,318 @@
+# AcquiMatch Buyers Club 03/13/2025
+
+[00:00:00] 
+
+
+
+**Athena:** Hey Gil. 
+
+Hello,
+
+I think people are rolling and I'm so excited. Hey, Steve. 
+
+**Steve:** Hey, I'm going to go on mute and go off camera because I've. People inside are here, but I want to watch this because I'm so excited about it. 
+
+**Athena:** Yeah, me too. Oh Amazing cool Well, it's been a long time coming. This is a vision I've had for How long have I been talking about this?
+
+I'll go like, since we started. 
+
+**Steve:** Yeah. 
+
+**Athena:** Um, so, you know, the, the modeling template that we have y'all use, it's, it's just been a kind of like Frankenstein thing that we just kept adding things. So, um, found an absolutely amazing financial modeler that helped me build. Um, what I'm I've never seen anything as cool as this in this space to make it as easy as possible for you all to [00:01:00] use all the advanced.
+
+Techniques that we talk about to layer in all of the things that, you know, you might want, like balloon payments, or if you want to do rollover equity with the seller, or if you want to include real estate, and do you want the real estate in your 7 a, or do you want it in a 5 or 4 separately? And what about 3 different types of seller notes?
+
+So, um. I'm really excited, so I'm going to show you, I'm going to give you a whistle stop tour and then maybe pick out 1 or 2 of you to, you know, just kind of start plugging in some numbers and see how it goes. Um, I will say and request like, obviously, this is the most ambitious modeling spreadsheet that I've seen to date.
+
+So, uh, be patient. And what I've tried to do is, uh, lock all the things. So you can't like break the spreadsheet, but we've tried to stress test it as much as possible. But after we release this to you, would love for you all to try to break this thing and give us feedback. So we can fix it, or if [00:02:00] you're like, this doesn't feel right, or I would love it if it had this thing.
+
+Now that it's ours, and we have someone that can make these kinds of edits, we want to make sure that this is something that works for you. It is, it's going to feel like a lot initially too, but once you actually get in there and start updating numbers, it kind of makes sense. And what we've tried to do is make it straightforward in terms of where.
+
+You can update it and stuff. So, um, so yeah, give us feedback. Tell us if you're seeing something that doesn't work in it or, um, you know, if you want additional features, like that's what's so cool about it is we can update it. But, um, I won't hold you in suspense any longer. Let's pull up the template and I will show you what we got working on under the hood here.
+
+Um, so let me make sure I have the right tab open too so I don't like get in there. Okay, share. 
+
+We're gonna do that and we're [00:03:00] gonna do that. Let's see if this works. 
+
+Okie dokie. Can you see? My screen, it should look like a big white sheet. Great. So, at the bottom here, you're going to see a bunch of tabs. And the input tabs are labeled with different colors.
+
+So, the ones that you see here in bright green, Are the ones that you want to pay attention to if you want to get some fairly accurate forecasting for your deal, then these light blue ones, these are kind of nice to have an additional things that you can do to dive a little bit deeper into your financials.
+
+So there's a tax return tab that you can start adding in numbers that you're seeing from the tax returns. And especially when we get into, um, this area here, which is the 1st tab that you're going to want to update, you're able to select. If it was cash or [00:04:00] accounting, so then you can start comparing the tax returns to the financial statements, which is awesome.
+
+I think. Sorry. I'm going to keep saying how awesome this is because I built it and it put all the features in here that I wish I had when I was. Searcher as I learned to these things. Um, so the important things to pay attention here is the cell with the yellow background and the blue text. Anything that you see with yellow is something you're going to want to fill out to be able to get some fairly accurate forecasting.
+
+These dark green cells, these are drop down options for you to choose from. So you want to make sure that you're just paying attention to those and you've selected the right thing there. Um, and then a cell that has a light blue background and blue text, it's an optional one. So, like, these are where additional things that you can put in to make this firepower even more.
+
+Um, so the 1st thing you're going to want to do is, you know, put the company name in there, uh, and then you're going to want to. Add in [00:05:00] the date of the most recent end of your financials that you have. So, you know, for most companies, they'll at least have up to 20, like, December 20, December 31st, 2023, um, some companies are still waiting to close out their financials.
+
+So, maybe it's December 31st, 2024. And then you also have an option to put in the trailing 12 months. So, um, then you want to put when, um, when you want The final dates of the trailing 12 months that you have available, so you might be getting some trailing 12 months for, you know, up to February 28th at this point, and this is then going to feed into the rest of the documents in terms of the years that populate then.
+
+I mean, this, this in itself is so cool. Now, y'all aren't going to have to delete cells and stuff. You're going to be able to choose whether it's an asset sale or a stock sale, and then it's going to automatically add or deduct those tax [00:06:00] differences so that you're able to make different, um, um. You know, offers based on that and making sure you're seeing what the free cash flow is to you.
+
+Um, you can select what kind of corporation that it is, S corp or C corp. Um, and, uh, the tax rate that you want to use, and you can edit this here. So most of the time it's, you know, kind of attacked as S corp. And you're probably going to be setting it up as an S corp, unless there's some sort of structure that makes you have to do it as a C corp.
+
+Um, And then the C corp will add in the additional taxation that comes at the corporate and the individual level as a result of that. Isn't that cool? Like, so nerding out about this, but we couldn't do this before and we had to like, just make assumptions about taxes and stuff. So I'm absolutely delighted.
+
+Okay, so that's tab 1 pretty straightforward. It's going to get a little bit more intense every tab that we go through. Uh, then the next tab is your [00:07:00] financials tab. So. If you filled in those year to date and the TTM, and that's where it's going to populate up here, and then you're going to want to pull out the P& Ls and you're going to want it, or the SIM, depending on what financial statements that you have, and you're just going to enter your basic numbers that were given to you.
+
+So your revenue numbers, cost of goods sold. Really important to pay attention to, you know, these things that are expenses. You want to make sure you input it as a negative number. Otherwise that can completely throw off your whole calculation. So if it's, you know, cost of goods or expenses, make sure you're putting that in as a negative.
+
+And we've given you a little, little, you know, signpost here to remind you of that. Um, then you can add in the normal things like other income. Interest depreciation, amortization taxes, which will give you your EBITDA number, um, and then your adjustments, which are the things that [00:08:00] typically come, you know, your ad box from the, uh, broker or the seller, and you can update all, like, we've left this, you can update all of this if you want to, um, it'll give you a little warning on some of these cells, but, uh, on anything that you might break a formula, uh, You're going to get a warning from the sheet.
+
+You can still edit it. The permissions are set that you can edit it if you want to, but we're trying to pursue Steve's recommendation on our previous, uh, uh, template where I think Steve was was not sure where he could edit more. He couldn't. So we're trying to help you guys not not break the sheet. Um, but you can add all your ad backs here, and then that will get you to your SDE, your adjusted EBITDA, um, here.
+
+Um, and then if you want to make any pro forma adjustments, so a new salary to yourself. This is going to be really important when you bring investors into your deal, because you're probably going to have to set a salary and not be able to take profit distributions, um, or the bank [00:09:00] might want to see it.
+
+Um, and then it's going to summarize anything that you might want to pay attention to in terms of, like, big swings, um, on any of these numbers and these percentages also match the ones that are under each of these different categories as well. So, um, thought it was good to just kind of check it out and look at it.
+
+Also, um, cool. Straightforward on the financials top. Are we following or any questions on this 1? I'm seeing some head nods. Okay. Um, so then we get into deal structure and this is where we're, we're advancing, uh, as we go through it. So the top is going to be a summary of all the things that you're putting down below.
+
+Now, check this out. You get three. Different scenarios that you get to work off of. So rather than just doing 1 and having to make a copy of that sheet over and over again, you're going to be able to put it in 3 different scenarios. So we suggest you do no change best case, worst case, and then it shows [00:10:00] you all of the numbers here.
+
+Um, so this is going to be a summary of what you're entering in down here. Now we have. I'm so excited about this, but we have it. So you can either choose method A or method B if you want to just set a multiple, then you can do that and it will set the purchase price and or you can determine what the purchase price is and it will tell you the multiple.
+
+So you can just toggle between A or B. And then the forecast for each of these scenarios is going to pull from the one that you chose. So hopefully that made sense, but in terms of the multiple, you can use a multiple to determine the purchase price, or you can set the purchase price and it will tell you what multiple it is based on that.
+
+So we couldn't do that with the previous spreadsheet before. So now you get a choice, which is awesome. Um, then if you want, and remember blue. Uh, blue cells here are like, nice to [00:11:00] have. So you don't have to fill this out. It's not going to affect your overall forecasting here. So you can put in the amount that you have available for the transaction and also what your monthly expenses are, um, to give yourself an indication of where you're at, uh, with your personal situation, what you need.
+
+And what the business is going to require, then this is really important to figure out annual maintenance CapEx. Uh, so if you're not sure, just leave it blank. Um, and this is capital expenditures that you're going to have to make into the business based on what they were doing before. Then this is really cool.
+
+So you can find out what the, you know, make a determination of what you think the working capital requirement of the business is sometimes. Mr. Seller is not going to give you all of that in the purchase price. So what you can do is add in what you've negotiated as a working capital. Then it's going to pull through onto the projections.
+
+What the delta is between what you need. And what you've [00:12:00] negotiated, which will then help you determine what your cash flow looks like as a result of that. So this is where you can also use these different scenarios to see and compare that your, you know, take home is the same, right? Like, if they're like, no, no working capital included.
+
+Versus if they were to include the working capital, then you can adjust the purchase price to match the cash flow to you afterwards, which I'll show you where that comes up. Then we also have this option for you to select a percentage that you would like to reinvest into the business every year. So it's going to automatically pull.
+
+Say, you know, 10 percent or whatever percentage that you put in here, because everybody's like, I want to make a, you know, 200 SDE after debt service and reinvestment. Well, how are we actually defining reinvestment? Right? So you get to set that here and see what that looks like. Um, then in terms of your equity injection, again, we have A or B option.
+
+So you can decide [00:13:00] if you want to select a percentage or if you want to put an amount in and then it will tell you what the percentage is. Okay. Something really important to point out here is your equity injection for SBA. Typically, they're going to want to see 10 percent total equity injection. Of the total project cost now, when we get further down in terms of having a seller take a note, this 5 percent is a determinant of the purchase price because it's a little weird to ask the seller to take 5 percent of your total project costs, which include your lawyers, your fees to us, et cetera, et cetera.
+
+So, it's just something to note is, you know, if you want to get to that full 10%, you're. Technically going to have to, like, bump this amount up a little bit so that you're covering the project cost amount in there. Um, something I should have said at the beginning, uh, when Anca posts this, she's going to, uh, post a link that says make a copy.
+
+So I [00:14:00] encourage you every time you have a new deal. Go and make a new copy off the link that we give you, because we're going to be updating this and adding new features. So please don't use the 1st 1 and then just keep making copies of a bit for your future ones, because you might not have the most recent version of it.
+
+Um, so something that I want to try to get us to calculate is what's the total equity injection look like. And you'll be able to see it up here too. Um, so then, um, if you have investors, this is where you can add that amount into it. Um, so you can put the amount of investor capital, what step up that you want to give them, what PREF, and what PREF.
+
+You correct. You want to start repaying the principal. I'm not going to spend too much time on this because most of you will not be using investors, but we've put this in there in case you need it. Also, very cool. We now have seller rollover equity. So, if you want to do a partial buyout [00:15:00] and leave the seller with some equity in the business, then you're able to do that.
+
+Here and add the percentage. Um, sometimes though you can do it in the deal where they'll hold it for a certain number of deals and you can preset the multiple that you'll, uh, buy it out at, um, after that amount of years. So this is actually calculated in that sheet. You may never buy them out and they just hold it forever.
+
+And then in which case you just zero all this out. Um, okay, cool. So sometimes deals have real estate included and you can add the amount. Of, like, what the value of that real estate is here. And when you enter the amount, uh, of the real estate, it's going to tell you whether it's eligible to include that real estate in the 7A loan.
+
+Because if the real estate is more than 51 percent, Of the total project costs, then you can include the real estate in that [00:16:00] 7a loan like Nash did and spread all of your payments out over 25 years. But if the real estate is, say, 30%, then you can just set up this separate 504 loan for the real estate. And we have it so you can set up a different interest rate and term here, which we weren't able to do before.
+
+So it's so cool. Just laughing at like how much I love this. I'm such a nerd. Um, oh, my Yeah, it's so cool. So you can get this line of credit amount in there and it didn't do it before. So the spreadsheet is going to pull down from your line of credit and start adding interest in it when you get into a scary area with your debt service or if you go into the negatives there.
+
+So the line of credit you should be going for as much as you possibly can from the bank in every single. Deal, because with the line [00:17:00] of credit, you know, so you get a half a million dollar line of credit. You're not going to be paying any interest on it until you pull it down. So, until you need it, but then it's a pot of money sitting there that if things get a little bit hairier, Harry, you have it available.
+
+So, you'll remember Renan's story. He did a deal where there was no line of credit. He didn't have any working capital available. And when he needed it, it was too late because the business started doing numbers that were making banks and people uncomfortable to be able to give them that money. So, you know, negotiate a line of credit in your deal.
+
+You can add the amount here and the interest rate here. And then when you do the forecasting, like if you have that, you know, J curve in one and two, and you have that line of credit, it'll pull it down and start calculating the interest. Part of the overall, uh, figures. They're 
+
+cool. So cool. 
+
+I'm so excited.
+
+Okay. So, uh, as you know, those of you that have worked with us before, we have 3 different seller notes that we like to see in deals. So we've actually set [00:18:00] up 3 different types of seller notes here. So, first and foremost, we always love to see the seller take at least 5 percent as part of the equity injection.
+
+Now, in order for it to be equity injection, it needs to be on standby for at least 2 years, uh, and then usually we set the repayment rate for another 8 years. So it's the total of 10 years. You can set the interest rate. You can say whether you want to give him a balloon payment and at what year you want to give him a balloon payment.
+
+And you can do that on all 3 of these loans. So you can say, okay, Mr. Seller, uh, I'm going to do a performance based note, uh, based on you hitting a 20 percent revenue growth target in year 1 and year 2. Um, I'll pay you 50 percent in year 1 and year 2. Over this, uh, repayment period, and I'm going to give you a balloon at your 5 so you can completely get out of it.
+
+But we weren't able to do balloon payments before. So now [00:19:00] we can't. So you can see if your numbers can actually hold a balloon payment or not. Or if you need to maybe potentially consider a refinancing with SBA, if you decided to put a balloon payment in there. So seller note number two is just straight up seller note.
+
+You can set the standby period, repayment period, interest rate, balloon, and then a performance based note. You can set it on a performance revenue target. We know we're going to need to work this one up a little bit more for the use cases, but as a starting point, it should do the basic things that you need it to do to calculate it as a performance based note.
+
+Um, separate to the other kinds of notes. So definitely give us feedback as you start messing around with these. But this performance based note allows you to be very advantageous with your offers, uh, with littler risk because if those performance metrics aren't met, then, um, the note is forgiven. So I like seeing it based on a revenue target.
+
+[00:20:00] Um, the reason why I like it. See it based on a revenue target rather than something like EBITDA is then you get into a conversation with the seller about what kind of expenses you can have. And I don't really as a new owner want to have to argue with somebody about reinvesting money into the business because it might affect their performance now.
+
+Right? So when you do it as a revenue target, Okay. Then it's like, either you hit the revenue target or not, and you, as the owner, can decide how that revenue is spent. Does that make sense?
+
+Cool. Seeing some head nodding. Amazing. Um, in addition to that, you can put a percentage of what you think your deal costs, your deal expenses are going to be. This is, you know, lawyers, QB, et cetera. Um, and then it also allows you to add in what you've already paid to us, uh, and then what's. Remaining there also.
+
+So, um, these blue cells, like I said, are not necessary for, like, if you're just doing SBA and a 5 [00:21:00] percent seller note, or even no seller note, then you don't necessarily need to fill in the blue ones. So the blue ones are all bonuses, right? Um, you can also, you know, if you're like, I think I'm going to have an exit and 10 years at this multiple that that will factor into this.
+
+There's a lot there. So any questions before I move on in the next tab or y'all kind of track in a little bit and following how this is working so far.
+
+Awesome. Cool. Um, and then filling out all of those things and those previous few tabs is where you're going to see what the amounts are, you know, senior debt, equity injection from the seller, your equity injection, et cetera. All of the uses, which are the deal costs, et cetera, the working capital, that delta that you needed.
+
+Um, and then how much of the different, uh, stock that you own. So, if you bring investors into it, you can actually see what your total stock [00:22:00] is. Um, versus the investors, which we couldn't do that in the previous one. It didn't show you what your preferred stock was, which is the amount of cash that you put into the deal.
+
+Slightly frustrating. Um, so no longer an issue. Uh, then this is what's super cool about this too. I mean, it's all super cool in my. Humble opinion in the previous 1, you can only set, like, a revenue growth rate for all of the 10 years and you couldn't adjust your operating expenses. So, what we've done here is that on the, you know, no change best case, worst case, we've called it that you can, you know, just call it scenario 1, 2 and 3.
+
+You don't have to follow these exact percentages, but you can update all of the percentages here. So no change is like, literally no change, but you can put whatever you want in there. Worst case, you know, I've put in dropping 10 percent first two years, 0 percent growth the three years after that. So you can mess around and you can [00:23:00] start, you know, you can show yourself like, okay, what's the worst case scenario and how long before I bankrupt myself versus.
+
+You know, what's the best case scenario that I can potentially hope for then you're able to also do an increase on the operating expenses. If you wanted to, or even a decrease, if you think you're going to be able to, like, make a lot of savings, you'll just put it as a negative. You can leave it there. But let's say, you know, that there's going to be a big expense on a certain area in one of the years, you know, in the future, you can actually add that number to this operating expense increase down below and see their blue.
+
+So you don't need to fill these out, but let's say, you know, that at year 5, your rent's going to increase by, you know, 50, 000 or whatever, or 500, 000 that that would be a place. I would be questioning why you're renting it. But. Then it will add it to the operating expenses for that year, and it will [00:24:00] then add that percentage on top, uh, for all the years going forward.
+
+So you don't need to add it every year unless you anticipate a 50, 000 growth every single year. Does that make sense? So you added in once it's going to put it in all of the future years and add this percentage on top of it. Um, cool. Okay, so these are the bright green tabs. Once you filled all of these out, then you come down to forecast, and the sum is gonna just give you some top line.
+
+How much do you, uh, need to put in? What of your liquid assets are gonna be remaining? Um, what year are you gonna start receiving distributions? What year does the debt service go below 1.5? Um. You know, what's the implied annual growth rate? And then you also get to see your IRR and your MOIC, which is pretty cool and significant on a lot of these.
+
+Um, then this [00:25:00] is, this is the big tab here. These no change, best case, worst case, all of those numbers that you put in. are now going to pay off in showing you your projections. So it's pulling in your revenue, your operating income, all of the, you know, interest expenses that you're going to have, depreciation, your deal expenses, amortization of goodwill.
+
+Now these are going to go away if you do a stock sale, right? So this is automatically going to be calculated. It's also going to pull your tax distributions that you will make to yourself and the capital expenditures, and then it will start pulling down the note payments that you need to make and the interest there.
+
+Your cash reinvested will come out also, so it's going to put your target in here, and then it's going to show you what your debt service coverage ratio is, and it's going to highlight where you're below 1. 5. Um, and you'll start to see. So when you go below one, that's when you're no longer able to make payments.
+
+Um, and your line of credit is going to [00:26:00] automatically pull down in here. And if you don't want to look at, you're like, oh, my gosh, that's like way too much. You can just hit this little. So it's going to give you this warning every time you try to change something. But if you want to reduce all of it, that's what those little, uh, thingies are there.
+
+So you can make this nice and clean and simple for you to just see those numbers by hiding all of those cells.
+
+And it just looks like a straight up kind of simple P and O, which is pretty cool. And then down below, you'll be able to see what your cash flow is every year. And it also calculates monthly. This is going to pull in the salary that you're making to yourself, uh, and it pulls out the interest on the line of credit there.
+
+If you have investors, it'll show what their cash flow is. Uh, and then it also, you know, here's another one to be able to show the seller what they're actually going to be making from it. And you can see. So I'm going to go ahead [00:27:00] and That actually, if you take a seller note, it's going to be that much more to you, uh, in interest payments and principal payments there.
+
+Um, and then if you do have investors, this is all going to calculate down here too, but so all of those numbers that you put on a no change, best case, worst case, um, are going to show up here. So you can see your worst case scenario. Like, well, we're you're too. We're in a lot of trouble there. Um, best case, you know, where are we looking?
+
+Okay, we might have some ropey years, but actually staying about 1. 4 is pretty good. And then we're in the clear, and then you get to see what your cash flow looks like. So when you're comparing these, right, in the different models, when the seller's like, I want to, you know, I want you to pay me this much, or I'm not going to pay working capital, you can actually look at what the amount to you.
+
+Uh, how, how that's going to change, you know, so then if you're adjusting the purchase price, you want to make sure that, you know, if they're asking for a different rate and giving, you know, concessions, it's [00:28:00] like, well, or they're asking for no working capital, and you originally included working capital, then you'll adjust the purchase price accordingly.
+
+Everything after schedules, you don't need to pay attention to. It's literally just how everything is calculating. So there's nothing for you to edit on any of these. Um, and then the other 2 nice to have tabs are for you to be able to, when you get access to the tax returns, you can start adding in those to the tax returns and then seeing if those numbers match the numbers that are in the P& Ls.
+
+Which is a way for you to make sure that what they're putting in the tax returns is the same thing that they're putting in the P and L's and it just gives you another place to keep track of your financials. Uh, and then another thing for you to adjust should you want to is your deal costs. So, you know, we put in a 5, you can put in the 5 percent and that usually covers [00:29:00] everything.
+
+Here's some high and low estimates, but as you start paying for things, you can add the actuals here, or if you know what the actuals are going to be, then you can add it there and see what the percentage is. Okay, that was all I was going to show you on this. So questions, thoughts, how are we feeling about this?
+
+Yes, Andrew, 
+
+**Andrew:** I, um, 1st off, I agree. It is super awesome. So you're not talking into the void. It is awesome. It's very cool. I was curious. I think you might have towards the end kind of showing that with the, the, no, no growth or the base, whatever it wasn't like, you know, best case, worst case. No. Change or whatever.
+
+Um, is there a way? And I think that's probably the tab that you'd use currently. But, you know, obviously, you never want to [00:30:00] necessarily, like, show the kingdom to, um, a seller or a lender. But is there a way to extract like, if we're going to, if I want to show somebody my no change. Without showing them the best case.
+
+You know what I mean? If I kind of want to keep my curtain, my veil is the best way just to kind of maybe share a values copy of that. No change or do you get it? I'm not asking this very well. It's been a big day. Yeah. 
+
+**Athena:** How do you how do you prove your work to them without showing them what your profit is going to be?
+
+**Andrew:** Yeah, yeah, that's, yeah, that's better. I mean, if the answer is like that you can't currently, that's totally fine. I'm just like, it's obviously awesome and all this detail is way more helpful than it is not helpful. So I'm grateful. I'm just curious. 
+
+**Athena:** It's a really great point and something I was thinking about as far as features.
+
+I'd love for you all to like give this a go and see if you [00:31:00] break it. And then what we can do in the next iteration is add a tab that's seller friendly. 
+
+**Andrew:** Yeah, there you go. And 
+
+**Athena:** then that can include some top line numbers as well as the cash flow to the seller. And then that way you can download that tab specifically, um, because we don't want them to see is this, you know, it's like, we just want them to see revenue, cost of goods, operating income, debt service coverage ratio, you know, it's like, we're going to have all these tax payments and blah, blah, blah, blah.
+
+Like, they don't need to see, uh, what your take home is. Um, which in this scenario, it's not really great. So, like, when we're not use that example, the guy was like, I couldn't possibly, you know, sell you the business and you only make 10, 000 a year kind of thing. Um, but I hear you and I think it's a really great point and and something I was thinking about, like, an additional tab.
+
+So then it's not like, oh, what do I screenshot? And what do I don't, um, in terms of showing them. Yeah, if there's no change, or if there's a [00:32:00] drop, you know, based on these payments, I'm looking at bankruptcy. Right? 
+
+**Andrew:** Yeah, even that, like, that's the 1 I think about it. It's like, I mean, I'd be comfortable sharing.
+
+It's like, hey, here's my desk service coverage. I have to be a 1 above 1, 1 and a half. There's no world that exists where I can't be, you know, and that's an easy conversation to have, but I don't necessarily want to show them everything else. But 
+
+**Athena:** exactly. No, you're right. Um, that's a pretty easy thing for us to.
+
+Drop in, we need to pick which scenario, you know, um, making like a million different tabs. So let me talk with him and see if maybe he, we could have on this, um, on this general tab. Maybe there's a way for us to say, like, which scenario to put on the seller friendly tab or something like that. I don't know.
+
+I didn't make this. I'm assuming I'm like, yeah, you should just be able to put a button in there and like, we'll pull the thing through. But I, I agree with you and I want [00:33:00] that because it makes it so much easier for you all to work through these things with them. 
+
+**Andrew:** Well, it's already so much more than. What happened previously.
+
+So, Hey, beggars can't be choosers here. I think it's awesome. Yeah. Well, we've 
+
+**Athena:** got all your real estate in there now. So you're not having to like come up with your own amortization schedules. 
+
+**Andrew:** I love the three options. Like I'm being able to run three different scenarios at a time that way you don't have to just like keep and refreshing the page.
+
+And that's so helpful. 
+
+**Athena:** Yeah. And I put starting. Percentages in here, you know, so like you could, you guys could just do this and like, not even change anything. It's like worst case scenario revenue dropping 10% expenses, increasing 20%, you know, and then 10% and like 0%, you know, so like you can. Get a good sense just by working with those and then, you know, go in and sense check things.
+
+I think, like, you know, general rule of thumb is like a 3 percent revenue growth rate is fairly conservative. Even if you wanted to make that your best case, like. [00:34:00] Super conservative. If I was only like, if it didn't grow at all the first two years and 3 percent after that, you know, that's not really unrealistic as long as all the other things in the business check out.
+
+**Andrew:** Cool. Looks great. 
+
+**Athena:** Good stuff. Any other questions, features, confusions, or feeling like you guys want to just get in there and start tearing this thing apart.
+
+Silence. Oh, um, so Um, does someone want to be a guinea pig and pull up some, uh, financials on a deal that they're working with and we can start entering it and have some fun and see if we can get a model together. I might pick on someone if no 1 volunteers.
+
+Um, let's see, Justin, are you still [00:35:00] here? I know you've got a new one that you're looking at. Have you done any financial modeling on it yet? 
+
+**Justin:** Not. Yeah, I'm not even there yet. Yeah. How would you feel? 
+
+**Athena:** How would you feel about us testing this out with your numbers? So you can get a feel for it. 
+
+**Justin:** Uh, I've got a graph.
+
+I don't even know where some of them are. To be honest, it's so new, like I might be. It might be too early days. Like, I've done no modeling yet. Like, I don't even know where the financials are. Um, maybe by next time, I think I'd be good because I'll have had a meeting. I'll have evaluated the financials a little bit more closely and all of that.
+
+**Athena:** Actually, that's a really okay. So rather than putting you all on the spot, maybe I just suggest that for Tuesday call. We'll share the link to the template with everybody. And if you want to have a go at starting to enter things, and then we can bring it on on Tuesday and work through it all together.
+
+And I can show you guys how to use those different finance and structuring tools to, to think about your deals differently. Right? Like, if somebody is asking for [00:36:00] more than a 4X multiple, how can we, how can we use this tool to like, forecast it out and see, actually, can we make it work and offer them a little bit more under what circumstances?
+
+Or just wrapping our head around, how do we use this with the deals that we have in hand? So, how do you feel about that as a homework assignment, Justin? You can start entering in the financials and we can work it on Tuesday. Yeah, I'm 
+
+**Justin:** good with that because I don't want to be fumbling around, everybody staring like wondering why I can't find the right P& L or whatever.
+
+So, I'm good, I'm good with that. 
+
+**Athena:** Don't worry anyone else want to do that? Like, maybe maybe have a go with these and then we could come on on Tuesday and work through it. I know a couple of you have some things that you're looking at, even if it's a deal, you're not actively working and then you just get the experience of being able to enter it.
+
+And then I can, you know, talk you through some of the advanced stuff. Ryan knows the tools too, but this this template is as new to him as all of you now, because I've been working on it behind the scenes. So I'm sure there's things that might come up that like, like, Andrew just pointed out really [00:37:00] great features or things that we can add to it.
+
+So, the more that that I can work on this with you guys, the better we can make this thing too, for the long term.
+
+Cool. Sounds like Justin's up for that. Anyone else? Oh, I'm definitely 
+
+**Justin:** up for it. I think it's a great exercise. I'd love to have input on the analysis. So heck. Yeah. 
+
+**Athena:** Awesome. Cool. All right. We'll put you down. Um, Andrew or Gil, I know you're here. Maybe, uh, any, anything you'd like to have a go with on these, these financial forecasts.
+
+**Justin:** Not really working on anything right now, so maybe not. Well, 
+
+**Athena:** didn't, didn't you have something that you thought was a little above what you were comfortable with? Did, did we model that out and stress test it? Maybe we can use that one as an example to see how we can get creative with some of these tools.
+
+Yeah, it was like a 4. 5, right? Yeah, that would be a good one. I think to see, like, could you make it work? And like, you know, like, [00:38:00] under what circumstances just to get your brain thinking of, like, the different tools that might be available to you? Cool. Awesome. Love it. Um, cool. Any other questions on this stuff?
+
+Feeling is that is it I worry it felt like it was like super overwhelming with all this stuff, but I'm hoping with the tabs, you can just kind of like focus on one tab at a time and work through it and should be fairly straightforward. Or, yeah, 
+
+**Andrew:** I like the way that I like the flow of it. Sometimes when I make the copy of the old 1, you will, like, you'll start filling out the financials, but it's a copy from an old deal.
+
+And you got to go rework the entire front page to the way this is. You basically just start from scratch every time, which. Probably is maybe a little bit more time intensive, but less brain intensive because you're just going to have to start from scratch every time. I'll be curious to the only thing I'm looking at it.
+
+I want to see in there from for me personally is just like, if I'm missing some data, what, you know, what am I, [00:39:00] it might do I have to have more inputs that I might not have access to to get the model to push out what I need it to. And so what kind of assumptions to put in there? If I don't have that.
+
+Input, but that's, I mean, there's no way of knowing that until you start getting there and playing with it. So I'm curious. 
+
+**Athena:** It looks, it looks like you need a lot more than you actually do. So, as long as you have, like, the, the top line revenue, cogs, expenses, add backs. A kind of general understanding of what you think the working capital might be, but you can put an estimate in there too.
+
+And then maintenance, which I know the deal you're working on won't have any of that. Right? Like, you're not investing in equipment. So, then if you put those numbers in. Um, on that financials tab, then you're pretty much in a good place. And then the rest is you just you just kind of. Playing around with it and seeing what things that you want to use.
+
+Do you want to try to use a bunch of different seller notes? But you can just do it straight up with SBA with you putting some equity into. [00:40:00] 
+
+**Andrew:** Yeah, no, that's great. 
+
+**Athena:** I would love for you all to play around with this. And then on Tuesday, you know, Andrew, on your deal, I think you should start, you know, see how little information you can have and start filling it out.
+
+And what questions come up as you go through that, and then on Tuesday, or if you're not able to join the call, like, feed that back to us so that we can make adjustments and try to make it clearer phase 2 of this is going to be, like, making it super dead simple for all of the like. Answering the questions in terms of inputting it into the spreadsheet.
+
+So, um, this one's, you know, kind of the advanced version, but I think all of you can totally figure it out. So, and it will yell at you if you try to break a formula. So, um. And if it does, if 1 of the yellow ones, or 1 of the blue ones does break a formula, like, like I said, we stress test this as much as we thought we could, but, you know, something might come up.
+
+So, please [00:41:00] screenshot it or send us the link so we can dive in and make this great. And then every time that you all. Do this just start with a fresh 1 on a new deal is what I'd say so that we can make you're using the most up to date template for any of the new things that we can put in there.
+
+Nice. Exciting. Well, I think this is a, like, historical 1st that we were able to and virus a little bit early. Unless anybody has some, like, burning question or challenge that you want to talk through, but I don't know about where you all are. It's. The sun is shining here. I'm so excited. So give you 14 minutes back.
+
+You can, oh, you can use the 14 minutes to start playing around with the template. Anca, did you, uh, drop it in the link or do you want to maybe give them the copy link now so they can get in there? Oh, I saw Dustin said, this is awesome. Yay. I'm so excited. You guys are excited. I can't believe what a nerd I that this is literally the most exciting thing of my month.
+
+Maybe.[00:42:00] 
+
+I think what excites me about it the most, too, is that I hope it gives you all a lot more confidence on something that is very complicated. Right? And we can 2nd, guess ourselves and feel like we're not making the right decisions, or we're not getting all the information. And, like, it feels really powerful to fill something like this out and be like, cool.
+
+Like, I'm looking at all these different scenarios and I can play around with it. And it. Makes you feel really good about the deals that you're, uh, you know, looking at and the offers that you're making and, and hopefully feeling a lot more confident in those offers rather than just like weighing it and being like, I don't know, a three multiple.
+
+Not that any of you do that. But, um, this is everything. I wish I had a modeling template. I was trying to like, make deals work. Um, and what I wish that we had for all of you. So, um, we're hoping that this helps you make deals. Um, you know, to be able to make offers even quicker and more confidently. So if it's not doing that, if it's [00:43:00] slowing you up or causing you to melt down, we want that feedback to cool.
+
+I'll just share the link. So go ahead and make a copy and have fun with it. Um, and then we'll revisit on Tuesday with a few of you run through, see how it goes. Um, and. Really excited to see how this goes with everybody. Thank you so much.
+
+**Justin:** I do. It's awesome. 
+
+**Athena:** Awesome. Great. Well, enjoy the 12 minutes back. We'll see you all next week. 
+
+Bye.
+
