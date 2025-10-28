@@ -1,0 +1,574 @@
+# Buyers Club 03/07/2025
+
+[00:00:00] 
+
+
+
+**Athena:** Hello, hello. Welcome, welcome. We are so excited for today. Hey, Gil, how's it going? Good. Awesome. I think there's a few others that might be camera off today. Looks like Joe is here and Destin is here. Hey, Joe. 
+
+**Anke:** Hey, good afternoon. 
+
+**Athena:** Cool. Good afternoon. Well, as always, this will be recorded too for those of you watching.
+
+It is, uh, An episode of the buyers club that I think everybody could stand to benefit from, uh, because there's always going to be real estate in not always, but in most deals that we're looking at, there's going to be real estate involved with it, whether it's leasing the real estate or buying the real estate, there's still a lot of considerations that we need to think about.
+
+And differences in commercial real estate, in particular, that can catch you out pretty bad. [00:01:00] If you're not aware of how commercial real estate functions, which might be different than most of us are used to in residential, we've all most of us have rented or. Uh, we have a lot of different things that we've bought in residential real estate, but commercial real estate has has different things and things that can catch us out and also advantages, depending on how we play it, uh, that we can build into our deals.
+
+So we happen to have a resident expert in the group and are really grateful that Andrew, uh, who's also. Um, you know, looking for businesses himself, but has an extensive, uh, and really amazing background, not only in real estate, but in training, uh, people as well. So, um, he agreed to take us through kind of a one on one and this might be a refresher for some of you, but we're going to start with some one on one and then dive into deeper concepts.
+
+And then at the end, have a discussion and talk about how are we seeing this show up in deals? What things might we want to think about? Um, as ever, [00:02:00] if you all have questions, you don't, don't wait for me to cue you. You can raise your hands if you have an immediate question or whatever. I just want to fill the space so there's no silence.
+
+So I have endless amounts of questions on all of these sessions. I want to make sure that you all feel like you have. Plenty of time for your questions, too, so just do the raise hand function. You can jump in. I might jump in at various points with Andrew and just have him break down a concept a little bit further and dig into something.
+
+But for the most part, he's going to take us through a, I think this, this started as a lecture for the local university that you did. Right? So. He's not only an expert, but he gets asked to speak at pretty cool places about this stuff, and has trained a lot of people in it too. So we're really grateful and lucky that we get an experience like this.
+
+So Andrew, thank you so much. Over to you for a real estate crash course. 
+
+**Andrew:** Yeah. Yeah. So thanks Athena. Um, I've got a lot of, uh, content here guys. Um, and we don't. I'm more [00:03:00] than happy. First off, I'm more than happy to send this to this presentation to anybody who wants. It's got some definitions. It's all a Google search away, but sometimes you don't know what you're Googling for.
+
+It's hard to hard to find. So, uh, like Athena said, I'm Andrew from Oklahoma. I've been the real estate business about 10 years, but I've sold a lot of properties personally, as well as transacted about 140 million dollars worth of real estate in my tenure, whether that be in. Residential, um, as well as commercial, um, and I won't waste you on, I won't waste your time on the background, but I have a presentation where we're going to go through some, uh, basic terms 1st off and 2nd off walk through, you know, the hot topic as of late based off of the acquiring minds episode around, like, sale leaseback, how you can leverage that.
+
+And the cautionary tale is what you want to be, be, look out for, because sometimes a sale leaseback is a great idea. Sometimes you can get it over your skis if you try to over [00:04:00] leverage yourself and put yourself on a lease rate, that's not market. Um, so I've got some pretty good examples after we walk through the 1st, part of this, where we can walk through a real life example of how it can, you can end up upside down in a property.
+
+If you, if you just try to leverage as much as you can out of it. Even if it seems like a good deal on its face. So I'm going to share my screen. Let's see All right. Can you guys see that Brad? Okay, so we're gonna start here. So basic So this is gonna look at from the term of leasing So we're gonna look at leasing first because more often than not if you've got real estate attached if you're not going to consider buying Um, which you can make an argument for both leasing is the first place people are going to start, but then there's a lot of terminology that's thrown around in there that throw people off.
+
+Um, the 1st of which is like, what's the net operating income, which is commonly referred to as the N. O. Y. So, what that is, that's going to be the [00:05:00] culmination of 12 months worth of base rent. And when I say base rent, I'm going to describe what that means here in a minute based off of the different types of leases.
+
+Um, oftentimes you'll see language in these contracts around market rate. Um, I can get real. Um, and see about what defines market, right? Um, I don't want to leave that up to somebody else's interpretation of what market rent might be 5 years from now. So, by way of the SBA, if you've got real estate associated with it, or even if you're just going to Lisa, they're going to want some degree of term in there.
+
+Oftentimes, they want you to have 10 years worth of, uh, you know, a lease landlords don't like that, which I can get into that a little bit as well more often than not. So you'll, we'll probably have some extensions in there. And sometimes they'll use the language market, right? I want to make sure I put some parameters in there to determine what that market rate is, because if they use.
+
+You know, it can be skewed, and that can really affect your bottom line if you end up paying too much [00:06:00] rent. So the market rates, obviously, the rate at which they would transact in the current environment, uh, the different types of leases, um, oftentimes people see this in, in, in, which we call triple net, and it's really confusing because what the heck does that mean means all expenses fall to the tenant after after the base rate.
+
+So that's taxes, insurance, maintenance, et cetera. It's all going to be billed back to the tenant. You're going to be. Okay. Charged a base rent per month, and then either quarterly by annually, annually, you're going to be billed back the taxes and insurance on that property as well as hit with a some degree of a fee to cover the common area maintenance.
+
+If you're, you know, if you're in an office park, and you've got grass to mow, and they know it for you, the likelihood of them billing that back to you is pretty high. The only reason that we use triple net leases in commercial real estate is because it makes the real estate more able to transact. If the seller wants to sell that real estate, they have to [00:07:00] be able to get back to that NOI, that net operating income, in order to dictate what they can sell it at.
+
+And as you guys know, taxes and insurance can fluctuate every year. Maintenance can fluctuate every year. So I want to, they want to make sure that they can sell it if they need to. And if you've got a fluctuating rate that dictates what your, you know, your take home is after debt coverage in a given year, it's hard to sell that asset.
+
+Now, You'll also run into modified gross leases. Typically, you're going to see a modified gross lease in a much smaller space. Um, that's not always the case, but I think in terms of industrial real estate, that's my background. Um, you know, at less than 5, 000 square foot space, oftentimes they'll put it on modified gross, meaning that the landlord is going to cover the taxes and insurance.
+
+Some maintenance is going to be covered. Typically. Um, is going to be covered by the landlord. Typically, that's going to include roof maintenance, um, a certain proration of HVAC that could break [00:08:00] during your time of tenancy, um, any variation of those things. Modified gross can kind of encompass a whole host of different fees that could be either shared or taken by either the owner or the tenant.
+
+Um, gross, the easiest thing to think about with a gross lease is what you're buying an apartment. Their response, the landlord is going to take care of everything except for the utilities. For most people, the gross is going to be an easier number to, uh, you know, kind of put on your bottom line for your, you know, your profit and loss statement.
+
+So, if you're in a situation where you've got a smaller space that you want to lease back from the owner of the business or wherever you're going to operate this business out of, it's easier to have a gross lease because, you know, exactly what the costs are going to be at the same time. It's a little bit harder to come by, but oftentimes, you know, you're buying a mom and pop, uh, lawn maintenance company.
+
+They'll probably give [00:09:00] you a gross lease. It just depends on the type of business that you're buying. Um, the other thing that throws people off is the price per square foot. Um, so when you see like a 8 per square foot triple net fee, they look at that and they don't know what the heck that means. The simple math there is you want to take that 8 times the total square footage.
+
+And that's going to give you the total base rent for the year you divide that figure by 12 and that's what your monthly base rate is why we market it at the per square foot level like that on a lease rate. I don't know if it's just to confuse people, but that's that's how we do things. I guess people don't want to put this building is 40, 000 dollars per month on a piece of paper.
+
+They'd rather put 8 dollars per square foot for 40, 000 square foot. Um, I guess that's why, but you've got to do a little bit of math to get back to that. To that figure, um, are there any questions on that on the leasing standpoint? Okay, [00:10:00] onwards and upwards. So now let's look up from a purchase pretty much all purpose purchases in relation to what we're dealing with.
+
+Right? So, obviously, you've got owner users that aren't going to be looking at what we're going to talk about as far as cap rates, but for all intents and purposes in the conversation today, we're going to talk about purchases by way of investment. So, when I say investment, it's going to be based off of the cap rate and the cap rate.
+
+And I'll say this slowly, the yearly net operating income divided by the purchase price as a percentage. So if I put something out there that's a nine cap. I'm going to take that NOI and I'm, or the nine cap is, I mean, I can back out of that nine cap if I have either the purchase price or the net operating income.
+
+All that is, is giving me a figure to base my financing off of, and it's just kind of a layman's term to help people understand the value of that real estate. I have in here, generally speaking, you need to, if you're [00:11:00] leveraging, if you're using some degree of financing on that property, you need to have a 1.
+
+5 to 2 point spread between the cap rate and what your interest rate is. If you're buying a 9 cap property, and you're getting 9 percent interest rate, you are probably in what we call negative leverage, meaning that every month you pay that. You know, principle of interest payment on that note, and you're going to pay above and beyond that.
+
+Um, or the rent's going to cover that. And then you're going to have to come out of pocket to cover. The rest of it, maybe it's a 10, 000 a month, um, P and I payment and you only get 8, 000 in rent. So you got to come 2, 000 out of pocket where you've seen that recently. I mean, during coven and shortly thereafter, the interest rates were so incredibly low.
+
+You had a lot of properties transacting at really historically low cap rates, 5, 6, 7 percent cap rates because the interest rates were, you know, Okay. 3, 4%, and there's a lot of spread there. [00:12:00] Um, we could have a whole nother conversation about when it's okay to have a lower cap rate. You've got a national credit tenant.
+
+You've got high, uh, high equity in the deal. Very low leverage. Those numbers can turn into a positive leverage situation pretty quickly. But for all of us here on this call, we're not looking to put. You know, 70, 80 percent down on a purchase of a property. We're trying to leverage as much as we can. So we can increase the size of business that we're buying.
+
+Power to suit. So. Again, just to make it simpler to the greater the cap rate, the more favorable the returns, you know, so if I can buy something and if I run the math on what a seller is giving me, and it's a 12 cap slam dunk, I can leverage that. Um, and not only that, if they give me a 12 cap, there's a pretty good chance that I can refi that property right afterwards and create a spread and put some of that money back into my pocket to a more market cap rate.
+
+And I'll dig on to that in the next page. Um, so price per [00:13:00] foot. You guys understand that it's the same thing as a residential price divided by the square foot. The biggest thing I want to put that there is everything needs to function as a factor of it. If you're paying too much for the building per square foot, your exposure to risk increases if you're paying.
+
+200 per square foot on a building that you could build brand new for a 100 dollars a square foot. I don't care what the business metrics are. You're putting yourself in a pretty compromised position unless you have a really good plan for what you're going to do. Um, I would strongly advise against that.
+
+Um, comparables comps layman's terms, um, recent sales, recent leases that match property type, size, age, et cetera, um, to the degree possible. If anyone on this call is making a. I'm an acquisition with real estate attached to it by way of a purchase or a lease. I'm going to get a professional opinion from somebody in that market.
+
+Uh, you can usually sweet, sweet talk your way to a [00:14:00] conversation with a broker in the local market if they, if they think that they have a chance to earn your business in the future. Um, I would absolutely make those if you needed to make five or six phone calls to get someone to pick up, make those phone calls.
+
+Um, you can go to websites such as like CREXI. com, C R E X I. com, um, which is a public, it's, think of it like a Zillow. Um, the, the only thing about a CREXI and the commercial real estate listing services in general is they're not all encompassing. So certain markets will have heavily, um, they'll have really good.
+
+Data in craxy other markets won't Oklahoma City. We do not have a huge craxy following, but you can get the most amount of information on craxy for free. So it's a good resource. The other public facing resource you'd go to to do some relevant. You know, data extraction would be loop net, uh, loop net, like L O O P N E N E T dot net dot [00:15:00] com loop.
+
+Net is owned by costar, which is, uh, effectively are our version of the multiple listing service. You have to pay to boost a property from costar to loop net. So, again, it's not an all encompassing site, but you should be able to get a general idea of what the active marketplace is on a per square foot level for the asset type or the type of building that you're looking at.
+
+So, that's a lot of things. Does anybody have any questions about any of that so far?
+
+We're flying. We're going. Let's talk about a sale lease back. This is a, again, word vomit here on this page, so bear with me. Owner decides to sell the real estate along with the business and has paid below market rent to themselves for 15 years. Buyer wants to leverage on a longer amortization schedule and buyer buys the real estate at a 9 percent cap rate.
+
+Given the below market [00:16:00] rents, then the business can't afford, yeah, given the below market rents and assuming the business can afford to pay more. The buyer can sign a new lease with themselves or sell to another party. Commencing at close at a higher market rental rate, and if you use the exact same math for a 9 percent cap rate, the real estate is now worth more money.
+
+More money in the eyes of a bank slash appraiser. And when I say that a bank is looking at this by way of an income approach, oftentimes in a residential deal, you're going to look at it by way of a comparable approach. Well, there might be 300 homes in that area to compare it again. But if I'm buying.
+
+You know, a 2, 000 square foot shop on an acre in the middle of nowhere, they're not going to have a whole lot of comps, right? They're going to have to look at what is the rent that's coming in on this property and how strong is the credit of the tenant that's in there. Well, in this case, you're going to be the tenant, right?
+
+So, you're underwriting the same things. It's got to have some degree of longevity in the business, some degree of stability in the [00:17:00] business. If you feel comfortable buying it, the light and the SBA feels comfortable with you buying it, frankly. The likelihood of it being a good enough credit for a bank is, is high.
+
+So, the math actually breaks down, let's say it's a 10, 000 square foot building at 8 triple net, which is 80, 000 a year net operating income, divided by 9 percent is 888K. The market rent is actually 10 bucks per foot. So that's going to take my actual rent out of pocket when I own the business from 80 to 100, 000.
+
+So I have to be able to eat that extra 20, 000 in rental payment. But at the exact same cap rate, my property is now worth 1. 1 million. So just by way of bumping myself to a market rent, I've created over 200, 000 in property value for myself. In theory, we could take that money, use it as a capital injection to purchase.
+
+Um, we could fund [00:18:00] our, you know, uh, working capital. Um, there's all kinds of things you could do with this. And this is assuming you keep it yourself. I had up here as well that you could sell it to somebody else. Right, and do the exact same thing, and you get the benefit of the spread. You're paying this guy 888.
+
+Someone else is going to give you 1. 1. You're going to get a 200, 000 check at closing, and you can apply towards the purchase of this business. For sake of, I'm not going to, the tax implications of that, I'm not a tax professional, but you've got to be careful of who's holding that money at what time, and to make sure you don't have a capital gains tax, which would take a pretty big hickey on that.
+
+On that cash. So, um, I'm more of a fan of I if I could swing the real estate myself. I'm going to pull, I'm going to, you know, I'm going to leverage myself post close, try to refi out or just have an agreement with the bank toward. They're going to give me some credit for that. Now, me [00:19:00] going into that conversation is going to be a lot more prepared than probably the average Joe to have that conversation with the bank.
+
+If you're doing this and you're not in the industry or have a lot of familiarity with the industry, that's when you need to hire a professional and there's probably going to be some deal fees associated with that. But there are. Okay. I mean, again, I was listening to the acquiring minds podcast. There are sale leaseback pros all over the country, um, depending on how large you are or how large the building is, they may or may not work with you, but you can find a local commercial real estate broker that can help you back into this math.
+
+So this next page covers a little bit of what I was just saying. Oftentimes they're going to give you that 200, 000 as credit for the equity, as long as they feel like you've had some consideration in the deal, right? So, you know, everyone, we always talk about, we had, um, Um, Renan on and all the, you know, talking about no money out of pocket, the likelihood of a bank letting you do that, especially when it comes to real estate, it's pretty slam.
+
+It's going to be a pretty special [00:20:00] scenario. They want to make sure you have some consideration. So, the last thing I want to do when this call is preached that you can create 200, 000 dollars out of thin air and use it to buy a business. I don't think that's setting yourself up for success, but you can use it in some capacity if you feel comfortable with it.
+
+Or the other alternative I didn't put on here is you flat out and just leave it like it is. Pay cheap rent, own the real estate, bump it up a year from now, then pull funds out. Then you've got some, you've got some, uh, leverage there. You can, you can make that dec decision whenever you want. The pros of the sale lease back, you can stretch your money further, right?
+
+I might be able to turn that a hundred thousand dollars injection into a $300,000 injection. Um, more favorable deposition. I'm theoretically on paper, gonna owe less on that property. Um, you're getting yourself a separate income source. You get the, uh, appreciation of the asset, taking the depreciation of the asset, which is a whole nother class, um, and which goes back in the [00:21:00] tax benefits of owning real estate.
+
+Um, the cons don't let the bank don't count the bank, letting that be your only capital cap rates can fluctuate. If you put you, if you bought property and try to do a sale lease back like this 3 years ago, you might have been able to put yourself on a 6 percent cap rate. Well. If you try to sell that real estate today, it's not going to transact there because it's just not where the market cap rates are for, uh, you know, a smaller, you know, small business acquisition.
+
+If you've got something that's in a 10, 000 square foot warehouse, no one's going to come pay you a 6 percent cap rate on that today. So just understand the risk of if you're pulling that money out, you've got to be okay with holding that asset longer. Um, based off of the cap rate, so that's again where you got to get a professional involved.
+
+Um, this is my favorite part, one of the cons, somebody has to fix shit on that building and it's going to be you either way. So if you sell it to somebody else, you're on a net, you're on a triple net [00:22:00] lease, meaning all the maintenance is going to fall to you more than likely. So not only are you paying a higher rate than you wanted to, you better have a.
+
+I know should account for all the things that are going to potentially break on that property. Or if you own the real estate yourself, guess what? You still have to have a no shit account. So you got to make sure you understand that that it's this isn't a magic fix. All you've got to you. Someone still has to operate the real estate and stuff breaks and you've got to have sound counsel.
+
+I've said that 100 times. Now, you got to make sure you're getting some good advice from someone local in the market. Like, and the markets fluctuate greatly, you know, like, I'm in Oklahoma City. I could not get an opinion from someone in Dallas. That's too far away. We're totally different markets. So if you're even from here to Tulsa is a totally different market.
+
+You've got to have someone as hyper local as you can get, um, overall, with the sale lease back, you can get a lot more creative, um. Maybe you pay more than the property is worth and make up for it in the multiple of the [00:23:00] business. Maybe you pay overpay for the business, knowing you've got a good deal on the real estate, you know, that 25 year amortization, if you meet that 50 percent or greater threshold could be a really magical thing by way of, like, the debt service and what you can actually do and what you can pay yourself.
+
+Um, just understand the risks that come along with that, um, come along with that. So, does anybody have any questions? I flew through a lot of that stuff. Hopefully I was. Thorough. Okay. So I want to give you guys a little bit of a picture of what can happen when this doesn't go so hot and I'm kind of ruining the class time.
+
+So, all right, Uncle Chad passed away, left me 500 K with the charge. I have to invest in real estate. Broker sends me a family dollar retail listing and VFE Oklahoma on a brand new 20 year lease. Okay. Sounds pretty good. Purchase price is 2 million bucks, net operating income of [00:24:00] 250, which means I'm buying a cap rate of 12%.
+
+I've got a 20 year lease, corporate guarantee, 7, 500 square foot. Okay, things are looking good alone. I put 500, 000 on that prop down on that property. I get a 20 year and 5 year balloon payment, meaning that I'm going to have a 20 year amortization period. But that note's going to come due with at the end of the 5th year, my interest rates 8%.
+
+So my monthly payment is 13, 244. I don't have any expectation of you guys doing that math. I promise. That's right. I did it. Um, Monthly rent 20, 000 833 cent or 833 and 33 cents from family dollar payments 13 grand. So my profit is 7500 bucks a month. My yearly profit on that is 91, 000. So my return on the cash invested is 818 percent there, right?
+
+I mean, you guys can go pick a stock at [00:25:00] 18 percent every year, every year. Pretty tough buy, right? So, would you guys want to buy it? Based off the numbers I've given you so far, would you agree that could, that could potentially be a really good deal? Okay. So, let's look deeper. Purchase price per square foot is 277 per square foot based off of that math.
+
+The lease rate is 33. 33 per square foot per year. The cost to rebuild that building brand new is 125 to 175 per foot. And the lease comps in King, yeah, Kingfisher, you guys don't know where, I put BFE in the other slide, I meant to change that here. Small town in Oklahoma. 15 to 20 bucks a foot. So,
+
+well, let me go back here. So, looking at these figures, I'm buying a 20 year lease with family dollar. They've got a [00:26:00] corporate guarantee. What's the likelihood of me being able to fight their attorneys to get that corporate guarantee? Validated or like, if they decide they want to close shop. Yeah, I'm not going to win against their attorneys and guess what?
+
+I paid 277 bucks per square foot on 150 per square foot building and I'm getting 33 bucks a month. The market's like, 15 to 20 and me filling a 7500 square foot box in this small town in Oklahoma without family dollar is basically. 0 percent chance. So I am taking a massive risk buying this building because I didn't look at what the actual math is behind behind the door.
+
+You've got to have somebody local that market to understand. Those figures do not make sense. And this is especially relevant. I, this I'm not calling shade on this guy at all, but in relation to that, um. That for the podcast episode, [00:27:00] I mean, he was, he was levering himself to the nines to make sure he get as low a low a cap rate as physically possible on that deal.
+
+From what I could surmise from that call or from that, uh, um, podcast. I'm sure he got some market information, but if I'm especially, I think he was buying the property in Connecticut and he was somewhere down South. Whose Informa, who's, who is the sale leaseback broker on that? Was it private equity buying?
+
+That was it. Somebody outta state was a local buyer who was checking to make sure that those ac those figures checked out. Um, and of course he, I guess he wouldn't care because he doesn't own the real estate anymore, but in the event that this guy goes belly up. Their re tenant ability of that facility is probably pretty low, so they're banking very heavy on the tenant and I'm taking the position from from from us as the owner occupant from I own the business and I own the real estate.
+
+If something were to happen in that business. Well, I've got 2 separate entities that hold those assets [00:28:00] and 1 of them pays the other. And suddenly this 1 cannot pay it. And I've still got a note due in the real estate. And so all of a sudden, my 9, 000 a month profit is a 13, 000 pit because that's what my monthly payment is.
+
+So, this can go south on you real quick if you don't know what you're looking at, and you don't know who to contact to get some basic information on the property. Now, bear with me on this, because this was more about the class, but I think you guys would find this interesting. Assuming the developer who put the tenant in there, and this is what happens, especially with like a family dollars, dollar trees, things like that.
+
+National developers go buy land. They build the space for 125 bucks a foot. If they just kept that lease, they've got a 20, 26 percent cap rate on that deal, but they can, they paid, um, 937, 000 to build that space and they're going to sell it to me for over 2 million [00:29:00] bucks. So I can go rinse, repeat, rinse, repeat, rinse, repeat that all I want as a natural developer, and there's going to be some schmuck that's going to pay me that amount of money.
+
+Um, because maybe they bought 20 family dollars, and they're just kind of, you know, economies of scale, hoping that they're all not going to go belly up at the exact same time. And this is the biggest part. If the family dollar leaves, the developer can still achieve a cap rate of 12 percent at that market rate of 15 per square foot, rather than the 33 per square foot.
+
+So, I guess, tying it back into the conversations we have here, keep in mind that if you've got a relatively simple. Piece of real estate in the business transaction, um, you might be able to go build it yourself and be in a better position at some point in the future. Just don't leave that off the table.
+
+It's a buying the real estate is not always the right answer. Um, you could, you might be able to just kind of get your feet underneath you on a 5 year term or [00:30:00] whatever, um, if the bank will allow it and go do something else. Um, so. You just got to look pretty cautiously at the bigger picture. Um, let's see point all investing is risky On the surface, something can look like a steel, but the fundamentals don't function without the family dollar in this example approach with caution.
+
+So I've got to make sure I can justify that piece of real estate. I'm buying if my business goes belly up and hopefully, you know, if I'm buying over 50 percent of the real estate, hopefully it lasts long enough where I can pay enough of the debt down. And I can actually, you know, take the profit from selling the real estate and pay down, you know, the remainder of the, but of course, we all know that the default rate on those things are less 1%.
+
+So hopefully we never get there. But I'm kind of, you want to be in a position where you can, you know, you want to be, you want to cover your, your back end. [00:31:00] So. I feel like I've talked at you guys a lot. Are there any questions about that? Um, that's a lot of, oh, here's some things you could do for negotiation.
+
+Um, you can require the corporate guarantee, which doesn't really worth a whole lot more than the paper it's written on, but it makes them have a degree of it makes them feel like they've, you know, it makes people feel good require a heavier deposit at execution. And maybe in our position again, this is from that college course I taught, you know, maybe we, you know, want to inject some extra.
+
+You know, maybe we want to put some money aside in that separate bank account for the real estate holding company to make sure that if we kind of get in a situation, it's just like having cash on hand for a cash cycle. Right? The same thing applies for real estate. Reduce the cash flow to pay down debt quicker.
+
+Um, don't cash, you know, if you've got a spread in there from what the payment is, don't, you know, use that as your [00:32:00] vacation money to go and just go spend all that in this example, 90, 000 dollars. Um, maybe pay down that debt quicker or just let it sit there in the, in the event that you have to replace a, you know, metal roof that's expensive.
+
+Oh, yeah, that last one's not really relevant to this conversation. Uh, that's kind of it guys. I mean, I've got some other examples of stuff. That's not related to commercial real estate because I go through how to do it. What's called a burr on the residential investing, but I won't bore you guys with that.
+
+What can I what can I answer? What can I talk about? What did I miss? What are some terms that you guys see that I. Can jump into for you. 
+
+**Athena:** This is great. I have a few questions. I can't see. I can't see the list. If anybody has their hand up, I might jump in. Um, this was awesome. Like, you explained it in terms of, like.
+
+We're so much simpler than I've heard in the past. So, um, I [00:33:00] found this really useful. I think it's a really good starting point. Um. Did you have more slides or were you going to go through any more. No, I mean, I do. 
+
+**Andrew:** I do. They're not, I can, I'll, I'll not, I'll stop sharing here. 
+
+**Athena:** Okay, cool. Um, so I want to talk like, I think it was good.
+
+You broke down some of the definitions and stuff. And I guess in relation to the deals that we're going to be doing and some gotchas, the triple net. Is really important to pay attention to when you're doing due diligence, because sometimes the owner has a separate entity that owns the real estate and or the rent that they were paying wasn't necessarily a triple net because they were paying rent to themselves, but the holding company.
+
+So, can you talk a little bit about that and what people should be looking out for when it comes to deals and there's real estate involved and, you know, like, I've seen deals where. People agree to triple net and didn't realize that those, those costs weren't in the [00:34:00] original panels that they were looking at.
+
+**Andrew:** Yeah, so the 1st thing to say, that's a really good point. If you're buying the real estate with it. Keeping yourself on a gross lease, which is probably what the landlord's been paying themselves. I doubt they've been paying themselves. Triple that'd be way too much headache. Um, they don't want to mess with that.
+
+The easy button is just pay yourself the exact same rate and make it a gross figure and maybe just kind of look at that.
+
+You want to look at it as terms of you, you need to have at least 5 10 percent of your monthly income on that property set aside as an, as an oh, shit factor, right? Stuff's going to break. What if some people have a higher threshold for risk, so maybe you're in the lower end 5 percent and maybe people have a lesser, they want to keep 15 percent of that month, that yearly income into a savings account, but that's the easy button is just keeping yourself on the same schedule.
+
+I would advocate [00:35:00] for
+
+well, for 1 scenario, if you are buying the business and the seller is retaining the real estate.
+
+I'm going to try to get his face. I'm going to try. Honestly, if I'm in that situation, I'm going to go to the seller and say, hey, I'm going to pay the exact same rate that you've been paying yourself. Not a penny more because that's what that's what I see. I'm buying the business based off the cash flow and the cash flow is reflective of what you've been paying yourself and rent and anything that's going to.
+
+What lesser that I would, I would try to push back on, um, if they want to change it and turn it into a triple net lease or something like that, I'm going to, I'm going to dig pretty hard and ask them like, hey, I want to know what your insurance premiums are. I want to know what your taxes are. Um, if well, if they've owned the real estate long enough, this is kind of a win and it depends on what [00:36:00] state you're in.
+
+But if you are, this is going to be kind of in the weeds a little bit. State of Texas is a non disclosure state. So, taxes change every year, regardless of property taxes change every year, regardless of what, whether there was a sale involved, Oklahoma. Is a disclosure state, meaning you can see what property sold for and they don't really reassess that we have a maximum reassessed value at 5 percent every single year.
+
+So you cannot raise the taxes by more than 5%. How that would be very beneficial if you're in a state that's like that. If this owner has owned this piece of real estate for 25 years, they are likely paying a tax rate that is substantially less than what it would be if you were to buy it at a market rate today, because the second that you buy that pro, if they bought it for $40 per square foot in 1985, it's probably worth 80 to $90 per square foot today.
+
+And the [00:37:00] second I buy that property, my insurance or my my taxes are going to double overnight. On that property. So if they are retaining the property. I want to make sure that, I mean, I'm just going to, you know, I'm going to look at the taxes, I'm going to be able to have a win there. Um, if I'm on a gross lease, I'm kind of keeping that seller from being able to sell the property because it's not very sellable if it's not on a triple net lease.
+
+I'm going to kind of tie them in, and I'm going to try to get an option on the back end of that. I might say, hey, I'm going to sign a three to five year lease with you, but I want an option to purchase or a right of first refusal. Um, which the writer 1st refusal refusal just effectively means that they legally if someone offers them, there has to be a bona fide offer something in writing.
+
+They have to come to you 1st. And if you match that figure, you get to buy the property. So, at bare minimum, I want to negotiate a row for. [00:38:00] Um, in those deals, but I would prefer to have an option to purchase, 
+
+**Athena:** um, few key things that I just want to pull out there. Right? Because there's a lot of gold. My Andrew just talked about, but like, 1st of all, if there's real estate involved, whether it's leased or or buying.
+
+You clearly want someone like Andrew from your market to be talking to you about this sort of thing, like what the market rate is and that sort of stuff. Now, he said, I don't want to pay more than a penny more, but in some cases, the owner might be paying more than market rent to make their tax situation more advantageous.
+
+So, again, you need a professional to tell you, like, what's the. Market rent, right? Because if they were jacking up their valuations on the building by paying themselves more and you're not buying it, um, then you might need to regulate it. Right? 
+
+**Andrew:** Yeah. And you're going to see that come down the bottom line too.
+
+So, I mean, if they're paying themselves too much, you might have just [00:39:00] gained yourself. You know, 10, 15, 000 of extra that you didn't think existed, assuming that they would be agreeable to reducing the rent. 
+
+**Athena:** Right? And if they weren't paying themselves triple net, but they're going to make you go on triple net.
+
+Then that's another adjustment, usually in the negative side that you need to make sure that you're adjusting for that, because you're going to have a lot more expenses than they did as the tenant of their building. Um, so just, you know. Why why I think this conversation is so important is is again, most of us don't have a ton of exposure to commercial real estate or what the terms are.
+
+And that's and so the triple net thing is just like, wild to if you're not familiar with, like, oh, I'm going to have to cover all of these things as a tenant. What? Like, I'm paying property taxes as a tenant. And repairs, like, if the roof caves in, it's like, it's on you, right? And 
+
+**Andrew:** the hardest, there's a couple things I want to touch on there, Athena.
+
+So, first off, oftentimes [00:40:00] these leases are, they're not billing back the taxes and insurance on a monthly basis. Some people do that, more people should, but if they don't know what the property taxes are, they're basically doing an estimated property tax and they're going to kind of. Accrue that for you, then send you a bill or send you are going to refund for the difference, but most cases, probably this is not going to be a sophisticated landlord.
+
+They're going to get their property tax bill and December and they're going to send it to you and say, pay it. So, if you have not been saving for an extra 10, 000 hit in December, you are up a creek. So, you need to understand what you're waiting for and understand it would be much more preferable to get some degree of a quarterly.
+
+Monthly, even by monthly, whatever, so it just doesn't catch up on you. I mean, otherwise, I mean, I, I've got rental properties that are not. I mean, I have to pay my taxes once a year and I am in that camp every year. It sneaks up on me. Like, gosh, dang it. That sucked. I didn't put any money aside for that. I got to write this fat [00:41:00] check and it hurts.
+
+And so you've got to, you've got to be cautious with that. The other thing is I made a gross oversimplification of the triple net lease. Most of the time a triple net least you can negotiate in where the foundation, the concrete, whatever, and the roof structure is going to be covered by the landlord. So, more often than not, like, if the roof caves in, that's probably not going to be your problem.
+
+There'd be some degree of problem for you. You know, if it broke something in the shop, obviously, that's why you have general liability insurance, but most of the time, you can have that. The other thing that's kind of key if you're going to do a lease, um, uh, systems and equipment in the property. So, if you've got a 5 year lease and on year 4, the HVAC unit goes kaput.
+
+And you're responsible for it. I want to make sure I have something in the lease. That's going to say, I'm only going to pay for the useful life that I've had occupancy in. So, HVAC system is going to have a useful life anywhere from 7 to 9 years. If I'm [00:42:00] only occupying that space for 1 year, and there's a remaining useful life of 8 years, the landlord's going to have to reimburse me for 8 years worth of.
+
+Replacement value on that HVAC and that's, that's, that's the difference in making sure you have someone that knows they're looking at negotiate that lease because that you could be stuck with a 10, 000 HVAC bill that you should only pay 2, 000 of. 
+
+**Athena:** That's, uh, I've, I've never heard anyone share that and it makes complete sense.
+
+So yet another reason why you have someone like Andrew review that lease agreement before you sign it to catch those sorts of things. Also something you touched on, but I think is really important to pull out and like in neon signage, right? That first rate of refusal, if you're, if you're like going into a property that like, you're going to need that property, it's not an easy move.
+
+Like you're in a manufacturing facility or whatever. Having that first right of refusal, both if they get an [00:43:00] offer and if they want to sell, right, they need to come to you first with the first right of refusal. So having that built into your lease. Prevents you from having a new landlord come in and cause hell or jack up the rants or kick you out, you know, and like all the costs that come with that.
+
+So how often I mean, I know in business transactions when the owner is the 1 that owns it. That is that is a tool we can use. How often do you see folks giving 1st right of refusal on leases? Is that fairly common? 
+
+**Andrew:** So, like, in an instance where, like, you've got an HVAC business in a leased property and you're buying HVAC business and the, you know, the owner of that property has nothing to do with that business, the likelihood of them giving a right of 1st refusal to this new tenant.
+
+Pretty low, um, they, because they're, they're going to be irritated that they're even talking to you more often than not, because they signed a lease with that with, you [00:44:00] know, Joe Schmo over here. And suddenly this new guys coming around new gals coming around and they don't, they don't want to change the.
+
+Terms, they don't want to, you know, you know, it's a tougher conversation. We can talk about that Athena because it's people are amenable, but generally speaking, if you, if you've got 3 years left on a lease and the SBA is going to require you to have a 5 or 10 year lease, that's a hard conversation with the landlord.
+
+If it's not the business owner. Because they don't know who you are. They've got notes on that property more than likely. They're taking a huge risk on you. Like, if I'm a real estate guy buying whatever, you know, manufacturing business I don't know anything about. And they're going to sign a five year lease with me and they don't feel comfortable with me as a tenant anymore.
+
+They're not going to be stoked about giving me a longer term and betting their long term financial benefits on. A new guy or gal, so don't underestimate the, the difficulty of that conversation to, [00:45:00] um, but it happens a lot. Obviously, and I think you'd have way more experience that. I mean, maybe I, um, I might be overstating how unlikely landlords are to work with people.
+
+They still want to get rent. 
+
+**Athena:** It's it's it's something that we hear come up all the time is a deal breaker, like, way too late in the process. Right? Like, when you're going through due diligence and you're going to be leasing and you're using SBA, you want to try to get access or have started that conversation with the landlord sooner than later to kind of see what kind of situation that you're going to be in because of the landlord flat out refuses that can prevent you from get SBA funding and then the whole deal falls apart.
+
+So. Okay. It's important. Very important. Um, on the, uh, so can you explain options and how that might help people in these scenarios where you can't get the 10 year lease that the SBA wants, right? Like, SBA wants you to have a lease term for the. Uh, length of the long, so [00:46:00] most of us are getting 25 or sorry, 10 year amortizations on these SBA moms.
+
+They want to see you be able to stay in that place for 10 years. Talk us through options what those are. 
+
+**Andrew:** So, the option is basically you sign an initial. So, typically we're dealing in 3 or 5 year leases more often than not. So, you'd agree on an initial 3 year lease, but you've got to make up an at least an additional 5 to satisfy the SBA, or let's just call it a 5 and 5.
+
+You got a 5 year lease with a 5 year option to make up that what the SBA requires of the 10 year. For the 10 year am on the loan, the option is basically saying, we're gonna get through with your initial term, your first five years, and we're going to, and you're gonna have the option to extend to stay in that space.
+
+So the factors that can change there, well, honestly, you could change literally anything about the term at that point. You could change the type of lease. You could change the price, you could change the square footage. You know, maybe they want to take back. A [00:47:00] 1000 square foot, and you're totally great with that.
+
+You know, there's all kinds of things you could change in there. Having the option just means that if you guys can come to terms, you, you have an additional 5 years of tenancy in that building something that's critical, especially when you're talking about 10 years worth of leasing. It's not it is common more often than not.
+
+But if you can try to negotiate a flat rate. Most of these leases are going to have a 2 to 4 percent escalation per year. So, if you take a 3 percent escalate escalation on a 10 year or 10 per square foot building, you know, suddenly you're 10, you're paying 14, 15 bucks a foot or whatever that math shakes out to be.
+
+And maybe, you know, you weren't planning on that. In your proforma, right? So make sure that you understand the increases, um, like DFW's typically 4%. We're closer to 3 percent here. Sometimes you can negotiate 2%. Um, you want to know what those [00:48:00] escalations are and I think it's also important to like, and this would be defaulting to Athena and everybody else in the team, but you can give and take a little bit there.
+
+You're going to have to meet. You're going to have to be, uh. You have to satisfy the SBA, right? So, if I told you not to let it just be market rent in that box, but at the end of the day, if they're only going to give me another 5 year option with them dictating what that market rate is, I might have to sign that piece of paper with them saying what they're going to determine what market rate is.
+
+So. Just know that it's a negotiation, but the option just literally just gives you the option to stay there longer if you want to, or if you have a better scenario, as long as that, you know, SBA is okay with that, go for it. 
+
+**Athena:** Amazing. Cool. Okay. So I want to switch directions a little bit. First, I want to like, again, neon lights, right?
+
+You always want to value the business. and the property [00:49:00] separately, even if you end up putting it into the same 7a loan. So this is something we see people get wrong a lot. The owner just says a price and it's like, oh, the total purchase price is going to be this. But even if you're going to lump them into the same loan under certain circumstances to get that 25 year am, You still need to make sure that you're valuing the numbers all stand up like Andrew just showed us on its own as a piece of real estate, um, and value the business separately, both, both of those entities need to stand up on their own 2 feet without the other.
+
+So it's really important when we're going through that. So that's just PSA certainly. I'm sure Andrew agrees with me, but we don't want to buy a piece piece of real estate and value it like a business and vice versa. Um, so two directions I want to go. One, I want to, I want to talk about tax, but before we get there, so everybody here is, is likely going to be involved in a deal that has real [00:50:00] estate, whether it's, it's leasing or buying, how do they figure out who is a good advisor in their market?
+
+Like where are these people hanging out? What are indicators that they are good at what they do? What questions should they be asking? That was, that was a lot, right? But you're, you're one of the top in your field. So how do we find an Andrew in our local market? 
+
+**Andrew:** Bars, divorce attorneys. I'm just kidding.
+
+Honestly, the easiest way, well, if it's feasible, I understand Oklahoma City is a smaller market. I want to drive the market. I'm going to look for the signs. It has got a lot of activity in this area. I'm going to look and if you can't do that, get on the loop that's of the world. Get on the cracks of the world.
+
+I want to say, I want to see who's transacting in the area. Um, the, the, the flip side of that is I, that might not always there's a lot. We have people here that are [00:51:00] notorious for taking any and all listings. Um, so you might see 40 of their signs, but they just, whatever the seller or, um, landlord dictates the price, they're going to put it up there because they get a big old billboard with their name on it in front of that property.
+
+So, you also want to kind of go look for brand recognition in the market. Who's, you know, there's all kinds of like, CoStar does big awards, you know, who's, who's doing the most amount of activity. Um, are they transacting in the square footage that I'm trying to. I don't want to go to a, you know, the top industrial guy who does, you know, 900, 000 square foot leases all over the country, but he happens to be based in Austin.
+
+I don't want to call that guy for a 5, 000 square foot HVAC shop in Austin. Right? I want to call somebody who's beating the streets on that 5, 10, 000 square foot buildings. And in that instance, I think you kind of got to use a little bit of intuition. I'm going to look at what the who's out there in the market.[00:52:00] 
+
+I'm going to call those signs close to my property or the closest thing I can find to it. And I'm going to ask some qualifying questions. You know, do you guys do a lot of business in the area? Um, where he would, I mean, is the leasing market slow act? I mean, just ask them and if they start quoting some actual data, then I know that they're.
+
+I don't even care if they make it up a little bit. They're trying to, you know, I, I want to hear something, not just like, oh, yeah, it's hot. Everything's great, man. It's hot. Whatever you want. I mean, if, if they're using that kind of language, I'm going to run away from that conversation as quickly as possible.
+
+Can 
+
+**Athena:** you rattle off some qualifying questions we might ask for those of us that have never done this before? 
+
+**Andrew:** Yeah, so, I mean, especially right now, I'm going to ask, hey, what's, what's the market been like? Obviously, there's huge influx during COVID. What was the aftermath? Have you, have you seen any return to normal?
+
+Have you, um, what's, what's, uh, you know, if I'm asking about leasing, what's a leasing activity, [00:53:00] leasing activity in this square footage range been for you? You know, some things like that, that I want to ask, I want to ask something that they can't totally be as an answer to me on. Um, I, and I, I apologize. A lot of my stuff is very is kind of focused towards industrial.
+
+That's what I understand. That's what I know. But we, I mean, for coven, I mean, we had massive, massive growth and distribution warehousing. Everything was just booming because interest rates were low and then we, you know, we'd never saw any properties above 100 bucks a square foot. Then suddenly everything was above 100 bucks a foot.
+
+And now the market slowed down and we've got some vacancy, you know, and we've got, we were down to 3 percent vacancy in 22. we're up to 6 percent in 24, 25. And that's all, even though it's a 3 percent bump, you're seeing a lot of buildings that are sitting vacant for an extra 3 months now. And how, how, how intelligently can they speak on what the market's doing?[00:54:00] 
+
+The other thing is. You're going to have to, I mean, to some degree, if you get someone like me, I'm going to talk a lot and give you some time and I'm not going to charge anything for it. I am probably not the norm. Most people are going to want some degree of consideration. If you don't have. You know, 7 degrees of Kevin Bacon to that person.
+
+And that maybe that's the best way to start. Who do you know in the industry? You know, Athena knows, Athena knows an office guy that works for JLL in Austin. Well, they've got an industrial guy or a retail guy that can make, you know, one point of, you know, to one degree of separation to Athena and you've got some validity to have that conversation.
+
+Maybe that's the quickest and easiest way to do it. 
+
+**Athena:** That's a great point, you know, like, going out to your network and like, who who in my network commercial real estate. Right? And then the 
+
+**Andrew:** only thing and this is somebody who came from the residential world. Do not ask somebody who does [00:55:00] both if they do both residential and commercial.
+
+They do not know what they're talking about. 
+
+**Athena:** Okay, that's a really good point too because most people might not know that, right? But I, I think what you said, make sure you're talking to someone transacting in the square foot that you're looking at. Like, again, I, that wouldn't be the, the second you say it, I'm like, that's such common sense.
+
+And we, we talk about this with people, when you're hiring your attorneys to go through this process of buying a business. Don't use your buddy that's done 100 million dollar transactions, you know, like, Oh, they've done a ton of acquisitions in 100 million dollar range. It's a completely different game than a small business.
+
+That's a couple million using SBA funding, you know, with a unsophisticated seller and broker in the mix and probably a family attorney on the other side. There's a way of going through that. Whereas we see deals die because they bring in their buddy that has all this like private equity or like very large transaction experience that then ends up killing the deal because they're just [00:56:00] being too aggressive on terms that don't make sense in this world.
+
+So equally, if you're going to talk to a real estate expert. You know, talking to someone that knows the type and the size of the things that you're going in, in addition to local, in addition to not being somebody that will do anything and commercial and all the things so well, 
+
+**Andrew:** and you should be able to surmise quite a bit from what's the competition in the areas.
+
+Right? I mean, just see what's active on the market. Hopefully there's more than like two properties out there that you can look at and just think about put yourself in the mind of a business owner. I mean, if I'm, if I'm a, I keep going back to like a lawn business, I'm a lawn business and I'm paying, you know, for a 2000 square foot space, I'm paying like 10 grand a month.
+
+Does that make sense to a lawn business? No, that doesn't. I mean, no, most lawn businesses cannot afford that. So is that like something's out of whack [00:57:00] there? 
+
+**Athena:** Yeah, um, this is great stuff. So I know you said you're not a tax professional, but I know enough to be dangerous in terms of generalities of where real estate can be a real tax advantage in business.
+
+Right? I think most people here in W2s, you're not able to take advantage of some of these, like, tax strategies that you can when you're a business owner. Especially when you're buying investment properties or real estate. So are you able to speak in kind of generalities on, you know, these. Things like 1031 and cost segregation and depreciation and like, these tools that people don't realize are available that when you buy this property, now you're unlocking a whole bunch of potential tax deductions if you, if you include that in your transaction.
+
+**Andrew:** Well, that's a, that's a can of worms. Let's, let's talk about the 1031 first. That's the easiest one to understand. So effectively, if I, if I own a piece of property and I want to sell that property and buy [00:58:00] something else with that, I can do what's called a 1031 exchange, meaning that I'm going to trade like for like, I'm buying two different buildings.
+
+The federal government says that I can do that without taking a tax hickey on that. On the profit that I make in between those. So, if I make a profit of a million dollars selling this building and I put that million dollars as a down payment on this building, I don't get taxed on that. It's a deferred tax.
+
+Now, what happens to that tax? It doesn't disappear. It just piggybacks onto the other building. And all of a sudden that tax comes due when you inevitably sell the next property. But if you continue to 1031 into oblivion, yeah, Jason said 
+
+**Athena:** forever. 
+
+**Andrew:** So that's exactly right. And so you can, you can do that. And it's a huge, huge tax benefit.
+
+If you create value, if you pay down the debt on this business, if you create 600, 000 of free equity or free cashflow or whatever equity in the property, you put yourself on a triple net lease. So do a sell [00:59:00] lease back yourself, take that 600, 000 and you can turn that 600, 000 into 100, 000 of cash flow in another property.
+
+And that's just a way for you to have a tax free income source. You're still going to be taking risk on buying investment real estate. But I mean, I could, I could give you literally 30, 40 examples of people doing that at a high level and that working out very, very well. The other thing that's really niche, but I think would apply to a lot of people that are buying.
+
+Small businesses, perhaps during Trump's 1st administration, he put in something called the, um, uh, opportunity zones. So, opportunity zones are locations throughout the United States that are designated by the federal government saying that they need to have some investment capital poured back into them.
+
+So, what you can do is you can cash out of any, you can cash out of your 401k, you can cash out of your bank, you can cash out of any investment. Put it into an [01:00:00] opportunity zone property, and if you hold that property for 10 years, the gain, the total capital gains tax is erased. It is gone. So the catch is if you only own it for 3 years or 5 years, it only reduces that capital gains tax by a certain percentage for as long as you hold it.
+
+The idea is that you hold it long enough. Which means you're not just flipping the property. You're actually trying to make it a better area, which is in turn better for the economy. You get the benefit of that tax deferment. So, if you happen to be buying a business that's in a rougher part of town, perhaps that's got a.
+
+You know, that's got, you know, it's in an opportunity zone. It's an old metal building. It might make sense for you to cash out your 401k and take it straight into there and have a tax deferred. I mean, you're not, you're not going to get, you're not going to pay taxes on that. So that's a huge, and no one talks about opportunity zones.
+
+There's a ton of money in opportunity zones. Now, of course, a lot of private equity bought [01:01:00] most of the good stuff, but if you've got, if you've got a property that happens to fall into an opportunity zone, you might have just unlocked another source of equity. If you've got the investments and other places that you could utilize them 
+
+**Athena:** or, you know, with the sale, lease back potential technique.
+
+Like, I know private capital providers that are specifically looking at like opportunity zones or, um, you know, disadvantaged. People or places, and they're like more impact investors. So it's like private banks basically that will put money into these types of things, um, because of that opportunity zone things.
+
+So if you don't necessarily wanna take the bet that that , that opportunity zone will become better. Like there's someone else that might be, and then you can, you know, get that sale, lease back opportunity or, or you know, get someone else in as the landlord. Um, if the owner wants out. And you don't want to buy the property yourself.
+
+So, um, yeah, good, good point on the opportunity zones. [01:02:00] And it's a interesting one to check. Like if you're, if you're buying in that area, how do you find out whether something's in an opportunity zone? 
+
+**Andrew:** There's a map. I mean, you literally type in opportunity, you know, federal government, uh, opportunity zones.
+
+I mean, last time I went to it, you kind of got to dig a little bit, but there's literally an overlay map, a GIS map that'll show you where they are. 
+
+**Athena:** Great, I'm I'm looking at Anka so, like, all of those qualifying questions, the correct see the opportunities on map. We're going to chase you for your slides.
+
+We're going to put this all in the replay too. So we're collecting all these resources that you're mentioning because you're, you're listening. Some good ones, 
+
+**Andrew:** the, the, the other what you said about accelerating accelerated appreciation. Um, you know, you get to depreciate the property over the I think it's a 37 or 39 years.
+
+I can't remember, um, the useful life of a commercial property from the federal government standpoint. You can do an accelerated depreciation on those. You got to do a cost segregation study, which effectively goes in and [01:03:00] dictates what the useful life of all the equipment in that property is. So you've got a, you know, you've got a, I don't know, an in place.
+
+1000 pound welding machine. Okay, well, the useful life of that is X, but you can take the total depreciation of that in year 1 or year 2 to whenever you do that depreciation study. The kicker there is that is. Again, deferring, you're going to have to pay at some point. So you'll see a lot of people that take that accelerated depreciation up front and they get a huge influx of capital or cash flow in that 1st year, but they don't invest it wisely or hold on to a wisely.
+
+It's going to come do at some. Now, when it gets beyond there, as far as a strategy. I, I don't, I would kind of stay away from that because I'm not a tax professional, but, um, you can do cost segregation studies to take accelerated depreciation. But even if you don't do accelerated. There are benefits to owning real estate by way of depreciation.
+
+I mean, listen, [01:04:00] everybody and their dog is, if you've got the business and the real estate in two separate entities, you better believe my Costco runs are going on the real estate. And I'm going to, I'm going to take that off as a, you know, you know, I'm not, I'm going to owe zero tax on the property side by the end of the year, period.
+
+So, I'm like, you know, I can rob Peter to pay Paul here and still have my cake and eat it too. If you have, but you just got to be careful with it, make sure you can back it up. 
+
+**Athena:** Love it. Um, this is all great stuff. Does anyone else have any questions for Andrew? I think we've covered. Most of the things that I think are, you know, important to think about.
+
+So you 1 thing you did mention, like, let's say we get in touch with the local real estate person. We find out that no 1 in our network knows someone. So we have to kind of cold call and find an expert. Like, how how are they incentivized? Is it like a consulting fee? Or, like, how can we potentially engage someone if [01:05:00] we don't have any relationships that that would get a professional that would talk to us?
+
+**Andrew:** Well, there's several options there. I, if that's the case, if I don't have any kind of connection to it, frankly, my 1st call is probably going to be, um, to a, uh. I might probably try to call a real estate attorney 1st, honestly, because they're going to have some more connections and maybe they can answer a lot of the questions and I'd rather get a, um, a cost per hour from an attorney than I would from a real estate agent or broker because I won't dive into the functions of a commercial real estate broker.
+
+But. You know, if you're paying somebody 500 dollars an hour do that, they ain't making 500 dollars themselves. And so if they're going to put their time and effort into it, you have to incentivize them pretty well. If you don't have some degree of separation to that individual. Now, maybe you could, you can sign up to give them a fee at closing.
+
+Right? You could make that. You could put that as a negotiation into on the [01:06:00] seller. You could say, Hey, we're going to get an independent third party and we're going to pay this person 234 percent of the gross value of the lease just to make sure that we're setting the terms equally. And I fully expect the seller to pay that fee.
+
+Right, if you can dangle that carrot a little bit, you can get pretty far. So it depends. 
+
+**Athena:** So when you say the seller to pay the fee, so if like, is this like, if you're not agreeing, or you need, you need a 3rd party kind of like, valuation on the property value or the lease value and then you can find this, this 3rd party person, um, they'll get paid 3 percent of the lease value is like, over 10 years or 1.
+
+yeah, well, so. 
+
+**Andrew:** Yeah, so typically, so what they would do in that instance, let's say we go back to that five year initial term, five year extension. We're not going to get paid on an extension. You're going to get paid that first five years. That's the only thing that's guaranteed to happen at, you know, guaranteed, assuming nothing [01:07:00] goes belly up.
+
+Um, now, in that situation, obviously, you've already got to, you know, you've got a meeting of the minds between the tenant and the landlord. So, is the broker really doing a whole lot? No, but they are bringing market knowledge. So maybe it's not a 3%. Maybe it's 1. 5. Maybe it's 2. But if you're talking about a gross lease value of 500, 000 over the course of 5 years.
+
+The fee is going to be so small that they're not going to give very much consideration to it. And so it, I hate to put a giant asterisk next to that, Athena, but they're, it totally depends on the deal size. Because when it gets to a certain point, maybe I just call a commercial real estate appraiser. I'd rather just do that.
+
+Maybe it's cheaper to do that. 
+
+**Athena:** Okay. So that those, those folks exist too, where you can just get an appraiser. Oh, yeah. 
+
+**Andrew:** Yeah. I mean, they're, they're not cheap either, but they can be, they can give you a flat fee and they're going to have a lot of data behind it. Um, the trickiest thing about commercial real estate is that there's, like I said, at the very beginning, there is not enough, [01:08:00] you know, there's not 300 homes right next to it.
+
+That are the exact same property. There's just not. So there's a, there's a high degree of subjectivity and in our industry, which is why they look at it on an income approach based off of what the is. Um, but because of that, you could lose your pants pretty easily if you don't get some good, um, good advice, but common sense will get people a pretty, pretty far.
+
+But if you get a little bit beyond that common sense, you can actually leverage it to create some opportunity. Like, we were talking with the sale lease back, or even if you don't want to do this, I mean, it's just nice to know that you have some equity in the property that would make me feel a lot better at night knowing that I walk into the deal with 25, 30 percent equity.
+
+Based off of an appraised value rather than 5%, 
+
+**Athena:** you know, that just you could refine and have that cash if you needed to. 
+
+**Andrew:** Yes. Yeah, or just in general, if you're conservative, you don't want to just have a 1M dollar property [01:09:00] loan out here. On a business you just bought and don't know anything about yet, you know, maybe it's nice to walk in with a little bit of a cushion and in the event that you need to fire sell it.
+
+You've got some room to pay off the note, right? I don't need to make any money, but all I have to do is sell it for 75 percent of what I paid for it. And I'm not losing my shirt. 
+
+**Athena:** Yeah, really good points. Um, so something I, I just struggle with, and maybe you can speak to this because I know it's far more common and real estate to have the percentage on the deals.
+
+But, like, if you're, you're the buyer and someone's incentivized by a percent percentage of the property value or the sale price, like. Aren't they going to want you to pay more?
+
+**Andrew:** Um, yeah, but you're going to, you're going to, there's checks and balances in place for from an appraised value. You have to back it up on the market. Right? So, so it can't be [01:10:00] inflationary about. Yeah, but that that's a totally valid. Totally valid question and that would be kind of go back to the qualifying that person's experience and what they can bring to the table.
+
+You know, if I, if the only thing they can produce or 8 per square foot leases, and they want me to sign a 10 or 11 per square foot lease, but it's actually funny. So now you say that do the math, like, look at an 8 per square foot building, a 10, 000 square foot, multiply it by 3 percent and then do the same thing on a 10 per square foot.
+
+It's actually not that big of a spread. Okay. You're talking about a pretty negligible amount, a couple hundred dollars here and there, and the brokers, they want to get something done. They don't want to, I'd rather make, you know, 50 cents today than have the idea of making a dollar 50 in the next month.
+
+**Athena:** It's something that I think about a lot, like at least in business buying, there's much bigger swings of like, you know, the percentages on the buy side. So I, I know real estate's much more [01:11:00] established in terms of the buy and sell side and the transactions and there's licensing. Although, as we talked about, most of the training is based on residential and there's like, even though you're, you're licensed, they're not teaching you commercial real estate with the requirements of the state and stuff.
+
+So, so what that means is that, you know. These folks could have licenses or be licensed professionals, but not actually have a ton of, um, you know, training or experience and commercial real estate and still be able to transact commercial real estate 
+
+**Andrew:** big time, big time, 80, 20, right? 20 percent of the business done by or 80 percent of the business is done by 20 percent of the people.
+
+**Athena:** Yeah. So you want to, you want to find the good ones that know what they're talking about and give you some confidence there. Yeah. Um, are there any things that you see people get caught out on their first commercial real estate lease [01:12:00] or purchase? Like common problems or things that come up with the sale or the lease?
+
+**Andrew:** One of the biggest things, and this is, this is looking at through the lens of pure investment. You know, not necessarily taking into consideration the business. But I think this does play into that. You have to look at the retain and ability of that property. If something were to go wrong, what is the likelihood of how how long is my vacancy going to be?
+
+And am I prepared to cover that spread? Because it's not like a house. You can't just put it on the market and 3 days later, it's under contract. It's even if you want to sell it, it might take you three to six months. It might take longer than that, depending on where the debt is, or, you know, like last year's election year, ain't no capital coming out of bed unless it's just a slam dunk.
+
+Um, it just, there's too many factors in the commercial real estate world to, to not consider what the retentability is, which is why I kind of wanted to [01:13:00] give that family dollar perspective. And you just got to weigh that risk with. What you know, what, right? When I, it's hard for me to say, cause I understand it a little bit better, but you just kind of got to look at the big picture.
+
+Like, okay, if stuff hits the fan, can I get somebody else in this property? And if I'm nervous about that, maybe I try to underwrite that deal without buying the real estate and give myself an option at the end of the five year to buy. Maybe I'll feel more comfortable then taking that risk. 
+
+**Athena:** Yeah, that's the beauty of the first right of refusal is like, then you get your feet under you on the business.
+
+You have more experience. You get to test drive the place that you're going to buy before you buy it. And you have the option to buy it. You know, if, if, uh, if they've given you that and if you've negotiated that, um, okay, so this has been really good stuff. I'm now curious to pick your brain on what's happening in the market and market predictions in terms [01:14:00] of, you know, I mean, you're, you're also looking to buy businesses.
+
+So how, how do you. Weigh that up against what you're seeing in real estate or things that you see coming down the track. Now, the new administration's getting in there and shaking things up. And, you know, these, these, you know, tariffs that a lot of people are concerned on from businesses. I don't know if that has an effect on real estate, but like, what market trends or factors or predictions or things that are you seeing?
+
+That would be interesting for us to bear in mind. 
+
+**Andrew:** I want to look at what, you know. Let's talk about residential. Where do we get, like, 70 percent of our lumber? Canada. What does that do to the residential market if they got 25 percent tariffs on top? How many people can afford a home in Austin right now if you're under the age of, like, 50?
+
+You know, uh, you can't. I mean, it doesn't, it's not logical. So what does that, what does that do? I mean, it's the same thing with, you know, steel. Well, you know, we get to do a [01:15:00] lot of steel, but there, I mean, we're getting a lot of imported steel to that affects commercial property. Um, where are you getting your goods from?
+
+You know, are you getting it from China? Are you getting it from Mexico? You getting it from Canada that affects property. Um, we had a huge, it depends on what asset class you're talking about. There's always going to be, there's always going to be a need for it. I don't think that you're going to see a lot of people talking about the Fed reducing the rate.
+
+Again, I, I just don't see a world where that is logical, um, especially adding these tariffs. I don't think it's logical. I think that would as much as I would like for it to happen. I think you're talking about a temporary reprieve. I mean, it's, it's not going to be, it's not going to solve long term issues.
+
+Um, so I think we actually, there's a. I think we'll probably hover where we are right now for a while. Um, like anything that involves a human being from a commercial real estate perspective, you've got sellers who think they can still sell for the same rate that they, [01:16:00] people, their buddy was getting in 2022.
+
+I mean, it's the same thing that residential has like, well, my down the street neighbor got this. It's the same thing commercial. These guys bought these properties, these, you know, hoedown properties for 30 bucks a foot and 75. And suddenly think that they can get 150 bucks a foot because their buddy told him they could.
+
+So, as it relates to commercial real estate and, and I want to make sure that I'm valuing that real estate properly. And if I can't, like, it's not pushing back on what you said, because I agree as far as valuing them separately, but if I can't. Stand the real estate up on its own. I've got to make sure I'm making up for it over here because if I've got Joe Schmo seller thinking that my property is worth 100 bucks a foot and he's not coming off that Hill.
+
+All right. I'll give you 100 bucks a foot, but I'm going to give you 2 and a half times instead of 3, you know, or 2, whatever. I'm going to try to make it to where I can balance that spread. Um, and I, [01:17:00] I don't know. I think.
+
+The market's fine. It's slower. It slowed down a lot, but it needed to slow down. Um, and we'll see you've got a lot of vacant. I mean, we'll go look at and see how much, um, commercial concrete tilt wall distribution space was built in 2023. Um, or plans to and look how much actually was built and look at the vacancy rate on it.
+
+Very high. Um, uh, Chicago historically is the number 1 industrial, you know, new construction or industrial in the country and Texas beat it by over double in 2022 and 23, but you're seeing a ton of vacancy and a ton of, uh, bailouts on some leases. Um, But if you look long term at, you know, trying to the whole idea of the tariffs, in my opinion, is to try to bring manufacturing back to the US.
+
+I think that's a great idea. And I think that's going to be [01:18:00] benefit everybody, but you can't kind of kind of got the cart before the horse. You got to incentivize manufacturers to start building here. And now you've got a scenario where, in order to build the manufacturing plant, it's actually now more expensive because you put these tariffs in place.
+
+Um, so that was you should have had a plan before you did that. If you want to encourage manufacturing. Um, I don't know. I, it's I, I think we'll continue to see interest rates or I mean, cap rates where they are most even like, you know, if you see a. An Amazon, well, it's not a good example. They don't sell it, but I don't know insert publicly traded company.
+
+That's doing very favorably. Those retail spaces are really unless you're like. You know, Manhattan or something like that. They're not trading at a 5 percent cap rate. They're trading at a 7. 5, 8. And it's mainly private equity money doing that. And they're only doing it because they have to spend that capital or they're going to get a huge tax hickey.
+
+So, I mean, you've got [01:19:00] a lot of, there's a lot of factors there. That's probably a, I could talk to you about that for like. Hours Athena, but I don't know if anybody else cares to hear it. 
+
+**Athena:** I mean, I'm fascinated. I know Ryan really likes looking at the movement of markets to actually the whole team does.
+
+We're, we're like, you know, business and market obsessed and trend obsessed, but, um, yeah, it'll be interesting to see what happened. I mean, I, with the, the tariffs, a lot of people are concerned about it. You know, it's too soon to tell, like, what impact or who is going to stomach the cost of that. But it is something to be aware of, but you're, you're making really great points.
+
+Right? Like, um, if you want more manufacturing here, we need to get more manufacturing here before we just cut off our supplies from everywhere else or increase the cost of those supplies from everywhere else. So look at the time there. 
+
+**Andrew:** The best source of information there is you go look at what FDR [01:20:00] did during World War II and how long it took for us to ramp up the industrial revolution, not revolution, the industrial sector of the United States.
+
+It didn't take 1 year. It took 3 to 5 years and that was when we were at war. So, if you want to, you've got to, you've got to give some time to build the infrastructure needed, um, to support it. But anyways, I'll There's the likelihood that he rolls back some of those tariffs. I feel like are pretty. Pretty strong, in my opinion, but 
+
+**Anke:** I think it's more of a 
+
+**Andrew:** more of a flex than it is a reality 
+
+**Athena:** showing showing that he can.
+
+Um, 
+
+**Andrew:** yeah, 
+
+**Athena:** yeah, it's, it's, uh, I saw a video the other night. Somebody like, his presidential address is like a, you know. Um, and I know everybody feels differently about whether they're [01:21:00] for or against so it's not to get into a political political conversation. It's just a really interesting time. Um, so this has been great.
+
+I haven't seen any hands go up. So I'm assuming there's no, um, Questions from everybody that's here. Um, but this has been really, uh, fascinating and educational. And, uh, I think you explained it in terms that, um, just are very simple. And it's funny. I think I told you this, but when I was 1st, looking at a car wash that had real estate attached to it, and I was like, going around to all of the real estate meetups in Austin, and I was like, explain it to me.
+
+And I was just like. Like, how, how are you guys in real estate and you can't explain it to me like in simple terms, I'm like, but how do you make money? You know, it's like, oh, you just keep retreating it. It was like, you make money out of thin air. Like, I don't get it. You know, so it's, it's still a concept that I'm wrapping my head around when it comes to car washes.
+
+I'm like, it's not a business play for me. Like car washes are a real [01:22:00] estate play the way that they're trading right now. So that's what I ended up like, you know, yeah. Getting to the bottom of there, because I was like trying to make it make sense. But I think real estate offers such cool opportunities if it's not a car wash, you know, and unlocks all these additional tools that we can use in terms of structuring cashflow.
+
+Equity injection like it just gives us a lot more tools in the toolkit and can make I mean, like a lot of the lenders love it when real estate is involved because now they have an asset in a lot of these businesses where there's there's not a lot of collateral against against these loans. So it can actually make lenders more confident.
+
+They'll give more favorable rates if you're to buy it, et cetera. So, um. This has been fun. Thank you so much for giving your time and expertise. I think there's so much value, um, that you've given us and, and everybody here. So really appreciate it, Andrew. 
+
+**Ryan:** Yeah, happy to help. I got [01:23:00] examples for days. So if anybody has questions 
+
+**Andrew:** or specific things, it's such a hard topic to You can't really put a ribbon on it.
+
+There's too many opportunities and too many ways to skin the cat. But I understand the basic terms and understanding what the terms are being thrown around is really step one. But it's still a, it's still common sense. It's not rocket science. It's still common sense. You just kind of got to think about it differently.
+
+So yeah, 
+
+**Athena:** thinking about it differently and making sure you got the right advisors in your corner, like, 
+
+**Anke:** yeah. 
+
+**Athena:** Don't, don't do this alone or don't let the bank do the valuation on their, you know, it's like, make sure you have, you have an Andrew in your corner when you go through this and, um, you know, part of your deal team, if there's real estate involved and it's a huge benefit, you know, cause they're going to catch things like the useful life that, I mean, as soon as you said, I'm like, Oh my God, yeah, because triple net, like you have to replace the whole HVAC system and you're there for another year.
+
+And. It's awesome. Like a really great point and I'm sure there's even more gold we can [01:24:00] extract from you over time. So thanks again. Great to see everybody. Um, we are scheduling some exciting sessions to come on Tuesday. We'll be like, bring your deals, bring your challenges. Maybe you've got a deal where you're looking at real estate and we can talk about that.
+
+And we'll kind of revisit some of the thoughts that we had here and then Thursday we'll bring another expert. Uh, I am kind of waiting. We're, we're building a new, like, Okay. Full rolls Royce, like financial modeling templates. I'm hoping it's going to be ready for next Thursday. So I can take you all through it, but no promises.
+
+So it'll be in the next week or 2. it's close. But now that you said the rate increase on the rent, I'm like, I'm going to add that as a little thing that you can do if you're building in, like, uh, you know, 4 percent signing that in. So, um, good stuff. Cool. Well, thanks Andrew. We'll see you soon. We'll see everybody soon.
+
+Thanks for joining us. We'll see you next time. Tuesday. Um, I always laugh when I say that because I know what it stands for [01:25:00] living in the UK for a long time. Sorry, said a bad word. Um, cool. We'll see you next week. Have a great weekend. In the meantime, everyone. And thanks again, Andrew. So, 
+
+**Anke:** yeah, 
+
+**Athena:** thanks guys.
+
+**Ryan:** So, 
+
+**Anke:** yeah.
+
