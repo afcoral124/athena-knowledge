@@ -1,0 +1,534 @@
+# Workshop 5: Should You Buy a Business
+
+[00:00:00] 
+
+**video1139485674:** Hello. Hello. Welcome. Welcome. I am so excited to talk about this topic today. This is something I am super passionate about. Any of you that know me know I rant about a lot of this stuff. It is literally what I am obsessed with, what the team is obsessed with. So we're letting people trickle in. While you trickle in, I would love to hear a little bit about you.
+
+Where are you located in this world and what is your biz buying situation? So give us a code there. One on one if you're brand new to this, you have no idea what the business buying opportunity is. So, this is a great example of making a list of things. Two or two might be you've tabbled, you've looked at some listings.
+
+The advanced would be I've made an offer, I've gotten into due diligence, bought a business, own. You're a current business owner. Maybe you're a combination of these, but this really helps us to see where you're at. I am aiming this as if you are brand new to it, so it's all good, but there might be some stuff in there.
+
+That will be good for those of you that [00:01:00] are the two oh twos that are joining. So cool. We've got, Hey Dean from Denver. We've got Tessa from Long Island, Mike from two Oh two. Cool. We got, uh, the OC California Luke brand new to this Michael Cortez in Orlando, Michael. Uh, three Oh three. Okay. So a little bit more advanced.
+
+Awesome. Andrew from Canada. Welcome. Welcome. Awesome. Greater Boston area. Got some 202s and 101s. Okay. This will be great for you. Your two oh twos. I know you know the opportunity and you've dabbled, but we're going to get a little bit into the specifics and watch outs here. So this will be good for you to, rich in New York has been at this for six months, more than two or two made offers and nothing accepted yet.
+
+Yes, we see a lot of that. Okay, cool. Well, people are still going to be trickling in, but let's go ahead and get started. And let me make sure that my, okay. [00:02:00] There we go. Let's get this working. Okay. So who is this for? This is kind of aimed at aspiring entrepreneurs. Uh, golden handcuff refugees. You're tired of working for someone else.
+
+You want to be the master of your own destiny, risk takers, skeptics, investors, current searchers should also be on this most of what I'm going to talk about with the financial structuring is for U. S. Based folks. But outside of the U. S. This opportunity still exists. There's just going to be different financing tools that you're going to use.
+
+So if you're outside of the US, I saw some Canada in there. It's all good. Uh, there's going to be a lot of information here for you to take away and you'll just need to apply different financing tools, which we won't get too deep into today. So I'm still not getting my mic working there. There we go.
+
+Okay, cool. Let's make sure this is okay. Cool. Cool. So. There is going to be a replay. I'm going to be throwing a lot of stuff at you. We'll send it out tomorrow [00:03:00] in an email. We're planning on going for about an hour and a half today. We want to leave some time for questions at the end. And when I was putting this together, I realized I have so much to say about this that's not being said.
+
+So strap in. It's going to get a little jargony. I've tried to remove the jargon as much as possible, but bear with me. I'm going to try to give you some definitions as we go through. And then also at the end, we've created a download template for you to have all the key terms with definitions in like plain English.
+
+So you'll be able to understand a lot of this stuff. When you start getting into this world, there are so many acronyms and jargon terms, it's like your head's spinning, just trying to learn a new language. So. Let's first talk about the business buying opportunity. Y'all are here because you're interested in like, what, what is this, right?
+
+What is the actual opportunity in buying a business? And you've probably heard this, but there are 10, 000 people that are hitting the age of 65 every single day. [00:04:00] And night, 19 percent of these folks are small business owners. Three quarters of them are profitable. And when you have 1500 profitable business owners retiring every day.
+
+For the next five to 20 years, depending on who you're listening to, uh, you've got a lot of businesses that aren't going to survive because their kids don't want to take them over. Now, if we look at succession success rates, only 30 percent of these businesses actually survive a generational handover.
+
+So their kids shouldn't be taking these businesses over. And when we think about it in the U S 99. 99 percent of businesses are small businesses. When we say small, we're meaning like sub 5 million, sub 20 million, depending on how you define it. But these small businesses are crucial to our economy and are necessary to keep moving forward.
+
+So when we look at the other side of this, when people are like, I want to be an entrepreneur, they naturally [00:05:00] go to wanting to start a business. But startups are super risky. And this is something I could rant about for another hour and a half or longer, but 50 to 99 percent of startups, depending on who you're listening to, will not make it to your five and only 4 percent of those make it to over a million dollars in revenue.
+
+Now, why is that important? A, The reality of starting a business is even more harrowing than anything else out there. But B, if you're looking at a business that's been in existence for more than five years, that has over a million dollars in revenue, you're looking at the top percent of the top percent of businesses in this country.
+
+So what is also very cool about this opportunity is the government wants you to buy these businesses. They are offering money for you to buy a hundred percent of these business. For as little as 2. 5 to 5 percent in, and I'm going to show you a breakdown of that later, but the big takeaway here is you can get support to actually buy [00:06:00] these businesses.
+
+And when you buy a profitable, not a turnaround, right? We don't like turnarounds. So I'm talking about profitable businesses. So You can get venture capital like returns without the startup failure risk. So the venture capital model is to invest in 10 to 30, knowing that only one of them is actually going to hit, right?
+
+So it's super risky, but if you end up investing in something like an Uber, you can get a massive return. So for my investor folks that are in the room, you can be looking at a internal rate of return in the range of 20 to 40 percent and your multiple uninvested capital can reach five to 10 acts when you're investing in profitable businesses.
+
+So they are highly attractive from an investment standpoint because there's high returns with limited risk and the cashflow is what brings most people here. So I know quite a few of you are probably coming to https: otter. ai To me from the real estate investment world, you thought it was going to return some cash flow, maybe not as hoped.[00:07:00] 
+
+So cashflow is king. That is cash in the bank. And often with these businesses, if you structure it right, you can get your invested money back in one year. With profit while paying yourself a salary. And then every year after that is just profit, right? So we're getting really excited. And then on top of that, we have this golden handcuff situation.
+
+Executive roles are more responsibility, less time, less flexibility. There's increasing competition for these C suite and higher level management roles. There's a lack of work life balance, you don't have autonomy, you're making money for someone else. And honestly, if they decide to do a reorg and you don't fit on the P& L, they can just let you go.
+
+So there's not really that great of security. So for the down payment house, the house down payment costs, you can be a stable, profitable business owner, the master of your own destiny, and the savior of a small business in this [00:08:00] country. So, hello, who am I? I'm Athena Simpson. I am an acquisition matchmaker, founder of Unrestricted Ventures, and we offer a service called Acquimatch.
+
+I am also a fellow searcher. My background started out as an intrapreneur in businesses, so I created new business functions and new products within businesses, and I got to use other people's money to do that. So, I did that in award winning, uh, marketing agencies in both the LA and London. And then I also created the internal event agency and franchisable licensable event products at Guinness world records.
+
+And while I was there, I started my first business in food, knowing absolutely nothing about food. And I did everything wrong. And I got super passionate about helping other founders avoid all of the pitfalls that I ran into. So I started doing a lot of mentoring and. Port of young entrepreneurs. I also then joined the largest food tech [00:09:00] community as a partner.
+
+In that business, and we grew that community to thousands of food tech startups, hundreds of investors, everything from angel to sovereign wealth and hundreds of food corporates that wanted to know how to innovate. So we brought all those people together, and that's where I started really getting deep access and knowledge into M& A and investment.
+
+But this was always from the private equity and corporate level, right? Or VC. So. I am also a business consultant, have been doing that for over 10 years. And I was a lecturer at the McCombs school of business here in Austin, Texas on entrepreneurship. So I love business. It's one of my love languages. I have been client servicing for most of my career, so this isn't to show off.
+
+It's just when I go to a talk, I'm like, who the hell are you? Here are some folks that I have worked with and advised over my career on everything from business strategy, marketing strategy, innovation, investment. You name it. Uh, how to grow your business. Had some really [00:10:00] amazing looks into thousands of businesses now.
+
+So when I came to Austin in 2022, I was a business consultant and I was wrestling with the conundrum of not being leveraged. I knew I was getting a high amount of money for my insight and time helping other people improve their businesses, but I wasn't leveraged. I wasn't making money if I didn't Spend time doing this work, and I walked into an event, not knowing what the topic was.
+
+I just knew it was a business event. Alex Hermosi had spoken there before, so I was like, I'm here. And it turned out to be a room of folks, individuals that bought businesses. And I was like, wait, People buy businesses. What is going on? And it just hit me like lightning bolt when somebody said, why start a business when you can buy a profitable one?
+
+So that's when I became a searcher and I went crazy. I wanted to learn everything I possibly could because it made so much sense to me to [00:11:00] buy an already working business, skip the zero to one of a startup and apply my knowledge and skill set to be able to grow it. Well, I did everything I could to source businesses.
+
+I ended up, going off market. As they say, going direct to business owners. I set up email campaigns. I set up direct like snail mail campaigns. I partnered with the alumni association at the university. I was hosting events. I was getting listed in the paper. I was doing everything I could think of to source a business.
+
+And I ended up finding one. And it was. The first time that I legitimately saw myself in the business so bad that I was willing to move to Dallas, which was never on my radar. But this business was such a firecracker and so perfect for my skill set and background, I had to have it. And it was super competitive because it was doing 2 million in profit every year and like more than doubling every year.
+
+And there was no end in sight for its growth ability. [00:12:00] So as you can imagine, there was a lot of people that were interested in this business. And here I am a first time searcher having to go after what I offered an 8 million deal. And I hadn't really learned deeply all of the things about how to use SBA and what the process was like.
+
+I just knew I had to have the business. So it was a baptism of fire that had me. Put into a situation where I had to raise 3 million of investment just to stay in the running on this deal. And I had to do it in five days over Labor Day weekend. And I was like, I need to have this business so bad. I'm going to figure it out.
+
+So I spent Labor Day weekend raising 3 million. And in five days, I was able to get all the commitments to show the bank that I would be able to bring the money to be able to finance this deal, which then made the broker happy that I was going to be able to get the deal done. And they kept me in the running.
+
+The problem was is that I wasn't competitive enough, and I lost the deal to a strategic investor who [00:13:00] offered two million more in enterprise value than I did. And what I learned from that experience was I was the right owner of that business, hands down, but I was not the right buyer because I didn't know how the game was played.
+
+I didn't know enough about structuring. I didn't know how to use all the tools. I didn't know how to be competitive against these folks that had the information, resources and ability to offer more than me. And the thing was, is I could have matched their offer had I had the knowledge that I do now. Two things happened as a result of that.
+
+I don't like losing. So I went out and learned everything I could. So I was never put in that situation to lose again. And I had investors that still wanted to buy businesses and I didn't want to stop searching. So couple of my investors took a chance on me. And Acquimatch was born. I was like, let me run your search for you.
+
+And now we are doing absolutely amazing. We've gotten a hundred percent of our clients into signed LOIs. [00:14:00] We offer a personalized SMB search and match service to help folks acquire a The one, right? So we help you with a tailored acquisition strategy. My team who are here with me today, they go and search on and off market to source you your perfect business.
+
+We're analyzing it, embedding it so that you're only looking at amazing quality deals that are a good match for you. And you get consultancy and support along the way so that you can be competitive and be the right buyer as well as the right owner. So you'll see some of their faces here on the screen.
+
+Uh, the zoom chat, but it's not just me now. I've got a team and we're growing. We're actually hiring more. We're vetting support and sales support and prospecting. If you know anyone, we would love to have them join our team. But Anca, who looks after our operations and helps us to process thousands of deals every vetting director, and he's actually going out there hunting, reviewing, Betting and consulting our clients through the process making [00:15:00] offer.
+
+Masam heads up our data and lead gen team are going out and hunting on and off market to find quality leads of businesses for our clients. Brim has just joined us and she is supporting us and our team and Ida, who is also here today and Pretty much her main job is chasing people because as you will find out if you've been through this, there is a lot of chasing involved to get what you need.
+
+So she is amazing. She keeps us all on track and keeps us with the information that we need to be able to move forward for our clients. Okay. Enough about us. This is all about you and giving you as much information as I possibly can to help you make an educated decision about whether this is a play for you, how to go about it, how to avoid some pitfalls.
+
+Maybe you want to consider being an investor in this rather than a searcher, some stuff to get started, and then we'll have time for Q& A at the end. There is a lot that I wanted to cover. As you will find out. So I have a lot to say, I'm going to whistle stop through it. Like I said, there's going to be a [00:16:00] replay and at the end, we're going to share some resources and templates for you as well.
+
+And then in the future, we're going to be scheduling some Q and a sessions where it's not me shouting at you the whole time. You'll just be able to jump on, ask me some questions, get them answered. Because what. I didn't have when I was doing this was this information and had I had this information, I might be the business owner of that crazy business, but I'm so happy that it ended up the way it is because I couldn't imagine myself doing anything else now.
+
+So what the fuck is F M B E T A. There's so many acronyms. What is this? Right? So SMB stands for small medium business, but it is also for some reason, the acronym that is used in like the Twitter scape and jargon, you know, jargon or the word to describe what it is that we're doing right. SMB, for some reason, is now also encapsulating people that are making.
+
+[00:17:00] So when you hear S and B, it refers to the business type, but also the activity of searching for businesses and E. T. A. Stands for entrepreneurship through acquisition. So it's buying a business and becoming an entrepreneur rather starting than starting one. So how does it work? Well, the internet is making this very simple right now.
+
+You know, it's like find a cash flowing business, make an offer to buy the business, check that everything's okay. Maybe they don't even tell you to do that. You get money from the SBA and then you're a business owner. Unfortunately, it is not that simple. So that's what we're going to talk about today. But in a nutshell, that is how it works.
+
+There's just a lot more steps and processes under every one of those bullet points that you have to go through. You can, as an individual by a business, if you strap in and know that you are in for one of the hardest things you'll ever do in your life. So what my intention is today is to give you all of [00:18:00] the information That the Internet isn't telling you so that you can decide and some of you will be fired up by this.
+
+And you're like, this sounds amazing. I am so in. And some of you would be like, Whoa, I had no idea that it was this involved or maybe you'll be like, Hey, I need to go do some more research before I decide to make a play at this. So in a nutshell, this is how it's supposed to go. Let's do some example math so you can see what this actually looks like.
+
+Right? So let's say, for example, that a business is worth 1 million. On top of that, you're going to have some deal costs. This is going to be your attorneys. The lender is going to charge you some fees. You're going to have some financial due diligence, maybe some other fees. So it's typically 5 percent of your deal costs of your, uh, purchase price.
+
+It's going to be additional deal costs. So the total purchase price or payment that you're going to have to make on is 1, 050, 000. Let's say this business cash flows 333, [00:19:00] 000 per year, which would mean it's selling at a 3X multiple. So it's three times cash flow is the purchase price. The SBA is going to give you a loan for 10 years at the current interest rate, which is 10.
+
+5%. They will ask you to put 10 percent down, which is 105, 000 of that total project costs, right? Your annual debt payments in this scenario, and this is super basic is going to be 153, 000. So that means after you pay the debt, you're still going to have a cashflow of 180, 000 to you, assuming there's no variability and you have a good transition.
+
+We're going to talk about that, but in a very basic example, in theory, you should be cash flowing to you in your pocket, 180, 000 for 105, 000 investment. And you're going to cashflow that every single year. Sounds too good to be [00:20:00] true, right? Like that kind of return. We're all hoping for something like that.
+
+So to put money in and get profit year one, and then every year after that is just a hundred percent profit. It's amazing. So there's a lot of folks out there that are selling this opportunity and the opportunity is there. And I believe in it, but I do not have a mastermind or a course for sale, right? So what I want you to have is the reality check.
+
+And this is the information that the internet is not telling you right now. About this opportunity, basically the internet saying like, Hey, buy a cash flowing business, zero money down. You can close in 15 days and you can go sit on a beach somewhere while someone runs your cash flowing business. They make it sound that easy.
+
+And honestly, this is the reality of trying to do this. This is the reality of [00:21:00] trying to search and find a cash flowing business for yourself of closing on it. And then the reality of what it's like after you take over the business, this isn't what we're being told, right? It is a very difficult. Process to find and close on a business and it's even more difficult to be a business owner.
+
+So what you're also not being told is it is highly competitive right now. There are more people looking to buy a business than there are sellers of business. And that is going to continue the more that people start catching wind of this opportunity. You're also competing with search funds, which are people that go to school, get their masters for two years, their MBA, In ETA, right?
+
+So they learn at business school, how to buy businesses, and then they raise money to support them to do it full time. While they go out and look for a business. And then you have private equity who's also buying businesses. These folks have the experience, the resources, and the team to be able to [00:22:00] search and close.
+
+You're competing not only with all of you who are looking at this and doing it for the first time, but also all of these other folks. When you take out money from the SBA, you have to personally guarantee that loan. So that means if you have retirement accounts, if you have a home, all of that you are going to have to stake to take money out to buy a business.
+
+So that means you better believe in yourself and your ability to run this business. Otherwise you can find yourself bankrupt. This is not a passive investment. A business is a living, breathing entity that needs your involvement. And what you're also not being told is that the first year of ownership, the revenue often drops, right?
+
+There's all sorts of instability that is created by a change of ownership. You need to be there. You need to be active and you need to be ready for For what's ahead, otherwise the business will tank and you won't be able to pay debt payments. And guess what? You bankrupt yourself. Again, [00:23:00] business ownership is not freedom, right?
+
+Like having a bunch of people's livelihood dependent on you is not freedom, but you do have flexibility. You can determine your schedule for the most part, but I'll tell you what, being in a growing business, wanting to grow a business, you're probably going to be working harder than anyone else in your business.
+
+If you want to do it, right. So there is a lot of industry hype that's out there right now and telling me what is a good investment and what's the best industries to invest in. And our theory is there is not a best industry to invest in. We have industries that We don't like seeing people invest in, but it's going to be so specific to you, your skillset, your background, and what you'd be good at.
+
+So don't listen to folks telling you to buy a laundromat, which because there's so many people looking at laundromats, the prices are completely inflated. HVAC businesses, when there's [00:24:00] like licensing involved in like, are you passionate about HVAC? Is that your wife's mission to be an HVAC owner? Do you see the vision for that?
+
+Don't buy the industry hype, right? You should be buying the business. You will be able to add value, too. And the other thing I hear people talk about a lot is that small businesses, Oh, I'll start small, and that will be safer. And absolutely not. That is not the case. Small businesses are more risky. When you are looking at a smaller business, that is usually the owner's job, and them doing absolutely everything, and they haven't been able to scale it to a certain place for them to not be involved in the day to day for a reason.
+
+Right. So if they couldn't figure it out, being the owner of that business for 10 or 20 years, you think you're going to come in with no industry experience and be able to figure that out and grow it. I don't like people thinking that they know more than the owner of the business that built that business off their back for decades.
+
+Right. So the smaller you go, the riskier it is because they don't [00:25:00] have the systems or processes. Right. Or operation or team to be able to cover themselves. There's a lot more single points of failure, right? Do you have a small team? Like who's going to cover each other when they take holiday or vacation?
+
+Sorry, I lived in London for 10 years. So some of the word come out. The owner is likely the person that that business is reliant on. So the smaller you go, the more riskier it is. There's also this fascination with people wanting to start a hold co and buy multiple businesses. And this guy, Ben little, like I love his, uh, stuff on Twitter, but.
+
+You know, the fascination with hold codes right now is again, another internet driven sensation, right? Unless you have experience in private equity, buying up multiple businesses and doing this play, then focus on one, one business is enough. So focus on one, buy the right one for you grow that. And once you get your feet under you of what business ownership is like, maybe you can make this [00:26:00] play.
+
+But what he said is, is kind of, it makes me laugh, right? Like. You're trying to create a hold co. Congratulations. You saved some overhead money. Now you have a bunch of mediocre businesses that you're okay at, and you're not great at anything because your focus is all over the place. If you have a bunch of paths to go down and you're standing there and you try to run down all simultaneously, you're not going to get anywhere.
+
+So I very much believe in by one, focus on that and do good at that and get your right business. The first time around. There's also a lot of talk about using other people's money and a hundred percent seller financing. Honestly, I think it's a myth. I know people personally that have done this. I know of two people that have been able to get a hundred percent seller financing on a deal, which means for those of you that are one on ones with me, it means that the owner of the business becomes the bank.
+
+So rather than you going to the bank and asking for the money to buy the business, you go to the owner and say, let me pay you out with interest over the next 10 [00:27:00] years for your business. And you will get the interest on top of that. Now I've seen this happen twice. Uh, the second time it was somebody that already had a business in the industry, so they had direct experience to give that owner confidence that they would be able to do the same thing with their second business, right?
+
+So confidence is really key here. And when you do 100 percent seller financing, because you don't want a personal guarantee, or because you don't have the financial situation to get financing, I think that's unfair to the owner, right? If you're not willing to stake your life on, on the business, why should the owner be willing to stake theirs?
+
+If you take it over and you take their business, they don't get paid for all of that hard work. So, I think it's irrational personally, to go for 100 percent seller financing. There are situations where It's not financeable, in which case you might need to pull this out. And we absolutely help our [00:28:00] clients with the structuring to be able to overcome some of the challenges, but saying, this is what you're going to do as your financing strategy out the gate, I would want you to reflect and see why you're wanting to do this.
+
+So the other thing that is not being talked about is how much time it actually takes to find a business. So those search fund guys that go to school for two years to learn how to do this and then raise money to cover their expenses to do it full time. They raise their expenses to do it full time for two years.
+
+So these people that have an MBA and how to do this and have money behind them and are doing it full time are strapped in for two years of searching. Meanwhile, most of you are working. And doing this part time, right? So, unassisted, you're looking at two years or never if you're trying to do it part time or in and around things if you're not really giving it your full focus.
+
+And then the other thing that's not talked about is, even when you find [00:29:00] a business and you get it into, A letter of intent, which is essentially your offer. This is how I'm going to buy the business. And you have exclusivity at that point. Once you agree that you're going to buy the business with an owner, it still takes three to six months to close.
+
+So the timelines that these folks are sharing with you about buy a business in 15 days, it's just not based in any form of reality. It's not how business buying is done. So if you're going to make this play, just know it's going to take you two years. If you're doing it full time, if you're doing it unassisted, there are ways to shorten that.
+
+Obviously we are one of them. There's other services out there. You can do it full time. But it does take time. And then there's also this big obsession with off market deals. Off market means going directly to an owner and there's no broker involved. We do reach out to owners and we find great businesses off market, but it [00:30:00] is a channel.
+
+I wholeheartedly believe it is better to have an incentivized mid intermediary in the mix. If you are a first time buyer, you don't know how this process goes. The seller doesn't know how this process goes. So in our experience, With off market deals, if you don't have an intermediary guiding you through it, it loses momentum, it falls out, you're not able to get done, and it takes three to four times as long to get a deal done, because the owner's not necessarily sure they want to sell, they can change their mind, but when they're strapped in with a broker, I'm using strapped in a lot, I don't know, that's my, my phrase of the day, I When they are locked in with a broker that they probably paid some money, they've gone through this whole process, they've got skin in the game at this point and they're probably serious.
+
+And then you have a broker who's incentivized to want to get this deal done. And people say a lot about brokers, but you know, we deal with them all day long and they're, they've they're their own flavor. [00:31:00] So I will get into that a little bit more. The other thing that doesn't get talked about a lot is the volume of the You need to create for yourself of deal flow.
+
+What deal flow means is being able to look at potential deals that are a fit for your criteria. And that would be a fit for you. Now in order to get down to those quality businesses, that would be a good match for you. You need to be putting a ton of businesses into your funnel. So if you want to buy something in the next year, you really need to be looking at thousands of on market listings a month and speaking to hundreds of owners off market per month.
+
+Right? Like, that's what we do here. And we have a whole team to be able to do that. So, if you're doing this on your own, and you're telling me there's no good deals out there, and I ask you how many listings you look at, my guess is you're not looking in enough. Right? It's just a volume gain. So now, okay, I've scared you a little bit.
+
+Let's, let's think about if business buying is for [00:32:00] you and hopefully some of you have something to write with. I'm going to do a little self assessment to get a piece of paper or get your computer out. And we're also going to share these questions for you at the end. So you can come back to them and reflect when I'm not shouting them at you like really quickly.
+
+I think it is a good reflection exercise to think about and come back to, right. Some of these areas you might be like, whoa, I need to go and work on this before. I start getting into this. So let's talk about is business buying for you. So we talk a lot about the business buying process, but we don't talk about ownership and what it means to be a business owner.
+
+And when you have a business that's doing 20 million less, like less than 20 million in revenue, you are the person that's getting the phone call when things go wrong. Right? Like you have to be able to steward the team. You have to be able to wear a lot of hats. You have to be able to jump in if you lose someone on the team.
+
+So let's go ahead and rate your experience. And I want you [00:33:00] to rate yourself on one to 10 in these different areas. And you're not allowed to use seven. Seven is like a number. So you need to force yourself one way or another. Are we an eight? We're pretty good at this. Are we six? And we probably need some work.
+
+So let's start with finance. How good are you at budgeting and cashflow forecasting and understanding your tax strategy and managing your cashflow cycle? Do you know what accounts receivable and accounts payable are and how to manage all that so that you don't end up having no money in the bank account to be able to pay your bills?
+
+What's your finance skill like when it's related to business ownership, right? Actually running the business. So rate yourself one to 10, no sevens. Now let's talk about sales. A lot of people are like, I don't like selling. I'm not a sales person. And guess what? I was one of those people too. But when you're the owner of the business.
+
+You are the salesperson always, even if you have someone doing sales for you, [00:34:00] you are the salesperson. What am I doing right now? This is part of sales, right? Like I am solving problems for people and I can't solve their problems if I don't sell them. I don't understand what their problems are. So if you are the owner of the business, you are the head number one salesperson because you need to deeply understand what problems you're solving for who and how to help them solve that problem with your product.
+
+Right? And if you can't sell it, how do you expect your team to be able to do that when you hire people in the sales seat and sales solve every problem? It's not great, but you can have a cashflow crunch. You go out and get sales. Then you have money to be able to figure out the problems, right? If you don't have sales, your business is done.
+
+So rate yourself one to 10 on your sales experience. Project management, right? Like, how are we actually looking at all of the things that need to be done, deciding who needs to do them, in what time, what the priority is, [00:35:00] what's your project management experience? Like, are you really super organized and able to, on the fly, decide what priority is, and brief people, and make sure everybody's in the right place, and that they've got everything that they need to be able to do what they need to do, because business ownership is project management.
+
+Even if you have a day to day operator, you still need to brief your operator on what the strategy is and what's important. One to ten, no sevens. Then here's the other thing that comes up a lot, right? And this is a hard truth, but if you have never worked in a small business, and you've only worked in corporates with like hundreds or thousands of employees, if you've never worked in a small team or a small startup with like five to ten employees, This is going to be a big wake up call for you.
+
+Huge, right? Give yourself exposure to it in any way that you can to see if this is going to be good for you, [00:36:00] because there is no HR team. There is no legal team. There is no sales team. Like you are all of it when you're in a small business, you might have people overseeing that, but you don't have the luxury of some of those things.
+
+And in a small business, one person leaving your team can be a critical failure, right? Like if you have somebody that has all that tribal knowledge and you haven't gotten all that information off of them, so if you don't have experience or exposure working in a small business or a small team or being a business owner, this is going to be one of the biggest wake up calls that you will have.
+
+Now, the other thing that's really important for you to think about is what is your management experience? Have you managed people before? Have you had to be in a leadership role? When you're in a small business and you're the owner, even if there's a day to day manager, you still need to be that leader.
+
+You need to set the tone. You need to manage people. You need to have difficult conversations. And if you haven't had experience managing people, I can tell you [00:37:00] right now, this is one of the skills that I have had to work on the most because nobody teaches us how to be a good manager. And I'm not great, but like every day I am trying to become better so that my team has a better leader as we go through what is a very crazy growth phase, right?
+
+So if you don't have that experience, how can you get yourself that experience or start learning about it? And here's the fun thing about management and all of this stuff, right? It's like, We have these theories about what we're going to be like when we're a business owner and when we're a manager, but when you're actually in that seat, like, it's just like being in a relationship, you have theories about what you want a relationship to be like, but until you have the interactions and those stressful situations where you have to call on yourself to step up in that moment, or you realize that you're human and you have A moment that you're not proud of and it affects your team.
+
+So how much experience do you have in management? One to seven. So the reason why I belabor on this is because we get so focused in. [00:38:00] The upfront of buying the business. I don't think enough people spend a lot of time considering if they are going to be a good business owner and if it's something that they're going to like.
+
+So now if we're talking about the EQ of being a business owner and going through this process, right, rate yourself one to 10, what's your resilience tolerance like, because. You are going to get so many no's, you are going to get so many challenges, you are going to get so many like somebody tells you this and then it ends up being this and like every day you're questioning yourself like can I actually do this?
+
+So if you don't have a high resilience tolerance, I would go spend some time building this up before you go through this process. On top of that negotiation is a huge, huge, huge skill that you're going to need. You're going to need to negotiate to get the broker to look at you rather than these other buyers.
+
+You're going to have to negotiate really key points. Once you take over the business, you're going to be constantly negotiating stuff. Rate yourself one to 10 on that. [00:39:00] And then how are you at taking action despite your emotions in particular, do you have the propensity to Not make decisions or not take action because you're scared, right?
+
+What is your ability to take action despite the fear? So I was on the phone with a friend the other day and she's like, you are so brave. You're so fearless. And I was like, absolutely not. On a daily basis. I am terrified. Right. But I take action despite that fear because I know that not taking action could cost something in my business, something for my clients.
+
+But if you're one of those people that freezes in fear, then you're going to have to start working through how do I take action despite those emotions. And then the other thing that a lot of folks really struggle with business, and this was something that I worked on with my founders and in my business consultancy, is if you've always been told what to do, if you've always worked for somebody else, then being the [00:40:00] sole decision maker can be really tough.
+
+For you, because it means that any failure falls with you. So I see a lot of people not actually push the button on buying a business because they're terrified of what that will feel like to be the only one that the responsibility lies with. Rate yourself on one to 10 about how much experience and tolerance you have for being the sole decision maker.
+
+And then there is no passive in this, right? Like maybe, maybe you might find something that is a little bit passive, but even in going through this experience and buying a business, it is not passive. It is so much work. You have to work so hard. And when you take over the business, you're going to have to work even harder to make sure that it's stabilized and in a good place.
+
+So are you willing to work hard? What is your risk tolerance? How much are you willing to risk in order to be a business owner? And then the last thing I'm going to move us on because I have no idea what time it is, [00:41:00] is your emotional management. So when you are a leader, when you're at the helm, if you're not good at managing your emotions, that can have a huge impact on your culture, the motivation of your team.
+
+It is something we all constantly can work on, right? I don't think anybody's good at this, but do you? Act out or or do things as a result of being stressed. So rate yourself on all of these. We're going to share this at the end so you can come back to it and do it quietly while I'm not shouting at you, which I recommend that you do find some quiet time.
+
+Okay, so if we're feeling good, maybe we rated ourselves high, we got some identification of areas that we can work on, but we're still feeling like, okay, I'm still fired up. Let's talk about some common mistakes that we see. I'm going to just grab my phone so I can see where we're at on time. Okay, cool.
+
+So common mistakes. This, this is one of the things we see people do [00:42:00] the most is wasting time on businesses that won't be a good fit for them because they actually don't know what will be a good fit. So there's like an inkling, like you're looking at a business and you're like, I don't know, but the numbers are all good.
+
+And somebody is telling me I should buy HVAC, but you know, there's something there. And most people don't spend enough time really identifying what is the right business for you. And so they ended up spending all this time on businesses that wouldn't be a good fit for them or businesses that aren't good.
+
+Right. We fall in love with potential. So the reason why I call it acquisition matchmaking is you know, what we do is, is we kind of get your profile. We go out and look for opportunities for you, right? And then we present opportunities for you to go out on a date on, and these just happen to be businesses, but you decide whether you go on a date, whether you propose, which is making an offer and whether you get married, which is actually buying a business and.
+
+I like it because it helps me explain what we do, but also there are so [00:43:00] many similarities between dating and relationships and business buying because it brings up all sorts of stuff for us. So we, especially women are amazing at falling in love with potential. Right. We see the potential and we're like, yes, I want that.
+
+And if I did this and this and this, or if they did that and that, that, that it would be great. We can't do that when it comes to buying a business, we need to be evaluating the business based on past performance, right. And how it is performed in the past and assume that nothing is going to change and be okay with that.
+
+We see this all the time that folks. We'll approach brokers and owners in the wrong way. The brokers will throw up the gatekeeping or like this person's a tire kicker. Ryan on our team just did a presentation for 30 brokers yesterday talking about how like our, our buyers are qualified. They're serious.
+
+They're not going to waste your time. We prepare them. And they loved [00:44:00] that because, you know, Their perception is that there's just a bunch of tire kickers that have no idea what they're doing and can't get a deal done or you're approaching owners and you're not giving them the confidence that you actually know what you're doing.
+
+Same with lenders too, right? These people are the people that are going to be lending you millions of dollars and you're approaching them not having your stuff together. So, a lot of people are saying they want to keep their job while they buy a business. I'll just get an operator, you know, like, I don't think that should be your play.
+
+Like if you're looking at buying a business, I think your first point should be. I'm willing to leave my job if needed and roll up my sleeves and get into this business to do whatever it takes. That should be the first stance. And maybe you end up finding a business that you can be a little bit more passive, but that is rare.
+
+And also if something starts going wrong with it, and you're trapped in your W 2, you put a personal guarantee on it, [00:45:00] your house is on the risk on the line for this business, and you can't get out of your W 2. An operator is not somebody that will have the strategic vision. It's not a CEO at this level in the small business level.
+
+It's probably a day to day manager, right? And putting all your And all your hopes on them is just not responsible. So another thing that we see people get wrong is they don't know financial modeling and the documents and all of the things you need to start reading and analyzing and understanding to be able to make an offer and not put yourself into a crunchy situation.
+
+Or you don't know what working capital is or cash for conversion cycles or CapEx. Like these things can be fundamental. Issues if you don't catch them before you make an offer and make sure that you're including them and considering them when you do a deal. And guess what? The brokers aren't going to teach you this, right?
+
+Like you need to learn this yourself. If you [00:46:00] go to the lenders and you don't know this stuff, you're not going to get funding. So it's really important to learn all this stuff. And when people are looking at businesses, they're saying, you know, I want this much SDE, which is profit, essentially seller discretionary earnings.
+
+I want this much money. And that's like, okay, well, have you considered the debt service? Have you considered the debt payments that you need to make? Have you considered the J curve, which is when you buy a business, typically the revenue will go down in the first year or two while you stabilize it through the transition.
+
+And then in a J it will go back up under the right stewardship, right? So if you're looking at a business and you're not considering what are the debt payments going to be, what is left afterwards? Is that enough for me? Is that enough to reinvest in the business? Is that enough to carry cover any variability should things go down, which they will.
+
+Like you just need to account for that. And if they don't, then awesome. You just have extra cash [00:47:00] in the business. I see people try to do off market searching on their own. If you haven't been through this process before, I would, I would rather see you spend your time on market, right? Because at least you have an intermediary, like taking you through this process, but reaching out to business owners directly when you don't know how the process goes and they don't know how the process goes.
+
+And you're probably going to be having less conversations as you go through. You can get more reps in and have a look at more potential deals. Which would then give you the potential one by just going on market. So this can be one of those like distraction time waster things. And also you need like a whole CRM system and a process for the follow up and that sort of thing.
+
+So we see people waste a lot of time trying to do off market. Not being realistic about your financial situation, right? Like if you have bankruptcy, it's unlikely you're going to get SBA funding. What's your liquidity? Like how much money do you actually have to invest? And like banks are looking at what, what your situation is [00:48:00] going to be after the acquisition.
+
+They want to see your liquidity and what your ability is to fund the deal. What's your equity injection. Are you being realistic with the amount you have available to invest in the size of deals that you're looking at? Like most people aren't right. And if you don't have the money yourself, have you, have you already spoken to investors that are willing to back you when that deal comes?
+
+Because you need to figure it out before you make the offer, as I found out the hard way, right? So being realistic about your financial situation and what you have to invest in the size of deals that you can do is really important. So another thing, and I did this myself, was like letting lenders structure your deal.
+
+So lenders are going to look at it from the point of covering themselves and covering their risk. So if you don't know all the financial tools available and how to use them when you are self funded, you're doing this yourself, right? You're using SBA. Like, how can you be competitive? Protect yourself and be the most [00:49:00] advantageous with the cash that you have available to invest, or if you're going to bring investor money in, like, how do you apply that?
+
+Right. So the lenders, a don't want to structure your deal. So a lot of them won't be the time of day. If you haven't figured out your own structuring and modeling or you go to them, right. I, I were friends with a lot of lenders and they're like, people just send me the SIM and ask me what I like, don't be that person.
+
+Do your homework, do your prep. So here's, here's the thing that brokers are getting really pissed off about this because they assume when someone makes an offer that they have checked that they can actually get that financed. Right? So what a lot of people do is they put together an offer based on whatever like weird calculation that they've come up with that hasn't taken into account like factors that the lenders are going to look at.
+
+So they get an offer signed, go into an exclusivity only to find out months down the line that they can't get the financing for the deal. So now the brokers as a result of this [00:50:00] happening so many times are becoming way more gatekeeper y, right? So, like, actually getting through and getting the information about a deal is getting harder and harder because there's so many people that are inexperienced at this that are putting offers forward that they can't actually get done.
+
+So, here's the other thing. Most people that are searching are so concerned about finding a good deal and they're like, there's no good deals out there. I can't find a good deal that they're not prepared for what comes behind door number two and door number three. So when you find that deal, you then need to.
+
+Get your financing and modeling all figured out, right? So you need to do your financial modeling. You need to take that to a lender. Get them to say like, yep, green light. That looks good. Then you need to go find a lawyer. Get them to review your LOI. Make sure all the terms are in there. Negotiate all those terms before you put it in.
+
+There's so much to do. And that's within the span of a week, sometimes days, because it's competitive. So if you don't know that process, right? Like what seems fast to you will feel like a couple weeks by that point the deal's [00:51:00] gone or you didn't make it competitive enough and somebody else gets it. And then after you get a signed offer, then what's next, right?
+
+Do you know how to go through due diligence? Who you need on your deal team? What all the steps are? In what order? So you don't end up wasting a lot of time and money. So. Yeah, finding a deal is the probably what most of your problems are right now for those of you that are 202 and you're searching, but do not discount what's behind door number two and three and get ready for that because you will lose a deal if you're not.
+
+And then the other thing is not preparing for ownership. So you're going to be an owner of a business. How much experience do you have? How much are you educating yourself? Are you ready for ownership? Are you thinking about what is my plan for taking over this business? Guess what? Most lenders are going to ask you for a business too.
+
+So start thinking about it. Not having the right support throughout the process. So most people will go for the cheap option because [00:52:00] we know, you know, like you only have so much money to invest. So using your friend who did M and a. legal at some big company feels like it might be the better play, but it's not like these small business deals with SBA funding need a certain skill set that have experience with this.
+
+So they can get you through it and steward you properly. So do not use your tax accountant that does your personal taxes. Do not use your friend who's an MNA attorney from like a big law firm on billion dollar deals. It's not relevant. So if you get the wrong support, it can drag out your deal. Or can cause you to lose it.
+
+One thing I will say, people talk about broken deals and the problems with the sellers and things that come up during due diligence, like 20 to 50%, depending on who you're listening to. I think it's closer to 50 percent of deals after they're under offer, do not go through because of buyer [00:53:00] incompetence.
+
+So this broker blaming is, is kind of ridiculous when you think of the stats like that, right? Most people are showing up unprepared and incompetent. You can learn. So, okay. I probably brought you down. I like, I would rather scare you and those of you that have known me for a while know, know me as the dream killer.
+
+I would rather kill your dreams than watch you bankrupt yourself. But when you have all the information, right, and you have the real information, this is real, real talk. I'm not trying to sell you anything. We got a wait list. Like until 2025 right now, like we're good. I want you to have this information because I didn't get it.
+
+And I found out the hard way. And what's important to me is that people are able to be in control of their own lives. So if you have found out you are unemployable like I did many years ago, once you're an entrepreneur, once you got a taste of it, there is no going back, right? I don't ever want to work for anyone [00:54:00] else.
+
+That is death to me. So I will do whatever it takes to make sure that doesn't happen. Some people are like that, right? And and that is like what we need to go through this process. If you're not quite there yet, you can get there. You can get more confident by learning, right? And there's so many resources.
+
+I'm going to share. But if you're still, I don't know my own life. I'm going to grow something. I want to be passionate. I don't want my income dependent on a paycheck. Then you're in the right place, right? And maybe you can get inspired about this or maybe you have extra cash and you're like, okay, maybe I don't want to Buy a business and be a business owner, but I am interested in passive investments.
+
+Now, this is an amazing opportunity for investors. Also, assuming you pick the right searcher, so you can invest into somebody else who [00:55:00] is a searcher. So a searcher is what we refer to ourselves when we are looking to buy a business. So you'll hear people say or like, are you a searcher? I'm a searcher.
+
+I am a searcher, right? So if you're a searcher, you're looking to buy the business and be the owner of that business. You will be the one running the strategy in the day to day. Operator as we call it. If you're an investor, then there's talks about being an investor owner and that sort of thing.
+
+And again, the smaller deals that is very unlikely from day one that you're gonna be able to invest in something and be a passive owner in it. You can work yourself to that. That's the reward of buying a business rolling up your sleeve for a couple of years. And then you get someone in that's like at the level to be able to do the strategy in the day to day and you can be passive.
+
+So that is the reward to those of us, but some of you might just be like, I have a bunch of cash. This sounds like a great opportunity. I've been investing in real estate, but it's not giving me the returns. Let's talk through [00:56:00] what play you might want to make. Right? So you might just want to be an investor and your involvement would be like, okay, I don't want to be involved.
+
+Maybe, you know, the person tells me what's going on every quarter and I have some like advisory, but I'm not actually responsible for the day to day. You don't have a lot of time available or you're not willing to leave your W two. Maybe you prefer passive investments. You don't want to put a personal guarantee and risk your house.
+
+You don't really want to have an active management role and you'd prefer more modified risk, diversifying your portfolio. And still getting pretty great returns, right? This is still double what we're seeing in real estate to do 15 to 20 percent annual return. The cashflow stability and the returns are going to be dependent on the searcher that you're backing.
+
+So you want to make sure you're investing into someone that has all the grit we just talked about, right? Like you can even pull out that questionnaire list and be like, okay, let's rate you a one to seven or one to 10 on all of these areas. [00:57:00] So you want to choose the right person to invest in that you believe is going to be an amazing owner of the business.
+
+The liquidity, like being able to get your cash out easily, it's low, right? You'll have to negotiate that because it's going to be in the business. Whereas if you want to be more involved, you want to put in the time, you love challenges. You are willing to stake everything because you believe in yourself.
+
+You love learning. You want to be a manager. You're willing to take risks. You want to focus on a single project and grow that. You want to have higher returns and higher upside for yourself. You know, you are likely going to want to be an owner or self funded searcher. So, you can also include salary in these deals too.
+
+And take investor money while you do it. So, getting started. I'm going to whistle stop through these. Start getting obsessed with learning about this. Like every spare second that you have, you should be learning the buy them build book is what I recommend [00:58:00] everyone read like Fred to come back. This is what you're going to be doing.
+
+Right. Then acquiring minds will does an amazing job at talking to people about their experience and there's no. Hype here. There's no sensationalism. He taught, he tells the real stories. So listen to that every spare second that you have. He's also got so many incredible webinars that are free that are going to teach you how to do investor structuring, structuring, working capital, legal due diligence questions.
+
+So like go get obsessed with will. He's amazing. He's a national treasure. We need to protect him at all costs. We have a ton of workshops like this, where we're giving you a ton of information. We're giving you all of our templates. So go on to our resources page on our website. And there's a lot of old stuff.
+
+If you're not old stuff, but things that we've done in the past about how to build your deal flow machine, how to figure out your deal box lots of templates, like structuring and. Anka created some amazing resources for you to, like, build [00:59:00] your own CRM and process for keeping track of all your deals.
+
+Like, it's insane. So much value. Go steal all our stuff, please. On Twitter, there's a really amazing SMB community. So if you find me I'm following a bunch of them. So you can find these people that they put like such amazing information and resources on Twitter. And then never split the differences, another book.
+
+So when all of our clients join, we, we, we buy them these two books because those buy them build like understanding the process and never split the differences. One of the best books I've ever read on negotiation. So I'm conscious of time. I did. I did tell you guys we're going to an hour and a half. So I'll whistle stop through this.
+
+We can have some time for questions at the end. When you're doing this process of looking for a business, I want you to focus on effectiveness versus feeling productive. So look on market. You're going to get more volume there. Like, don't waste your time with going off market. Your [01:00:00] R. O. I. On your time is going to be going where the volume is.
+
+Where can you get the most reps in? And that's going to be again on market. You want to maintain consistency. So if you're serious about this, like allocating time to it and doing it consistently and staying on top of things and just avoid those things that feel productive that don't really help you actually find a business.
+
+Don't set up a hold code. Don't create an investor website. Don't do off market. None of that stuff matters. Like start learning and start doing the things that are going to have the most ROI on your time. Cannot emphasize this enough. Learn your financing options, learn how to structure deals, start learning financial documents.
+
+There's all sorts of free courses for you to learn cashflow statements, PNL statements, like learn it, right? This, your livelihood is dependent on it. So. When you're looking at SCE and the profit, like make your deal box higher, make sure that what's left over after debt service. So D S D S C R is debt service coverage ratio.[01:01:00] 
+
+We break that down in the The sheet that we're going to share you with all definitions, but if you don't know what that means, learn it, right? Because it's crucial to the survival of your business and look at businesses that will achieve your overall goals. So we want to make sure that the amount to us after we pay the debt and there's enough money in there to pay an operator if we're wanting an operator or to invest in the business or cover variability and pay ourselves to look at businesses like that.
+
+And then make sure the numbers work and that you are actually in a position to get it financed. So if you don't have enough capital, go find it. I can't emphasize this enough, but this is what we get obsessed about over here when we're looking at businesses for clients is like, can we see you in the business?
+
+Can you see yourself in the business? Is it a skill set and passion match for you? It's going to be hard. Like. No matter what, it will be hard. So is this something that is going to get you out of bed every day? And do you see the vision for it? Do you see where it's going? Don't [01:02:00] just buy it or go after it because it's a solid business and somebody told you that laundromats were good businesses, right?
+
+You have to see yourself in the business and you're going to have to convince everybody else, the lenders and the brokers and the owner, that you are the person to take on that business. Get your reps in, speak to as many owners and brokers as possible after you've learned, right? But the reps are what help you refine this.
+
+If you're unsure about whether you want to get into an industry, go do a ride along. Ask someone if you can like spend the day with them and literally understand that business. So many people buy businesses without actually spending time in it before they buy it. And you can ask non competitive owners of businesses in similar industries for their advice.
+
+Avoid declining industries unless it's something you have direct experience with. So things like printing is something that scares me, right? Because it's just, it's going away. So you want to check for businesses that have a limited growth opportunity, if that's what you're counting on in order to give you the numbers that you want.[01:03:00] 
+
+Again, don't fall in love with potential. And then this whole operator thing, like you're the one with a personal guarantee on the business. So even if you have an operator in place, like it's still on you and know your weaknesses. Go back through that sheet, rate yourself, and then figure out how you're going to fill those competencies.
+
+And if you don't know, come to me because I am the book lady. I have a book for absolutely everything. I see Anka nodding. My team know like, Oh, you got a problem? I got a book for that. I love books. So time kills all deals. You want to make sure that you can move quickly on opportunities. They are competitive, even off market, right?
+
+I like all the owners we speak to are like, yeah, I get emails and calls like every single week. Like, don't think that you're doing something special or like under the radar by contacting business owners directly. There's so many. They're getting it everywhere. And they don't take anyone seriously because these people contacting them don't know what they're doing.
+
+So, uh, time block [01:04:00] every week, every day. If you're serious about this, make the time for it. And if you don't have time in your current situation, hire someone to help. Maybe someone like us. So you really want to get your shit together. Don't look messy and unprepared to lenders, to owners, to brokers that can burn a bridge for you down the line.
+
+You want to get the right team behind you. So make sure you have. support that actually knows how this process goes. So look for the right attorney, look for the right financial support. You know, do you know the difference between a tax advisor and QV when it comes to the deal, right? Have you identified those people?
+
+Do you, you need some advising, like, from someone from us on, is this a good fit and is this a good business? So, have the, have the right team behind you because that can, they, they, they will miss things and can put you in a really tight situation if you don't. So, the other thing is like, Yes, we're buying businesses, but you also need to get obsessed about business itself and how to run a business.
+
+So here are some of [01:05:00] my favorite books. Here's the book lady again. First 90 days is about the transition phase and what you should do or shouldn't do. Profit first is one of the best financial management systems I've ever come across for a small business. We're obsessed with it. I recommend it to everybody.
+
+Buy back your time is also one of the most incredible books I've ever read in terms of how to replace. And how to scale up and resources who was a game changer for us on the hiring process and how to hire a players traction is an amazing book and system using entrepreneurial operating system and how you operate a book and then story brand is when I really love to tell the people.
+
+So, If you have a business idea or an idea and you tell it to me, you're probably not going to like me because I am going to challenge you on it. Right? So story brand is a really great way of helping you articulate what you're doing in your business. And it uses the hero's journey [01:06:00] to make it really simple for people that don't have a marketing background to figure out how to tell the story about their business.
+
+So, okay. You're still here with me, right? You're wanting to buy a business. Like you're like, I'm in strap in. That's the phrase of the day. You're going to hear, no, you're going to be ignored. You're going to be asked to prove yourself repeatedly. You're going to have the door slammed on you. You're going to have other people going after your business.
+
+You're going to have to work under pressure and you are going to do weird and wonderful things. They want us to speak English. They want us to speak Thai. They want us to speak Arabic. They want us to speak Canadians. They want us to speak Nigerian. They want us to speak, a little bit of English, a little bit of Urdu, a little bit of English to help them get through the day.
+
+And we drink chamomile tea, which we all love. How much fun is this that you get to go and buy a business? You know, and I was talking to some of our clients who are closing tomorrow on their business, and they had to speak to seven different lenders. They had to do all sorts of stuff to get [01:07:00] this deal done.
+
+Tons of negotiation, tons of in person, and they are having an amazing relationship with the owners. The transition is going to be beautiful. It's gone as good as it can, even with all those challenges, right? And We're like, God, how cool is it? You are literally like you went from being trapped in a W2 that you hated.
+
+So now you're buying a multimillion dollar business. Like that is one of the coolest things ever. So just a reminder, and I tell myself this all the time, and I think I say it to the team too, but the closer you are, the harder it gets. So when it feels hard, you know that you're close, right? You're onto something.
+
+If it's not hard, you're probably not working hard enough or you're not doing something right. So get help. If you don't want to do this alone, find support. Obviously we'd love to help you. We're waitlisted until 2025 right now. Anca's going to drop a link in the chat if you are still interested in [01:08:00] working with us, and you can start the process to see if you qualify to work with us.
+
+We, we can't help everyone, so we want to make sure it's a good fit. And just a reminder, my bestie, my accountability buddy, when I started this process told me this a lot, like, you're only one deal away from changing your life. That's everything I'm going to shout at you today. We're going to have time for questions.
+
+So start dropping your questions in the chat. Ryan's going to start reading them off to me in a moment once we start getting your questions. Uh, the resources that I mentioned, so we have a, definitions document that gives you, like, all these, like, ETA, SMBD, searcher, operator, EBDL, blah, blah, blah. We tried to put it in plain English for you so you can understand and have it as a reference as you're going through it.
+
+And you're like, what does that mean? If there's a definition on there that we haven't included, we're going to be making this a living document. So let us know we want to put it in plain English so you can understand because it literally [01:09:00] is like learning a new language. Also those questions that I asked, the reflection questions and that table on should you do investor versus searcher, that's in there.
+
+Okay. There's a link to all of our past flowers, some of the resources that we mentioned, so please steal our stuff. I hope this is useful for you. I imagine I scared a lot of you, but hopefully I fired even more of you up in the process. That was my intention. Now, you know, the fraught journey that you are about to embark on and hopefully is exciting as I think it is.
+
+I genuinely believe this is one of the most amazing opportunities that exists out there because I have started multiple businesses. In fact, I was trying to buy a business and I started business number five. I think starting a business is one of the hardest things you will ever do. So to be able to step in the shoes of somebody that's been through the harrowing process of zero to one.
+
+And be able to be a business owner and be in control of your own life. That, to [01:10:00] me, is, is exciting. That's why we're all here. That is why this business is called Unrestricted. Because having autonomy and ownership over your direction in life is one of the coolest things that exists. So, thank you so much for your time.
+
+Ryan's gonna drop. In some questions for me and continue to drop your questions in the chat as we go through. Awesome. We've got a few questions so far, but guys drop more questions. This is the best part of this whole thing is that you guys can, uh, voice any questions or concerns you guys have, and we'll answer them right here.
+
+But we'll start right now with Tessa. Tessa asks best places to source deals. It depends on where you are and what you're looking at. Right. So We have over 100 on market sources right now and growing. It's probably even more now because I know the team is just constantly looking for more sources, more brokers, But what I would say is like [01:11:00] figure out what is going to make a good business for you.
+
+So if you're looking at online businesses and there's online business brokerages, so empire flippers, website closers, quiet light, for example, but none of those are going to be good places for you to look if you want a brick and mortar business in your backyard. And if you want something in your backyard, then it's dependent on where you're at.
+
+Is by cell is obviously the biggest one and that is the one that has, I think the most listings, but here's the thing when brokers have a business opportunity come up, they will send it out to their network first and they will try to avoid having to put it on any of the listing sites because that's work for them.
+
+We okay. So I was at the Texas association of business brokers event, last week, week before it was recent and here, let me share this about brokers. Everybody's complaining about brokers. Y'all, these are boomers, right? Like these guys have been doing this for 20 plus years and just like the owners of the businesses that are selling.
+
+They're a [01:12:00] different generation. They operate in a different way. It's not wrong, it's just how they operate. So they might not be tech enabled. There was jokes going around the conference where they were all still carrying around paper calendars. Like, my head nearly exploded, but that's how they operate.
+
+So, just bear that in mind when you're communicating with them. They want to get on a phone call. You know, they want to do the, they like handshakes, they like paper. If you're dealing with someone that operates in that way, adapt to their process, right? So, if you're looking in a specific area, look at who the brokers are, contact them, see if you can get on those lists.
+
+The way you get on those lists is by coming across as a serious buyer that's capable of getting a deal financed. So like do your homework and make sure that you're in a good place before you do that. Another site that we love, it's, it has a cost to it is Kumo. It's an aggregator. So they search all the listings and you can put some search criteria in, I think it's a hundred dollars a month for the subscription.
+
+So that's a good [01:13:00] source. That's a general all around source also. But we realized that it's, it's just not as comprehensive as we needed it. So we, we have a whole team and scrape, uh, uh, all the, all the listings. And then we, we are constantly doing all this broker outreach and relationship building.
+
+Uh, like, you know, Ryan's talk yesterday talking to 30 different brokers, and now that they know who we are, they're going to come to us first and see who's on our client list before they list something on the market. So we do a lot of that kind of work. Sorry, Tessa, that was not a straightforward answer, but that's, that's how kind of convoluted the process is right now.
+
+Because there is no straightforward process or one place to be able to do this. Okay. Ben asks, why don't you expand your team capacity? I think he's referring to, uh, we're not taking new people until 2025. Yeah. Well, you know, when you're a business owner, you can only expand so quickly [01:14:00] without reducing the quality of the product.
+
+So we are hiring right now we're getting some amazing candidates, but I'm not going to take on more clients than we can do a good job for. So, we are a white glove concierge service. And in order to give that kind of. service. We need to make sure that the team's in a place that they can deliver the value.
+
+So great question. Agree with you. I'm expanding the team, but we need to hire and train them and make sure that they're in a good place to be able to take on more client capacity. So if we can move that up, when people get on our wait list, we tell them like, Hey, if we can take you sooner we will.
+
+And a lot of clients end up dropping off because they go under offer and, and, uh, you know, by businesses too. So if we have capacity, we'll move it up. But we are growing, and very excitingly so. And if you know anyone, like, we're looking for vetting, sales, and product closing. So, yeah, send great people my [01:15:00] way.
+
+We're getting a lot of folks that, like, have experience in private equity and investment that would love to come and be part of the ETA movement. So, keep sending folks our way too. Some of you have sent some great emails. People are way. All righty. Uh, Tessa has another question. She asks, how important is it that the business is located near you?
+
+Okay. Good question. So it's going to be completely dependent on the business itself. The bank does not like you seeing, it does not like seeing you buy something that's not within your, and all the times you won't be able to get funding. If you're not close to the business, if it's not already like a remote business or able to be operated from a distance.
+
+So one of the things we look for with clients is like, what's your geographic range that you are literally willing to commute to and relocate to or under what circumstances? Right? So sometimes there might be a situation where you can go and visit. Once a week or [01:16:00] once a month, that's not ideal. So I would say as a starting point, you want to kind of look at places that you'd be willing to live at least for the first six, 12, months, two years.
+
+Cause the lenders are going to be very uncomfortable with you buying a business that actually needs physical presence there. Great question.
+
+All righty. Next one is from Michael. He says, what's the best way to structure a seller finance deal? Let's say the business is SBA approved, but owner willing to do seller finance. And the buyer is able to work out a better deal and rate that one than what SBA can do. I would question why the owner would be open to something like that if SBA would finance it.
+
+And again, I don't really like pushing this unless it's like a deal that would only be able to be financed by SBA. So. [01:17:00] I've, I've seen, you know, what, what doesn't get talked about is the other side of these seller finance deals. And it's kind of heartbreaking to watch an owner not get paid back for their business because somebody took it over and couldn't run it the way that they could.
+
+So personally, this is my personal opinion about this. Right. I don't think 100 percent seller financing is fair to the owner, especially if it's a fundable business. So I would be asking, what is the reason beyond just the owner getting some interest for doing seller finance? Why aren't you willing to put a personal guarantee in the financing process?
+
+There are a lot of other situations where you might have to structure considerable seller finance, right? So I, I, or something happens with the financing isn't available. In which case you need to have a really solid relationship with the owner, you need to make sure that they believe that you are the right owner for it, you need to believe you're the right [01:18:00] owner for it, and then you can work out the terms, and you just need to look at it the same way as you would with any other capital stack, like, does the debt service work, are you being responsible financially and taking the business on and saying you're going to pay the amount that you can pay to the owner, and leaving enough for reinvestment, any variability, etc.?
+
+So get your financial modeling on and just work out different scenarios and what feels good. I have had a couple deals recently where we had to negotiate substantial, substantial seller finance because it wasn't fundable or certain aspects of it weren't fundable. So learn your tools to you know, performance based forgivable notes with S.
+
+B. A. Under certain circumstances can help you be a lot more competitive, but cover your risk. In that process also, so it's not a straightforward answer because I don't love 100 percent seller financing and this is coming from someone who that was that was out the gate the play I was trying to make and my mind has been changed seeing the reality of it.[01:19:00] 
+
+As we go through this. So, other folks will tell you to go for it. It's, it's possible. I've seen, like I said, two that I know personally that have done 100 percent seller financing out of thousands of deals. So it's, it's also pretty difficult to get 100%. But you can absolutely structure something. And here's the other side of that.
+
+We always tell our clients to get at least 5 or 10 percent seller financing. Right? So you don't want to give the owner 100 percent of the purchase price on day one in case they misrepresented something or whatever. So it's just like, okay, I will give you 90 percent of the purchase price at close. I'm going to hold back 10 percent as a note to you, you get interest on it and it gives me some comfort that you're not going to run off and just leave me with this business and not support me through the transition.
+
+So it should be used, just not in its entirety. Good question. Awesome. A quick question here from Ben. He asked, [01:20:00] what is your fee? So we, uh, do not talk about that publicly. So if you want to talk to me about pricing then get on the wait list and we can talk you through it. What I will say is that the way we've structured it is to be a flat success fee.
+
+We're advising you the buyer. So being based doesn't make any sense to me when I'm trying to help you to get the best. Price for that business. So we are incentivized on the close and then there is also an upfront retainer costs to cover search services upfront. So then that way we're not working as many brokers do, which is like, they only get paid on the close and then they're desperate and pushing you on things.
+
+We want to be measured in our advisement to you. So there's an upfront retainer. That ticks away at the final success fee. So depending on how long you're paying the retainer to us, that will get deducted from the final success fee, which is a flat fee. So when you sign on with us, you know [01:21:00] exactly what you're going to pay.
+
+Cause it's the same amount of work for us. If you're going after a 1 million business or a 5 million business. So.
+
+All righty. Question here from Luke. He asks if there is a, if there is potentially an economic recession or downturn in the near future, do you think that small business acquisition, uh, will see increased or decreased transactions or be unaffected? That's a really great question, Luke. And we, we got a recent preview of what that might look like during COVID, you know, so.
+
+Businesses need to change hands. There's situations that come up in life. You know, people get married, they get divorced, they die. They have business partner issues. They just want out. They're tired. Uh, they want to retire. So businesses are always going to be sold. Whether there's a, honestly, I think, [01:22:00] there's so many buyers coming to the market now.
+
+I think we're going to see an uptick in business sales, but I don't know if they're going to be quality businesses, right? Cause I'm seeing a lot of desperation. out there where people are like, I just found a business, just like buying something. And like you know, we're, we're hearing this a lot is like, because there's inexperienced buyers coming in the market, they're overpaying, which is driving the price up.
+
+So there's going to be some regulation. And I think after the kind of sensationalism about this opportunity wears off, then we're just going to have a leveling and it's going to be business as usual. But even, you know, these businesses that survived, COVID and everything through that, like they're, they're likely going to be recession proof in the future and they're still going to have to change hands.
+
+And when we're looking at the number of folks that are going to be wanting to retire, I don't think we're going to see like a significant decline. I guess I would, I would caution the quality of the sales going forward, given all of [01:23:00] these inexperienced buyers coming to the market. So it'll be interesting to see what happens.
+
+Okay, he also says question for Ryan, what are the methods or what is the process that you guys use to evaluate whether a company is a good investment for the client or not? Yeah, good question. So. Primarily, what we try to do is not necessarily consider what we try to do is we're going to get to know you.
+
+So if you come on and. A potential client of ours, we'll get to know you what you're interested. What type of business models you're interested in what price point get to know your background. What makes you a good fit and then search for businesses. That is the best fit for you. So that's what we're aiming to do.
+
+You also ask what types of financial models and valuation methods do you guys use to evaluate companies? So financial modeling does play a part of it. [01:24:00] So, when we look at a business, and you'll 1st, kind of let us know what S. D. E. like, how much cash flow do you need? Everyone has different. Needs like you need to replace your, your salary, you and your wife's salary, right?
+
+We're going to find out those things ahead of time. And then we're going to, uh, forecast into the future based on the asking price. If that's a good fit for you. So, if you had that'll start with you telling us, we need the business to cash flow or have an of 400, 000 dollars after debt service. So, we have, we work with modeling that will forecast into the future.
+
+If you use SBA to finance the business, well, what will that look like over time? And will there be enough cash flow to support you, your family, your wife, and still, you know, be comfortable operating the business should something happen? Like, your last question of economic downturn or recession, but good.
+
+Yeah, [01:25:00] we. It's a good question, Luke, and to build on what Brian said, like, we're, the, there are so many valuation methods out there, but ultimately when we're working on behalf of the buyer, it's like, can the debt be serviced and still match all the criteria that we need for that business? So we have a little bit of an unconventional way of looking at it, but for small businesses like this that are using SBA loans, there's only so many.
+
+Like multiple turns it can take, right? So like anything over 4X is pretty much overpriced as far as SBA is concerned. So. It's a little bit simpler, but then, then there's economics at play in terms of whether the brokers included working capital and maintenance cap ex and all of these things. So we're looking at it more from the aspect of like future business owner.
+
+And also what is the SBA going to like in terms of debt service coverage and is after all of that done going to provide this client with enough money to make it worth their time in there.
+
+Alrighty. Next question is from [01:26:00] Juliana. She asked for us considering pursuing more experience. Before ETA, where do you see the ETA market in three to five years? Will it become difficult to find opportunities? I love that question. I mean, we're so excited about this because it's kind of, so I was in the beginning of the prop tech movement when I was living in London, right?
+
+So real estate used to only be people buying houses for themselves and then commercial real estate investors, you know, and then all of a sudden people started realizing, and this was with the advent of technology, like Airbnb, like, Oh my God, I can invest in real estate myself as an individual. And make money and make cash flow.
+
+So this is kind of what's happening now, right? Like people, individuals are realizing like, whoa, I can make this play. Also, it's not just for private equity and corporates, but we're in a. A [01:27:00] scenario where there's not a straightforward process. For how to do this. It's very convoluted. It's very difficult.
+
+There are a lot of barriers for people to be able to do this. And the reason why we started this business and why we do what we do is because we believe in people being business owners, right? And it's like, why does it have to be so hard to be the right business owner? And you have to go through this whole crazy M and E process to become the right business owner.
+
+When I kind of got into it with somebody on the internet the other day, cause they're like, Lenders are complaining that buyers don't know how to do modeling and blah, blah, blah, blah, blah. And I'm like, does the owner of that business know how to model? Is that required to run this business well to know how to do M& A, right?
+
+And it's like, no. Like no business owner knows how to do what you're about to do to buy that business. Does that make you a more qualified business owner? In many cases I'd say no, because now you have all these folks coming from investment PE coming down [01:28:00] lower and lower that are seeing it as an investment.
+
+They're just going to like try to cut costs and sell it for a higher multiple as opposed to somebody that's going to look after that, like their baby, like, like the previous owner did. So we're trying to remove those barriers with what we're doing here at Acquimatch and helping our clients who are the right owners of that business become the right buyer of that business.
+
+And long term for us, what we want to do is, is, you know, democratize this process for everybody. It's not inexpensive to work with us now. And that's a result of having to have so many people to make this happen because of the inefficiencies in this market. But the more efficiencies we can make, the more we can democratize this and literally change how business buying is done.
+
+That's our point. That's what we want to do. That's why we're here. We get excited about making this easier and easier for people who will be good business owners. Now, what I see happening in the market is like, we're only at the beginning, so it's going to get even more wild west. There's going to be all these tech products popping [01:29:00] up and there there's new ones every day.
+
+There's services like ours, you know, everybody's just going to get super crazy about this opportunity and solving for it and making money off of it, buying businesses. And then when people realize how hard it is, or when there's a lot of defaults on the loans, it's going to level out. And it's just going to leave people who are genuinely serious and want to make this play rather than everybody kind of thinking like, Oh my God, you know, and we saw that with people doing real estate investing and getting Airbnbs.
+
+And it's like, there's so many people doing that stuff. Now they're getting out of it because it just didn't turn out the way that they thought it would. And it's leveling out to the people that are serious and there to stay. So that's my prediction. Just having watched this whole thing happen with the real estate industry.
+
+I think we're at the precipice of that for buying businesses.
+
+Yeah. If anybody has any more questions, please drop them. We're [01:30:00] running to the last couple here. We still have a little bit more time. So ask any questions, ask away. Luke has another one. He says, what do you look for in filtering out which clients to work with or not? Yeah. Great question. So as, as we're set up right now, because of the way the market is, we are working with clients that are able to get a deal financed through traditional like SBA so they need a certain amount of, liquidity and money available to buy so that we can represent them because the brokers are getting fed up with people making offers.
+
+They can't actually finance. So, in order for us to get through the doors, we need someone that we can prove is going to be able to finance a deal the traditional way. We also look for folks that share kind of our vision of business ownership being their path to autonomy and something they can be passionate about and create legacy for their family and have [01:31:00] purpose every day.
+
+So if somebody is just looking at it straight as an investment They're probably not going to be a good fit because what's so important to us is making sure that we're finding a business that's going to help someone achieve their non monetary goals also as a business owner. And then we look for people that have a growth mindset that know there's hard work ahead.
+
+that are coachable because they're going to need some coaching through this process that are willing to work really hard because it's, it's not like, Oh, we just do it for you. And boom, you get a business on your doorstep. There's a lot of work that still needs to be done by our clients to go through this.
+
+So we support them through that, but we can't do it for them in a lot of instances. And we love all of our clients. They're amazing. We're so excited about them. We all celebrate as a team every time we get one of them into LOI and they get excited about a business. So, you know, there are other services out there that will just like hunt for businesses.
+
+And if somebody comes to us and that's what they're looking for, I [01:32:00] happily refer them out. So it's somebody that's looking for that support, you know, having a partner to go through this with the right mindset and work ethic, because we, we don't really believe in that kind of Straight up pa, passive ownership sort of thing.
+
+So, yeah, that's a great question.
+
+I think that's gonna do it for the questions. Cool. Did we answer, I think Luke asked what do we look for an employee? Did we answer that one? Uh, yes. Sorry, it's another one, Luke, that's from Luke as well. What do you look for in employee? Yeah, so, on our website. We have a our team page and open positions and down below there's our core values there.
+
+But We are super passionate about this mission. Everybody here works really hard [01:33:00] but we believe in taking care of ourselves outside of work and personally I've been a player and a high performer my whole life and I got really frustrated working at workplaces where There was like b and c players that just weren't They were holding me back or they weren't collaborating, so we only want people that perform at a high level and love working with other high performers for an overall goal.
+
+You know, so like when someone joined a team, we move faster and that's awesome. And as long as that's happening and we keep bringing people on, we're going to move faster. We're going to get better. So the values fit is more important to me than skillset match because the wrong. value joining the business or the wrong kind of like, view of what we're doing can, can have an impact on the rest of my team.
+
+And you know, the, they [01:34:00] know when they go through the interview process, like it's exhaustive, right. But it's to protect. The current team that we have because I know how hard they work and I want to protect them at all costs. Bringing in someone that's going to like make their lives harder is the last thing that I want to do.
+
+So, yeah, we have a lot of fun. We work really hard, but, you know, I, I think we're all really bought into the mission and what we're doing. And when we see our clients, when it's, it's personally really emotional and I think the team all, all agree, like it's a really exciting. Thing to see someone move through what is a absolutely crazy process to buy a multi million dollar business, you know?
+
+So yeah, it's a great question. This is so fun. I love talking about the reality of all this. And even though it's like, There's a lot of doomsday stuff about it. I just want people to be prepared for what they're stepping [01:35:00] into so that, you know, if I had known all this stuff when I went into it, I don't think it would have hit me as hard or maybe would have known what questions to ask.
+
+So I'm really trying to prepare people because I think it is one of the coolest opportunities out there at the moment. Oh, thank you, Tessa. Cool. I'm so glad. Okay, I think that was all the questions. So, uh, replay will be up. Grab our resources. If there's any terms or anything in that document that we didn't define, send them our way.
+
+We're planning on making that a living, breathing document so people just have it available. And let us know what you want to learn about in the future. We run these workshops kind of infrequently now. We used to do a more regularly, but I'm going to try to do once, once a month, and then we'll schedule some Q and a's too, where you can literally just come on and pick my brain about all this stuff and pick the team's brain because they're an amazing resource of information and they're at the front lines of doing all this and [01:36:00] looking at tens of thousands of businesses.
+
+The month. This is wild. So yeah, we'll do more of these in the future. Thank you so much. Time is one of the most precious resources we have, so I appreciate you spending it with us. We'll see you next time. Thank you so much. 
+
