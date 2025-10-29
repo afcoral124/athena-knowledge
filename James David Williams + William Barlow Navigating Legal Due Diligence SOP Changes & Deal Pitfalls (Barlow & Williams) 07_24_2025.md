@@ -1,0 +1,844 @@
+# Buyers Club 07/24/2025
+
+[00:00:00] 
+
+**Athena:** Hello. Hello. Welcome. Welcome. Hey girl. Hey Polly. How's it going? How you doing? I'm good, thank you. Uh, awesome. I think we got a few more folks filing in Justin's here. Hey Justin. Cool. Well welcome. Um, to by our sub. We are so excited to have Bill and James David back. They actually were some of the first guests we ever invited when we started these and they were an experiment and it's been going so well.
+
+I think it's been close to a year now since we started these, but, um, so, uh, bill and James, David are. Our favorite, uh, m and a attorneys out there, they've helped a lot of our clients, um, gotten to know them over the year and a half or so since we met. Um, they're just really great people too, in addition to being [00:01:00] incredibly good at what they do.
+
+And I feel like they've really carved out this side of helping folks like yourself, self-funded searchers, navigate this process, doing it well, um, and efficiently. And we actually co-created a template that's been on y'all's dashboard for quite a long time. Um, so the template that you use that's been created by these guys, um, they're, they've helpfully given us a lot of recordings and stuff in terms of like going through the LOI template.
+
+Itself. So today's discussion is really gonna be more strategy on, um, you know, going into it, diligence and, uh, war stories, that sort of thing. But if you all have questions as we go through this, please make sure to ask them. But before we get into that, let me hand over the mic. Uh, bill and James, David, if you wanna do maybe a introduction on yourselves, uh, anything that might be useful for these guys to know, um, about you and how you operate.[00:02:00] 
+
+**William:** Sounds good. Happy to do a quick intro. Um, I'll talk a little bit about us and James David, talk a little bit about the firm and how we operate. Um, I'm Bill Barlow. This is James David Williams or Barlow Williams. It's literally the entire firm. You got us on the, on the horn. Um. Uh, and, uh, we're two attorneys.
+
+We met together at Harvard Law School and then we both did big law. I was in New York, James David was in dc and for the last five years or so, we've had our own firm and we now exclusively work on mergers and acquisitions, buyers and sellers, uh, in the, uh, in the lower part of the market. So 
+
+**James David:** yeah, and as a firm, as Bill said, it is just the two of us.
+
+Um, we do all of our m and a work on flat fees, and we use milestone based payments. Uh, so you, we structure the payments to minimize broken deal costs because we know that financial diligence [00:03:00] is the graveyard of SMB acquisitions. So we structure our engagements accordingly, uh, and it leads to kind of backloaded fees.
+
+But, uh, we, since we are flat fee, where we like to be brought in is kind of after you've sent the LOI and gotten some red lines back from the seller, right? It's at that point, like, now it's time to finalize the LOI. And so we like to come in, make sure everything is kosher with SBA, SOPs and other lending requirements, and that you understand what the, some of the red lines are that the seller's attorney has perhaps made.
+
+I had, we had a call this morning trying to explain some of that to people and they were surprised. So, uh, productive call, but, and then we take you from there all the way to close 
+
+**Athena:** thing. Um, so they're also, uh, acquiring minds famous. They do lots and lots of webinars, uh, and workshops with, um, [00:04:00] wills. So if you like this content and you want more than what's on the platform, you can go and, and see this at length.
+
+So, um. I think the best place to start is maybe just a summary of, you know, we, we've, we've talked about the SOP changes, but how have you seen that impact the legal side of things on deals? And, and I know you've made some updates to the template accordingly, but how did that have an impact on, you know, the legal aspect of deals?
+
+**James David:** The biggest thing that it did is took away some of our toys, um, but it, it, it simplified or, or limited some of the options, right. The biggest change being if you plan to do a, a seller role, right? Any sort of equity role, which is really comes up more in trades businesses or, or businesses with licenses [00:05:00] than in other contexts, but.
+
+And it in the seller role, you're now locked into a very particular deal structure, or there's only one way to do it with SBA financing. And that in some ways is freeing because there's not a lot of structural negotiation that's possible, or it has to be this way. But it does require the seller to personally guarantee the loan for at least two years, and that is a stumbling block.
+
+Um, there were some people who thought that would be the end of those transactions. That is not the case. They are still happening, uh, but not as commonly, and you also can't have outside investors in a, in a solid role now because of the way they wrote the rules. Uh, so that was the real, you know, I, I wish they hadn't taken the multi-step partial.
+
+I liked the multi, multi-step partial, but. Uh, the big [00:06:00] change is in the seller role context, right? They, they really curtailed that in some pretty significant ways. 
+
+**Athena:** Can you just explain what you mean by multi-step, um, for, for folks that maybe aren't familiar with some of the structuring that you're referring to?
+
+**James David:** Yeah. So in the multi-step partial buyout, which that's the government language, that's not how normal people would talk about it. Um, private equity just calls it doing a transaction. Uh, this is how PE does their deals. Um, but what, what that involved, and again, can't do this with SBA financing anymore, but what that involved is you set up a new company by more or less all the assets of the target.
+
+Seller keeps a few of the assets, contributes those assets to the new company in exchange for equity in the new company. And that's a way [00:07:00] to get it to achieve the seller rollover, tax free for the seller. But you can't do that anymore using SBA financing, so. 
+
+**Athena:** Right. So you're saying that you're seeing some deals not as many go through where, so essentially if the seller retains any part of ownership in the new in, in your deal, when you're, when you're buying the business, they are gonna have to be liable to personally guarantee your loan for two years, 
+
+**James David:** or at least two years.
+
+**Athena:** Yeah, at least two years. Okay. 
+
+**James David:** If you miss a payment, the clock resets, so. 
+
+**Athena:** Oh, wow. Okay. Good to know. So seller definitely wants you to make the payments, like under what circumstances are you seeing these kinds of deals actually go through? 
+
+**James David:** In the trades where the seller holds the license and you have to have the license to operate the business, 
+
+**Athena:** are [00:08:00] you seeing it like, are the buyers known to the seller before the transaction or have you seen it happen where the buyers are, you know, they, they found it through brokered listing and the seller is, 
+
+**James David:** this is still, this is how, this is the only way they're happening now through brokers.
+
+'cause a lot of times if it's not a broker, like if somebody already has the license, it's kind of a different scenario. They, they often know the people personally. It's never getting to a broker anyway. 
+
+**Athena:** Right. 
+
+**James David:** Not always the case, but, 
+
+**Athena:** and what, what, like, what are either the brokers or yourselves saying to the seller that's getting them comfortable with personally guaranteeing?
+
+**James David:** Um, well, it's just, I think it has to be this way, right? It's either this or nothing. Caveat a much smaller buyer pull when I say nothing right, because people with the license could still make the acquisition. Right. Um, what I will [00:09:00] say is that if you find yourself in this situation over communicate about the seller needing to personal guarantee the note I have, we have not seen this ourselves, but I have heard horror stories of people getting to the closing table and they've put the personal guarantee or have the seller needs to sign the loan documents and the seller reads those documents and says, I'm not doing this.
+
+Um, so over communicate if you do find yourself in this situation, because it can blow your deal up at the end. 
+
+**Athena:** Yeah. Um, when you realize the kind of liability that they're taking on. So you wanna make sure that they really understand that before you get too far down the line. So, um. We were kind of, uh, communicating a little bit about structuring and, and what was taken away also with this SOP update, which is, um, having the seller contribute to the equity [00:10:00] injection.
+
+It used to just be a two year standby. Now it's a 10 year standby. How are you seeing people overcome that? Or what are you seeing go through, if anything? 
+
+**James David:** Um, well, we're not especially public about all of this, but we have talked about it with you as you know, I think, um, and we are doing this for at least one client right now, but the way the rules are, the, the, the seller note can count towards half of the equity injection requirements.
+
+So five of the 10%, but in order to do so, has to be on full standby for 10 years. Right. So a few people are just doing that for their part of their seller note and a couple sellers have agreed to it. I don't know why, but they have, what's a little bit more of a gamesmanship sort of inside baseball thing is you can have more than one seller note [00:11:00] that's perfectly okay in these deals.
+
+Um, so what we've done a couple of times is, and it has to get through underwriting to do this, but tack on an extra seller note on top. So like, have your true offer, whatever it is, and then add another seller note for five more or less 5%. Put that on full standby seller gets a higher headline purchase price.
+
+You get to count that extra to the equity injection and. Right. So it's less cash for you at cash out the door for you at closing, but the seller gets a higher headline number and then the present, the present value of that amount is gonna be substantially less anyway. 'cause you're not paying it for 10 years.
+
+Um, so there are still, there are still games to be played. 
+
+**Athena:** Right. Just a reminder, what happens in Buyer's Club stays in [00:12:00] buyer's club. So
+
+**James David:** yeah, you're, you're, you're not gonna see that on a lot of the public stuff, but it, it is happening. 
+
+**Athena:** Right. And, and we have talked about, you know, like when, when you're really stretched on, on your available amount to put towards the equity injection, that is potentially a play you could make. I'm gonna try to refrain from sports analogies.
+
+'cause every time I try to do it, I walk myself into a corner and it's horrible. Talk about home runs and football then. So, um, so are you seeing any other interesting structures or innovations around deal making after the SOPs or anything interesting that people are doing to, to work around or, or things that people have started doing or maybe stopped doing?
+
+**James David:** Well, um, seller notes have still standby periods and seller notes have [00:13:00] held even after the change. Right. So they're, they're not required anymore. There's no. They weren't really required before. Uh, but a lot of people are still putting one or even two year standby periods in seller notes. Uh, even though there's no requirement now for the, for that to be the case, but that could help short term cash.
+
+Uh, but really, yeah, the rule changes Bill can jump in, but the rule changes were constricting not, not freeing. So 
+
+**William:** one thing we have seen is it's taken a little while to educate the banks. Um, I actually had to get talk with the chief, one of the main compliance officers at one of the top five bank for SBA lending to help explain to them why reorg is actually allowed, as long as it's not a partial change of ownership.
+
+So even, even banks that you would expect to know the rules. Sometimes they, they need to have [00:14:00] the rules kind of explained to them. We, we expect that to decrease as more deals happen, but especially in this initial period, there's actually been some educating where we've had to educate the banks. So, you know, um, that, that's, sometimes that's held things up because deals that are actually permitted, the bank doesn't understand that they're permitted.
+
+And so I have one deal that got delayed by effectively a month as a result of that. So, you know, right. You guys are doing it, it's all been sorted, but, you know, it's, it's a process. 
+
+**Athena:** And so Okay. There's, there's, there's reasons for that. Right. And, um, so I'm gonna ask you to explain what an f reorg is in a second.
+
+But I think what I'm getting from a lot of the banks is, you know, the SBA guarantees portion of the loan. So the banks. Use over caution in these scenarios because they don't wanna do anything that would remove their guarantee. So [00:15:00] they're overly cautious and or just taking a long time to get caught up because the SOP is what, 800 pages and they didn't really call out exactly where they made changes.
+
+So, um, I don't know about you guys, but I was trying to, you know, like read through 800 pages of this document and make sense of it. And there's conflicting information too, to make it even more fun. It's like parts conflict with other parts and that sort of thing. So I, I guess the headline is that the banks are trying to not overstep anywhere.
+
+That would, would mean that if somebody defaulted on the loan, they wouldn't, they wouldn't get the guarantee 
+
+**William:** right. That's the nature of banks generally, right? They're always gonna be super cautious. So when they do have asks, usually you try and just accommodate them unless it's a deal risk. So in the case we're talking about it was a deal risk and then we had to kind of push in and, and, and that's [00:16:00] with or without the SOP changes, by the way.
+
+It's, it's just the nature of how these lending institutions work, so, right. 
+
+**Athena:** Okay. So can you explain what an f reorg is? 
+
+**William:** So just 
+
+**Athena:** simply like, just, just the concept. 'cause we've talked about it before. I'll explain 
+
+**William:** the part you need to know. We're not gonna get into all the technicals. We'll just talk to about, you know, sometimes there are sellers that have something called an S corporation.
+
+Um, it can be an LLC, it can be a corporation, but either way it's an S corporation and every organization is basically a way for you to buy that company. Which is technically the purchase of the equity of the company, which means that if you, you don't need to assign contracts, you don't need to, you know, it smooths over the transition process, but it's treated for the purposes of taxes, uh, at least [00:17:00] depreciation as if it's an asset sale.
+
+So you get to depreciate the assets. So you get the best of both worlds. If the seller is an S corporation, you can kind of go that up and reorganization is likely going to be, um, a potential solution. It doesn't have to be, many times you don't want the equity anyway. There are other reasons to do an asset purchase, and so you do asset purchases of s corporations all the time as well.
+
+But just know that that's kind of the trigger point. I need to do a stock purchase. For some reason, the seller is an S corporation, therefore f reorg is kind of the formula. 
+
+**Athena:** So like say there's a whole bunch of contracts in place and, and written in the contracts. It can't be like a, a new owner, they won't exist anymore.
+
+So you might wanna purchase, do a stock purchase, but you can do this f reorg thing and still have the contracts stay in place. 
+
+**William:** Yeah. Like you have a government contract, you can't [00:18:00] assign, you know, subcontract with the university. That's just terrible or some huge company. And onboarding as a new vendor is impossible.
+
+**Athena:** Right. Cool. Peter, I see you got a question. 
+
+**Peter:** Hey guys. Uh, for the f reorganization, uh, do you, do you still have the liability of a traditional stock sale? Okay. You do so that there's no free lunch on like legal liability. So if it's like, oh, you know, this guy's got harassment charges that are coming your way as an employer, now all everybody's filing, uh, or dis.
+
+All right. Got it. Okay. And then are there any tax, um, does the seller's tax benefits, do they sort of shift over to you? Is that why you, the buyer get tax benefits? Or does the seller still have some tax benefits with an a [00:19:00] reorganization too? No. And now you, the buyer also have, yeah, 
+
+**James David:** it's treated for tax purposes.
+
+It's treated like an asset purchase. So what that means is that you get a step up in basis in all the assets, including got Okay. And then you can amortize that. Right. 
+
+**Peter:** Got it. So if the, yeah, so if the seller was looking to get some tax benefit from a stock sale 
+
+**Athena:** mm-hmm. 
+
+**Peter:** That would go away in that reorganization?
+
+Probably not. Oh, okay. Okay. Cool. Asterisk 
+
+**James David:** There can be, there can be some differences. Yeah, right on. Um, especially in, in, depends on what state they're in. Sometimes there's state tax recaptures, um, so you end up doing gross up and like to let the accountant sort that out, but beautiful. 
+
+**William:** Um, but most of the time with an S corporation, the assets are long-term assets, so it's long-term capital gains, whether the seller sells the [00:20:00] assets or the shares.
+
+Ah, with the exceptions that James David just mentioned. Right. Beautiful. Okay. Thanks guys. 
+
+**Athena:** Okay, so, um, let's say, you know, LOI, no comments signed. Where do you guys come into this? What should someone be thinking about as, uh, like I've got a signed LOI I've got a deal, I know I need to get. Term sheets from the lender to make sure it's even financeable.
+
+I need to get my QV done. I don't wanna necessarily like, engage everybody and pay all these fees up front before I know I can get financed and the, um, that the, the QV comes back. Okay. Like how do you guys slot into that? Where do you need to come into it? What do people need to be thinking about? 
+
+**James David:** Yeah.
+
+Hopefully you've already kind of soft circulated it to financial partners before you've gone under LOI. That's the ideal. Um, and hopefully [00:21:00] we've been involved to kind of get a sense of where the, the big legal risks are pre LOI. But say we don't. What we would have you do in that world is we would have you kind of spend a, a few days a week, kind of do your own red flag diligence on everything, right?
+
+What you think matters.
+
+During that time, you know, we're gonna have you start reaching out to banks and we're gonna say, you'll find your QOE person. Right? And a lot of the QOE providers will kind of stage it, stage their engagement in some similar manner to how we do. Um, so, so they will, they'll kind of phase it at least the, the QOE shops that deal with, uh, self-funded searchers.
+
+And so you can kind of engage them and, you know, if it clears the first bit. All right, we'll go onto the [00:22:00] second bit. It's go to the third bit. We don't usually send legal diligence requests unless there's something that we know is a big thing that we would ask about up front. But otherwise we won't even send the requests until after the seller is sent the financial.
+
+Documents to the QOE provider, otherwise you risk overwhelming the seller. Uh, this is also a way to keep the seller engaged while the QOE team does their thing. 'cause it takes a few weeks, right? So during that time, we'll send the legal requests and they can be responding to those. And as far as the seller right, the seller can see progress and momentum, which is important.
+
+You, you want to keep that up. Uh, and then we'd, you know, we'll review things as they come in. If the QOE comes back clean or clean enough, they're never clean, but clean enough. [00:23:00] 
+
+**Athena:** Mm-hmm. 
+
+**James David:** And then, then we'll do a more, you know, we'll do more of a deep dive on the legal dd, which is really just contract analysis a lot of times, but can be more.
+
+Uh, and then it becomes go time on the transaction documents and then we start drafting and we're kind of off to the races. 
+
+**William:** And, and I'll just say as well that you might as well just get us engaged once the LOI is signed. We do have a small payment up front. Um, but you know, one we can talk about, make sure that there's no legal red flags.
+
+We talk about that with you. And frankly, we have a conversation with you generally about the deal. You know, and you know, we have like over 20 active deals right now. So we, we see lots of deals and we see things that are commonly issued. So even if it's not necessarily legal, just having a conversation with us can actually often get you ahead of issues, even non-legal issues, right?
+
+So just have that, have that initial [00:24:00] conversation with us, you know, we'll, we'll, we'll kind of stage things appropriately and, you know, we do milestone based payments so that we're backend again, we're not gonna. Start drafting the purchase agreement before you're ready. Right. But it is good. Uh, 'cause sometimes we've seen situations where there is a red flag diligence issue, like, you know, collective bargaining agreement, right?
+
+A franchise agreement that turns out, you know, has super aggressive terms, uh, an agreement with this key supplier that is really the entire supplier of the business, or effectively just a distributor of the supplier, a customer that's 50% of the revenue. You know? So all of that is to say is you may be aware of it, you may not be aware of it, but if you talk to us, we can say that because, you know, just this week I had a deal die because of legal due diligence before we really initiated QOE because there was one of those issues, right?
+
+And I, you would much rather [00:25:00] catch that and clear that early than wait until you've spent all the money on QOE and the legal issue is still the legal issue. And it turns out that legal issue like. Is a killer. Another thing is leases, right? Some they're landlords that will sometimes just not allow you to assign leases.
+
+So we, we should have a conversation about, you know, how, how you wanna approach all of that stuff. 
+
+**Athena:** Can you explain what a collective bargaining agreement is? 
+
+**William:** A union. 
+
+**Athena:** Okay. So if, if somebody is looking at a business, it might have union labor or touchpoints in it. 
+
+**William:** Oftentimes, if there's specialized trades like metal workers or stone workers or you know, certain types of things, you know, that's usually where we, you see that happen.
+
+Okay. You'll see we actually have some deals where this, where you have these very wonky agreements that are like just with a couple people and there could be a lot of liability. So just collective bargaining agreement. Union [00:26:00] agreements like always gonna be a thing you, you need to talk to us about. 
+
+**Athena:** What kind of, um, when you said doing like some early legal diligence or, or potential legal red flags, how are you, how are you identifying those?
+
+Or how can someone, uh, like what is something that some of these ears should prick up and be like, oh, I need to make sure I tell you guys about this. 
+
+**James David:** A lot of it depends on the type of business and at this point we've just, we know what they're, what they're commonly are. Yeah. But it varies by business.
+
+Um, and so I don't know that there is a great answer or ex ante, uh, in and in general 
+
+**William:** if, if you know that it is a franchise, you're gonna have to review the franchise agreement, right? If you know that the location is really important and they're leased, you're gonna have to understand how that lease [00:27:00] works.
+
+Beyond that, as James David said, it's, it's very much a sort case by case basis.
+
+**Athena:** What kind of like, so your, your, uh, legal diligence documents requests, like what kinds of documents should someone expect or what, what, what are they looking at from the list from you all that, that they need to start collecting or be aware of that they're gonna have to collect? 
+
+**William:** Well, luckily this is a list that's sent on to the seller, so you're really not gonna be involved in all except for just asking us for it.
+
+And it is pretty simple. It's, you know, stuff from corporate documents, stuff about employees, stuff about insurance. They, we have this list. It's, it's not that intimidating, it's not that many questions. We, we've kind of adjusted it for the size. Um, but all you'll have to do is pass it along and then we'll take a look at the data room, let you know if there's anything you know, that's a problem.[00:28:00] 
+
+**Athena:** Okay. Um, yeah, I mean, we, we like to help our clients project manage everything all in kind of one place. So, um, so it sounds like it's employment agreements, maybe all the contracts that this business might have, 
+
+**William:** any legal contract they have at this level? Yeah. Any legal contract they have, they might as well just throw it in.
+
+Um, right. 
+
+**Athena:** And then, um, so like, are you guys looking at if there's like, past lawsuits, uh, against a business or like what, what kind of like, legal, you know, Peter was talking about that, does the, um, legal liability transfer over? What kinds of things are you guys looking for? Looking at? 
+
+**James David:** So, I mean, we, we use third parties to do lien searches and litigation searches.
+
+Um, I mean, if, if something's not been filed, you don't necessarily know about it, right? You, you don't know about everything. Uh, if something, if they've received a demand letter. Then, [00:29:00] you know, we'll ask them to make representations about that. But, uh, but like there could be a lawsuit floating in the ether that you, you know, it's not been filed yet and you just, you don't know.
+
+'cause they may not know. Um, but we, we do searches for these sorts of public records things. Your lender will too, frankly. So 
+
+**Athena:** is, is it a potential red flag when the seller has been the plaintiff multiple times in potential suits? Well, 
+
+**James David:** um, it's gonna depend on the nature of those suits, right? If, if there are lawsuits, you know, we're able to pull the complaints, right?
+
+We're able to, to get those filings. Most of the time some state courts are obnoxious. But, um, and in, in that, in those kind of settings, right? We, we kind of, I mean, we lean on my background, right? I did litigation for a few years. And I just sort of evaluate like, okay, what, what [00:30:00] is this really? Do we care and we move on?
+
+Or maybe we don't. Right? So, um, but that's kind of how we handle that process internally. Bill doesn't look at 'em. I he just sends him,
+
+**Athena:** if you, if you know this, and I'm, I'm asking 'cause we're, we're looking at a deal right now where it's like, oh, it's, it's not a problem. 'cause the seller was the plaintiff several times. And I'm like, is that's something we would wanna dig into before we got too far in the process? Or how, how big of a issue might that be for a buyer?
+
+**James David:** Well, it, I mean, if we're in construction, we're talking about a construction business and we're talking about fights between general contractors and subcontractors, like that's just cost of doing business. Okay. Uh, or that's just part of it. And then you're gonna get, and then if somebody's mad, then they're just gonna sue everybody.
+
+And like the construction has a lot [00:31:00] of litigation. Um, if we're, you know, if, if they're the plaintiff in, you know, other settings are are we going after customers, are we going after supplier? Like, who are we going after and why? Right? Because if you need to sue your customers, something else is probably wrong,
+
+right? I mean, not always, right? There are bad actors, but if you're just having to sue multiple customers, like why? 
+
+**Athena:** Yeah. Is it like a breakdown in managing expectations? Are you not good at client servicing? Like, have you, have you seen that before? 
+
+**James David:** No. Okay, 
+
+**Athena:** now, now I'm even more curious to figure out what's going on on that one.
+
+I won't, I won't reveal unless, unless the person wants to talk about [00:32:00] that deeper. But it, it is an interesting 
+
+**James David:** one. Happy to review it later, I guess, but, but no, like that's not a common scenario. Most people don't like going to court. 
+
+**Athena:** Right. Um, 
+
+**James David:** and arbitration is different right, too. 'cause arbitration may be confidential, you'd never find out.
+
+Right. So some of it could depend on the nature of their contractual agreements too. Right. So, 
+
+**Athena:** so I see this come up a lot. Um, I'm curious, I mean, I know it, it's obviously like looked at in QV, but how much do you guys pay attention when there's legal fees that the seller's claiming is an add back? You know, and, and saying like, oh, that's, that's not something that we would need going forward.
+
+Do you, do you all also look at that to see if you can help justify whether those legal expenses are gonna be like, ongoing business expenses? Or do you look at that side of it? 'cause I'm seeing it a lot crop up now, or there's a lot of legal [00:33:00] add backs. 
+
+**James David:** Uh, we don't look a lot at the financials, at, at a granular level.
+
+Yeah. We'll look top line numbers and for trends that seem off, but as I kind of joke on a regular basis, I don't make Excel models, I break them. Okay. So, um, we kind of leave that be, um, with legal expenses, you know, I would want to see year over year. Right? Because if it, if it shows up one year but isn't there for the previous three, then that's an easier story to believe.
+
+You know, still ask what they, what they call, you know, what the expense was. But that's an easier story to believe than if we're dealing with a, you know, flat trend line. 
+
+**Athena:** Right. Um, so something else I've seen recently is, um, like, uh, company being defrauded in some way and then like, [00:34:00] you know, having to, to deal with that.
+
+Um, have you guys seen any deals where the, the seller or the, the seller's company was defrauded or there was fraud against them? 
+
+**James David:** We have had times when, uh, certain causes of action, certain legal claims have been excluded, assets in transactions. Uh, whether that, I don't know if what the allegations, you know, I don't know if those were fraud cases or not, but there, there can be time.
+
+Right. Normally you would be. Purchasing the rights to any, any of those claims. Uh, but there, there can be times when, when the seller will say, no, I'm gonna keep that, that's mine. I'm going after 'em. It's rare, but it's not unheard of. 
+
+**Athena:** Oh, okay. So you, the buyer would want the rights, the claims on those fraud actions if 
+
+**James David:** normally, normally you, yeah.
+
+'cause it's a chance to get money. 
+
+**Athena:** What if they already got money [00:35:00] for it? 
+
+**James David:** Well then good luck to you. The seller's gonna wanna keep that, so. 
+
+**Athena:** Right. I, I guess it's more like from a liability standpoint, is that something you need to pay attention to as a buyer? Like, you know, or they're, 
+
+**James David:** I mean, again, we, we would wanna look at the nature of the, of the, the litigation of the settlement agreement.
+
+Right. See what the allegations were and see if there's kind of operational risk going forward. But that's a different assessment than a purely, you know, legal. 
+
+**Athena:** Right. So, okay. Fun, fun time. At least I think it's fun. Um, what have you seen happen that's derailing transactions that might be like, tales of caution or things for people to start thinking about or watch out for here?
+
+**James David:** Tariff uncertainty continues to be a real thing. 
+
+**Athena:** Okay. 
+
+**James David:** Uh, with, [00:36:00] with, when they were first announced, there was a huge kinda wave of things that died, but they're just, they continued uncertainty, uh, causes pause in some context. Um, lenders are generally just being more conservative right now 'cause I think they, they kind of forecast further constrictions in SBA policy.
+
+And I don't, we're not gonna go back to the Biden era rules. I think it's gonna get tighter, not looser. Um, bill, jump in there. 
+
+**William:** Yeah. I think the places where we see, I, the original question, correct me if I'm wrong, Athena, the original question was about like places where we were seeing like deal risk or things fall apart, or was that kind of the general Yeah, like 
+
+**Athena:** where are deal, where are deals dying right now or where do you see deals often [00:37:00] die?
+
+**William:** I mean, you, from a legal perspective, obviously the real graveyard is the financial due diligence. That always is the case. But from the purely legal side, I, I would say, uh, again, key key agreements that, you know, either there's something wrong with it or you, you just can't trust it. Sometimes if the, like, the key agreement is like there's a relationship there, right?
+
+And fundamentally you just don't know if that relationship is gonna survive. Um, the closing can be a big issue. We mentioned franchise agreements. I'll mention again, lease agreements. We have situations, we have a situation right now where somebody lease is looking to lease like 10 locations and they don't know whether or not those landlords and all those landlords are gonna be able to, you know, be willing to assign the lease.
+
+And until they know that they are not comfortable with moving ahead with quality of earnings and those type of due diligence. So, um, you know, I think, I [00:38:00] think those, those are the, those are the main ones. Those are obvi obvious ones. You can have a situation where the, there's a ongoing lawsuit, right? That happens.
+
+Um, and there are different ways to deal with it. Depending on the nature of the lawsuit, it often that's not a deal killer. It can be, but often that's not necessarily a deal killer in the way that you might think, um, because there tends to be more ways to mitigate that risk as opposed to, you know, the risk of like a key counterparty.
+
+That just could suddenly drop off and bam, the business is done. There's, there's, it's much harder to mitigate that type of risk. 
+
+**Athena:** Right. Okay. So we've, we've all, we've all been involved on a thing where there was like a lawsuit in the middle of it. So, um, is, is there, are you seeing ways for people to, to find out if that's going to be something that could happen?
+
+You know, like, uh, let's say there's a bunch of family members [00:39:00] involved in a deal. Like, do you see a lot of lawsuits happen? I, I only know one example with you all, but when there's family members involved, is there more caution that you should take going into it to avoid that or ask about that or make sure conversations are had so it doesn't happen?
+
+**James David:** Yeah, I, I would, I would adjust, let. Because this, I, 'cause I had to deal with the situation she's talking about. Um, thank you for bringing us into that deal, Athena. 
+
+**Athena:** I'm sorry. I didn't know. 
+
+**William:** Um, that's gotta be one of our worst flat fee anyway. Yeah, we took a bath on 
+
+**James David:** that one. Um, but what, what is more commonly a risk when it's family is actually, um, the risk that you pay the parents and then the child leaves and goes and takes that money and starts the competitor.
+
+**Peter:** Oh. [00:40:00] 
+
+**James David:** That, that's actually, you need to assess that risk. That's a more common kind of scenario in regards to the litigation risk about the sale going through. Like that's why we want their corporate docs. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** Right. Because if we, we see their corporate docs, we know like who is needed to approve the deal.
+
+Right. So what happened in the transaction in that mess was a minority shareholder had consent rights, had veto rights, and that caused problems 'cause of the fight between the two sellers, right? So, and we ended up having to restructure the deal and, and all kinds of crap to deal with that. But that's why we want to see their, you know, shareholder agreement, operating agreement, whatever, fairly quickly just to confirm that there's no, you know, no somebody else, right?
+
+That we're actually dealing with the [00:41:00] principal. Uh, because if that's not the case, then okay, let's have the conversations early, right? Who are these other people? What are their motivations? 
+
+**William:** Are they gonna be a problem and let's get out in front of it? Sometimes we actually structured the deal. One time we structured a deal to basically structure it.
+
+Well actually multiple times we structured a deal to structure it. So that we could deal with those issues without having to get the consent of the, uh, the owners. Actually, that's one of the reasons we call mergers and acquisitions. And basically nobody does mergers at this level of the market, but why, why you do mergers very commonly in public markets is because it is the easiest and cleanest way to deal with, uh, minority owners who don't wanna, you know, are fighting because there's some plaintiff lawyer that's asking for money, you know?
+
+Um, and to basically get through that agreement without, well, well, you know, getting what you need. So, 
+
+**Athena:** so is that [00:42:00] something you should ask for, like pretty early on, like before you even like start QV, do you want to see the operating agreement before that just to see what you're dealing with? Or is, is that a very rare case where that ends up being 
+
+**James David:** Probably not.
+
+'cause a lot of times, you know how many sellers there are. Right. If the broker's done their job, uh, if there are multiple sellers, then it may be more important to ask early. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** But it's, but it's sort of a conversation, right? Who needs to approve the sale? Right. A lot of times the sellers know, not all the times, sometimes they've never read their own documents, but a lot of times they 
+
+**William:** know, and it never hurts just to have a quick ask, like, are you the a hundred percent owner?
+
+And, or usually they'll say yes or yes. Uh, but I have this person, this person that's a sort of confirmation. It 
+
+**James David:** did have one where an ex-wife, uh, killed a deal. I had one of those this year. [00:43:00] 
+
+**Athena:** What happened? I mean, as well, what, what can you tell us in generics? 
+
+**James David:** We, we represented the buyer and, uh. The seller was on, uh, the entity was owned by husband and ex-wife, and the husband was ready to do the deal.
+
+The ex-wife wanted to impose certain conditions as part of an employment agreement for the son that we could not agree to. 'cause they were insane. And so that killed the deal 'cause she had consent rights over the transaction 
+
+**Athena:** family. Wow. Okay. So a very simple question that, that everybody here can start asking early on is, are you a hundred percent owner?
+
+Are there any ex-wives we need to know about? Um, so okay, back to the example you said of the kids. Uh, is it, is that something you're building into agreement then if the kids are involved in the business? Like, can you do non-competes with them? Like, or, or is that just a risk if, if there's [00:44:00] kids in the business, you're buying from the owners?
+
+You need to be aware that that's something that could happen 
+
+**James David:** largely. Can't do anything. Yeah. Largely it's just a risk. That you have to take, you cannot bind the family if they don't have equity. If they have equity, then you can bind them in the transaction. If they don't, then you can't bind them to a non-compete in the transaction because they're not a party to that agreement.
+
+Uh, you could do it in an employment agreement in some states, but there's variance as to the enforceability of that, uh, and what role they're in, et cetera. It's also possible to give them equity post after the acquisition or let them earn equity, in which case you can bind them through an operating agreement, right?
+
+So that there can be ways, [00:45:00] but a lot of times you don't, you don't wanna do that, right? You don't wanna give the the kid equity. Uh, so it, it just becomes a, a purely business risk to assess. 
+
+**Athena:** Um, that's, that's a, I'm always, every time I have somebody on, on these calls, I'm like, hearing these stories that I like, I never would've thought of that.
+
+Um, are there any, any other examples like that where you're like, oh, what a gotcha. Like that you're seeing your clients go through legal or otherwise, um, that you, you, you didn't expect or just kinda is something that Tale of caution. 
+
+**James David:** Anything with an EBITDA, earnout or forgivable note or whatever we wanna call it.
+
+Um, litigation risk is real. Okay. Say more. Or sell side. Well, EBITDA is one of those things that doesn't [00:46:00] actually have a uniform definition. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** Um, and even if it does, right, I mean, you're the buyers. So the, the risk you run, say, we've got a forgivable note and an SBA deal, but there's an EBITDA component to it.
+
+If you wanted, not saying any of you would, but if you wanted, you could launch a massive advertising campaign in December, right? Spend hundreds of thousands of dollars. Well, you just drop the EBITDA threshold below the threshold, so now the note gets forgiven and your seller is pissed.
+
+It, it allows it, it allows for dynamics like that. 
+
+**William:** Sometimes sellers will also Monday night quarterback how buyers operated and say, you know, 
+
+**James David:** yeah, 
+
+**William:** there's that. 
+
+**James David:** So you would, uh, just [00:47:00] leads to. Is more likely to lead to a fight. Any sort of forgivable note though, just separately, if you have a forgivable component to your note in this deal, just assume you're gonna pay that, whether it should be forgiven or not, because if you don't, the seller's gonna badmouth you and your business is screwed.
+
+So you, you can write it into the note, you know, write it into the docs, but assume you're gonna pay it unless something really crazy happens. Just, yeah, 
+
+**Athena:** that's a good point. I mean, we'd love, oh, sorry, go ahead Bill. I was, no, finish 
+
+**William:** this up because I have a slightly different point. 
+
+**Athena:** What's that? 
+
+**William:** Finish your thought up 'cause I have a, a slightly different point.
+
+**Athena:** Well, yeah, so we, we love forgivable notes. Um, you know, because it helps get some risk buy-in with, you know, especially now that the, the equity. Standby is kind of off the table. So, you know, [00:48:00] I always like to see it tied to revenue because then you're not in an argument about what you can spend money on in the business, which is like EBITDA or profit calculation.
+
+So are you seeing the revenue forgivable notes fare a little bit better? 
+
+**James David:** I mean, I mean that's, that's what we have. I think our template has revenue. Yeah, we put that in the, in the footnotes, but I mean, that's what I prefer. If I'm buy side, that's what I prefer if I'm sell side, right? It's just a little bit less litigation risk.
+
+**William:** And usually you kind of know what your EBITDA margin is. So even if you're thinking in terms of ebitda, you can usually kind of use that to back into what the revenue should be. 
+
+**Athena:** Mm-hmm. Mm-hmm. 
+
+**William:** Right. Thing I, I was just gonna mention is, you know, another source of tension is often working capital, and this is a very, very common source of post-closing fights, especially [00:49:00] immediately post-closing.
+
+Yeah. That can be an issue because it can sour your relationship with the seller. And that's exactly what you don't wanna have happen in the first 90 days of the transition. Right. So the best way to make sure that doesn't happen is actually to be super, super careful and know like what's going on with the working capital so that there's not surprises.
+
+So that the adjustment, so doesn't come as a surprise, you know, sometimes you have sellers. It's, it's just not possible. Um, I would say, you know, we had this conversation, I think today where we basically said, Hey, like. I would rather you pay like $20,000 more and avoid like a working capital, like true up where they potentially get some extra money or whatever.
+
+'cause like, we don't, we don't wanna live in that world because it's, it's messy, it's really annoying for you, it's not worth your time. So if there are ways that you can, you know, preemptively try to [00:50:00] stop, you know, or at least mitigate this. This also honestly comes into play a lot in works, in progress, you know, large, large things.
+
+And sometimes there just isn't an easy solution, right? Like you can't just pay for it all because it's, it's too messy. But all else being equal, you know, you want, you want to minimize those fights and minimize the complexity of that as much as possible. Um, 
+
+**Athena:** okay. So would you mind maybe giving some like.
+
+Hypothetical examples of what you're talking about so people can wrap their head around like, because working capital, true ups, all those sorts of things. Like we're familiar 'cause we've seen it a lot of times. But for somebody brand new, like, what do I need to be thinking about and or could you give like a hypothetical example so you know, when you're saying pay 20,000 more like on what basis or under what scenario would you, would you wanna potentially consider something like that?
+
+**William:** So I'll, I'll just [00:51:00] give a scenario. So this is a situation where they have like $500,000 in accounts receivable and we're kind of talking about setting the working capital target. And the seller was kind of saying like, well if, if the working capital is, if I have more than that, then I wanna be reimbursed and like paid, you know, basically if there's excess accounts receivable, then I get, you know, reimbursed the excess or whatever.
+
+And I was just saying like. Just crunch the numbers and if the numbers are actually close and they would, you know, be ahead above that target or whatever. Don't, don't try and do some type of fancy accounts receivable reimbursement, like just increase the purchase price. You have to do that at the beginning of the process.
+
+'cause you can't do that at the end. Otherwise you'd kick everything through underwriting. But if you're at the beginning of the process and you have a fair sense of, you know, some of that stuff, then I would say like, be willing to pay a little extra to have like less, to just [00:52:00] decrease the complexity of, you know, post-closing.
+
+You don't, you wanna get out as much as possible of any sort of like, reimbursements and, and you know, remitting stuff to the seller. That's just really annoying. I got it. Um, 
+
+**Athena:** just 
+
+**James David:** work in progress, I mean, right. So applies kind of a different thing than. Accounts receivable. Accounts receivable is for stuff that's already done right and has been invoiced, but work in progress, uh, which is not relevant for a lot of businesses.
+
+But, you know, archetypal example would be construction, right? You know, construction project. It takes weeks or months, right? And the customer is going to pay along the way and costs are gonna be incurred by the business along the way, right? You gotta buy the materials. Then we do the part of the install, then we're doing dis part of the install.
+
+Like, [00:53:00] and what that turns into is a massive schedule of all the active projects. And then you kind of guess where they are in terms of how much has been paid relative to how much cost has been incur, incurred, and you just. It's never gonna be perfect. People want it to be perfect. It's never gonna be perfect.
+
+And you get to an outcome that people can, that people are okay with in terms of a number, right? Because the sellers, a lot of times I think, well, if I've done that work, that money's mine, right? And that applies to working capital and web. Um, that's just an attitude. But, you know, there's the reality of, well, but I need cash on an ongoing basis to fund operations, right?
+
+That's sort of the, the net part of the networking capital. And that's just a tough thing to explain to people, right? You can have the analogy of like, well, I'm buying a car, [00:54:00] but it needs gas to run. Right? And you know, a lot of people like that analogy and great use it, but the seller, right, they don't understand, they won't understand.
+
+You can make it as detailed as you want. In the LOI, you can make it not detailed. They won't understand either way. They won't understand until they see like what the effect is on how much cash they get at close. That's just the reality. And so you can educate. You can educate and you should, they're not going to understand.
+
+And so you can lose a deal at the end if, if it becomes a shock to them. Like, like what? Wait, what? That's what that meant. You don't want to have that happen.
+
+**Athena:** So just to summarize, to make sure, well, like to put it in in [00:55:00] simpler language, bill, what you were saying is you don't wanna be in a situation where you're having to reimburse them. After the fact. Do you wanna agree a number that's before close on what that working capital number is gonna be that ideally stays in the business or just comes out of the cash at close?
+
+Did I get your point? Right. Okay. I know 
+
+**William:** most of the deals are on SBA land anyway, 
+
+**Athena:** but sometimes people are negotiating where they, they do a, a true up or reimbursement after the fact. Yeah. And, 
+
+**James David:** and that messy. Yeah. And it's more common if they've got like a bunch of old ar 
+
+**Athena:** mm-hmm. You 
+
+**James David:** don't, you don't wanna buy ar that's not gonna be collectible.
+
+Right? Right. So sometimes that can be excluded and then we can do it, you know, reimbursed around that. But then there's other times where people's like, you get this amount and then anything above that amount goes to the seller, which is what Bill was talking about. 
+
+**William:** Right. And there's a general point, like avoid that complexity if you can.[00:56:00] 
+
+**Athena:** Okay, 
+
+**William:** cool. And, but if you can, 
+
+**Athena:** and then the point. James David that you were making is, you wanna try to educate them before we, we are, as we're going through this process, even though knowing you're gonna educate them and they're probably not gonna get it, are you seeing some people do it better than others?
+
+And I'm thinking of an example that we both know where they did a really good job of educating 'em and even after the fact the, the owners still didn't understand their own books and how that works. And so are you seeing people do this better than others in terms of the education or making this like, simpler so that it's not a headache 
+
+**James David:** post close?
+
+No. You're, you're kind of at the mercy of the seller's bookkeeper. 
+
+**Athena:** Yeah. 
+
+**James David:** Um, 'cause that's who they're gonna, that's who they're gonna trust. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** If that person explains it to them correctly, then it's a lot better for [00:57:00] you. 
+
+**Athena:** Right. So you wanna make friends with the new bookkeeper or with the seller 
+
+**James David:** bookkeeper, you're probably not even gonna know.
+
+Right. You, you may not even see 'em, but you're, you're at the mercy of the seller's advisors. 
+
+**Athena:** Um, I feel like there's a, there's a potential strategy there, like, because you're gonna need a bookkeeper and financial professionals as the new owner, right? Or is, is, is that not something that people are able to kind of capitalize on?
+
+I 
+
+**James David:** wouldn't, I wouldn't even pretend like that. Yeah. 
+
+**Athena:** Um, okay. So a little bit, 
+
+**James David:** that's a little bit too dark arts. I mean, yeah, the bookkeeper potentially is gonna be mad that you're buying the business, right? That that risks churn. Um, but I think they're gonna know. Right. You're, if you're trying to butter 'em up, I don't [00:58:00] think that's gonna be successful.
+
+Butter 'em 
+
+**Athena:** up. I, I just feel like it would be good practice on the, on the financial professional side to like, be like, oh, this could be a new client of mine if I help everybody through this process and they're gonna need someone to do this after the fact. 
+
+**William:** I mean, this count me skeptical. Yeah. And, and 
+
+**Athena:** I 
+
+**William:** don't think there's, did 
+
+**Athena:** anyone keep the bookkeeper or the accountant as the new loaner?
+
+**William:** You can soften a mistake. 
+
+**Athena:** Okay. I see Peter, like, Peter did you, did you do that 
+
+**Peter:** within three weeks? Gone. 
+
+**Athena:** Okay. Yeah. Um, I, I, I figured that be the case. Okay. So, so basically what I'm getting is don't. Agree to reimburse anything with working capital, but just know you're gonna be in for a fight around working capital.
+
+**James David:** You're gonna be in for a fight period 
+
+**Athena:** right 
+
+**James David:** [00:59:00] around it. And it's really, you know, there's especially pre LOI right? You have a massive information asymmetry. 
+
+**Athena:** Yes. 
+
+**James David:** Right. The seller knows the financials a lot better than you do. The seller may not know the financials, but the seller still knows the financials a lot better than you do.
+
+Right. And so it's, I really don't love it when people commit to numbers. Mm-hmm. Pre LOR sometimes you have to, but I really don't like it when people do, uh, because it boxes you in. 
+
+**Athena:** Right. Um, so on that note, let's, let's, let's, for the sake of jargon, dump, double click on that one. We wanna make sure that we're including working capital in our lois.
+
+Usually we just allude to, it will be figured out post LOI If somebody [01:00:00] has to put a number in or the, the broker's really pushing for a number or whatever, what would you recommend there? What, what are people needing to think about? Is that definitely a conversation with yourselves? Is it something someone can do on their own?
+
+Um, 
+
+**James David:** I mean, it is probably not a conversation with us, right? I mean, we, we could, you know, it, it is more 'cause it's the financial pokes who set these paths. Yeah. And, and all of that. Um, if you do, I don't know if this is in the template or not as it currently exists, but if you do have to put a number, put a range, not a number, and try to make it a little bit of a wide range, they'll read the lowest number.
+
+But if you have a range that's a little bit better in terms of those anchoring dynamics and then, you know, just make clear that what's included. Right. Things like accrued vacation can be tens of thousands of dollars and people don't necessarily think about that. Uh, sometimes [01:01:00] things like, uh, deposits, you know, security deposits for leases, well, if you're assuming the lease, what happens to that security deposit?
+
+Now, if you're not, a lot of times with these SBA deals, you're not assuming the lease, you're signing a new one. But if you are taking over a lease that has a security deposit, well, does the seller get that money or do you Right. I mean there, there's, there's some things on the margins around working capital that can still be thousands or even tens of thousands of dollars.
+
+Uh, so if you do have to or just try to say, well, we're gonna, if we're gonna do this right, if, if we're gonna, then we're gonna do it for real. 
+
+**Athena:** Accrued vacation is a, an interesting one. So like 
+
+**James David:** reliability. 
+
+**Athena:** Yeah. How do you see that playing out? 
+
+**James David:** A lot of times? Uh, we'll, we'll get it in a schedule a lot of times in the end.
+
+Uh, 'cause [01:02:00] sometimes people will, they'll, they'll cash 'em out beforehand. Right. Cash 'em out. Right. Right before closing. But you may not want to do that. 'cause if people have saved up vacation to actually take a vacation, then you've got a new employee that's really angry at you if you, if they can't take that vacation that they've been planning.
+
+**Athena:** Mm. 
+
+**James David:** So a lot of times, we'll it just gets treated as a liability in the working capital calculation along with accounts payable. Um, 'cause it is a liability on the balance sheet, 
+
+**Athena:** frankly. Of course. Yeah. And it doesn't show up on the balance sheet. That's not something that goes into balance sheet calculations.
+
+Right. 
+
+**James David:** It, it, it doesn't, whether it should or not, you know, it probably should, but you're 
+
+**Athena:** making a good point. This, like, the more, the more, I, I, I just get so angry about like, business financials. We were talking about this as a group on Tuesday. It's just like business owners [01:03:00] don't know how these financial statements work either.
+
+They use, you know, so just like, where did, where does all this live? So, you know, like, what do I actually have to pay? 
+
+**James David:** Uh, but you, you will just credit the, the number of days or number of hours. Right. But, but it gets handled in the financial calculation with accrued vacation specifically. Yeah. And the same thing.
+
+Same thing can be an issue with, uh, if you've got commissioned salespeople. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** That can be a big one. Or if we've got a scenario where it's like, well, they pay a bonus every year, it's always the same amount. So we're gonna prorate it based on when closing date is and some portion goes where the buyer will take care of, some portion of the seller will take care of.
+
+So I mean there there are things like that that can be, you know, five figure items. So, [01:04:00] 
+
+**William:** funny thing about that last one is a lot of times it depends on when in the year you close. 'cause if you're closing in the first quarter, people are like, okay, fine. But if you're closing, they give the third and fourth quarter especially.
+
+They're like, no, I gotta prorate that. 
+
+**Athena:** Yeah. But that's like, that's a, it's a really like big point. You know, you take over a business in December and they're used to getting their bonuses every year and you didn't talk about this. Right. And you're like, new owner only have so much in working capital.
+
+Didn't account for having to pay the entire year's bonus, you're gonna have a whole bunch of pissed off employees that don't like you. 
+
+**James David:** Yep. And that's a problem. I'll also add here, like if the SBA, if your lender is willing to give you a line of credit for working capital, take all of it, whether you think you need it or not, and whether it's part of the deal, whether I don't care about it.
+
+Take all of the money the bank will give you, you can give it [01:05:00] back later. Separate point. But there 
+
+**Athena:** No, it's an important one. And, you know, line of credit you're not paying interest on until you pull it down, but it's hard to get it when you actually need it. Yes, 
+
+**William:** that's right. You get it. So, 
+
+**Athena:** yeah. Um, okay. So, um, do you, and, and you might not have a preference on this or not, but like, uh, doing.
+
+Blended rate seven A loans versus a 5 0 4 and a seven A when there's real estate involved, 
+
+**William:** honestly, this often becomes a broker discussion more than a lawyer discussion. Whoever your USBA loan broker is. 
+
+**Athena:** Yeah, 
+
+**William:** they're not using an SBA loan broker, then you're just sort of comparing their pros and cons, their pros and cons both ways.
+
+**Athena:** What, what, like, how do you guys see pros and cons? Or does does it make that much of a difference in, in your world and how you're seeing deals come together? It's just, it is just a like, [01:06:00] obviously something that, that we're debating and talking about a lot, but I like to get other points of view on it. 
+
+**James David:** It doesn't impact us a lot.
+
+Um, if the seller owns the real estate, right? I mean, you know, there, there could be a hypo where a sale leaseback makes a material difference for you as the buyer will assume that's not the case. 'cause it usually isn't in SBA deals. Um, buying the real estate can be a way, especially at the top end of SBA kind of level to get the seller the total number they want.
+
+**Athena:** Mm-hmm. 
+
+**James David:** Because they don't care whether it gets allocated to the business of the real estate. You know, you do, but they don't. So sometimes, you know, if you need to buy the real estate to get 'em their number right, that can marginally help you. But a lot of times if you're doing the seven A, you don't, you don't want the real estate a lot of times.
+
+So why, 
+
+**Athena:** why would you say that? 
+
+**James David:** Just because of the, the cost [01:07:00] structure and it locks you into that location that maybe you don't necessarily want. And so, I mean, we, we don't do a lot of the blended, the blended ones, but I don't know when it does happen. We just find somebody local to handle the real estate transaction piece and we, we still do the same thing.
+
+So. 
+
+**Athena:** I'm seeing, seeing a lot more term sheets with the being blended in the, the seven A versus like two separate ones. So I find that interesting. Yeah, I 
+
+**James David:** mean, if, if you can stretch it to 15, 17 year amortization, right? I mean, that helps. Yeah. 
+
+**Athena:** Um, so, uh, folks, if you have any like, specific questions that you want to ask these guys, please put your hands up.
+
+Don't let me hog the mic. Um, you all know I can ask questions endlessly. So, um, if you have any specific questions, um, what are you [01:08:00] seeing buyers do that's killing the deal? What do you, what is, what are buyer mistakes that are happening? 
+
+**James David:** Nickel and di? Um, we've got one that I think will die because he just, he's just like, I want this, I want this, I want this, I want this.
+
+It's like, you gotta give somewhere, but. Um, but I think that one will die eventually. I'm, I'm concerned about it. Um,
+
+not communicating about timelines. We had one die because of a lack of communication around SBA timing and how SBA timing takes longer than anybody wants. 
+
+**Athena:** Yeah. 
+
+**James David:** Um, and so, and we were dealing with a lawyer who didn't do SBA deals on the sell side, and they're like, okay, we're gonna close end of month. I said, no, we're not.
+
+Nobody ever, nobody ever said that. [01:09:00] Um, and then the deal, I said, well, we're walking and they did. Um, we needed a whole nother month because of the bank. So. Timing, communic, you know, timing, expectations, managing timing expectations is a huge thing. I've had another one where it almost died because of it. I think we've managed to save it for now, but that's in the last couple of days.
+
+Uh, 
+
+**Athena:** so that's, that's managing those expectations. But the seller. And the seller, yeah. 
+
+**James David:** Managing expectations with a seller and don't count on a broker to do it for you. Uh, the good brokers will, but there are a lot of brokers and they're not all good. 
+
+**Athena:** What, what's the kind of average, oh, sorry. Go ahead, bill.
+
+**William:** Uh, I, I was gonna say, I mean, another, another mistake. I would just say call out is not, is holding onto deals too long. Um, I see a lot of times buyers kind of get a sense pretty early on, even during the LOI negotiation [01:10:00] process that this is gonna be a very difficult deal. And a lot of times there are kind of issues that are already percolating there and the relationship with the seller is kind of already souring at that point, right?
+
+And they just kind of push through and get to QOE and go through their process and then legal starts to come in. And the seller, you know, surprise, surprise is extremely intransigent and, uh, not willing to negotiate just like they had been at the LLI stage. And that leads to the deal falling apart, right?
+
+And so if you're getting the tingling feeling that this is just not working, then listen to that. And usually that means that, you know. When you need to kill a deal, you have to kill it early or you should try and kill it early. And if you're getting that, if you're, if the relationship with the seller's already pretty tense, you know, in the initial phase, it's only gonna get more tense as you continue to negotiate [01:11:00] documents.
+
+So, you know, we know it's, it's a difficult thing because it's like finding a deal is a miracle. You're so happy to have found something, but also listen to your gut if, if it feels like something's off. 
+
+**James David:** Yeah. And I'm much harder about these conversations and Bill's a lot softer than I am, but I will, I have no qualms about trying to say kill a deal, but just to double down on what Bill said and kind of add an extra layer to it, if you get any inkling, even the faintest inkling, even if you don't know where it's coming from, that the seller is not a high integrity person, walk away.
+
+Without any second thoughts. 
+
+**Athena:** Do you have any examples of that? Where some, 
+
+**James David:** not offhand, another 
+
+**Athena:** tingle? 
+
+**James David:** Not, not offhand, but I have, but if, if it does happen, a lot of [01:12:00] times the deal will die before it gets to the finish line anyway, if that. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** But, uh, but if you get any sense that, that you're not dealing with a high integrity individual at Walk.
+
+Now, I will say like with financials right, the financials will come back, the numbers will be lower than they reported. Right. That's just how this is gonna work 95% of the time. That doesn't mean that they're not a high integrity person, right. That that just means their books were messy. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** But if they're running a bunch of extra crap through.
+
+Or you find out that, you know, maybe we're paying employees off the books or Right. There's, there's acceptable and then there's not acceptable, right? So look into, and, and your QOE folks should help with this, right? But what, where are those discrepancies? Do they make sense?
+
+**Athena:** [01:13:00] So, um, on the, okay, so I think that's an important point, right? The financials will come back lower. I think a lot of people look to kill deals because the books were messy, which is just kind of standard practice in this size of deals. So I think, I think it's good to highlight that. 'cause a lot of folks can be like, financials are bad or they came back lower and, and so I just wanna circle that one a couple times.
+
+'cause you've said it twice during this call lease, like the financials are gonna come back lower. So that's not necessarily indicative of an untrustworthy seller. 
+
+**James David:** No, and you should expect it, build it into your models. If your offer depends on the financials coming back clean to make the math work internally.
+
+I gotta question whether you should even bother making the offer. 
+
+**Athena:** Okay. Say more on that though. Like, are you saying like, leaving so little margin that it [01:14:00] doesn't work if the numbers come back less? 
+
+**James David:** Yeah. I mean, I, I think you need a cushion. I mean, you know, what do I say, bill? What? 10%? Assume that if, if it's less than 10% that the numbers drop, that's a good thing.
+
+And then you need to be able to accommodate the J curve. Mm-hmm. Assume that revenues are gonna drop, you know, and, and if things can't withstand a 20 or 30% drop for a little while, are, are you sure 
+
+**William:** you wanna do this? Because look, look at, look at what your debt service is gonna be. You know, and you know how much you know.
+
+Ramen, are you willing to eat for how long if you're not gonna be able to pay yourself for a year? Right? I mean, that's not uncommon. I hate to say it in, in the, that, that kind of initial period. 
+
+**Athena:** How are you, are you, uh, I don't know how much you're keeping up with folks after close, but are you getting a sense of what average j [01:15:00] curve amount and amount of time is looking like?
+
+**James David:** No. We only hear from people later. There's problems if, if things have gone horribly wrong. Yeah. Yeah. 
+
+**Athena:** Okay. Um, so something else I wanted to, um, oh, something else I wanted to ask you about. Okay. You said a high integrity seller. What about the broker? When the broker is just like a piece, but the, you have a good, like, feeling about the seller.
+
+**James David:** Yep. So the, the relationship with the broker. I mean, for one thing, you don't ultimately need the broker, right? The broker, as long as the broker gets their money from the seller, they don't care. Um, but if the broker is a good broker or if not, right, pre LOI, the broker is a gatekeeper, right? Meant to, you know, shield you.
+
+And they deal with a lot, right? They're getting a lot of inbound [01:16:00] crap for every listing they put out. Um, so it's their job to filter through all of that. And, and that's a tough job. I wouldn't, I mean, there's a one, that's one of the reasons I'm not a broker, but once you're under LOI with the broker, it flips 
+
+**William:** there.
+
+You're your cheerleader. '
+
+**James David:** cause once you're under LOI, you are the likeliest and fastest route to them getting paid. And that gets even better for you. The closer you get, the closer. So you can sometimes use that. Sometimes we just kind of cut the broker out of the process completely very early. Other times we will lean on the broker more and more as we get closer to close.
+
+**William:** It's a little deal specific there. There's a dynamic [01:17:00] I've seen, which is what I call a good business bad broker. Um, and that usually still works with an asterisk that sometimes a broker is so bad they run such a bad process that you just can't engage. So if the broker is like, you have to do a purchase agreement and sign a purchase agreement, you know, before you've done quality of earnings, you, you just, even if the business is great.
+
+There's no way you could ever do a process like that. It just doesn't work. And there are brokers that insist on that, right? So a pretty mediocre broker is fine, even kind of bad broker is functional. But there does come a point where, where the way the broker is running the process is so egregious that even if the business is, is really good, you, you just can't engage because you can't pre-commit to buying a business without having [01:18:00] quality of earnings.
+
+And you can't do quality of earnings unless you have an LOI, you know, like, sorry. 
+
+**Athena:** So I'm thinking about like retrade conversations, like where you're, you're realizing that, that there's a retrade necessary and the broker just loses it, is a horrible person. Seller's kind of oblivious, doesn't know what's happen on, 
+
+**James David:** um, well, if you're under LLI at that point.
+
+You, you would be, if we're doing a retrade and the broker is being an ass, um, go around them, talk to the seller, because you should have their contact information at that point. And if the broker doesn't like it, so be it. 
+
+**Athena:** Right. So they can't deal, if they don't like the fact that you're going directly to the seller, they don't 
+
+**James David:** have to like it, but at a certain point, like you commu like, Mr.
+
+Broker, this is my offer, communicate it. Right. [01:19:00] They're, they should be fiduciaries. 
+
+**Athena:** Mm-hmm. 
+
+**James David:** So they're under an obligation to present that? They should be. 
+
+**Athena:** There's no, no. Uh, like the couple states have the, you know, real estate Yeah. I said should 
+
+**James David:** be, but, um, and, and a lot of them are, and I mean, there are a lot of good brokers too.
+
+I wish there were more, but. Um, but with the, if you need to have the retrade conversations, a lot of times you want to have that directly principle to principle regardless, because that's gonna be a tough conversation and it's gonna be emotional, and you need to be ready to explain why. 
+
+**William:** And I think go a good thing for the retrade conversation.
+
+Good way of approaching and I've found is to say something like, look, any buyer is gonna do a quality of earnings. You know, the guy for my quality of earnings, he does these all the time. [01:20:00] You know, if you restart this process with the new buyer, they're gonna do the exact same thing I did, and you're gonna be in the exact same place, right?
+
+I gave you, you know, the fairest multiple, the best multiple. And you know, that's, but, and, and, but it's always based on that multiple, right? And so. I think that's why putting that in the LOI is important, making sure it's clearly communicated, that's how you're arriving at your valuation. And then when you do end up lowering the purchase price, you just tell them like, look, if every buyer's gonna go through this, have the same issue.
+
+And I've seen times where there's, there's been a significant reduction and the seller was like, you know, it's true. Like there was, I got this ERC credit that is gonna be a one-time thing. I can't count that as EBITDA and you know, I'm not gonna get credit for that. And yeah, I guess that's fair. You know what I mean?
+
+Um, it depends on your relationship. [01:21:00] 
+
+**Athena:** So, um, when, when you, so I guess to your integrity tingling, then that doesn't necessarily, like if the broker doesn't give you high integrity feelings, it doesn't necessarily mean Nope. Right. 
+
+**William:** Rarely will you get high integrity feelings from a broker. Uh, 
+
+**James David:** I don't say that, don't say things like that, but that's, but there, there is no, there is no correlation there inherent.
+
+**Athena:** Okay. So you can have a good business, not high integrity broker, and that's not, so when you're getting that tingly feeling about the brokers, I guess what I'm trying to like, pull apart, you know? Yeah. The high, not high integrity about seller walk, not high integrity about broker doesn't necessarily mean that is also the case about the seller.
+
+**William:** Usually when you have a less high integrity broker, it just means you have to be more careful in your financial due diligence specifically, because s high integrity brokers rarely check the financials. And so [01:22:00] you're, you're going into it with more of an expectation that those haven't been really double checked.
+
+Okay. Higher, higher integrity brokers do help actually make sure that the financials are with what they say they are, or at least close enough. Got it. 
+
+**Athena:** So, um, I know we're coming up on time just real quick, when you have a broker that's gatekeeping, the seller post, LOI, how are you handling that? How are you seeing buyers handle that?
+
+Well, are they just going directly to the seller and broker be damned there? You know, what, what are you seeing works best in that scenario? 
+
+**William:** I mean, you, you gotta, you, you gotta be talking to the seller, right? It just is the reality of the situation. You're gonna get the seller's contact information at some point, and you wanna establish that as early as possible, right?
+
+And frankly, the seller's probably gonna want, want that [01:23:00] too. So, you 
+
+**James David:** know, I mean, some people, I don't, I don't think this is a must, uh, but some people say, all right, every Thursday at two or whatever time. Like, we're gonna have a standing call and the broker will be on that call. Right? The lawyers, the accountants probably won't, but the broker will be fine.
+
+The broker can be there and can be muted if needed. Right. Whatever. But you, you, yeah, you need to be talking to the seller. 
+
+**Athena:** Good, good advice. Awesome. Um, I'm not seeing any hands up. If there's any last minute questions, let us know. Um, this has been really, I, I always love conversations with you guys. If, if you haven't picked up, uh, James David sense of humor is, is some of the best in the industry.
+
+Um, bill also, but James David has these little things. He, he writes a newsletter called Wednesday Words, which I really enjoy [01:24:00] reading. But, um, no, this is, uh, good stuff and you guys see a lot of deals and, and I think have a, a good. View of, of what to look out for and how you can support people. So, um, we've got your details on the dashboard.
+
+Um, the template that we have on the dashboard is, uh, you all. So, um, and I like James, David said at the beginning, the flat fee is something I really appreciate, um, that you all do. So people kind of know what their legal costs are going to be. So, um, remind me, uh, you guys also will do an LOI review that, that goes towards the fee.
+
+Are you still doing something like that? So if people want to engage with you, what does that look like 
+
+**William:** usually? So here's what I'll say for people that are in the Aqua Match group, we're happy if you're sending out an LOI first time to kind of like, if you have specific questions or to jump on a call, we don't generally offer that to the [01:25:00] general public because Okay.
+
+It's 
+
+**James David:** because if we did, that's all we would do. Right. 
+
+**Athena:** Yeah. A bunch of tire kickers for you. 
+
+**James David:** Yeah, and I mean, and we do have, we have implemented a series of filters that people have to get through in order to meet with us, but, uh, you'd be happy to know with, you know that your people do bypass a lot of those, so.
+
+**Athena:** Well, we're pre-filtered. I love it.
+
+Exactly. That's awesome. Okay, so like, get another part for the crew here. Um, these, uh, these guys will, will have a look at the LOI first time with you. Um, and there, there are top recommendation for you should go to when you need legal support through your deal. Um, because they've been so great with our, our clients in the past and pre, pre-filtered.
+
+That's cool. Thanks for that perk. I didn't know that. Amazing. Any other last words? [01:26:00] Anything else or, uh, good for people to just reach out to you by email when they're ready to talk to you about a deal? 
+
+**James David:** Yeah, just contact us via email, the website, whatever you get routed to our assistant, but she'll forward it to us.
+
+**Athena:** Um, amazing. 
+
+**James David:** And then just persevere, right? It's a process. It is often a slog, but um, the benefit of working with somebody like Athena is she does some of the worst parts. So
+
+**Athena:** thank you. Um, awesome stuff. Well, thank you so much. Have a good rest of your day. Uh, and thanks for everybody that attended today. Uh, I took a lot of notes of, of important things. I always learn new things. So thanks so much for spending your very valuable time with us. Um, have no doubt you'll be hearing from a few folks here soon.
+
+So thank you. 
+
+**William:** Thank you. It's great talking you guys. Thanks. Bye 
+
+**Athena:** Bye.
+
