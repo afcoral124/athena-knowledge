@@ -1,0 +1,410 @@
+# AcquiMatch Buyers Club 04/22/2025
+
+[00:00:00] 
+
+**Justin:** Hello. Hello. Welcome, welcome.
+
+Seeing the folks trickle in. There's Gil. I gotta get my plant in the background. I'm in my new office and I need the, I need the plant. There's Polly. Hey, poll.
+
+Awesome. New office. Yeah. I moved to, uh, the country in Texas. It's like an hour south of Austin called New Braunfels. Oh, okay. And we're like right next to green, which is this like little historic town and they had all these like Clydesdale horses for like over the weekend and walking through the town and it was like thousands of people watching eight horses walk down the street.
+
+It's very adorable down here. So 
+
+**Polly:** that's really neat. That sounds like a great place. 
+
+**Justin:** Yeah, it, well, there was a lot of, lot of tears [00:01:00] fighting and screaming to get here, but I'm very happy now that I'm here. So, uh, there's a river like three minutes away that's just, it's so nice to just be able to go put my feet in water, which is what I've been wanting for a really long time.
+
+So anyone ever wants to come to being the river, we're right next to like one of the best places in Texas to do it. Oh, that's, yeah. Yeah. Yeah. Yeah, totally fun. Um, excited to see you all today. So, uh, no, we wanted to chat through Gil's deal and if anybody wants to give some updates after that, Polly, it'd be good to hear where you guys are at.
+
+And Jason, I know you're working on something, so we'll see where we get to timing wise. But, um, Gil is working a live one that has some complexity in terms of how he's able to make the offer so. Uh, Gil, if you wanna bring us up to speed and then, uh, where are you running into, like roadblocks? How can I, we be of service to help you get this one out.[00:02:00] 
+
+**Gil:** Well, thank you. Um, so up to speed right now. Um, I am still struggling with the structure of the seller notes on how to do that. What the best way to do that, to approach that. Uh, I am needing some advice on the multiple that I need to, uh, that, that is, that, that, that's a good idea for this. Um, and, uh, then I can fill in the blanks in the LOII talked to Bill already and Great.
+
+Uh, we can, I can send and then I can send it out. 
+
+**Justin:** Okay. So, um, filming in a little bit more on the specifics in terms of. What kind of communication that you're able to have at this point? Uh, if memory serves, like it's just email only. There's no opportunities to get on the call with the broker or the seller, correct?
+
+No, [00:03:00] it just emails with the broker. Okay. And then do you have an idea of how competitive this is? I like, you know, was it an email thing or a phone thing when you asked? 
+
+**Gil:** No, he, I, I emailed him. I asked him how, I asked him if there's any offers on the table currently. He should been talking to a few potentials.
+
+So I don't know what that means. 
+
+**Justin:** Um, that means that's broker speak for, I'm trying to be a salesperson. But yeah, like any real offers would be, um, you know, they'd be considering that. So, um, they. Okay. And you have met the seller before, so you least developed a rapport with her. It felt like you guys connected.
+
+Tell me a little bit more about how you're feeling about where you left the relationship and where you got to with that. 
+
+**Gil:** So we had, uh, a call a bit over an hour. Um, went very well, made her smile. She made me smile. Uh, [00:04:00] really nice person. Um, I ended the call with, okay, can I come down and actually see what we're talking about?
+
+Uh, and the broker button and said, uh, no, no, no, no, no means is the seller. Uh, everything goes to go through me through email. So until we have a signed LOI, so like okay, not, not a problem. I'll, I'll, I'll take a step back, but when before he said that, she said, sure, of course, come down. So I, I think he likes you.
+
+He is amenable to me. Um, but I don't have any more than that. 
+
+**Justin:** Okay. Um, now with the seller note, um, are, are you okay with me talking some specifics in terms of why we're considering that? Great. Um, so just to fill everybody in on this one in particular, it's a really strong match for Gil in that it's like a event.
+
+Company, but they service the industry that Gil has been a part [00:05:00] of for decades. So he's been on the client side and knows it very well. Skillset match is really strong in terms of project management of events, that sort of thing. Um, seller and him really got along really excited about the business. The hair on the deal is the client concentration specifically.
+
+So just to reiterate, 'cause I know we were throwing some voice notes back and forth. There are. There is one client which accounts for 52% of the revenue, right. But what I wasn't completely clear on was, um, is it one person that oversees a team of those four different events? 'cause it sounds like maybe there's four different pos.
+
+And the reason why I ask is 'cause customer concentration can come in a different, a couple different forms. So it can appear as customer concentration 'cause it's all coming from the same company. But what we're thinking about is if our contract at that company left. Would all of that go [00:06:00] away, or would it be one of those four events because you deal with a different person on all four events and they maybe have their own budget or their own PO that they're pulling.
+
+Does that make sense? 
+
+**Gil:** That makes sense. Um, and I don't think I know the answer to that question. Um, the broker in this email was a little vague about it. Uh, I can try to find out exactly his wording, but, uh, he said it is one point of contact, but then there's four divisions and they each have their own person.
+
+So I don't know if it's, uh, I'm not really sure how it's structured, but, uh, I think the way that I read it is that it's one person. Only because then he excused himself by saying that there's four other people. Mm-hmm. But he started off saying there's 1, 1 1 point of contact. Right. Um, she's had a relationship with them for over 25 years.
+
+Yeah. So there's, there's a, there's a real risk 
+
+**Justin:** here. And you know, one of the, the benefits is [00:07:00] that you built a relationship with her and he's kind of keeping you from having a discussion with her. Yeah, but everybody is going to have the same issue trying to get this financed if there's customer concentration.
+
+So what we're gonna have to look at, you know, let's, let's say we submit an offer, you get it under LOI, that's the first thing that we're gonna have the banks start looking at. And this is why, you know, it's either, at this point you're not gonna get access to the customer list and that sort of thing. So it's usually like a post LOI thing, and it's, it's the first discussion.
+
+You go to the lenders and like, Hey, I'm perceiving this. We structured in a forgivable note and, and this is where that performance based forgivable note can come into play. Lindsay and Kevin actually did this on, um, one of their deals where there was customer concentration and we structured in three different types of seller notes.
+
+One was for equity injection, one was just a straight up seller note, and then the other one was attached to the [00:08:00] customer concentration, so that like the first couple lenders that looked at it. No, no, no, no. They went through seven lenders and finally found a lender that was comfortable with the structure that they built, and it protected them if that customer walked away, that they were only responsible for that amount of the loan, um, based on the business performance if that customer walked.
+
+So you had a very clever idea that you could do a performance note based on one or 2% growth, right? Because if, if like that customer walks, um. Then, then that's a big risk to you. So like we know that, you know, if it's, if there's a 1% growth, then they probably stayed in there and everything stayed the same.
+
+Now, where they might fight back is like, well, what if you know that one stays, but there's a little dip. So the, these are the dialogues that you typically would wanna have with the seller before you submit [00:09:00] an LOI, but the broker's not allowing you to do that. So here's what I'd recommend in this instance from the multiple perspective.
+
+You know, we're always gonna be trading within two to four on SBA deals. It's just kind of where they're priced. So, um, and you can try to get into the. Specifics of it, but multiple is based on risk. Um, so there's a lot of risk here with that client concentration. And if you're going to fold in like a 50% forgivable note, then you kind of wanna entice them on the purchase price in, in my opinion.
+
+And again, like you have to make the final decision on what you feel comfortable with, what the cash flow to you is afterwards, the risk of, um, if it falls apart. But we're at LOI stage, so as long as you get kind of relatively comfortable that if all the numbers checked out. [00:10:00] We're in a good place, but knowing because we haven't had a lot of access to the seller, it is highly likely you're going to have to retrade or have conversations about things that were in the LOI again, once you get into due diligence.
+
+So I would just prepare you for that if you are going to have to have a lot of lender conversations to get them comfortable with this. And you're probably gonna have to restructure everything once you get under the hood, but. When we submit an LOI, it's like to the best of my ability with the knowledge that I have, and if everything checks out exactly perfectly as you say it is, then I would be comfortable with this.
+
+Right. And, and that's kind of where we have to shoot in the dark at this point. Um. So I would say if we're folding in that node, which is significant, right? Like a 50% node, um, then you might wanna e up purchase price a little bit to be like, well, if you're telling me there's no problem with this customer walking, then there, then, then you'll get this, right?
+
+**Ryan:** Mm-hmm. [00:11:00] 
+
+**Justin:** If they don't want that, then you're gonna have to price it without that much lower, at a lower multiple because there's very, very high risk in this business. Right. So a multiple is like, you know, perceived risk. Is their key man risk, is their client concentration? Are there other risks, like the industry is declining or they've had volatile numbers over time?
+
+These are the things that factor into a multiple, but unfortunately in small business land, it tends to, and what we're seeing now, because there's so much competition, is that everything kind of gets priced to the point where the debt service coverage ratio matches what SBA can handle, you know, and the brokers will push it.
+
+And there's no SBA preapproval on this one. Correct? Like he hasn't already spoken to an SBA lender about it. Yeah. Okay. Um, so saying all that, I think you've got the structure and everything relatively in a place that you're comfortable with and you can mess around with the numbers a little bit more.
+
+One of the [00:12:00] benefits is this one has real estate, so there is a little bit of, you know, collateral there that, um, you'll have. Uh, but um, the client concentration thing is real and you're not allowed to have conversations before then, and they're giving you kind of vague answers, so. I would, everybody's kind of doing this video submission and, and it's like, well, I don't get an opportunity to speak to her, so I'm just gonna tell you why I did this.
+
+And I would do a video like, Hey, really enjoyed meeting you. I know we haven't had another conversation. I don't want this offer to feel insulting to you, but I'm just very scared about that one customer that you have. And as far as I'm seeing it. You know, it's, it's one person there. So I'm submitting the offer on the, on the, you know, um, assumption that there's one key customer.
+
+And if, if that customer goes away, then I can potentially bankrupt myself. Um, I know you don't want that. I don't want that. If that's not the case, I'm open to discussing this, but at least for the [00:13:00] information that was provided to me, this is, you know, the best offer that I can make with that information.
+
+So that you're kind of explaining it and whether the broker shares it or not, but then it's like, Hey, I'm not trying to screw you over here. I'm a real human that's putting my livelihood on the line and there's a lot of risk, but I'm willing to work with you on it and here's how I think it could work, um, in a way that protects both of us.
+
+So you get your upside if that customer stays. And I'm not left in a situation where if that cus customer walks because you've had a relationship with them for 25 years, that I'm not losing my house and my livelihood because of it. Right. That's kind of what I'm thinking. The play is here and the LOI starts the conversation.
+
+So very rarely, you know, will you submit an LOI and they'll just like sign it as is. Oftentimes you're gonna negotiate points and you know, I've had some clients negotiate lois for months, you know, so it's a starting point and as long as you like, leave it open, like, hey. You know, the informa, I'm [00:14:00] so interested in this.
+
+I loved our connection. I love the fact that I have been a customer. My project management skills makes me super excited about jumping into the seat and like, you know, building off what, so you want to kind of build it up when you do that. However, I'm concerned about this and we haven't had to have more of a conversation about it, some submitting an offer with the information I have, but just know I wanna work with you on this and I want it to feel good for both of us.
+
+Yeah. And then see what they do. Right? Because they don't, it's not like they have a a million offers by the sounds of it. Um. You're uniquely qualified for this business in a multitude of ways, and you're willing to find a way to work with a customer concentration where a lot of people see that and they just walk.
+
+So this one's probably hard for the, the broker to, um, you know, do anything with because of that. Or maybe he's like, no, I already talked to SBA, like they are comfortable with it. This, or actually, just [00:15:00] to confirm, it's four different budget holders. Which then there's no client concentration really. Right?
+
+If it's four different people making decisions on four different events, and I worked in events world, and it can be, you know, both things, like it's one person overseeing a team, but each team kind of holds their own little budget for that event and they own that event. Um, so they're the decision maker of the vendors, or it's like one person with a bunch of like.
+
+Uh, you know, assistance that help them, and they're the ones deciding on the vendor. So that's what you don't have clarity on. So I would just allude to that. Like, I don't know what the situation is there, but based on what I'm seeing, it's one person if that's not the case, and let's have a, a chat about it and, and find a way to make this work.
+
+**Gil:** Right. Um, so I can do all that in, in the video. I can explain it. Um, I can, I I can probably film it. Tomorrow, tonight or tomorrow. I understand what the LOI, [00:16:00] um, but my question is about the note itself, right? So am I saying a 50% note dependent on a 1% increase in sales, or am I saying a 50% note with no, with no decrease of sales or, yeah, those are the two options I think.
+
+**Justin:** Did Bill suggest some language for you there? Because the way I would say it and what it means to say, like in legal speak are probably a little bit different, but as long as the overall like thing is communicated, like, you know, this is on the basis of the one customer. So assuming that it, there's not a revenue drop or did he give you language initially around like a revenue drop?
+
+**Gil:** Um, no, it says, it says. The seller note will be subject to forgiveness as follows, 50% of the seller note will be forgiven of the company revenue in the first year following [00:17:00] closing falls be below the TTM revenue of the company as of the closing and 50% of the seller note will be forgiven the company revenue in the second year following closing falls below TTM revenue of the company as of the closing.
+
+**Justin:** Yeah, so, um, I, I. You don't need to. Yeah, I think you can leave it as that, like adding in the 1% and whatever might be confusing. So I, the way he's written it, it's just like, it can't drop below what is already achieved. Because if that one customer walks, then it's scary. Where you might get into a conversation then is like a prorata, right?
+
+Like. If, if you lose, like if it goes down 1%, then they'll be like, I lose the whole money. Like, that's, that's not really fair. But you can submit it as is and then see what they come back with. And then look at a prorata. So like the floor is a negative 50%, um, and then the top end is, is [00:18:00] 0%, right? So if, if they meet that 0% or more threshold, then the note gets paid and then it will be prorata between those two targets.
+
+**Gil:** So they add to the, to the l lo I Or was that, or is that a conversation post? 
+
+**Justin:** Honestly, I'd leave it because it's a negotiation tool for you. Right? As long as you leave it to them, it's like, Hey, this is, this is what I'm thinking. 'cause I know the client concentration's gonna be an issue for SBA, um, but I'm open to dialogue about this.
+
+See what they come back with, you know? And then they might be like, well, can you do Prorata? And it's like, okay, cool. They're open to a note, right? Or they're like, we want five X and you offered three. And then it's like, well, hang on a minute, how'd we get there? Or, you know, um. Well, if you give me client lists, then I could go have a conversation with the lender about this and see what, what's actually real, you know?
+
+So it's, it's the first part of the negotiation. And I would just, you know, managing our expectations that I [00:19:00] imagine that will be a lot of back and forth on this, because this one's a sticky one and 50% is, is significant. So. I can't imagine, they'll just be like, okay, this is great, let's sign it. But the, like, you wanna kind of hear what their feedback is on the points that they get stuck to, and then whatever their points are, we can go through it and be like, well, what's a non-negotiable for you?
+
+What are you flexible on? What do you want to give them? And, and how do we wanna negotiate this? And, or is it, is it not workable? 
+
+**Gil:** So my, my only concern. And it's nothing that we can, there's nothing we can do about it really is that they'll see the, they'll see that number of 50% and they'll say, well, I can't wanna, I don't wanna curse, but they'll, they'll, they'll throw me at the door, you know?
+
+Um, you know, and, uh, and because it, it is a very big number, you know, it, I, 
+
+**Justin:** I totally, yeah, and I would, I would cover like, call it out in the email, be like, Hey. I know this is a big number, but this [00:20:00] is the way I'm seeing we get over the customer concentration issue. But I'm open to discuss other ways to accommodate for that, you know, and then in the video too, it's like I, I, you know, I realize it's a big number.
+
+This is. Where I'm at to feel comfortable. But if there's other ways of doing this that we're able to account for that or mitigate for that, I'm open to hearing them. You know, you kind of want a negotiation at this point 'cause you've not had a lot of dialogue. So it allows you to establish more of a relationship with them and understand more components of it if they open it up for a conversation from that.
+
+Um, cool. This is not how I'd play it in every, like, if it was competitive, then we'd be having a much different conversation. Mm-hmm. But they have a problem where it is. Is the broker generational? Is that who it is? 
+
+**Gil:** Uh, the broker is, uh, where is he? Uh, mark is from [00:21:00] Generational. Yes. 
+
+**Justin:** They have a really interesting model, um, and I think it's a, like franchise, but they're exceptionally good at like, scooping up a lot of owners and then they just put 'em on their books and kind of see what happens.
+
+So, and again, it's different broker to broker. Every broker does things differently, but like their, their acquisition model of listings is one where they, they do volume. Um, so. Like on a customer concentration thing is something like most brokers probably wouldn't do because a lot of, a lot of buyers don't know that they, there are these, you know, forgivable notes and that sort of thing.
+
+Unless it's a strategic that's like, I don't care. I want her client list. And I don't think there's a lot of strategics trying to get after this one right now. Otherwise they probably wouldn't even be listed. Um. Does that make sense? So like you're kind of in an interesting situation where you're, you're being gate cute, kept from a conversation, you're really interested in it, you clicked with the seller.
+
+Now it's about [00:22:00] once you're under LOI then you can, you have access to the seller and you kind of do the relationship building after LOI. That should have been done before, but it was the dealt the, the handy were dealt with how the broker was handling things. 
+
+**Gil:** Yeah, that makes perfect sense. I'll, I'll do all that.
+
+Um, it's four 30. I probably won't get it out today. Uh, I'll email the broker telling him that I'll get it back to out to him tomorrow and, uh, I will do the chat CPT thing and come up with the script and, and, and do something. 
+
+**Justin:** Yeah. I mean, you know, I love using GPT for emails and stuff like that. Like I'm worried they're gonna be concerned about this, but also I don't wanna like, um.
+
+Not communicate that I, it's, it's a tough position, right? Like there's, there's real risk there, which is how I arrived at that. But if there's other ways that, you know, if they have other ideas for how to handle that or you know, whatever, then we're, we're open to it, but this is, this [00:23:00] is how we solve for it and this is how we know.
+
+It's most likely to get, you know, lender approval, which is the first thing we wanna do. You don't need to say all that in the video, but like the first thing that we wanna do is, is go and talk to lenders about it and see if, if you can make this happen, perfect. If you do it before, unfortunately, they're probably gonna be asking for client lists and stuff like that.
+
+So that's, that's this chicken and egg thing, right? Like, if, if it was just numbers and we weren't in that situation, it'd be one thing. But when they spot that, they're gonna be like, well, that's a problem. You know? So You're doing great though. I, I, uh, I really love, uh, how you're thinking about this and structuring it and, um, you know, it's, it's a comp, it's.
+
+It's a challenging one, but I think. Getting that unlock and getting access to the owner is what we need right now. Because it sounds like you two really got along and then you can learn a lot by spending time with the owner and seeing just how scary that customer concentration is. 'cause [00:24:00] in my experience, when you go and meet the owners and do a walkthrough, they're just like totally open book.
+
+Right? Just like tell you more than they should. Probably half the time too. So if she was up for you going and visiting. Let's see if we can get an LOI signed you get down there and you like, you know, put all your cards on the table. Like, I'm concerned about this, right? Like, I'm putting my like personal guarantee, my livelihood on the line.
+
+Like, talk me through how you would do this if you were in my shoes. Most owners are be like, I totally get that right? Like, so we'll see. We'll see what the, what the, what the response is with the first, uh, bid that you put out there. 
+
+**Gil:** Thank you. Yeah, I'll, uh, I'll get, I'll get, I'll get right on that. 
+
+**Justin:** Awesome.
+
+Cool. Any other questions or are you feeling good? No, I'm feeling good. Nice. Good work, Gil. I'm excited to hear how it goes and give us a shout on the channels if you need any support in the meantime. But I think you're in a good place. Had good conversations with lawyers. You got it all there. So now it's just a matter of getting it out there and [00:25:00] getting over the, the first one.
+
+It's always exciting, the first one, so you're close. 
+
+**Ryan:** Cool. 
+
+**Justin:** Okay. Awesome. Thank you. Thanks. Um, yeah, and shout out Gil, you've been doing really good on using the uh, like screen sharing on Slack and using voice notes and stuff. And it's been super helpful to be able to get you feedback. So I'm like shouting you out 'cause it's great, but also for the rest of the clients, it's an awesome tool for us to use to try to support you in and around the calls that we do.
+
+So thank you for utilizing all that. It's been very helpful for me to support. Cool. Awesome. Great. Um, so, uh, Polly, I think you, and I don't know if Steve are here, but I would love to hear, you know, the update if y'all got any additional news. 
+
+**Polly:** We do. Um, I'm gonna let Steve start talking first. I, um, I don't know if he's gonna be able to stay for the whole call today 'cause he's gotta go out of town, but, um, he, I'll, I'm gonna let him start [00:26:00] because, uh.
+
+After I received a call from the broker last week saying, we need to change up the, uh, terms a little bit. I think that's what we had come to you, you know, with and, and saying that we needed to up the purchase price. And, um, and then, uh, asked for, instead of 5%, 10% seller financing. But from that point then an email was sent and I was, he, he was available.
+
+I was not at the time, so. Um, I'll let him go with that. The response of the email, uh, not just to that, but just to the fact that they had selected another, another buyer. So, but we're a backup, so I'll let him go and then I'll, I'll put something in. At the end, 
+
+**Steve:** everything was going great until I talked to somebody.
+
+Then it went sideways or somehow.
+
+Yeah. So I think, uh, just again, as mentioned, we did the offer, the LOI. Um, they took about a week or so to get [00:27:00] back to us and, you know, the, I think the quote was after CRE for consolidate, uh, consideration, uh, they said, uh, move forward with another buyer whose offer aligns more closely with their goals.
+
+While deal old terms were a factor, the ultimate decision came down to experience an overall fit for the business. So that was kind of the out of the box can response to us. So we asked for a call. Um, I think we got the broker on the call. I think I opened it up with, but what went wrong, man? We thought, we thought we were in a good spot here.
+
+And, uh, it, it was kind of interesting because I, I, I think, um, the way it was explained to us, the folks that, um, that they chose have a, I would call it a sort of. Uh, complimentary business. They fix diesel engines so they can do some of the mechanic stuff. Uh, I thought that was a little bit weak, but from that perspective, but, you know, it is what it [00:28:00] is as they say.
+
+Uh, the other, um, but what it really boiled down to was that the, uh, niece and the daughter. Their input was for, they, they're looking for, okay, where are they gonna take this company to, uh, at, at some point. Which, you know, two things. Number one, and I'll let Polly comment in a in a minute on it, but I think, you know, the, the, the way it was presented to Polly is, is that the, uh, the husband and wife, husband was outta the business, the wife.
+
+Who's in her probably late seventies, early eighties, retiring. She was the sole decision maker and that turned out not to be true, number one. Number two, I asked like, okay, I gotta be honest. I don't understand if we're buying the business, what do they care about the future of the business after they get cash for the business?
+
+Uh, and, and basically. The, and there, so there is no stock incentive for the daughter and son-in-law. There's no, um, uh, [00:29:00] earning share. There's nothing and sense them other than, oh, we're gonna possibly do this and this with the business. And the feedback was maybe they decided that. Hey, if it's interesting enough, they wanna stay on longer than three to five years.
+
+So that seems to be what we were told on it. Uh, pushed a little bit as far as, hey, where do we stack rank in the nine offers? Um, and, you know, whether you, whether you're telling us the truth or not, I'll go with what they say they said, yeah, really it's, you know, you're, you're the next, you're the next one.
+
+If it doesn't work out so
+
+well, you wanna add anything? 
+
+**Polly:** Oh, yeah. Pauly did not say. I think it, I think, you know, if we would've had the opportunity to have met them in person, I think it would've been a different situation because I think we could have easily picked up on the fact that the daughter and the niece played a bigger role in that decision making process.
+
+And it was painted [00:30:00] to us very differently. Not the broker's fault, um, maybe he just, uh, you know, was. Being guided by Darlene the whole time, who was the, you know, who was the, the owner? Well, the co-owner, I guess you would say, the owner's wife, so to speak. But the two of them own it. And, you know, I, I think it was kind of an overwhelming process for her.
+
+So, you know, to me that that was kind of a missed opportunity to be able to meet them face to face and would have been able probably to pick up on that, um, that they were more involved in the decision than what we were led to believe. 
+
+**Steve:** We did push for that face-to-face meeting. Yeah, we 
+
+**Polly:** did. We 
+
+**Justin:** did. Yeah.
+
+It's really frustrating when you have a broker like in the middle of things to to, to kind of deter that relationship building. So, um, I think you all did really great under the circumstances and you made an offer, you know, based on the broker's feedback. Um, [00:31:00] well what are you taking away from, from the feedback or what lessons or things are you gonna change as a result of, of how this went?
+
+**Steve:** Uh, you know, maybe. So the, the difference between five and 10% was not as big a deal. I think probably would just maybe kept it at a 5% just to say a little bit of skin in the game if, if the deal terms were that deciding factor. The other thing that I don't believe, and I didn't get an answer on this, is they, they told Paul, we do not want to get this in a, into a bidding war.
+
+And they said that again. But my question is this, because we went with more, uh, a, a, a larger second, uh, owner, owner finance portion, we did actually go a little bit above list price. So if, if our terms weren't good, there must've, I don't necessarily believe that it wasn't, you know, somebody put a hundred grand on top of that and didn't win the deal on that.
+
+I, you know, they could say that wasn't the ca case, but we'll never know. [00:32:00] 
+
+**Justin:** Well, I mean it might have been a semi strategic play if this, if this other company had some, you know, they thought they were gonna have some cost savings in terms of back of house or, you know, whatever business that they were running.
+
+Which is why it sucks when there's strategics in the mix because they can make offers that we can't as individual buyers 'cause we don't have all those resources and things built up. Um. I would say too, like a, a really good learning for you and for everybody to take into account when there's family members in the business.
+
+To like, dig into those relationships a little bit more, the relationship to the business, like how decisions are made, um, where and when we can, you know, or like on those calls with the seller, it's like, Hey, you got some family members in the business. Like, tell me when did they join? Like, what do they do?
+
+Like, just digging into that a little bit more and seeing what the, the interplay is. Unfortunately, this is [00:33:00] something that happens a lot, these unspoken. Or silent deal killers. It's the wife of the seller. It's the the family members that are in the business. It's a accountant that has no idea how businesses are valued, and they're saying it's like 10 x worth, you know?
+
+So sometimes these people get in their ears or make decisions that we don't realize are an influence, but when they're talking about their livelihood or the thing that they built for a really long time. That they can have a bigger impact than we would've assumed. You know, it's like, well, they don't have any equity.
+
+Like how, why are they having any say so? Like rationally, you're right. Emotionally, that seller, you know who, who knows what the dynamic is on a day-to-day business or day-to-day basis? So. When we hear that, we could dive a little bit deeper into like, what actually is the dynamic and what influence do they have?
+
+And is this going to be a, um, a problem, right? So Stevie, you'll know this from this sales process, and Polly, I know you've got some experience there [00:34:00] too, but when somebody's, you know, it's like, well, when you're talking to somebody and you know they're married, it's like, well. Does your partner know about this?
+
+Are they supportive? Like, do you discuss things together? You know, like, is that person you're gonna be like, get buy-in from somebody? Mm-hmm. And then they're gonna go have a chat with their partner and the partner's, like, hell no. And you're like, I didn't realize they had that much say in this decision making process.
+
+Or, you know, oh, I, I've never actually talked to my partner about this. They don't even know. It's like, well, hang on a minute. Um, so things that we do in sales. 
+
+**Steve:** Going down the rabbit hole, the only thing that makes sense to me, or again, going down the rabbit hole, I shouldn't go. But as I think it out, it sounds to me like possibly the daughter and the son-in-law.
+
+I wanna stay in the business, don't wanna own the business that's, don't want the pressure of, you know, meeting payroll and everything, all that goes with it. But, you know, they're, [00:35:00] they're not at a point where they're done. And you know what? Whatever they're gonna inherit from, from, uh, mom and dad, that just could be too far off for them.
+
+So. It sounds like they just didn't want the, that responsibility. 'cause otherwise I can't understand why they would care on the direction of where the business is going. But again, the rabbit, yeah, 
+
+**Justin:** I, that's my first, where my head always goes when I know there's like family members and a business and they're not wanting to buy it.
+
+I wanna know why. Yeah. You know, like that's one of the first questions I ask like. And, and you can do it again, curiosity. When you get on that seller call, like, hey, you've got like your family in the business. Like, why isn't this staying in the family? I mean, like, it's kind of the natural thing. I would think you'd wanna hand it down to them, like, what's going on there?
+
+Um, I don't know if you asked that question, but it's something that like, when there's family members in a business, we wanna kind of understand that dynamic as much as possible and are, and or are they flight risks after you take it over and they're key employees, right? [00:36:00] There's nothing in keeping 'em in the business.
+
+Or they, like, they wanted to buy the business, but the owner didn't think they were ready and then they're gonna have a chip in their shoulder and like, be an absolute nightmare for you. So that family dynamic is super important. Um, to, to figure out, uh, I think he played this right. It was hard. There was a lot of offers.
+
+So I'd imagine there was some, some element of like a more attractive financial offer for them too on the table. 
+
+**Polly:** I tend to think that there might, well, from the financial perspective, I'm with Steve in the fact that the broker brought it up that, oh, it's not into a bidding war, that kind of thing. I, I get that, but I mean, you know, just the simplicity of it.
+
+If it's all, if it's a larger offer, let's say this company. Offered more money and then they had the, the business piece to it about, you know, how they were not really in this type of [00:37:00] business. Had some other ways, I guess, of, of bringing some, some interesting concept to the, that towing business in the sense that they, um, I just made a note that they.
+
+Have, you know, heavy equipment, they, they deal in diesel engines and that kind of thing, but they also had a huge interest in opening reopening the body Shop. That Magic Towing originally started as a body shop, so that was never really conveyed that. It was more like a. You know, oh, we've got this body shop and it's not used, and there's equipment in there and it could be for, you know, you could sell it and so forth.
+
+But it was never talked about as maybe something that they wanted to reopen. And it sounds like the Spire is wanting to reopen it and, and put whatever equipment they have access to and you know, in [00:38:00] addition of what they already have. But if they had that piece to it, plus. You know, came to the table with more money.
+
+I mean, I don't know. I, I just, I have a hard time believing it was just a better business fit. I, I don't know. I, I, I think, I think there was some, some money in there as well. So 
+
+**Justin:** usually, you know, like there, that definitely has a, an element to it. When there's a long deliberation and you had a really good fit.
+
+It's usually like money is the deciding factor. Mm-hmm. With the vision thing also. Another great point, and, and again, I know it was a competitive situation. We had limited time with the, the, you know, sellers. Um, but I will typically get them to paint their vision before I tell them what I think. Like, you know, what's, what are you seeing this business in like five to 10 years?
+
+Like, what's happening with it, you know? Kind of a similar thing you do when you're like going through a hiring [00:39:00] process and you ask a candidate, like, where do you see yourself in five, 10 years? And if, if their vision for themselves is completely different from what you see this person's trajectory as, it's like, ooh, we're not gonna be aligned there.
+
+Um, so when you're doing that with an owner, even though they're, they're selling right. Or the, you know. Okay, what's your view of this in five to 10 years and, and how do your family members feel about that vision? Are they in alignment with that? Is that what they're wanting to see? Or do they have a different idea of where this should go?
+
+So you kind of see what, where the chess pieces are on the tables before you start making your moves, you know? Um, so this is all good. Things to wrap our head around because we need to have these discussions at one point or another, whether it's pre L wire or post. So it's like really good learnings. Um, also, you guys weren't afraid of it being competitive.
+
+You moved, you got an offer out, like you negotiated a deal you kept working capital in, which protected you. I think you took really good [00:40:00] job on this, you know, so you've learned a lot and you're gonna move that much quicker the next time, and you're gonna come at it from a different lens. With more of that information and, and confidence on how to approach this.
+
+**Polly:** I think, I think I would, um, do so. One other thing different would be too, I had a good relationship with, um, kind of the, the, the broker coordinator. So she actually was the person I talked to on a couple of calls prior to actually having the call with, with Darlene and the, the. Other ladies there, um, in the office, the, the daughter and the niece.
+
+I think I would have asked more about the roles of each of them, um, to the broker. If the broker would've, I mean the broker coordinator, Casey, I probably would have asked more questions about them and. You know, getting on the call prior to the call, getting on the call and, you know, asking them [00:41:00] questions.
+
+Not just Darlene, they were just sitting there basically. I wasn't, I, I just wasn't privy enough, didn't have enough information about them. And that would be, if we've got that many players in the game again, I definitely would wanna know more about all of them. 
+
+**Justin:** Great learning and good, you know.
+
+Opportunity to think about like the negotiations and the players, like you said, right? Because a broker has their motivations, the seller has their motivations when you understand both, and you can play to both. Um, so the broker's just as important to get on in your corner and on your side and understand what's important to them.
+
+Um, that's, you know, with, with a lot of these, you can sometimes skip straight to seller call, but I, I, I like that broker call because. I can establish what's important to them, right. And get them like, bought into me and they're like really excited. And then, um, you know, it's like, Hey, what's important to you in this?
+
+Like, [00:42:00] how do you wanna see this go? And then like, and how do you all work? Just so I make sure that I'm on. And you can even say like, I wanna make sure that I'm working well with you. I noticed there's a team, like, what's your dynamic? Who do I go to for what? Like, what's the best way to work with you? And then they're like, well, you even care to ask.
+
+Like, cool, you know? Um. So it's a great insight Paul. Um, also on these deals, when, whenever you don't get it on the first one, I can't tell you how many fall apart, right? And like this, like whoever the, the top offer was, they made an offer that they can't actually come through on. So brokers don't seem to be learning their lessons, but they keep, you know, helping buyers choose the, the most attractive like financial offer.
+
+Then it goes for funding or whatever, and that falls apart. So keep them warm. Right. And just if you liked the deal a lot, you submitted an offer, I'd say weekly checking in, like. Hey, just checking in. You know, we were super excited about this deal. How's it looking? And often the [00:43:00] brokers will tell you if, if there's an indication that it, it might be going south, right?
+
+Squeaky wheel gets the grease. So if you're checking in politely, like, Hey, checking in. I know you're already under offer, but just letting you know, I'm still interested if anything happens, um, when and if it comes up, you'll be the first person that they come to. 
+
+**Steve:** Did invite us to come visit when we, uh, are down in their area, so, oh, no kidding.
+
+Okay.
+
+I mean, we actually looked at, said, yeah, yeah. Hey, if you got something else, we'd be interested. Uh, we want, we we're still interested in this. We know these deals can fall apart. We're we're gonna be there. Uh, 'cause they, they said, look, we, we don't wanna stop you from looking elsewhere. I said we're gonna continue to look.
+
+However, if something, you know, if, if this one comes back to life, we do have that much interest that, you know, we won't, probably won't be that far down the line on something else. So keep us in mind and whether we try to play that card as [00:44:00] well. Uh, he, you know, the broker showed us, you know, started talking about something.
+
+I'm like, yeah, I saw that on your website. Have zero interest in that. And he's like, yeah, that's got a lot of hair on it. So, um, they started talking about all the bad things. I'm like, that's not even close to something I wanna talk to you about. Right. Uh, so we, but we, I think we left it on good terms, uh, with the door open.
+
+And I was gonna ask those. I'm glad you brought up a question, is, okay, how often should we ping them right now on this deal? Weekly? Sounds about right. 
+
+**Justin:** I, I say weekly, unless the broker just flat out gets annoyed. But, you know, I'm just like, Hey. Just, you know, my weekly check-in. Just making sure, you know, I'm still interested.
+
+Let me know if anything happens or if anything else, you know, comes across your desk that we might be interested in. I, I think they appreciate that like most, most brokers are old school, and that's kind of how they operate. And the fact that they were willing to get on a call with you to give you feedback, that's a very positive signal, right?
+
+Like, if you were disqualified for not [00:45:00] being, um, potential buyers, they, they wouldn't be giving you the time. So. That's a, that's a good sign that they saw you as potential buyers, and it sounds like it really did come down to, you know, the different terms. And even the fact he came back to you in the first place and said, Hey, adjust this, do this.
+
+Right? If they weren't interested in you as buyers, they wouldn't have even done that in the first place. And now you have a good relationship with them and you have the experience behind you. So. Um, the first LOI like feels like you're moving fast and, and you're not. So once you get one out and you're like, okay, we've done that now, like, now I know what to do.
+
+I know what to fill out, I know what modeling to do. I know what parameters that I'm comfortable adjusting. So you just move faster and more confidently too. You know, it's like with sales, the first sale is like really clunky when bad might not get it, but every time we go and do the pitch, it's like stronger, stronger, stronger.
+
+Um, not that you have like hopefully have to do a ton of these, but it's good to just have. Like, rip the bandaid and have sent one. [00:46:00] You know, now you got to that stage, so 
+
+**Steve:** it's good. And I did, I did remind them how we found them through you, Ryan and Luke. So I said, you know, keep that in mind. That's, that's who we work with.
+
+So continue to work with you. Great. 
+
+**Justin:** Yeah. Um, and the team will keep reaching out to him too, and, and, and seeing, uh, like if there's anything else that comes across that they put on. Um, so nice work. Anything else we can help you with at this point, apart from team working on more deals for you? 
+
+**Steve:** Nope. More deals.
+
+Sounds good. 
+
+**Justin:** Great. We're working on it. Exciting. Cool. Nice work. Sorry, just.
+
+Awesome. Um, well, okay, so anyone else have anything to talk about? Justin, I saw you here. I don't know if there's any additional news or if you want to talk through anything. How to play this one? Um, um, I don't think there's anything how to [00:47:00] play it yet. Um. Let's see. Sent a follow up to the roofing company standing by for feedback.
+
+Um, haven't heard anything from them yet. Just got off a seller call for the commercial HVAC company, which went really well. Um, and uh, yeah, I really liked that. They're also 12 minutes from my house, so that was awesome for geographic reasons. If nothing else, I'm pretty hopeful for. But, uh, yeah, and we're setting up, we're, we're trying to set up a, uh, an onsite with that, uh, HVC company.
+
+Awesome. I was just gonna ask you what next steps, but it looks like you're already firing on it. Yep, yep. Uh, they said if, if I wanna, you know, either the broker's on the call, he said ideally we get an IOI, um, just for agreement on valuation. And then if that is good, then the onsite, I kind of try to push for the onsite anyway.
+
+Um, yeah, just because I think that'll [00:48:00] build rapport and the seller, they seem to really hit it off. Um, so, uh, but that's my hope. So they're, they're gonna try and check schedules and, and look into the, um, timing for on onsite. Yeah, I'm, I'm not a huge fan of iis 'cause I feel like the brokers just use that as an or you have the relationship and a lot of times they'll use it to like bounce it off.
+
+Other, any idea how many potential buyers, what the competition's like? They said they've had quote a few conversations over the last, uh, call it week. Uh, so I don't know exactly how many, the broker didn't seem to have like a finite number he was providing, but, um, my guess is a handful of conversations. I don't know which of those are bearing fruit from, you know, legitimate offer opportunity or anything like that.
+
+Broker kind of, do you remember all saying who the broker was or what, what company they were from? Gimme two seconds. He is [00:49:00] with
+
+Meridian. Okay. David. David Chua with Meridian. Okay, cool. Not one I immediately springs to mind is a, something that I have a personal relationship with such. That's okay.
+
+Yeah, it sounds, it sounds like you're doing the right things. It's just getting a pulse on whether somebody like submits an LOII would say, you know, um, I don't know if you watched the call that Nash did, but he, it was on market, it was competitive, so he went kind of with an LOI pre-populated and about like everything pre-populated that if the walkthrough went well, he sent it like immediately afterwards.
+
+Mm-hmm. I mean, I, I, I'm fine doing that. I don't, I don't mind, I mean, I've gotta do some modeling on it. Um, but I don't mind, you know, if everything seems to be what I hope it is, then just kind of getting to the LOI stage. And I don't know if [00:50:00] there's a, a sneaky way of letting them know, like that my intent is more serious in a good way in, in that vein.
+
+So that to help kind of push for that onsite, um. I'm trying to think through like the tactic there, but I, I, I can't imagine it would hurt for them to know. It's like, look, I always great, but like I'm, how about we just skip the, the dating and get this some kind of courtship here? Um, but yeah, so, um, we're kind of mulling that over.
+
+I mean, I might, you know, if you haven't already like reshare the pre-qual that you have, like, hey. Like good point. I asked David, the broker on the call with the seller intentionally if they had seen my buyer profile and David didn't seem to know what I was even talking about, so I was like, okay, we definitely wanna get that in your hand.
+
+So, um, I'm gonna shoot that over as just a nice little value add, touch point. Uh, and then maybe even reiterate a note around like, yeah, [00:51:00] looking forward to that onsite, you know, kind of thing. Yeah, I think, I think, you know, what I would say is like dangling the carrot. Like, hey, uh, you know, I'm a qualified buyer.
+
+Here's my profile, here's my prequalification. Um, I am extremely interested. I really enjoyed our conversation, but for me, what's really important is, is, you know, cultural fit, the relationship fit. We're only 12 minutes away. I would love to come and have a meeting with you. And would be prepared to make an offer immediately following a positive meeting.
+
+Right. So it's like, yeah, this is what I need to make an offer. I'm prepared to do it, but this is what's important to me, as I'm sure it is to you too, to make sure there's a cultural fit or whatever you wanna use, like insert whatever your legitimate reason here, you know? Yeah. Um, for me, I, I really like, I always, I, I.
+
+I am personally very uncomfortable making an offer if I haven't met someone co like in person and had that, and I'm, you [00:52:00] know, if we get into the woo and the weird stuff, like I'm an empath so I can really feel like energy exchange and if I'm gonna be able to work with someone when I meet them in person.
+
+So personally, I, I need that to feel comfortable. But again, if it's competitive, if there's tons of offers, you don't wanna lose the opportunity, then you might wanna play it differently. But it sounded like they were open to that. Um. For you to come and meet them. So you can say like, here's my profile, here's my prequalification.
+
+I just want you to know that I am serious. I am making offers, but in order to make an, and I'm prepared to make an offer. But what I need to do that is to meet with y'all in person so that you know, I, I make sure that we're a good cultural fit, exact insert thing. That's what I would do. And then. Have your offer ready to go so that if it does go well, you can get that out pretty quickly.
+
+Um, and again, you know, I, I prefer Lois over iis, but if the broker like keeps blocking you and you really like this one, [00:53:00] then, then we can discuss whether you get one out and how you do that. Yeah. Yeah. I mean, I don't know if he was necessarily like gating the process as much as he was just saying like, the next natural step.
+
+Yeah. We'd love to see an IOI, you know, I think that's just in his mind, like, okay, that's where we go. I, I mean, if I position it that way and I said, look, I can just submit an LOI right? Following the walkthrough, assuming, you know, everybody's aligned. I can't imagine he would've a problem with that. Um, so at least he hasn't indicated that he would.
+
+I guess we'll, we'll take that for what it's worth. Okay. And did we chase the other one yet, or we're we're gonna be doing that today? Uh, I already sent a follow, yeah, I sent a follow up asking for feedback, thoughts, you know, if they've had time to even evaluate it yet, you know, all that. So, uh, we'll see, we'll see what they say.
+
+Okay. Um, if you don't hear from them, but did you know if the broker's more of a phone call person or were they responsive on email? Uh, he was pretty communicative either way, I think. [00:54:00] Um, yeah, I was gonna, I was gonna let it fit for, you know, give him end of day at least to see if they see that email. Uh, and if not, I could give him a buzz tomorrow.
+
+Yeah, sometimes with brokers, like they all answer the phones too. So like if it's like, hey, you know, and then you can get feedback that you might not have gotten through email too, and you kind of like, Hey, you know, I sent an offer, haven't heard from you. Just check that that is true. The other benefit is that the, I replied to a thread that had the seller and the broker on it.
+
+Um, so the seller is seeing that too, which is kind of intentional. Why? Great. Yeah. Um, phone calls are, are, you know, so blindside 'em, but sometimes you can get insight that you might not have if we're just relying on emails. So that's another thing, another tactic if we're really interested in it. But Sounds like some interesting stuff.
+
+Percolating, uh, what? Yeah. Are we putting the furniture one to one side? It sounds like you got some other, other things. Um, I mean, [00:55:00] yeah, it's, it's a little, yeah, that's definitely taken a backseat just from an, I think an interest in, uh, perspective. Yeah, for sure. I mean, if, if either the roofing or potentially, I mean modeling pending the HVC company, both of which would be more interesting to me, um, and more opportunistic.
+
+So, uh, if I can make either of those happen, I would. Probably pursue those over. 
+
+**Steve:** Yeah, 
+
+**Justin:** the furniture thing. So, uh, and the furniture thing there is zero comp. They've gotten, like, they're not even, I don't think the, the broker did ping me. He is like, Hey, are you still interested in it? To them, I'm, you know, we're, I'm working through some things, you know, that kind of thing.
+
+Um, zero indication that they're even talking with anybody who's interested. Um, got it. So I think, I think that one's sitting kind of idle. Okay. Well, um, when you make a decision on that, um, you know, you can. Close it out or just keep 'em warm. Sounds like you know what to do there. Yeah. Exciting stuff.
+
+Anything else we can help you with in the meantime? 
+
+**Gil:** I don't think [00:56:00] so. Yeah.
+
+**Justin:** Awesome. Great stuff. Well, thanks so much Justin. And um, of course, I, we are right at time, everyone. So next Thursday, um, we've had some more feature updates to the financial modeling and it seems like we can't get enough time there, so. I am going to, uh, bring up the model and go through some of the new features and updates in there, as well as please bring all your questions that you're having about modeling, about finances.
+
+Um, if we have some time and there's interest, I might pull up some financial statements to just kind of talk you through. Um, what I see in those and how I input them into the financial statement or into the model. So you can kind of see that, ask some questions, what things we should be kind of paying attention to in these initial stages when we're getting limited financials.
+
+Um, so that's the plan for Thursday and, and apologies for last week, uh, on the sudden cancellation. Uh, try not to ever do [00:57:00] that, but life happens sometimes. So thank you for understanding there. This Thursday will be, uh, more financial modeling. And then we've got some really awesome folks that are getting scheduled in for, um, joining our buyers clubs in the future too.
+
+So we'll make some announcements when we get those booked in teams, working hard on getting them all scheduled. I'm really excited to bring some of these folks to you. As always, if there's anything you wanna see or anything you want to chat through or uh, bring into buyers Club, please let us know. Um, otherwise, have a great rest of your day and we'll see you on Thursday.
+
+Thanks everyone. Thank you. Bye.
+
