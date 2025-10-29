@@ -1,0 +1,532 @@
+# AcquiMatch Buyers Club 09
+
+[00:00:00] 
+
+**Athena:** Hey.
+
+Hey. Hello, Peter's here. Jenny's here. Hey, Luke. 
+
+Nice to see everyone. Uh, cool. Jenny, I know this is your first buyer's club, isn't it? Yeah. Welcome, welcome. Thank you. So we actually have you on deck to chat today. So, uh, Tuesdays, it's, it's just fun. We get to talk deals and kind of see where y'all are at team and I kind of convene beforehand to see which, which would be good to, to pull out, uh, and chat about, depending on who is here.
+
+Um, so we've got, we've got a full deck depending on who ends up joining today. Good stuff. And then, um, Jenny, we'll we'll call you and kind of start pulling up some spreadsheets and talking about things, uh, as you're going through it too, when [00:01:00] we get to that point. Um, so if Federico joins at some point, let me know Eda, 'cause I know he's got a time crunch and we wanted to chat with him about something.
+
+Um. In the meantime, Peter wanted to call on you with this, uh, fun working capital broker situation and see if we can unstick that. Then Jenny, I'll call on you after that. And then, uh, um, Polly, I know you guys are having some interesting ideas about alternative financing too, so we'll get you after those two.
+
+So, um, Peter, how's it going with, uh, you've submitted an LOI on a deal, um, and as is always the fun situation that happens, you don't have visibility on working capital, but broker wants you to define a working capital number, so fill us in on where you're at with that. Um, and I've done some kind of modeling behind the scenes to talk you through it, but it for everybody's kind of context.
+
+**Peter:** Yeah. Um, 
+
+**Athena:** you add on this one. 
+
+**Peter:** So, by the way, this, this is [00:02:00] my first Buyer'ss club of this version. Right? Just out. 
+
+**Athena:** Oh, cool. Okay. Well you're on deck first. So basically just, uh, what, what's helpful 'cause everybody kind of learns through each other and everybody comes up against the same challenges pretty much when it comes to deals.
+
+This working capital thing is something that comes up literally almost every time, especially within there's inventory involved. So, um, what happens in buyer's club stays in buyer's club Sure. Everybody's working independent deals. Uh, everyone's, you know, kind of keeping confidentiality here, so, um, you don't need to name too much about it.
+
+Sure. But it is helpful for everybody to kind of learn through you as we pull up financials, talk about Lois, that sort of thing. Uh, if you're comfortable sharing. So, yeah. Yes, I've seen your face on so many of these before, but it's just the expert session, so. Yeah, 
+
+**Peter:** exactly. Uh, 
+
+**Athena:** well, so if you wanna start, just give like a 32nd overview of, you know, as, as much detail as you care to on the deal.
+
+What's more important is like, [00:03:00] what have you gone through and where are you at now, what's the sticking point so that we can unstick it all together? 
+
+**Peter:** Yeah. So it's, it's a business. This is a classic thing where there's like something like, I don't know, in the neighborhood of one one, and let's call it one and a half to $2 million.
+
+That's where inventory's at without any sort of due diligence between like. The accounting and, and then, you know, what the owner says, whatever. Like, that's the range right now. Um, you know, with, basically with all the add backs and keeping this and keeping the current co which is the owner's son, it's something like, you know, 460,000 of SD and, uh, my current offer on is one, 1.62 million some.
+
+Alright, so just give a sense of the round numbers. Uh, and that one, you know, 0.62 million is, um, you know, includes network and capital, [00:04:00] right? And so, uh, I, I submitted on, on, what is today? Tuesday? Yeah. Monday morning. And then like an hour later, a broker says, Hey, can we chat real quick? And I was like, yeah.
+
+And so get on the phone and I wasn't surprised, but he is like, all right, so, you know, there's, there's a. You know, whatever number of inventory sitting out there, you know, how much of that, you know, is, is a part of this, uh, because he's saying we're trying to compare apples to apples. We have a couple different offers.
+
+Sure. Okay. And so, uh, you know, I just give him the example of like, uh, you know, just, uh, every, you know, every business where you, you're not just buying a car with no gas and if you are fine, then it's like the purchase price is lower and if you buy too much gas at one time, it might not even be financial to buy a bank, which means there's no dice on this deal.
+
+Right. So, um, he said, [00:05:00] well, any, anything you can, you know, come back with as a, as a number so we can understand it better is great. And I said to him, well, I may have some additional questions for you. If that's the case, you know, I'll get back to you in 24, 48 hours. Cool. So that's, we left it, that was yesterday's conversation.
+
+**Athena:** Okay. So a couple other contextual points that might be useful for folks. Um, so as far as the financials are concerned, we've gotten like profit and loss statements and then some light balance sheets, like annual balance sheets. So we don't have, you know, monthly balance sheets. We don't have aging reports, we don't have inventory detail.
+
+Um, so the bros broker's asking for a number that really all you have is a balance sheet to be able to calculate it. So this is that kind of back and forth that, um, like my starting point always is. We say, you know, networking capital, [00:06:00] which will be determined in due diligence. Yeah. Um, because there's no way of knowing at this point unless they supply you all of those financial statements and, you know, you get with Chris and his team or you guys, you know, work with us.
+
+Um, I still don't like doing the calculations 'cause I am not a regulated financial person. Right. So like that's why it's like, okay, we can give you a number now, but it's likely going to change once the experts actually get in there and start looking at the numbers. Here's the thing with inventory too.
+
+So we have two things going on, working capital. Which is how much gas does the car need in the tank on day one to be able to drive to the next Destin, like to the next gas station, right? Like when you get paid. Um, and then we also have all this inventory that they say has value. Well, we don't have an inventory report, we just have a balance sheet that claims a certain amount of inventory is there.
+
+Um, so my starting [00:07:00] stance with inventory always and working capital is networking capital. So like the experts will determine a number of like, how much gas do we need on the tank to get to the net next gas station. We agree that any of that inventory in excess of, that we do on consignment, because you're gonna need to purchase inventory as a business anyway.
+
+So once you've, you know, gotten to the next gas station. It's like, okay, I gotta fill up on gas. That's just normal business operations and that allows you to purchase the inventory that you're actually gonna use. What can often happen with places that have a ton of inventory is it's old inventory, it's dead inventory, it's never gonna sell anyway.
+
+But they're like, well, I bought it and it has value, so I should get some money from it. So that's a hard, hard pill for owners to swallow sometimes. Um, Peter, I don't know if you've heard the story of, I was looking at an event rental equipment business, and it was like. 17 million in inventory. And [00:08:00] I went down there and I was like, this is like a $17 million garage sale.
+
+Like it was just warehouses upon warehouses of crap and then some usable stuff. So that was a, that was a really eye-opening experience for me, just walking through these multiple warehouses. It was like, so my first year or two is just gonna be sorted through all this crap. And they were including it in the purchase price.
+
+They had a good broker Yeah. Behind them. So the business was valued at less than what the inventory supposedly was worth, because the pain in the butt, having to go through and sell all of that inventory isn't worth it. Um, so I'm, I'm telling you this, which I think you already know, but for the benefit of everybody else too, because anyone that's looking at a business that has inventory with a broker, um, that doesn't necessarily know how to calculate these things or that sort of thing, and is trying to navigate it, oftentimes you have brokers that.
+
+They're not super sophisticated on the finance or valuation side. In addition to that, you also have the [00:09:00] wild card of it getting a prequalification from SBA or from a lender, including all of that inventory. So it kind of, the broker's like, well, a bank looked at it and said it would work. 
+
+**Cash:** Yep, yep. 
+
+**Athena:** But I just did the numbers and I was like, cool.
+
+So you buy everything that they're saying, right at their asking price. They're asking price for inventory. You put in what the lender is asking of 300,000 of your own money, and if nothing changes in the business, then after all your expenses, taxes, et cetera, loan payments, you're looking at $56,000 a year.
+
+Right? Like it just doesn't paper for you in that case. So it's not just. What they're asking is unreasonable. It's also what they're asking doesn't deliver you the kind of value that you'd be looking for in a deal like this. And it won't work from a lending standpoint, um, with the, you know, debt service coverage ratio.
+
+So the lender put in [00:10:00] the estimated closing costs at like $3,000, which like never does that ever happen, right? That's your lawyers, that's your due diligence. That's everything. Like if you find someone that does it for 3000 and does a good job, let me know who they are. I'll tell everybody about 'em. Um, 
+
+**Peter:** except Marlon Williams.
+
+You won't tell them 
+
+**Athena:** like, Hey guys, we need to work on your fixed fee. Uh, can you bring it down to 3000 please? Um, so yeah, some, you know, depending on the relationships between the lenders and the brokers. Lenders get multiple referrals from brokers. So they'll often Sure. End up doing like pref flights to help them.
+
+It, it, it works the same way on my side, 
+
+**Peter:** like, you know, is, is Wendy gonna lend me, you know, a 1,000,006 because I wink at her? No. Is the answer. Right? So, or, or I'm sorry, six milk. 'cause I wink at her. No. Is the answer right, Uhhuh, so Yeah, it works the same way. Right? So I get it. So 
+
+**Athena:** well, [00:11:00] so what, okay, so here's, here's what the other thing that's interesting about their balance sheet.
+
+So if the broker is saying that the inventory, um, and accounts receivable is separate, then that means they have a negative working capital of like a four to $500,000 range. So that means that they have like fluff. Four to $500,000 worth of payables that they don't have the assets available to to pay.
+
+Right. Like a negative networking capital number is not a going concern. You know, it's not good. Um, so if you're buying a going concern at a four x multiple, which you're offering, which is pretty high, then negative working capital works against them. So when you go back to the broker, you can be like, well look, if you're wanting to like take out inventory, then explain to me how you're thinking about the negative working capital in the like four to 500,000 range.
+
+Right? [00:12:00] I'm guessing this broker doesn't know how to explain that because they wouldn't be asking for all this in the first place if they really truly understood that working in capital is part of a going concern. Um. So start with that. And then I would ask for like, if you need me to give you a number pre LOI, which is likely to change once the experts get in there and look at all these numbers and you know that like I would rather us not retrade me, get in there immediately, get the information that I need to be able to determine that.
+
+And then we can talk about it again. But if you need a number before that, I need some information. Like a 12, 2 24 monthly balance sheet so you can see the fluctuations, right? Because all we have is an annual snapshot right now, which doesn't, doesn't tell us how inventory is fluctuating. Even better, is if they have some sort of inventory record or inventory roll forward.
+
+So you can see how inventory's changing on a monthly basis, ideally, or an aging schedule, an [00:13:00] inventory aging schedule. Any of these things will allow you to better determine it. But right now all you have is an annual. TTM balance sheet. Right. And based on that, they have negative working capital if they're taking out inventory from the deal.
+
+**Peter:** Okay. So, um, I think the, I think, I mean this is like, I, what makes sense to me in talking to this crew, including the broker, is hey, like if you can give me more information, I can give you. Right? And if they say, well, we can't, then I think the best thing to say is, okay, well then the due diligence agreement is what we'll get to.
+
+Right. Because otherwise it's like we're in this alternative universe anyway, right. Of making 
+
+**Athena:** up numbers that are just gonna change, making numbers are 
+
+**Peter:** gonna retrade. [00:14:00] Right. So, and, and, and anything beyond this, it's like, it's a bad deal in the sense that. Even if I could get alternative financing or even a friendly SVA bank to finance it, I mean, I'm basically putting myself at like the limit of everything's gotta go great.
+
+And I already have enough experience. I was selling Cassius the other day on our call. It's like, I'm, I'm, I'm, I'm in a J curve. It's not even a J curve. It's like a, it's like a U curve with a big bottom. It's like got a Donka dog to it, right? Like, and like, it's like I don't want to go through, you know that again at, you know, a higher debt service coverage ratio, right?
+
+So, uh, I'm confident in the offer if they get a all cash offer that's 200 grand more, take it. Lucky you, right? Like, that's kind of where I'm at. I don't feel like, oh, I'm trying to get by, like, right. So it's like. 
+
+**Athena:** Well, and what will happen there is that somebody will be like, yeah, yeah, yeah, whatever you want.
+
+Get under offer. They do their due diligence and they're gonna retrade, right? So you're, you're coming at it, [00:15:00] honestly and out of integrity. Like, look, I don't have enough information to give you a number I would feel confident in, so I can give you a number. But you know, it's gonna change when I start doing my due diligence and actually get access to all the financial records saying that if you wanna gimme some more financial statements before I can try to get a range.
+
+Yeah. But just know that I am concerned that given the limited information that I have, that once my team does due diligence, we're gonna have to have another conversation about this. Right? So I would rather say, Hey, let's agree. We're gonna have to agree a networking capital number, let the professionals add up all the numbers so we can see their reasoning behind it.
+
+Um, and then whatever is not included in the working capital of that inventory, I will pay on consignment when I need it. Right. So they'll get paid for it. It just might not be when I take over the business. 
+
+Yep.[00:16:00] 
+
+Peter. Also, by the way, ADA always reposts and for everybody, I, I know I talk fast, um, and it's like, ah, trying to take notes. So the buyer's club, um, these calls also get recorded and transcribed, so she usually posts some same day or early next day. So you can grab transcripts from all that. If you need to use the language, write yourself a script and go back to Mr.
+
+Broker. 
+
+**Peter:** Yeah, yeah, that's exactly we doing. Just 
+
+**Athena:** explain the na the negative working capital situation to me, like how does that work exactly. 
+
+**Peter:** All right. I mean, that makes sense, right? I mean it's, it's, it's kind of what I thought. It's like you just, yeah. Just start with like, um, Hey, this is a re-trading risk.
+
+Fine. We'll agree. Like, we'll, we'll, everybody understands that. Okay. Happy to put a, you know, offer a range for me to do that and not have it just be made up nonsense. [00:17:00] You know, here are a couple documents that would be super helpful and to which they're probably gonna say, ah,
+
+**Athena:** right. And then, in which case, then you have to be like working capital. Ah, you know? Exactly, 
+
+**Peter:** exactly. I mean, that's where I think this is gonna go, but they might actually send the docs, which is also interesting for me too, because then it's like, okay, fine, we, we do get to some, you know, actual, and if this is a sticking, if they're like, yeah, actually there's only a hundred grand of inventory that you need to get to the next gas station.
+
+Well, 1.7 million is, is definitely far away from a hundred grand. So, you know, if you thought or whatever, you know what I mean? Like 
+
+**Athena:** if, if it's only a hundred, that's great. Right? Then they only need to include a hundred thousand of inventory in their purchase price and everything else you can purchase as you need it.
+
+Like a lot of owners keep a bunch of excess stock, but you don't wanna buy dead stock or stock that's not gonna turn [00:18:00] that they've had on their shelves and it's growing dusty in the back room. So it allows you also, when you get deeper into it and the experts start doing a deep inventory analysis, they're gonna see what inventory is dusty hidden in the back room that you might likely not need.
+
+So you can make sure in your working capital number it's usable inventory 
+
+**Peter:** that that. And I also don't need to borrow more than I need at the front end to. Run the, you know, take over and run the business properly. Right. I mean, that's the other thing. It's like, you know, if, if you only needed to borrow, you know, 1 million instead of 2 million to run a good business, well then all, all my work's just going to whatever Lucky Bank is out there that I end up, hopefully they'll gimme business cards for.
+
+I deserve business cards from Wells Fargo right now, but I'm not getting them. Right. Right. So, um, 
+
+**Athena:** I also just dropped the, i i, for shits and giggles, I did their asking price with the inventory included on a financial model. So I just dropped that in your channel. But if you look at the no [00:19:00] change scenario, like investing the 300 K and taking a $2 million loan to get 50 KA year, just doesn't, like, why would you do that?
+
+You know, I, I, 
+
+**Peter:** I did that originally, but yeah. So, 
+
+**Athena:** but you know, like that helps me when I'm like helping you guys. It's like, 'cause sometimes, um, car care is, uh, in the air right now, but she had a. Deal with a client where it's like their asking price with inventory was reasonable, right? So like including all the inventory.
+
+Um, so that, you know, that's what we want to kind of look at is like, well, what's the multiple, what's the, what's the deal look like If we do include inventory, it might be, might make sense, but in this case, a six x multiple for yeah. Something that's not on that kind of growth trajectory and it's the next whatever SaaS business, you know, or e-comm business.
+
+Um, so yeah. Okay. Sounds like you, you know what to do next. Anything else that would be helpful for getting ready for that conversation? 
+
+**Peter:** [00:20:00] No, but I do have an insight that came from just doing the, um, uh, modeling, right? So, uh, and in looking at, you know, just the growth. Year over year as I was looking through some of this stuff and they were sending me more recent financials or whatever, and then comparing trailing 12 months to the full year, 2024, um, they're up on sales and gross profit dollars from 2024 to trailing 12 months.
+
+So those trends are going up. Mm-hmm. The operating income is slightly down. And I looked at where, you know, where was this bucket of operating expenses that was eating up all this growth. And so, you know, it was, it was in, um, you know, advertising, digital advertising, which most of which is Google Ads. Uh, it was in, uh, marketplace commissions, most of which is Amazon.
+
+That's a big chunk of that. Mm-hmm. [00:21:00] Uh, and it was in freight costs, which I don't fully understand, but they are freighting stuff from China because they have manufacturing relations from China. So I, I look at those three buckets and I go, okay, immediately if I were to take over this business, that's where all the action is on costs, right?
+
+So anything that makes any of those costs, like, you know, if, if there's, you know, $20,000 of, of some type of efficiency or savings each in those three buckets, that $60,000 would just open up, you know, that that's, you know, could be a 40%, you know, SD increase after year one, right? So it's like that stuff was super helpful in, in, you know, thinking about cash after debt service.
+
+Where are the opportunities to drive some of that very early on with no more growth? 
+
+**Athena:** Right? Um. Something I, I agree with you and it's good to be thinking about that, you know, where it's not compromising like the [00:22:00] overall business, um, for anybody looking at anything that has, uh, importance, right? Um, especially if we're looking at like pre tariffs numbers.
+
+At some point during the process you will also be doing a normalization for what those new costs are going to be if they're forever here, right? The increased tariffs and that sort of thing. So you got year to date numbers so far, which is good because it seems like some of those are in place. But just to point, I wanna point out to you and anybody else looking at something where there might be tariff implications, especially if you've only got up to 24 numbers.
+
+Um, just be aware that at some point, probably during. Diligence. You know, when you're looking at what the new costs are gonna be at doing your QV, you'll be able to normalize to that and probably have a retrade based on that if it's significant differences in, in your costs. 
+
+**Peter:** Cool. 
+
+**Athena:** Good stuff, Peter. Well, cool.
+
+[00:23:00] Um, I also like having these conversations with chat GBT in the style of, uh, Chris Voss. Never split the difference. So when, uh, when I like have all the information and I'm like, okay, I need to go have this conversation, what would Chris Voss do? Um, it can be really helpful with like, getting you some talking points, um, and, and going at the broker, like especially with that negative work at Capital Thing, you know, it's almost like if you back him into a corner and he is like, yeah, that is right.
+
+You know, it's like, well, okay, so let's talk about that. Like neither of us have the information we need. Why don't we just agree that we're gonna talk about what the real number is once we get all the information we need.
+
+Good stuff. 
+
+**Cash:** Peter. Welcome to Buyer's Club. 
+
+**Athena:** Woo. Going the initiation. Sorry, I thought I thought you were regular, Peter. It was just like straight in there. Um, and Jenny's gonna get it next. So, [00:24:00] um, Jenny, uh, good stuff. You got, you got moving real quick on, on this one. So there's an LOI deadline. You're starting to do financial modeling, so give us a quick overview of where you're at and where, where your sticking point is now and we'll see if we can unstick it.
+
+**Jenny:** Yeah. Um, so yeah, got a business to review. Last I wanna say Thursday. Um, hopped on a call with the broker and seller on Monday. Um, were intrigued and so far no major red flags. So I think wanting to submit an LOI, there are two already. Um. So we know that there's competition. We have some information about that competition.
+
+And then, yeah, I think from there, this was my first stab at one of our, at the model. So just like kind of wanted to run through that, see how I'm doing, and um, you know, pressure test any of my assumptions. Um, and that's kinda where we're at to like, help [00:25:00] me form my LOI, I think. Um, so yeah, that's where I am.
+
+**Athena:** Awesome. Cool. Um, so give me some information on the competition. Anything you have that they told you they liked or didn't like about the other offers. 
+
+**Jenny:** Yes, let me get to my, um, it's in my, in our channel. Um, chair sent it this morning, but um. Yes, the broker said one of the offers is asking a bit more seller financing.
+
+So I think she said probably more, more than 10 to 15%. And the second offer was asking for a larger portion of working capital, which I started to try to calculate, but I couldn't find a template. And also, like I can kind of show you, it's like a asset light and they have no accounts receivable or payable.
+
+So we can, [00:26:00] we can take a look at, um, the balance sheet as well and see if you can help me translate that. Yeah, perfect. Um, 
+
+**Athena:** apologies to the team, um, told me there's a reference to a working capital calculator and I think that was not updated when we did this whole, uh, revamp on this financial modeling template.
+
+So, um, but hopefully you captured kind of the, the. Essence of what, when we're putting the lois together and putting an offer together, we're assuming that like networking capital, like whatever gas we need in the, the tank is included in the purchase price. If, uh, when you're looking at significant amounts of working capital, that's where it can be, like in Peter's instance, right, where there's a ton of inventory, there's a bunch of accounts payable, et cetera, it means the owner's gonna have to leave more gas in the tank than they probably want to, or we're prepared to in a situation like, uh, what you're saying, where there's, there's not really likely any needs, you're usually in a [00:27:00] good place.
+
+Um, and then, um, I always like to start in the Lois just like. We're saying networking capital, which will be determined during diligence, you know? Yeah. Because unless they're giving you all of these, uh, data points and financial documents before LOI, whatever number that you put, and there's likely gonna change.
+
+Um, and some, like, I heard this guy say this at a conference I was speaking at, uh, earlier this year, who, who does qvs? And he is like, if the working capital number disappoints, both the seller and the buyer we're in the right place. Yep. So, should be a little bit of disappointing to both people unless there's no working capital, which is awesome.
+
+So in this business then, when they get paid or when they deliver a service, is when they get paid? It's not. Tell us a little bit about the business real quick. 
+
+**Jenny:** Yeah. So it's a trucking company. Okay. Um, it sounded like on the phone they. Make payments once a week. [00:28:00] So it's like a weekly occurrence. So probably why they don't have a ton of mm-hmm.
+
+Um, accounts receivable or payable. Um, 
+
+**Matt:** I, if I could just jump in real quick. This is Matt. I think that I read in the sim that they have a, a, um, factoring company that purchases their accounts receivable, um, at like 90% for a one and a quarter percent, uh, fee or something like that. I, I could be, I may have misread that, but I think that's 
+
+**Jenny:** fine.
+
+I have it up and you're correct. 
+
+**Matt:** Okay. 
+
+**Athena:** Hmm. Interesting. Okay. So that, that's how they're not having any working capital is they're they're paying Yeah. For that. Um, 
+
+**Matt:** but it seems like a pretty reasonable, like small Right. Only one and a quarter percent. Uh, yeah, off the top is, I don't know, seems like a very reasonable deal.
+
+**Athena:** You're gonna be paying 3% on credit card fees. Yeah. Unless pass that along to a customer, so you're right. Um, and if it gives them this, some stability in terms [00:29:00] of cashflow. Um, okay. Cool. Um, Hey Matt, nice to see you here too. Um, so the immediate things that, Jenny, do you mind if I share the template that you started out?
+
+Okay, cool. Um, so the first thing that immediately jumped out was, um, these numbers here. So usually if, uh, so. The year end is, is the last like financial year that we have the total numbers for. So usually we, like in this case, we'd want to put it to December 31st, 2024. Okay. If we have a trailing 12 month.
+
+Um, and then you always want the this box to be whatever the most recent financials are that we have. 
+
+**Jenny:** Gotcha. Okay. I took, I think I just mixed up, like I have a trailing 12 month that is those two dates that I have up in those two boxes. So [00:30:00] we have 20, 24 as the last fiscal year, and then. Trailing 12 months ending August 31st.
+
+First 2025 is the trailing 12 month. 
+
+**Athena:** Okay, cool. Let me just change that real quick. So then we get the, but actually I might leave that because then, so those dates then determine what's in these columns here. Yeah. Um, so I just noticed that there's a difference here, and I'm wondering if these numbers got mixed up with these numbers.
+
+Because when I was looking at the sim, it seemed like there was a gradual increase. And this 5.8 was the most recent TTM, is that right? 
+
+**Jenny:** No. So this is actual, so it's 23, 24, 20, sorry. It should be 22, 23, 24 uhhuh, and then Aug ending August 31st, 25. 
+
+**Athena:** Okay. Is the, and their revenue declined. Yep. So the 4.7, and this is the trailing 12 month periods, correct?
+
+It wasn't just year to date. Okay, perfect. [00:31:00] So we just need to change this date here then. And those other numbers are great. So we'll do December 31st, 2024. Oops. Didn't like my keyboard. Try that there. Nope, nope. That's still 2025. Hang on.
+
+My keyboard is not connecting lately. That's still on.
+
+Why is that not updating? Oh, maybe I don't have edit access. That's what it is. Oh, shoot. Okay. Keyboard's not working. I have view only. So if you change, uh, that one to December 31st and then that one to August 31st and 24 and 25, um, oh, there we go. Cool. I can do it now. [00:32:00] Got it. Copy. Let's paste that. And then this'll be December 31st, 2024.
+
+Perfect. Okay, so then you see what happens here is these, these numbers all Yeah. Correspond. So year end 2024, then we had that 5.8 million revenue. All these numbers are still the same. Then the trailing 12 is, is these numbers 
+
+**Steve:** correct? Yeah. So 
+
+**Athena:** great. So then what happens is the model pulls off this column, so whatever's in this column is what it ends up using for, um, the deal structure.
+
+So did you have a play around on, on putting, looks like you got some numbers together. Where were I did, 
+
+**Jenny:** um, I think some, let me see, some questions were, I'm not totally clear. Like I think there's not a lot of expense [00:33:00] add-backs, um, which I can share there, um, income statement if that helps. But. I think just like some of the nuts and bolts of this model to make sure, like I'm, I'm thinking about this.
+
+Right? And then, yes. So I was having trouble with then the deal structure. So they, I think this is calculating off of the adjusted ebitda. Okay. That multiple. Um, and there, I believe sale price is off of SDE, I wanna say, and there's a decent gap. So like adjusted ebitda, like he's not taking out the full amount, like there's a gap between his SDE and then ebitda, if that makes sense.
+
+So if adjusted EBITDA for 20. The trailing 12 months. Is that [00:34:00] 1.5 million? He's took out, I'm assuming I didn't have information for SDE for the trailing 12 months, but I assumed seven 50, similar to last year making. Okay. The EBITDA that like 7 67 number? 
+
+**Steve:** Mm-hmm. 
+
+**Jenny:** Okay, so 
+
+**Athena:** this, this was just pulling from this year.
+
+They're valuing the business off ebitda. Not SDE. 
+
+**Jenny:** That's, that's what, no, it, it, it is off of SDE, but when you go to the deal structure, it's I think calculating a multiple off of adjusted ebitda. 
+
+**Athena:** Ah, okay. Here's a, here's a fun thing. Uh, adjusted ebitda and SDE mean the same thing. Okay? Um, so adjusted EBITDA means we made these adjustments here.
+
+EBITDA is before we make any adjustments, so the terms can be interchangeable out there in the world. You'll hear, um, folks use seller discretionary earning or adjusted ebitda. Usually when we get in the higher realm, okay? When it's not just like a solo owner, that's when we start [00:35:00] calling it adjusted ebitda.
+
+But that adjusted word look out for that on like financial statements on sims because it means that they adjusted the financials, right? Um, so adjusted EBITDA and SD are, are interchangeable as far as the model's concerned, 
+
+**Jenny:** okay? Versus like the owner's compensation being what they take out for themself, you know?
+
+Yeah. 
+
+**Athena:** So. Owner's comp is considered an add-back. So we add that to the ebitda and that's how we get our adjusted ebitda. So, um, EBITDA will, EBITDA assumes that there's no like owner benefit, but owners are running expenses through the business that are to the benefit or they're pulling money out, et cetera.
+
+That's where we add this back and then we get our adjusted EBITDA number. 
+
+**Jenny:** Okay, so I might have filled this out wrong then because ISDE numbers [00:36:00] is what I filled out in the owner compensation. Okay. So this was the overall, or what he took as owner comp. This is just what they have in their financials as SDE.
+
+They didn't specify owner's comp, so I think I need to like delete these. And then I think adjusted EBITDA would be, it just, I don't think it matched up like, 
+
+**Matt:** Hmm. Jenny, I, I think they did have the owner's comp maybe in the normalized, uh, um, income statement, but it was, I think he took 120 k, if I remember correctly.
+
+Okay. But we can go over that after the call, but Yeah. 
+
+**Athena:** Yeah. Here it looks like it's right here. Yeah. 
+
+**Matt:** There we go. 
+
+**Athena:** Okay. Um, so let's, let's gotcha. Really quickly if we get that, I'm just gonna see what happens here. Yep. So then we're 8, 8, 7. So there are, [00:37:00] let me see if they did. No, they're saying SDE, 
+
+**Jenny:** so, because yeah, at the top they have SDE, if you keep going up there at the bottom mm-hmm.
+
+Of this slide. There you go. Yeah. Yeah. 
+
+**Athena:** Ebitda, it's 6 3 2. So that's, that's where you wanna try to first get these numbers to match what you're seeing in the, um, sim. Okay. So I usually, you know, you know, they'll have, uh, revenue cost of goods sold if it's, if it's in there, um, operating expenses, other income, and then you can, your net income numbers should match whatever's in the financial statements in the state that matches.
+
+Correct. Perfect. Okay. So then this is where we're missing something. Let's see if we can do some detective work real quick. 
+
+**Jenny:** Yep. And EBITDA, I think matched it was [00:38:00] the depreciation and amortization is one line. So I just put those all in depreciation, right? 
+
+**Cash:** Is that ttm or is that an estimated 2025 number?
+
+That's on the right side, 
+
+**Jenny:** on the right. Or no, 2024. 24. Yeah. There's a whole separate document with, um, TTM that I can share or forward. 
+
+**Athena:** Yeah. I'm not seeing any taxes in here, so that might be taxes and licenses. Okay. So when we get a taxes and licenses number, here's another mine melt for, for when we're looking at EBITDA numbers, the only taxes that you add back on EBITDA numbers are if they paid federal taxes.
+
+But if it's like state tax or licensing, that sort of thing, we don't add that back to the EBITDA number. Okay. Um, because the federal taxes are basically like income taxes that you [00:39:00] will calculate differently depending on what structure you set up. So let's say this is set up as a, um. S corp and the owner, uh, it's a pass through entity, so the owner's covering the taxes on their personal tax return, but you're like, I'm gonna set it up as a C corp, so that means I'm gonna get taxed at the corporate level and also at the distribution level.
+
+That's why we add the taxes back to the EBITDA numbers. But if it's, you know, state tax or you know, any of those little taxes that you, there's so many little taxes that we get as business owners, we leave that in the EBITDA number. So I think maybe that might be okay. Where the, yeah, so if we have the 1 7 2,
+
+oh no, you added that all up. That's interesting. Okay. I would do some detective work on
+
+where. 
+
+**Jenny:** What the delta is 
+
+**Athena:** between EBITDA and theirs. Yeah. And then interest. [00:40:00] Yep. They do have some interest. So whenever there's a big interest expense, I also like to ask them what that was for. Um, 
+
+yeah, 
+
+because it means they were taking loans on something, so it might give you a, a, you know, interesting look into what you might need to take out loans for if they had an SBA loan or you know, vehicle loans, whatever.
+
+But big, big numbers on interest always get me interested. Same with depreciation. Wow. Look at that. Okay. So 20 23, 706 or $64,000 in depreciation. That means they made a big capital expenditures purchase. Yeah, I 
+
+**Jenny:** think trucks. 
+
+**Athena:** Right. So you need to understand what that is, what the useful life is, how often that kind of purchase needs to happen.
+
+**Jenny:** Yeah. 
+
+**Athena:** Because let's say the useful life is two years, right? And they made all these purchases two years ago, and then in your first year as a new owner, guess what? You're gonna have to find an [00:41:00] extra $700,000 to purchase vehicles and it doesn't come out of the p and l. So it's, this is, these depreciation numbers always signpost things that we might have to pay cash for.
+
+Um, that doesn't necessarily show up on the income statement. So when you see a big number like that, that's always where I'm like, Hey, what did they purchase in 2023? Yeah. Um, and like, how long is the useful life of whatever that they purchased? You know? So it looks like there's an average, if that's not a, you know, if that's a random year, maybe 180,000, but you'll see in the, um.
+
+So if you put the depreciation in, perfect, it's all there. Um, then it calculates an average, which then in the deal structure, it shows up here. Yeah. And that's going to account for it in the financial modeling so that you're covered. If that ends up being something that you do have to have an outgoing for.
+
+[00:42:00] If it's a one-off, you're good. You're not gonna have to purchase trucks for 10 years, then cool. You get some bonus cash back. 
+
+**Jenny:** Yeah. 
+
+**Athena:** Every year, you know, but I always, you know, this, this model airs towards the side of, um, you know, covering all your potential bases. Okay, 
+
+**Josh:** Athena? Uh, yeah. Quick question. Do you think that they'd made a big capital investment in that year and then just depreciated the entire value in that year?
+
+That's why it jumped back down to one 70 in the year after it. 
+
+**Athena:** Potentially, but there was a big purchase regardless, which, um, that will be a balance sheet purchase, not a profit and loss purchase. So if it's something that you're regularly, it's called maintenance capital. Maintenance CapEx. So like with a trucking business, you're probably gonna have to purchase new vehicles often, right?
+
+Or spend a lot of money on maintaining those vehicles and that stuff because it's an investment in the business and an asset of the business. It doesn't show up on the p and l, it won't show up on your income statement, but it is real cash that you're going to have to spend. So that can bite [00:43:00] you in the butt if you're not aware of that going into something and you're like, great, this business is doing so well.
+
+And then you're like, wait, half the EBITDA or adjusted EBITDA or SDE half the profit is gone every year making these capital expenditures purchases, you know? Yep. Um, so you got some good stuff to kind of dig into the details there. I would, um, you know, then when you're doing, uh. These modelings I usually recommend, like try doing the um, no change.
+
+Best case, worst case, and then keep purchase price and everything else the same. Okay. And just change your forecast assumption. So you're, so you can see if I were to pay this much money and structure it the same way on all three of these columns, what does it look like? If thing changes, what does it look like?
+
+If the best case happens, what does it look like if we get a J curve situation going on? And then you can click into these tabs. One other thing to [00:44:00] note for the, because we have a differing levels of um, uh. Navigating around this financial template. This is the free cash flow number. So this assumes that your, uh, taxes are also paid, right?
+
+So this is money hitting bank account after all the expenditure, capital expenditures, um, taxes, loan payments, et cetera. So when you're all are thinking about like, well, my salary was this much, um, just think pre-tax, post-tax numbers. The other thing that you did here that will affect this number here is in the financials, I usually pull out the salary that you wanna make first while I'm modeling it, because it will impact your, um, your numbers here.
+
+So if I show you what that looks like real quick, if we pull out this one. Then goes to no [00:45:00] change, then it changes this and that's the kind of available cash that you would have to pay yourself a salary. Okay. After you paid the taxes. Um, so just bear that in mind. 'cause some people see this number and they're like, it's low.
+
+But if you compare to your after tax number based on what you wanna earn, is it in the ballpark? So just when y'all are looking at your free cash flow numbers, just bear that in mind. Okay. 
+
+**Jenny:** Is that helpful? That's super helpful. 
+
+**Athena:** Cool. Yeah. So, um, go in, make your updates and then, uh, what you wanna also do is start looking at the LOI template and whatever's in the financial model that you get comfortable with around deal structuring should be reflected in the LOI template.
+
+And then, um, me and the team can have a look over that before you send it over. So, um, if you get it updated, send it back, we will, uh, we'll review it and, you know, keep helping you on that. But well done for plugging it in in the first place. That's the hardest one, is like the first couple times. Just, 
+
+**Jenny:** yes, first one.
+
+Thanks for [00:46:00] correcting all my mistakes. Um, no, 
+
+**Athena:** no. All good. You actually didn't have that, that many, so, uh, you know, I think you did really well. Yeah. 
+
+**Jenny:** But yeah, I think from here we will, I guess pull together how we feel comfortable and share with your team and let you guys take a look before we submit. 
+
+**Athena:** Yep.
+
+Yeah. And, uh, Caris will be back on online after she lands, so she will be able to sync with you as well. Me, we all kind of confer on these when you're starting to put offers together. So, 
+
+**Steve:** yeah. 
+
+**Jenny:** And then working capital, you, you were saying like you use language to just say like, we'll figure this out. Post LOI.
+
+Yeah. 
+
+**Athena:** If you watch, I always recommend, um, I know it's another video to watch, but it's really helpful, the Barlow Williams, when they actually walk through the template. Yeah. And they talk about that networking capital. There are footnotes in there too, but there's footnotes that basically say networking capital will be determined during due diligence.
+
+You know, and this, [00:47:00] this offer includes networking capital. Okay. Which is intentionally vague because you don't have enough details. But, um, if you pull the balance sheets and, and look at the current assets minus current liabilities, not including cash and bank accounts, and if it's kind of around the same amount or there's not much there when you remove all the cash, then um, because they do the factoring, then it shouldn't be.
+
+For them, somebody else might have put in an actual number that they were like, whoa, hey, you know? 
+
+**Jenny:** Yeah. And then for like, I've been, basically right now, I have been there. I just, I updated it to like put their asking price in the purchase price. And is the point really like, should I be like tinkering with that number to then, like, it should be like the forecast, the three different scenarios that I should like, make sure I'm kind of comfortable with how those net out based on whatever I put into the purchase price.
+
+**Athena:** Yeah. I always [00:48:00] start with their purchase price to see like, does this work for me if I were to meet their price? Right. Yeah. And you have, you have two toggles really, when you're looking at these deals, it's like, um, your price, my terms, my price, your terms, you know? So like depending if they want as little seller finance as possible, it's like, okay, well let me, if I'm only giving them like 10% seller note, which I like to see something usually 10% minimum from the seller.
+
+Yeah. Then maybe I need to pull the purchase price down for this to be worth me doing this, you know? But I always start with their purchase price to just see like standard. If I'm putting in 10% sellers, putting in 10%, not on full standby, just a normal seller node. 
+
+**Ida:** Yeah. 
+
+**Athena:** At their purchase price. Does that even get close to the mark?
+
+And then you can either toggle the purchase price or you can toggle the terms. Yep. Okay. Or both. I mean, obviously you can do whatever you want, but like, you know, if you meet them at their [00:49:00] price, but you're like, Hey, I'm gonna put 10% on full standby, or 5% on full standby for 10 years, you know, so I can meet your purchase price.
+
+They're like, what? And it's like, or we could lower the purchase price and you can get, you know, just a smaller amount of cash up front. Um, so there's, there's fun tools that we can start playing around within there. But I usually, like I said, start with the 10 10, their purchase price, and then you can start messing around from there.
+
+**Steve:** Okay. 
+
+**Athena:** Cool. Thank you. Good stuff, good questions. Awesome. Uh, excited to see where you get to on that one. 
+
+**Jenny:** Yeah. 
+
+**Athena:** Thanks Jenny. Thank you. Uh, all right, cool. Polly and Steve, I saw Steve dipping in and out. I'm assuming you had meetings, but it sounds like you guys have an interesting deal, but there's, there's words as always, so like how do we potentially do some alternative financing was what I gathered from cash to minimize your downside with something that's, uh, it sounds like there's some revenue decline and also it's a foreign entity.
+
+Did [00:50:00] I capture that correctly? 
+
+**Polly:** Yes, that's correct. But I, since Steve has got just a few minutes before he has to go to an event, I'm gonna let him chime in here because that's why I went off screen so I could talk to him for a minute. And I, he said I'm gonna have to run soon, so I'll let him do the talking for a few minutes.
+
+**Athena:** Steve, I almost didn't recognize you in all those fancy clothes.
+
+**Steve:** Every once in a while you put the big boy clothes on. So I was 
+
+**Cash:** literally just on a call with Steve and he has changed in about an hour here. 
+
+**Steve:** I 
+
+gotta go hustle up some money so we can pay for this business we're gonna buy here. So 
+
+anyway, 
+
+so I, I'll be pretty quick to the point. I think you captured most of it.
+
+Athena, I think probably went back to the broker. 'cause if, if you recall last time we spoke, uh, there was, they're basing the business as an online business around cryptocurrency, and it's also based in Romania. Uh, so that's a couple of, you know, interesting, um, [00:51:00] areas that we haven't seen before. Second thing is, uh, if you take a look at the revenue brokers, hell bent on saying it's, oh, it's, it's the past 12 months.
+
+Uh, if you look at the last 12 months, uh. Three or four, three months of that, or four months of that, or even, even the last six months is 70 plus percent of the revenue. The current six months has dropped off dramatically. And I'm talking to the point of doing as much as a hundred KA month down a, uh, $2,000 a month in revenue, not profit.
+
+So, you know, that's kind of, uh, an area that we wanted to dig, get a little bit deeper into. Polly asked for additional financials from the previous year. Let's see if this is just seasonal. Uh, you know what, what, what is the case here? We did have a call with the actual owner itself. Uh, I, I asked about some of those good months.
+
+They were from November through, call it February. And, and I was like, okay, can you explain? I figure, and I even seeded, I was telling cash earlier, I kind of seeded it, saying, Hey, was it just seasonal due? The holidays people bought in [00:52:00] more and he had no answers for it. He just didn't know. Uh, but anyway, we got the financials, quote unquote, just an email with some numbers that said the previous year.
+
+It was a total of 50 grand for the whole year in revenue. So now you're coming in 50 grand here, you're talking 400 grand here, and you're down back down to hopefully you get back to 50 grand. So that was one of the areas that was of concern. And, and you know, quite frankly, there's a, it's, it's gonna be interesting to model out cash and I were talking about it and Polly, about how can we make this work, number one.
+
+The second piece is that the owner talked about his asset, the actual, uh, URL itself, popular name, et cetera. City was offered 350 K for it. Um, and you know it, so I, I, today, I went to, um, to my, uh, my chat, GPT or, and uh, ai. And I, [00:53:00] and I gave it a persona. I said, uh, you're Tony Soprano about to do a deal. You think you might be getting rooked here, so you're the conser here.
+
+Tell me what are these things actually worth? And it came back with a lot of comparisons, dug into what things really sold for, even to the comparisons that were picked, uh, in, in the. Uh, he, he did say, well, this, this, uh, similar type URL sold for $1.4 million. Well, if you dig a little bit deeper than that, two years before that, it sold for 35 grand.
+
+It sold for, uh, in 2021, which was the peak of the hype of the crypto market, sold for that. And then I have about nine other, uh, URLs that sell anywhere from, you know, 30 to 50 grand. And, and the analysis was anywhere from, if you're just trying to dump it, 15 to 25 grand, fair price is probably 25 to 50. If a strategic partner that really just wants the property is part of their overall business, maybe you'll get [00:54:00] 75,000 bucks for it.
+
+So, so that was just, just the back of the napkin math, so to speak. And so there's a lot of areas to, to, I guess, dive into. My biggest fear is, you know, we go into this and unless the revenue picks up. You know, we could be negative for who knows how long, maybe forever. That could, there's no exam. No, no. Um, there's nothing that says exactly why what happened happened.
+
+**Athena:** So, um. My, I I know you gotta go quick, so I have a quick idea for you and then you can keep chatting with, uh, cash and I in the channels. But, um, when you have a foreign entity and this kind of volatility, uh, you know, what you can do is do a hundred percent seller finance or majority seller finance, structure it for two years.
+
+Because after you've moved the entity into the US and you have two years of financial history, you can get an SBA loan on it and you can like, basically refine, get 'em out or get a [00:55:00] more cash to close or whatever. But it reduces your liability in the early days. And you can structure in a lot of performance based on that too.
+
+Like, you know, if the business is performing as you expected, um, then you can make payments. But, um, you know, that way it's, it's not a 10 year. Situation for this guy potentially. 'cause that might be the biggest objection of doing something like this. And it's like, look, it's a foreign entity. You've had all this volatility.
+
+We are interested in it. You know, if we can get more creative, if we structure it amongst ourselves, and then you can do earnouts, you know, which is not allowable with the SBA, but if you're doing it just amongst yourselves and then in two years and write this into the agreement and everything, we can, you know, attempt to get refinancing, um, through the SBA and get you completely out.
+
+Okay. 
+
+**Steve:** Yeah, I figured it's not gonna be conventional. Whatever. Whatever we're talking about is not gonna be [00:56:00] a conventional. 
+
+**Athena:** But I wouldn't want you to take the, the, you know, I mean, it would probably be pretty hard to get conventional on this anyway. So, like in this instance, it's like, you know, seller financing, do some sort of earn out performance component to it where you're incentivizing him, but also, you know, like if the business isn't performing, um, and you're not able to make payments, he, he takes it back or whatever.
+
+Maybe you just purchase the asset, the domain you keep that, you know, there's, there's different ways that we can, um, wrap it all up. Um, and then being able to have two years of profitability then allows you to unlock. SVA or other fund funding sources if you wanted to. Now that it's a US entity. 
+
+**Steve:** Awesome.
+
+Yeah, I mean it's, it's, it's definitely an interesting experience so far. 
+
+**Athena:** Yeah, I bet. And I, I know this is a business type that you've been interested in, in a really long time, so is that helpful? I know you didn't have much time. 
+
+**Steve:** No, it, it is definitely helpful. I think some of that we kind of spoke, I mean, [00:57:00] Cass was banging his head against the wall trying to figure out, okay, what can we do to make this creative?
+
+Because that's the only way this thing is gonna work. I think it's a few things. So I think it's, you know, I think just getting our arms around how do you de-risk the situation is really the biggest issue. Yeah. I worked on the revenues. Is it worth doing the deal if the revenues never come back? So we de-risk something.
+
+And then now you've got sunken time, resources and everything, try to build it back up. So there's a, there's a lot of questions. So I do like creativity. 
+
+**Athena:** I, you know, wanna look a little bit more into the, the, the right Holly's doing the right thing, looking into the financials, seeing if it's seasonality or, you know.
+
+Historically, is it looking like, we also know this guy spent a couple hours a week on it too. Um, his 
+
+**Steve:** wife is also part of it too. She was doing all the sales part and she's gonna about to have a baby, so she stepped out now. So, ah, okay. There's another component of it, but see again, we could talk a little bit more.
+
+We'll keep the conversation going on it. I have to really go. I hate it, but I apologize to everybody. 
+
+**Athena:** No [00:58:00] worries. Yeah. We'll, uh, keep us posted. Um, cash. Looks like you wanted to say something. 
+
+**Cash:** I was gonna say, good luck, Steve. Go get it. Y'all 
+
+**Athena:** make that money. Um, good stuff. Well, this was a fun one, Justin. I would call on you, but I know I'm seeing you tomorrow unless there's anything urgent you wanna chat through before then.
+
+**Cash:** Nothing urgent, but I, it's gonna be all hometown tomorrow. That's the focus. So Yeah. Woohoohoo, well, we'll see. We're, we're digging into the LOI
+
+**Athena:** tomorrow. Awesome. This is a, this is, this is a, this is just like. This isn't it. It's fucked. Um, so yeah, we'll have to count how many times the Deal, deal died, came back on this one and, and validate some of these numbers. I've heard, I've heard three, I've heard a thousand. So anything in between is probably somewhere accurate.
+
+**Cash:** It's about right. It's fair. 
+
+**Athena:** Awesome. Cool. Looking forward to chatting tomorrow. This was fun. Thank you all. Uh, [00:59:00] good job. Uh, Peter and Jenny and Matt in the background, first Buyer's Club. Super fun. Um, team is here for you. Just a reminder, we are gonna be offline doing some continuing ed networking out here with the broker community and learning all the great stuff that we can bring back to you all.
+
+So we're gonna be doing a special buyers club next Thursday where we're gonna be bringing back all of our learnings and market, uh, uh. Observations for you all in terms of how we're gonna be pivoting. 'cause it changes every year with the broker community. Um, Justin's gonna be here too, so you're gonna be able to see the A A RP convention firsthand.
+
+It is 
+
+**Steve:** to that. 
+
+**Athena:** It is, it is. It is a wild thing. It's, but it, it makes a lot of sense once you're here. So, uh, um, so we'll be not doing buyer's club on Thursday. We always take off the last Thursday of the month. Um, and also the team, uh, the analyst team and myself will be offline from 4:00 PM Central on [01:00:00] Thursday.
+
+However, ONCA and EDA are here Friday, Thursday, Friday. If you need anything, if there's an emergency, they'll be able to get through to us as well. Um, and we look forward to sharing all the learnings and everything with you all on the next Thursday, buyer club. But we'll be back for the Tuesdays next week too.
+
+So hopefully that was. More straightforward. I feel like I made it more confusing than I needed to put. No, I got it Tuesday. Have a great week, y'all. You too. You just posted on your deals. We're here for you. I'm excited for you. 
+
+**Polly:** Sounds good. Thank you Byebye. Bye. 
+
+**Athena:** Bye.
+
