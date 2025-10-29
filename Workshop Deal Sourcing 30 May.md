@@ -1,0 +1,470 @@
+# Webinar: Deal Sourcing 30 May
+
+**Athena:** [00:00:00] Looks like we've got a good amount of people here. I'm so excited to share this with you today.
+
+So let's go ahead and get started and feel free to keep sharing in the chat where you're from and how long you've been searching for. And we'll go ahead and kick off. Let's talk really quickly about who this is for. So Everyone is welcome. I love seeing all of your faces, but this was designed as an intermediate 202 discussion.
+
+So this is aimed at self funded searchers. So people that are in the process of searching for their own business to buy their funding, their own search based in the U S. So if you're not based in the U S there will still be some tactics that are going to be beneficial for you and asking yourself these questions, but these are specific to U S searches.
+
+Also, if you're brand new to searching and you don't even know what I mean when I say searcher, then you might need a one on one session. So if you're completely new to ETA, SMB, I'm just throwing letters at you and you don't know what I'm [00:01:00] talking about. I want you to drop one on one in the chat and we're going to save the chat and we're going to follow up with you because we will Happily run a one on one session for anybody that wants to understand.
+
+Why would you buy a business and what is ETA and SMB and searcher and all of those things. So we'll do a session for you to learn more about it. If you're completely brand new and somehow you found your way here from all the amazing shares that we've been getting on the internet. So drop one on one in the chat, and then we'll make sure that we follow up with you and let you know when we're doing a one on one session, but you are absolutely more than welcome to hang out.
+
+This is also going to be relevant for folks that are business owners based in the US that are thinking about doing an acquisition strategy themselves. So maybe you already have an existing business. So I would still class you as a self funded searcher. Even if you already own a business, and you want to buy an additional business to roll up so these will be relevant for you.
+
+It's basically if you're doing this on your own. And you're looking at putting most of your money into it and [00:02:00] buying your own business for yourself, rather than having a search fund or being backed by private equity. That's not to say that some of these things may not be relevant for you. It'll give you an overview of that, but this is.
+
+Who this was designed for and we'll get the most out of it. So if you want to want to one drop it in the chat and then we'll get started. So this is always the question comes up. Yes, there will be a replay and we will send it out in an email as soon as we can get this uploaded and dropped into a place where you can watch it.
+
+So I'm going to be covering a lot of stuff. My teaching style is throw a lot at you. So furiously take notes, but know that you'll be able to come back and revisit it also. So let's talk about the S and B E. T. A. Opportunity, right? And this is why most of us are probably here because we heard some of this stuff already on the Internet.
+
+So I just want to remind ourselves why we're going through this crazy process of searching for a business. And the search is the hardest part of all of this. [00:03:00] So cool. We know that 10, 000 people are hitting the age of 65 every single day and will be for the next two decades. So there's a ton of people that are going to be hitting retirement age in the coming 20 years.
+
+And 19 to 40 percent of those, depending on the sources that you listen to are business owners and three quarters of those businesses, supposedly Are profitable, right? So that's a ton of businesses that are coming to the market. Only 53 percent of these owners have an exit plan and only 58 percent know their business's value.
+
+So nearly one out of every two owners isn't prepared to sell their business. And then when you layer on top that their kids typically don't want to take over the businesses, they want to. Go work in tech or be an influencer. So they're not able to hand over to second generation. Interestingly, a stat I heard recently is that businesses only have a 30 percent survival rate with the second gen.
+
+And then third gen is 30 percent of the [00:04:00] 30%. So it's not really a good succession plan to hand over to kids in most instances anyway. And only nine to 50 percent of those businesses will sell depending on the sources that you listen to. So that leaves 50 to 91 percent of businesses on sold. So there's a huge opportunity that we're being told about for these profitable businesses that we can buy and we become owners of and get the cashflow and profit from that.
+
+So that's why we're doing this, right? This is why we want to get into this space. And on top of that, you can buy. Business using government money, and you can get 100 percent of the business for as little as 2. 5 percent of the purchase price. Sometimes zero money in depending on how awesome you are at negotiation.
+
+We're going to talk about some of those tactics a little bit later. Structuring is also something that I completely geek out on and I love about. And my team hears me talk about it all the time. But we're not doing a structuring class today. So that is something that we could potentially do in the future.
+
+So a [00:05:00] line that I love about this space is why start a business when you can buy a profitable one. 96 percent of businesses that start will not make it to your five. And of that only 5 percent of those make it to over a million dollars in revenue. So if you are looking to purchase a business that has over a million dollars in revenue, that's been in existence for longer than five years, then you are looking at the top.
+
+4 percent of the 5 percent or top 5 percent of the top 4 percent of businesses. So it's pretty incredible. So now there's this huge opportunity, and this is what most people on the internet are going to talk to you about this opportunity, but I am nothing, if not an expectation manager, and I like doing a reality check and the reality check that I'm going to take you through is a little hard hitting, but it's But don't worry, we're going to soften it up at the end and talk to you about how you can overcome some of this stuff.
+
+But when we know [00:06:00] what we're dealing with, then we can actually be prepared and we can be competitive in a landscape that honestly isn't built for self funded searchers. It's not built for individuals to go out there, be competitive and buy businesses. It's a very archaic, difficult process. And finding a business to buy, as I said, is one of the hardest things that you're going to do.
+
+So first reality check. There are more buyers than there are sellers of businesses. Because there are so many people on the internet talking about this silver tsunami. Now there's a whole bunch of you and strategics private equity, roll ups, everything coming into the space. And they're coming smaller and smaller because there's such an amazing Return on investment in profitable businesses.
+
+So what that means is it's a seller's market. So as much as we believe that there's all these excess businesses out there, like, yes, there are a lot of businesses for sale, but there's more people looking to buy businesses [00:07:00] than are selling. You're also competing with search funds and private equity. So what that means is search fund.
+
+For those of you that don't know, are people that go and do an MBA. In E. T. A. Entrepreneurship through acquisition, they then raise money from investors to pay their salary for two years and to hire a team to do their search for them, right? So they're getting fully funded to do a full time search with a team.
+
+And they're raising the money to do that. So here's part of your competition, right? Because they're looking at the size of businesses that you are. And then you're also in competition with private equity and strategics who are coming lower and lower to buy these businesses. So if you are doing this part time or in your spare time in and around a W 2, You're up against people that are doing this full time who have the resources and the team to be able to search.
+
+So make no mistake. [00:08:00] That is a disadvantage that you have, but there are ways that we are going to talk about that you can overcome that disadvantage. But knowing that you have all this competition out there is going to help you. So you don't end up losing a deal because of it. And many of you get lost in feeling.
+
+Productive rather than being effective, right? So the time that you were investing into this process, you can feel like you're doing stuff and that can be like setting up CRM tools or using AI scrapers. A lot of you are creating hold codes before you even go out and inquire about a business, or you're going out and speaking to lawyers and CPAs and getting your deal team ready before you've had a conversation with a business owner.
+
+So. In my humble opinion, you need to get your reps in before you start doing any of this stuff, but it makes us feel productive and it makes us feel like we're doing things. It's going to get us the business, but the only thing that's going to get you, the business is looking for engaging with and vetting the businesses, right?[00:09:00] 
+
+Then you can find the deal team later. And trust me, it, it, it comes very quickly when you find the deal. And the last thing is when you're searching, if you don't have clarity, if you don't know what you're looking for, you're never going to find it, right? So I use the analogy of programming the GPS. If we get in our car and we don't program the GPS and we don't have a destination, we're going to get lost.
+
+It's not going to be an enjoyable journey. We're just going to wind around and not know what we're doing. So if we're starting our search without that clarity of what we're searching for, then you're never going to find it. So we need to program our GPS. And then the last thing, and this is the hardest one for most of us, especially if we're doing a part time search or we're limited in our time that we are able to search, is you are not getting enough volume of deals in front of you.
+
+We call it deal flow, right? The flow of deals coming to you is not high enough. So, you Our conversion rate is 0. 4 percent from [00:10:00] the businesses that we look at on market and the off market owners that we contact to LOI. So a lot of you are good with numbers, right? If you work back in your deal funnel and think about a 0.
+
+4 percent conversion rate, how many listings and how many owners are you contacting to get to the LOI? Are you contacting enough? Almost always the answer is no. So people get really frustrated that they've sent out a couple NDAs and they haven't found the business. My team sending out hundreds, signing hundreds of NDAs a week, I feel like, but we're engaging with 2000 listings a month, 500 owners.
+
+It's a lot of volume to be able to get to the end result because at each stage, you're going to find things that's going to eliminate it, or you're not going to be the right buyer for it. So. Most of you might be asking, who are you? Hi, I'm Athena Simpson. I am an acquisition matchmaker. I'm the founder of Acquimatch.
+
+I am also a fellow searcher. So like many of you, I started in [00:11:00] corporate in those top three logos to award winning marketing agencies and Guinness world records. Yes. The book, I was an intrapreneur where I set up business, Functions and services and launched new products within those businesses. I'm always an entrepreneur at heart, but it was better to start out with other people's money initially.
+
+And then every other logo on this slide, apart from Texas McCombs, it was a business that I started or am currently a part of. So I also taught entrepreneurship at the McCombs school of business here in Iowa. Austin at UT. It's one of the top business schools in the country. I love and adore entrepreneurship.
+
+I have seen inside thousands of businesses. I've also been a business consultant for over 10 years. So I've very intimately gotten to know not only how to start a business and what it needs to scale and how that whole process works, but also when we're looking inside the business, what does the founder need to do?
+
+What is it operationally holding up and what does [00:12:00] it need to scale? I have been client facing in most of my career. So these are some of the people in organizations that I have had the pleasure of working with and advising and doing projects with them, many of them on how to scale using startups and doing investment.
+
+I sat on the M and a board at just eat, which was a footstool. Putsy 100 Listing Company in London UK Trade and Investment. I was an advisor to them on technology in the restaurant industry. So some pretty cool stuff. And I'm not telling you any of this to brag, but for those of you that don't know me, it's more for you to make a call on whether you want to listen to me going forward.
+
+But I said, I was a fellow searcher. So let me tell you a little bit about my story. When I got to Austin in 2022, I was a business consultant. And although I got a high amount of money for the consultancy that I did, I was still trading my time for money and I didn't have a active startup that I was doing.
+
+I [00:13:00] was just running my consultancy business, which is dependent on me putting time into it. And I couldn't. get over the fact that it wasn't leveraged. And I walk into a room of people buying businesses and my mind was blown. I'm like, wait, individuals are buying businesses. You mean I can buy a business and do the things I'm good at and I get the upside and then I'm leveraged.
+
+So I got obsessed and I literally hit the pavement doing everything I possibly could to source deals. I hosted events. I partnered with the Alumni Association. I did direct mail. I went and spoke at other people's events. I did email, cold email, showing up on people's doorsteps, you name it. I was doing it.
+
+I wanted to source an off market deal because I believed what most of you did that on market was bad and brokers were bad. And tell a friend called me out and said, Athena, you need to look on market too. You're not getting the volume that you need to be able to get a deal done. So I look on market and I found the perfect business for [00:14:00] me in Dallas.
+
+It was an 8 million purchase price. I didn't know anything about structuring at the time. I just thought SBA would help me figure it out. And it turns out it was such a good deal. It was highly competitive. There was tons of strategics and PE in the mix. And the broker was like, we love you for it, but you need to prove to us that you can finance us this deal.
+
+So I was like, okay, I figured out a way with the banker. I just need to raise some money. Can you give me some time? And it was Friday before Labor Day weekend. And he's like, I'll give you until Wednesday. So in five days over Labor Day weekend, I had to go out and raise 3 million in investment just to get a chance to hang on to this deal.
+
+And I did it. And after all of that, one of the highest points in my life, I lost the deal to a strategic that structured it in a way that they were able to offer 2 million more than I did. So I went from the highest point to the lowest point all at the same time. And two things happened as a result of that one, [00:15:00] I don't like losing.
+
+So I went out and learned everything I could about structuring. I made contacts with private investors, private equity, and I got obsessed with how can we as individual buyers be competitive when strategics are in the mix using the financial tools that are in the toolkit And the other thing that happened was all I wanted to do was search.
+
+I didn't want to go back to business consulting. And now I had all these investors that were hopeful to invest into a business. And I thought, what if I ran their searches for them? And a couple of them took a chance on me. Some of them are here today and agreed to allow me to run the search. And that is how Acquimatch.
+
+was born and it went incredibly well because we were able to help refine the deal box do on and off market sourcing and do vetting and analysis. So that is what we do. We're personalized SMP search and match service to acquire the one. We help refine the deal box, particularly for people that aren't exactly sure what they should be looking for.
+
+We look beyond just SDE and industry and location. [00:16:00] And we look at what would you be a good fit for? What's your long term aspirations, your goals your risk analysis, the type of customers that you'd like to work with, and that then sets the parameters for the search that we do. And we do on and off market sourcing and searching for our clients.
+
+And then every deal that we look at that we hand over to clients, we do an expert analysis and vet it before we even get to the point that we hand it over to them. So our clients are only looking at deals that have made it through the An exorbitant process to make sure that it's a good opportunity, not only for them, but it's a good business also.
+
+And then throughout that whole time, we're also offering consultancy and support. So how do we negotiate this? How can we financially structure this? We're pouring as much as we can in terms of resources and support to make sure that they have what they need to be successful. So I have an amazing team.
+
+They're here with me today. A few of them. Onka heads up our operations. She's built some of the most amazing systems I've ever seen to be able to process the [00:17:00] incredibly high volume of deals that we do. And Ryan has joined us from empire flippers. He ran the vetting team there. I think in 2022 alone, he listed 80 million worth of businesses and also ran the team that does that.
+
+So he's got incredible reps of sourcing and vetting deals. And also a really rich SMB background also. And then Masam heads up our data and lead gen teams. So I told you, I tried all the tools out there in terms of AI sourcing tools and, and these scraper tools and none of them worked. So we had to hire Masam who runs our team that gets us really clean data and really great leads so that we can find off market opportunities.
+
+And also make sure that the on market opportunities that we're reviewing are within the deal boxes of our clients. So. What are we going to cover today? We're going to go through a series of questions and you're going to self analyze as we go through this to help you get [00:18:00] clarity. And we're going to ask you some questions about a series of things.
+
+And then at the end, once you've answered those questions, we're going to talk about the deal sourcing toolkit that you have available to you. And what tools in those toolkits you should use based on the answers to the questions I'm going to take you through. And then I'm nothing, if not an educator and a business consultant, and you know, love seeing people hit their potential.
+
+So we're going to set some goals at the end of this so that you're going to be clear on exactly what you can do to generate more deal flow for yourself. So you can find that business because ultimately I'm obsessed with people being entrepreneurs. I think entrepreneurship is the true freedom, right? We don't have the golden handcuffs.
+
+We're able to own a business and be the master of our own destiny. That is why my business is called unrestricted because I do not want to answer to anyone. And business ownership is one of the best ways to do that. So if I can help you get closer to being the master of your own destiny, that's what I'm here to do.
+
+And then at the end, there will be some Q and a, [00:19:00] so we're probably going to run in this. process for about an hour, but happy to stay on afterwards and answer all your questions too. So plan for maybe an hour and a half depending on how I do a timing or how passionate I get about some of these different things that I'm going to be talking about today.
+
+So let's get some clarity before we talk about the deal tools that we want to make that we have available to ourselves and which ones that we should use. So I want you to now get up out your pen and paper. And if you joined us a little bit late, I do recommend using pen and paper because it is a better tool for us to reflect rather than the computers.
+
+If you don't have pen and paper, that's fine, but you're just going to be scoring some numbers and writing some categories down and just a reminder again for those of you that joined a little bit later, there will be a replay. So you can come back and revisit these and I do encourage you to do so because we're going to be flying through them.
+
+So might not necessarily give you a ton of time to reflect, but at least you're going to get a taste and then you can come back to it and refine it a little bit later. So let's dive [00:20:00] in first. I want you to think about how much time do you realistically have to dedicate to this every week? This being your search.
+
+So the amount of time that you are actually dedicating to your search every week, go ahead and write down the category time and then write down how much time that you're able to dedicate to it every week and do it on your pen and paper. You don't necessarily need to do it in the chat if you'd like to.
+
+You're welcome to there.
+
+Okay. And now timeline. So when I talk about timeline, it's how soon do you want to deal under offer? So we know that search funds that have full funding, the full salary, the full search team, they raise money for two whole years because it takes a while to find your business, particularly depending on what time that you're allocating to it and what tool that you're using.
+
+So the other thing that you should bear in mind [00:21:00] and where I see a lot of people going wrong is they have a timeline of wanting to buy a business in the next couple months. Well, if you're utilizing SBA financing, you're looking at three to six months, at least from getting a business under offer until you close.
+
+So being more realistic about your timeline, and I apologize, I'm not gonna, you know, pretend like some of the folks on the Internet that you can do this in a couple months. Unless you know what you're doing, you've been through this before, it's unlikely and or you're able to figure out a way to do your due diligence a lot quicker.
+
+So how soon do you want to get a deal under offer knowing it can be an additional three to six months after you close?
+
+Ability is crucial when it comes to deal sourcing because it will determine the types of deals that you can go after and the ways that you can get it done. So, first and foremost, you know, if you're able to utilize SBA financing and I [00:22:00] love SBA for so many reasons. And yes, it's cumbersome, but at the same time, if you're a first time buyer, And you're an individual buyer.
+
+It gives you a real leg up and there are ways to make it attractive and competitive when you're up against strategics when you use SBA, but things that preclude you from using SBA if you're not a US citizen, if you have a bankruptcy, if you've defaulted on SBA before, if you owe taxes, and you haven't set up a payment arrangement, Ideally you have all the taxes paid off in full because the payment arrangement will trigger something.
+
+So have you gotten pre qualification from SBA? This is one of the best things you can do to make yourself competitive for on market deals. How much capital do you have to invest? So how much of your money do you actually have to invest? And honestly, I talk with lenders all the time and it's getting tougher and tougher.
+
+If you have zero money in the game of yourself, or if you don't have any liquidity, and definitely if you have a negative net worth or a bad credit [00:23:00] score to be able to utilize SBA financing, even if you bring in an investor, you have to have a super strong case in a super strong background. So how much capital do you realistically have to invest?
+
+And then what size deals are you qualified to finance? So this is, you know, the parameters that you should be using in your search. Are you looking at deals that you can genuinely actually get financed or do you have the backing to be able to finance? Have you had the conversations? Have you had the exploration?
+
+If you're not sure on this, stuff, then mark that down and you know that some of your homework is going and getting these answers because the first thing brokers are going to want to know when you speak to them is can you actually finance this deal because it's the majority of why deals fall apart.
+
+Okay. What did I do there? There we go. Now your deal box, your search parameters, the types of businesses that you're looking at, the programming of the GPS. Are you clear on your deal box [00:24:00] and by clear knowing exactly what a good business looks like for you? And you can still be industry agnostic here, but can you see what it's going to look like for you to be in that business?
+
+And if you don't, how can you get clarity on that? Right? So how clear are you on this? And do you know what your number is after debt service? So a lot of people I see get this wrong. They're like, I need 300, 000. They're looking at businesses with 300, 000 SD and they're not factoring in the debt service that they need to pay in any variation at the business wobbles, which it will in year one.
+
+Definitely. It's going to wobble. So you want to make sure you have some wiggle room there. So do you know what your actual number is after debt service? And then are you evaluating using debt service coverage ratio? So if you are utilizing SBA financing, they will not typically finance anything below 1.
+
+5 for a first time buyer unless you have really great background in it or you're working with a, [00:25:00] more less risk averse lender, but I don't recommend anything less than 1. 5. I should have said at the beginning, none of this is financial advice. You know, you need to go out and check your own thing, but I think 1.
+
+5 is a safe way to do it. So are you clear in your deal box? Do you know what your take home number is after debt service? And are you evaluating using debt service coverage ratio now? We're going to go through and rate some skills because there's some skills you need when you're doing deal sourcing depending on the type of tool that you're using.
+
+So I want you to go through all these. I'm going to read them out to you and I want you to rate yourself one to 10 and you're not allowed to use seven because seven is just a neutral number. So we need eights or sixes and that's going to tell you where you lie on this if you're around that range. So go ahead and rate your skills.
+
+What are. Your negotiation skills on a scale of one to ten. How would you rate yourself on [00:26:00] negotiation?
+
+And then in terms of your sales experience, prospecting, sales, closing, what's your experience there? What's your skill on a scale of one to ten?
+
+And remember no sevens on any of these. So the next area I'd like you to measure is your coaching and teaching experience. How much experience, how comfortable do you feel being in a scenario where you have to coach someone, where you have to teach them something on a scale of one to 10?
+
+Okay. So you might be someone that has coaching and teaching experience, but now rate yourself on how well you have a comprehension of this process. If you were to have to teach an owner, how it works, if there was no broker involved. [00:27:00] So I want you to rate yourself one to 10 there. Okay,
+
+great. Now some more skills. And be honest here, right? Nobody's gonna see your scores. I'm not gonna check in on you. You don't have to submit a paper to me like my students did. So what's your follow up follow through? How good are you following up and following through? And there's those of us that like, I lie awake at night if I haven't responded to somebody and I know they're waiting on a response for me.
+
+Other people don't, don't get bothered at all. So what's your skill, what's your feeling, what's your ability on the follow through and follow up on a scale of one to 10. Now rate yourself on your organization skills and your time management skills. How good are you at like being super productive, blasting through things, having an organizational system and [00:28:00] being organized yourself or you lock solid it.
+
+You know, time management, do you know exactly where you're going to be every minute of the day and you're good at estimating the amount of time that you have, or you get organizing things, rate yourself scale of one to 10.
+
+And now how about creating systems and creating processes from scratch where you don't know anything and you have to create a new system or process, what's your skill level there on a scale of one to 10.
+
+And then this last one is what's your skill level and or interest or delight or feeling on a scale of one to 10 towards networking and relationship building? I love building relationships. It's, it's why I am a matchmaker. I see the connections between different people and love going into a room and connecting and finding out about people, but some people, that's their idea of hell and they're not really good at keeping [00:29:00] up with relationships.
+
+So what's your skill there on a scale of one to 10?
+
+Okay. So we're through with the rating and we're going to go through a matrix in a moment to talk about what are the tools available. Should you be using on or off market based on those answers, but let's talk about the tools that are available. So when we're talking about on market, we mean businesses that are listed through a broker, they are represented by some intermediary.
+
+Who is working with the owner to get everything ready for sale. They're negotiating on behalf of the owner, they're marketing it. So that is what we mean by on market. So obviously this place that most of us know about is the listing sites. However, There are tons of listing sites. I think hundreds, probably.
+
+[00:30:00] I'm looking at Anca to see if she's nodding at me. Yeah, because she'd set up all the systems for us to find all of them. So, if you're only looking at one, then you're losing a big opportunity of all the other listing sites that maybe don't, you know, if you're looking at Biz by Cell, there are other ones out there and there's not necessarily businesses listed on Biz by Cell that are on all these other listing sites.
+
+So there is tons of listing sites out there that is the number one spot where most people go to look on market. You can also get added to broker email lists. So what we do is every time we engage with a broker, we're like, Hey, throw us on your mailing list because oftentimes brokers will notify their list and their inner circle before they start marketing it on all the platforms, because that opens.
+
+the gates of hell for them because they get everyone reaching out to them as opposed to the people on their last lists are probably vetted buyers already. So better quality for them. So they'll drop it on their email list first. So you can get first mover advantage. So getting [00:31:00] added to the broker list whenever you speak to them or finding out how do we get added to your list.
+
+The other way is networking with intermediaries. So when I say intermediaries, I typically mean brokers or M& A consultants, somebody who has deals. And you can do this digitally or in person. So there is probably a business broker association or meeting that happens locally in your area that you could go to and start making those relationships with brokers there.
+
+Digitally, you can also do this. So we have a whole process that we go through that every time we go in a new market, we're digitally networking with all the brokers and intermediaries that we can get our hands on. There are buy side brokers. These are brokers that typically represent sellers that also take on buyers.
+
+I haven't heard great things in terms of their sourcing ability but they will represent you and kind of negotiate for you and be the other side of you and kind of coach you through the process. Once you find the business, they [00:32:00] might assist in some sourcing. Of these businesses. But I question if you're a sell side broker and you don't have enough listings to keep you busy, then why are you representing a buyer?
+
+Just my thought. There's also outsourced deal sourcers. So that would be us at Acquimatch. As far as I know, we're the only non broker search service that also does on market. Now, some tools for off market. So when we say off market, this means direct with an owner. You're speaking directly to the owner.
+
+There's no intermediary involved. There's no broker. It's not listed. Ideally, you're not dealing with any competition in this, although, you know, it being a, sellers market right now, I can't tell you how many times we get on the phone with owners and they're like, Oh yeah, I get an email every week or people are hitting me up every week to buy my business.
+
+So as much as the internet might be telling you that they're just sitting there waiting for someone to discover them and tell them that they can sell their business. [00:33:00] They're getting hit up all the time, especially if they're a good business. So off market is going directly to the owner and this involves a ton of prospecting, right?
+
+And when I say prospecting, if you don't know what that means, and I can tell you right now that this is not a tactic that you probably want to get into, but this is where you're reaching out. Email your cold calling, you're doing direct actual mail to them any other way that you're trying to generate leads by doing outreach to them.
+
+That's the main way to do off market sourcing of leads and deals. You can also tap up your network. So I did this when I started literally anyone I spoke to, I didn't care who they were. I told them I'm looking to buy businesses because almost everybody knows a business owner. So you never know. Right.
+
+And another thing that I didn't actually list on here is you can go to lawyers, you can go [00:34:00] to wealth planners, you can go to accountants. These are the folks that are likely to hear that their clients want to sell before they might go to market. So you can also network with CPAs, with accountants wealth planners, lawyers You know, death and divorce are usually points of sale for businesses too.
+
+So go to the divorce attorneys meet up in your area. Yes, I did do that. But it was grim, but that's, you know, people have to sell in, in these times also the funeral homes. Interestingly, I had funeral homes is one of the businesses that I was looking at buying and they also come across businesses for sale because the family just has no idea what to do when somebody dies and the person that died was a business owner.
+
+So, those can also be places that you can source off market deals. going to events and creating your own events. So I've also done this, got listed in the [00:35:00] local paper for hosting an event for business owners to learn about how to sell their business. I partnered with the alumni association here on campus to blast out to their alumni, to learn about selling their business.
+
+I've gone and spoken at other people's events about this, and this is all to generate leads off market leads for me, right? Rotary clubs can be a, Great place to do that. So if you know that your strength is hosting events or speaking my background's events and I love speaking. I love teaching.
+
+Obviously that's why I'm here. That can be a really great way to bring some folks into your way and get your name known as a business buyer. Now I did mention the AI tools and the business scrapers, and you know, there's so many floating out there and there's so many people trying to solve for this.
+
+And honestly, when we use them, it was. inconsistent and ineffective data. So if you're doing prospecting, the quality of your data that you start with is so essential. So, you know, a lot of these [00:36:00] tools, they do exist, right? You can use the hollow for example, but it's not really great for small businesses.
+
+There's others, I've had like bespoke AI scraping tools built. And what they don't tell you is whether the business is still open. How much the business is generating revenue wise what the owner's name is, what the owner's contact details are. So that's why we brought the SOM onto the team to head up our data and lead gen team to actually go out and find good quality leads that match the deal box for us to start the prospecting process with, because that conversion rate that I showed you of the 0.
+
+4%. That's really high as an industry average because we start with really good quality data at the beginning. So I don't love the business details scrapers. I don't really recommend those. So the other thing that you can do, and what a lot of people do is they'll go into businesses face to face.
+
+This is a very time intensive process to actually make a list of [00:37:00] businesses and just go canvas them and go in and ask to speak to the owner. Can be very effective if you're super targeted, like I want that business. I did that with a car wash. That I found here and I found the owner and contacted him and I wanted that car wash.
+
+I was obsessed with it. It was just such a great car wash. And we ended up speaking for months. And I don't love car washes as a business buying category, by the way. They just don't do the cashflow that we see in like other businesses because of the real estate play and because they're so popular and the multiple, but it was a really great process for me early on to learn negotiation to learn how real estate plays into this.
+
+So but if you have a business that you're like, I love this business so much, and I would love to be the owner of it, then it can be really effective to just go in and ask to speak to the owner and create that relationship. And then of course there's outsourced deal sourcers. So people that will source deals [00:38:00] for you.
+
+So I only know of a few other services that do this for Individual buyers they don't do any consultancy or anything. They'll just literally like hunt an opportunity. They'll check a few metrics and then they'll hand it over to you. So what we do is a little bit different and more specialized and that we're actually engaging with the owner.
+
+We're getting their financials. We're getting their ad backs. We're level setting their expectations in terms of valuation and making sure that it fits our clients deal box. So we end up eliminating a lot of businesses through this process. But when we do hand over businesses, then it's a really good relationship.
+
+And you know, 1 of my clients is under offer on a. Med spa that we found him in Dallas right now. So, the off market, outsourced deal sourcers, they all have different ways of doing it, but if you're looking for somebody to kind of guide you through the process and do a little bit more of the consultancy, then you'd go to someone like us, if you know what you're doing and you [00:39:00] literally just want to find leads and act on those leads, then there are other deal sourcers out there.
+
+So, That's around about most of the tools that are available for you on and off market. I'm sure I've missed some, but those are the main ones that come to mind and all of the things that I've pretty much tried using myself before starting this business. So let's talk about, based on your answers, what the best route for you is.
+
+And I'm going to close this so I can see. Zoom hasn't figured out how to get all those things. Into a place that you can view your slides, but. Okay, we're going to go through, we kind of talked about time available, timeline, financing, deal volume, and skills. So we're going to talk about on market versus off market, or if you want to outsource to somebody like us.
+
+So if you have limited time available to search, let's say you're in a full time job, you only have a few hours a week to dedicate to this. So look at your answer there. How much time did you [00:40:00] say that you have to dedicate to it? Going on market is one of the best and most effective ways. To source a deal because you need to get high volume, right?
+
+So where are people willing to sell and, and listing a business right now? Now, the problem with on market is that you need to follow up super quickly. It's very competitive and you need to be consistent and you also need to chase. The broker is like crazy. So my team, you know, do all this day in day out.
+
+As much as you'd like to think that brokers would like to sell the business, they make it very difficult by not getting back to you, not getting you the information you need. So you typically need to chase them pretty consistently. Now, if you have a lot of time available, then you could go off market.
+
+You know, it's a significant time required to do All of the outreach and follow up. But then on top of that, you're probably going to need to be setting up some tech. You're going to want to get a CRM set up [00:41:00] and you're going to need to figure out how to actually generate the leads that you can do the prospecting and go through that process to get through your funnel.
+
+Now with someone like us, there's minimal time required because you're only looking at vetted matches that have gone through our process and you're able to look at our analysis and usually move to LOI within a week or two if, if you like the business. So on timeline, When you want to actually buy, how quickly you want to put something under offer.
+
+The good thing about on market is that the sellers are ready to sell right now. And like I said, the other thing that's, it's, it's an issue here is there's a lot of competition. So if you're looking to buy quickly, then this is the best place for you to go because when you go off market, sellers aren't necessarily ready to sell.
+
+When you speak to them, it's a much longer timeline. You know, so if you're not in a rush, then off market can be a great way, but the [00:42:00] sellers are inexperienced in the process. They don't have an intermediary guy guiding them. And a lot of times you'll end up getting reverse tire kickers. So they want to find out what their business is worth.
+
+But they're not necessarily wanting to sell or they'll get cold bit feet because they don't have an advisor through the process. So this is where those so you're and teaching skills down below really come into play. It's not just the longer timeline with off market, but you're going to turn into an M& A advisor to the owner that you're working with.
+
+So if you're not patient or not a teacher, then it's not necessarily a good use of your time. So, with us we do expedite, make it a lot quicker to be able to look at vetted deals and you're able to move to LOI much quicker when you find a vetted opportunity that really fits for you. I say on average when working with someone like us, you're looking at six months of a search to be able to move to LOI.
+
+And then it's the process after that to get through SBA financing. Much [00:43:00] longer if you're doing it by yourself in a few hours a week to be able to get the volume that you need to be able to find the one that's going to be a good fit for you. From the financing perspective you know, people are like on market is worse deals, et cetera, et cetera.
+
+You're just going to get a fair market price, you know, and most of these deals under 5 million are utilizing SBA financing. So there's only so high. that they can go before the debt service coverage ratio doesn't work, right? So anything over a four multiple is not financeable from, from, for the most part, if you're looking to utilize SBA.
+
+So it does level set the price when you go on market, because You know, as much as you can dislike brokers, they're motivated to sell because that's when they get paid. So they want to get the deal done. The other thing is you have to prove yourself with these brokers and more and more because there's so many people coming to this space.
+
+The brokers want you to prove yourself before they'll even let you sign an NDA now. So making sure you have that prequalification or you are [00:44:00] actually qualified or able to finance the deal size that you're looking at. There is limited seller financing typically with on market. I have seen people negotiate as much as like 50 percent or when we start getting into structuring, doing performance based forgivable notes, which is my jam and I love it.
+
+But if you're looking to do a hundred percent seller financing and I would question and not write. So in off market, that is. Where we hear these stories of people getting 100 percent seller financing. As far as I've seen, I've only seen one person that was a first time buyer be able to negotiate 100 percent seller financing deal.
+
+They had an enterprise medical sales background. They had an off market deal sourcer. And I think they did this, like they negotiated with like the Businesses that were actually through that funnel, like, ready to sell within their deal box before they found the one. So it's still very time intensive and requires some really great [00:45:00] negotiating negotiation skills, to other people that I've seen do 100 percent seller financing deals.
+
+had already done an acquisition and proven themselves and were doing a roll up. So they were buying something that was the same industry. And they were able to negotiate it that way. Other than that, it's, I haven't seen many examples of a hundred percent seller financing. So if you're looking at a hundred percent seller financing, because you're short on capital, I encourage you to look at investment as a way to bridge that gap.
+
+If you are in fact, going to be a great investor. Operator. And then you always see people say like, Oh, it's a better selling price or, you know, lower price if it's off market in my experience is not the case, you know, because these owners don't understand how businesses are valued. So They have this idea in their head of how much they should get paid for their business, what their business is worth, but it's not in the basis of reality.
+
+So we have to break a lot of hearts with letting them know what their [00:46:00] business, what the market would value their business at, as opposed to what it is realistically. So I honestly think like you typically get bear deals off market. You're going to be spending a lot of time to get a lower price deal off market on top of everything else.
+
+So working with someone that's an outsourcer, you get lender intros. We, we have a bunch of great lenders that we work with. And then, you know, we'll help with the competitive structuring too. So if there's strategics in the mix how to use all the different tools in the finance toolkits to be able to make a competitive offer.
+
+While not putting you in a risky scenario, right? Because most of you are going to be putting PG's on this. You're going to be putting personal guarantees, putting your house on the line. So we like looking at the structuring to make sure that we're offsetting the risk with you and, and, and for you to work with someone like us, you know, you typically want to have like three to 500 to invest in an SBA pre qualification.
+
+Or financial backing or a way to [00:47:00] be able to raise the money. So it does make sense for the larger deals to work with someone like us. So in terms of deal volume on market, you're going to be able to look at way more deals than you will off market. I love the fact that they have an advisor with them too.
+
+And The only, well, there's a lot of downsides, but from volume wise, this is, this is the best way to get your volume is going on market. It is harder to develop a relationship with the seller when you're working through a broker with deal volume off market, there is less deal flow, right? And you need to start with a thousands and thousands of business owners to be able to get through to, you know, a few of them to be able to have a meaningful conversation with.
+
+So unless you're able to set up that whole. Process the outsourcing process and get that whole team doing what they need to do. You're going to have a lot less deal for load this way, and it can be really slow to progress. And we see this, and this is why we do on and off market [00:48:00] for our clients is because on market has deals ready to go right now.
+
+Off market can take months before we get a seller to get us their financials, to get all the ad backs, to level set their valuation expectations, because they're not necessarily wanting to sell like right this moment. Right. And they're still running their business and they're not working with a broker.
+
+So it can take longer with the off market slower to progress. Deal volume with us is you're getting less to look at, but they're higher quality and more likely to be something that you want to move on. So we were looking at the stats the other day, and I don't think we've had one that we've passed over to a client that they at least didn't want another conversation about after we did the vetting.
+
+So in terms of skills needed for on market, you need really need to have strong follow up organization, networking, you know, these brokers are kind of, the squeaky wheel gets the grease or squeaky. Yeah, squeaky wheel gets the grease. I don't know why that sounded so weird in my head. [00:49:00] But like really good at follow up and really quick on the ball and, you know, patience with having to chase them and, and you know, get what you need from them.
+
+In terms of off market, you really need to be great at sales and negotiation. Prospecting. You need to be super organized and be able to set up those systems. You will be required to teach and coach them, the owners, through the process, right? Because they might not know how it works. So you need to be comfortable enough to be able to do that.
+
+And there is a lot of follow through and follow up required to stay on top of them, because like I said, they're running their businesses. They're not necessarily wanting to sell until there's a trigger point when they want to sell. And usually it's the moment when they have PE that are already in the mix.
+
+And we were able to work with a seller to get them to not work with PE who had submitted an LOI and actually work with one of our clients. So you, you're still in a competitive situation off market too. And then, you know, from a skillset. [00:50:00] outsourcing it, it's really like, are you a great operator and are you good at learning and, and, you know, being coached because we support you through that process.
+
+Because I believe that, you know, it's unfair for individual buyers that would be amazing business owners to have to learn all of this, you know, From scratch, right? Like everybody's setting up their own off market sourcing. Like they're having to do the on market. It's really cumbersome. It's not clear.
+
+It's not easy for individual buyers that want to buy a business and be an operator or business owners that don't have a lot of time and they maybe want to do a rollup and have the expansion of their business that way. But we're up against people that are professional investors and acquirers, right?
+
+They know this process inside and out. So I'm a huge who not how fan. You know, when you have a problem asking who to solve it for you rather than how am I going to solve it. If this isn't a skill that you want to do over and over and over again, is it the best use of your time to learn how to do it.
+
+So, you know, that's [00:51:00] why we exist because we're the who for people that want to outsource. But hopefully I've given you enough today that you'll be able to pick the tool. That is going to be the best use of your time and the best ROI. And I suspect for most of you, it's probably going to look on market and getting your volume in on market and making sure you're getting in that volume.
+
+So. I love the rule of 100. For those of you that know Alex Hermo, I am a huge fan of his I actually got him to do a guest lecture for me when I was teaching entrepreneurship at McCombs. It does live on the internet. It was highlight to be able to interview him for an hour. So he talks about the rule of 100, which means if I were to do something a hundred times a day.
+
+Like what thing could I do a hundred times a day that I would have no chance of failing if I did it a hundred times a day. So I like this because it, it helps us to really center in on what's the most effective action that I [00:52:00] can take to get the result. And you pick one thing and one thing is going to trigger.
+
+A whole series of things after that. So if a hundred a day is too much for you, then you can still apply this to maybe a hundred a week or a hundred a month, I suspect for most of you, that will be something like, I'm going to look at a hundred listings a day or a hundred listings a week. If you're doing off market, I'm going to touch a hundred owners.
+
+A week, a hundred owners a month, right? So I want you to think about how can you apply the rule of 100 to one action that if you do it a hundred times a day, a week, a month, it's going to get you the result, which is the deal. And remember, I talked about. Productivity versus effectiveness. So we can feel productive, but we're not actually being effective.
+
+And in order to be effective, the thing that we should be doing is spending the time on the thing that will get us the result, which is looking at deals, engaging with deals, vetting deals, talking with buyers, going on ride alongs, like actually [00:53:00] engaging with business owners and businesses for sale. So how can you apply the rule of 100 there?
+
+And then. How can you create consistency and focus? So even if you can only do a hundred listings a month, if you do it consistently, it might take you longer, but the chances of you not finding your business to buy is unlikely as long as you maintain that consistency and focus over time. So given your answers to the questions, right.
+
+And looking realistically at like, what's my skill set? What's my time availability? What's my financing situation? What's my timeline to close? How can you apply the rule of 100 to your week or month or day? You can choose the timeline right so that you have no chance of not finding the business and you can light up the chat with your answers if you feel brave or just write it down in your notepad.
+
+And I also want you to think about what tactic that we discussed is going to be the most effective for you. So I [00:54:00] recommend choosing one. Don't try to blast out to everybody all at once. So if you like the idea of going to the, you know, broker networking events, do that. If you like the idea of reviewing as many listings as you can do that.
+
+If you like the idea of making a hit list and going and visiting them in person, just pick one tactic that you can get really good at. That will be the most effective for you based on the answers to your questions. So go ahead and pick that and you can light up the chat with these answers if you want, or keep it to yourself.
+
+But think of what 100 actions can I take. In what amount of time and what is the tactic that I'm actually going to do. And then I'd like you to think about how can you hold yourself accountable to this goal? And accountability is a way that we get things done, so even better if you put in the chat how you're going to hold yourself accountable.
+
+Or maybe you can find an accountability buddy in the chat as well. And then the other thing that we don't do, especially as Americans, is reward ourselves for achieving a goal, but this is a really strong [00:55:00] technique in order to create habits and create consistency. So if you say that you're going to look at 100 listings a And you track that and you actually hit it.
+
+I want you to set yourself a reward for actually achieving that goal. So if I look at a hundred listings this month, I'm going to go and get a pedicure, right? That's how I reward myself. Just these little things that we can do. And then it reaffirms it in your mind that you did something good and you're going to want to do it again.
+
+So the consistency. Right. And doing it consistently over time is what's going to get us the outcome. And I encourage you not to set goals that you're going to fall down on. So set something realistic that you can actually achieve. And those of you that maybe come from corporate or have heard smart, specific, measurable, achievable, realistic time bound.
+
+So the realistic part is like, can you realistically do it? So if you're saying, I'm going to look at a hundred listings a day, but you have a full time W 2 maybe dial it back so that you can actually achieve it. Because if we set a goal, that's too big, we don't achieve it. Then we [00:56:00] get down on ourselves.
+
+We lose the consistency. We fall down on our search. Okay, so, that's the session. I'm going to go through a few more things. So we would love your feedback. I want to host these sessions regularly and help you with the tools and information that you need to go out and find your business and get unrestricted and be the master of your own destiny.
+
+So we're going to send you an email with the replay in it. And I'm going to ask you to give me some feedback and I'm going to read all those emails myself of what would you like to learn next. Start dropping any questions that you have in the chat now. I have a few more slides, no more than two minutes, and I'm going to go through, but I like to prime you with questions so it's not crickets by the time we open up to questions.
+
+But it looks like we have plenty of time for questions if we're going to hang over a little bit. So you can drop those questions in the chat now. We are going to have another session two weeks from now at the exact same time. [00:57:00] So mark your calendars for June 13th at the same time that you logged on today, depending on where you came from in the world.
+
+And we're going to announce the session after you give us your feedback. What would be most useful for you to learn? About your search for those of you that are brand new to this and maybe joined we'll do a one on one session for you if you would like that too. And then if you are interested in working with us, we do have a wait list on a ton of people that we're speaking to that want to get on that wait list.
+
+We do have two openings for the first movers opening for search starting in August. So there is a form link that will be in the email. You can fill that out if you want to chat with us about working together. So, Thank you so much. Your time is valuable. I appreciate you giving me the gift of your time and attention.
+
+I do not take that lightly. So I'm going to flip over to the chat. I'm going to stop sharing my screen and see what questions that you might have for us. 
+
+**Ryan:** Athena, 
+
+**Athena:** I have [00:58:00] 
+
+**Ryan:** the questions ready for you when you're ready. 
+
+**Athena:** Oh, amazing. Hi, Ryan. Guys, this is Ryan, who I showed you his face early on. He's an absolute legend.
+
+So yeah, go ahead and fire the questions at me. 
+
+**Ryan:** Okay, first question is from Beric. He says, What's the difference between what you're doing and what the outsourced searchers hired by search funds are doing? 
+
+**Athena:** Yeah. So search funds are typically people that have gone through a two year MBA program on how to do entrepreneurship through acquisition, and they might have their own team.
+
+So they're really clear on what their deal box is. They don't need any help with, you know, how do I do this? How do I structure this? How do I negotiate this? Maybe a little bit of help with the analysis and vetting. So the outsource searching is basically like. I want this industry. I want this much.
+
+Give me the leads and I'll do the rest. Whereas what we [00:59:00] do is we go through the whole process with the owner on market to make sure that it matches the deal box. But the deal box is done in a whole month that we spend with you. Looking at, okay, what is your personality, your skillset, your long term goals, your aspirations?
+
+Do you want to be an operator? What's your financial goals? You're going to buy and hold all of these things that will help us set those search parameters, which an outsourced searcher, they don't want to do all of that. And that would confuse them. So they just need industry and location and size of business, basically.
+
+So there's a lot more concierge and white glove service that comes with what we do. 
+
+**Ryan:** Next we have Darrell. Daryl's question is what non SBA financing and funding options do you suggest? 
+
+**Athena:** Yeah, it's going to totally depend, that's a great question, there's so many, so it's going to totally depend on your personal situation and your capability.
+
+Some people are [01:00:00] going to be very great at raising investment, they have an excellent ability Background that would give confidence to investors are good with money. They would be a good operator, so they will be able to raise an investment from private investors. There's also, depending on the size of deals.
+
+an independent sponsor model, that's a little bit bigger of a play. And that's where you're going to private equity or private debt to finance the deal. And then you buy it and you put an operator in place. So it's kind of like running an investment fund. But you can raise money through individual investors.
+
+There's other ways to come up with the down payment. Like, you know, if there's a lot of assets in the business, you can do an equipment loan. I just made a relationship with Great place to be able to access like very, very low percentage lines of credit. If you have some time and you build that credit.
+
+So I think like 2 [01:01:00] percent lines of credit that you can use as your down payment. There is commercial lending too, that's outside of SBA, but typically you're going to get worse terms in that scenario. And, you know, obviously seller financing, which if you guys want a session on all the structuring, then I can go through kind of all the tools in the finance toolkit and how I look at deals to make them more competitive up against strategics.
+
+But with the deal that I went after last year, for example, I raised private investor money to be able to come up with the amount that would make the bank comfortable to cover the gap that wasn't covered by SBA for something in an 8 million size. So that's just a few of the tools, but, I'm sure I've missed a few, but I can do a session on that cause I just, I love it.
+
+**Ryan:** Next. We have a question from Louise. Louise asks, what's the best schedule to search for someone with a nine to five job mornings after [01:02:00] 5. PM lunch, how many hours per week? 
+
+**Athena:** I mean, if you're in a nine to five, I would just say, find something that's consistent. If you're going to be, you know, looking on, on markets, probably your best if you're nine to five and you're wanting to find something.
+
+So you can use your evenings to look at listings and submit NDAs or mornings right outside of working hours. That's going to be the thing that's going to trigger you to be able to get the information to look at the businesses and speak to the owners. But then you'll probably want to make yourself available probably over lunchtime to be able to speak to brokers.
+
+Because they work typical working hours. So I'd say maybe you want to like Get yourself blocked out for an hour every day over lunch and then give yourself a couple hours a week or you know, an hour a day to look at listings because looking at listings is what's going to trigger the next step, which is I like this business.
+
+I'm going to sign the NDA. And then after the [01:03:00] NDA comes the SIM for you to review that and the financials. And then if you like that, then you schedule the broker call. So just time blocking and making it consistent with the amount of time that you're spending with it. In an ideal world, you're spending, you know, 10 to 20 hours a week doing it.
+
+It's, it's pretty exhaustive. And then when you get into, you know, making sure you're doing ride alongs and stuff like that, your sick days are using your holiday to go and spend a day with the business owners of the industries that you're interested in. 
+
+**Ryan:** Next question is from Siri. He asked, can you walk us through the SBA pre qual process?
+
+**Athena:** Yeah, it's a good question. So basically depending on the lender that you're working with, they're just going to look at your assets. So you'll do a personal net worth statement. So they're going to look at the assets that you have available and what your debt is. And then you also need to answer a questionnaire to say that you don't have a bankruptcy, you don't own back taxes, you haven't done anything bad.
+
+And then they basically just look at the [01:04:00] assets that you have available that you would be able to invest. And then they'll set a price that they would be willing to lend on the back of that. They'll also look at your resume and make sure that they feel like, you know, from the initial conversation that you're somebody that they would.
+
+Like to continue having a conversation with, should you find a business that you'd like to buy, but that by no means guarantees that you are going to get that loan because the process is very exhaustive and they absolutely scour the ends of the earth for the business and the buyer. So you really just kind of want to make sure that you have.
+
+good liquidity and that your financial situation is as positive as possible. And that's what's going to get you a high prequalification, which is basically a VIP pass with brokers, right? Like they want to see proof of funds, but having a letter from the bank saying, like, we're prequalified for 6 million and the broker's like, great.
+
+You know? So we ask all of our clients to get that [01:05:00] prequal because it helps us when we're representing them on behalf of the brokers. Because there are so many new buyers coming to the market. They're going under offer on these deals and they're falling apart, typically on the financing. So when a broker has a recent, like, I've lost a deal because they couldn't get the deal financed, then they tighten up and they make it even harder for you to get the information.
+
+Ryan and Anca deal with this on a daily basis where they're like, putting up the stonewall, like, show me that you can actually get this deal done. Because remember, Brokers don't get paid to, I don't know how they work for free for as long as they do. I can't run a business like that. And it's amazing that they do it, but they don't get paid until the business closed.
+
+So if they go under offer with somebody and spend months going to due diligence in the finance process, only for that to fall apart, they have to restart that process with the new buyer all over again. So there's a lot of empathy and sympathy for the brokers and understand why they're putting up these deterrents in place to make [01:06:00] sure that they're only working with people that can actually finance the deal.
+
+**Ryan:** Derek coming back with another question here. He says great session would love to know if Acquimatches fee structure is a flat fee or based on the acquisition size. 
+
+**Athena:** Yeah, so, we are a personalized service. So if you want to get specific pricing to you, you can fill out the form, but we work on both an advanced.
+
+You know, as, as a retainer on a flat success fee. And I, the reason why I do it as a flat success fee, because I can't wrap my head around how, when I'm representing the buyer, it makes sense for me to charge based on the purchase price of the business, because I want you to get the best deal possible.
+
+So I'm going to be helping you negotiate the lowest possible price that you can get. So I'm a little confused why the buy side brokers and sourcers are out there. doing their their fee structure based on the size of the purchase price when you're representing [01:07:00] the buyer because I want my interests to be aligned with yours.
+
+And also my team, right? So we're incentivized by you closing, not by the size of the business. 
+
+**Ryan:** Okay. We have a question from Joseph. He says, when would you physically go to businesses to meet with the owners? Do you schedule time ahead? Or would you show up out of the blue? How do those conversations generally go?
+
+**Athena:** This is such a great question. I love this. It's like, how ballsy are you? If you're off market sourcing and, and, you know, Like you have a, I mean, I typically would probably like try to reach out first before just like showing up in their business. But I know a lot of people that are very charismatic and very charming and I can be that person when I need to.
+
+It just, my gut is like in a million knots if I just turn up and I'm like, can I speak to the owner? You know, but if you love doing that and you're not [01:08:00] bothered in that situation, then by all means, especially with these older folks, like they love. In person, they love phone calls, right? They're not doing the texting.
+
+They're not necessarily on the email. So if you're struggling to get a hold of an owner. Then maybe you do turn up at the business and be like, Hey you know, or just go, go to the business and be a customer and be like, I love this business. Like, is the owner around for me to talk to them? So the relationship goes a far way that way.
+
+So that's for off market specifically. If you're looking at on market then and it's a brick and mortar business and you're in the physical location and you like it, that is a way to get a competitive advantage is to go meet them as soon as possible. It goes so far because a lot of the buyers for on market, they're, you know, dealing with them through the broker and email and that sort of thing.
+
+And they're like, I don't even know who this person is. So, you know, typically the broker won't necessarily be there. So you could develop a really good relationship with them. So if you [01:09:00] love a business, like go meet them as soon as possible. And spend a day with them, like see what their life is like and see if you can see yourself in their shoes.
+
+**Ryan:** We have that's kind of wrapping up. We have a few additional questions from some, some, someone who's been asking questions before. Do you have some more time, Athena? 
+
+**Athena:** Yeah. Yeah. Let's go. I love this. 
+
+**Ryan:** Okay. Awesome. Let's take a look here. So Siri also asks. How do you structure a non binding LOI? 
+
+**Athena:** Oh, that's a big question.
+
+So you definitely want to get legal advice on this. I recommend like either using a template that's out there on the internet. So Acquiring Minds is an amazing podcast. All of you should be binging it if you're not already. And they also have some webinars on their website. So if you go to acquiringminds.
+
+co. co And go to the [01:10:00] webinars tab. They have a structuring and L. O. I. Webinar. That's amazing. It's Sam Rosati, who runs S. M. B. Law, S. M. Bootcamp, S. M. Bash, and he basically takes you through his whole L. O. I. Template, and he includes a template. So I would start there and just wrap your head around all the terms and everything that's in a template.
+
+So some parts of the LOI is going to be bond binding. So that's the thing is you want to make sure that if you're at least coming up with the LOI yourself for the first or second time, I would recommend you have a lawyer actually review it. And a review can cost a couple hundred dollars. Sometimes more depending on who you speak to, but just making sure that you're not getting yourself in any hot water.
+
+Because some parts of that will be binding like the exclusivity. Versus the ability to walk out of the deal and that sort of thing. So although it's non binding to, to purchase the business, there are some binding situations in there. And I highly recommend if you've never done it [01:11:00] before, if you're going to use, you know, the template, watch that webinar, get a template or get somebody to talk you through it, and then just have a lawyer review it and top tip with lawyers.
+
+It's always cheaper to have them do a document review rather than write something from scratch. So if you write your own and say, can you review this or ask them if they have a template like if there's a lawyer that you like working with, ask them if they have a template, that you can fill out and then have them review.
+
+So you're going to be paying less money that way. These are all resources that we make available to our clients. So we have, you know, vetted lawyers, CPAs QV, financial due diligence. We put resources and, and templates in there that we find or that we make ourselves too. But that acquiring minds webinar is a great one to get started there.
+
+Okay, there's another question from Siri, but I'm not exactly sure what he means here.[01:12:00] 
+
+Okay, what's the best way to value a business from a buyer's side without spending a lot knowing we might take a lot of LOIs before ending up? Okay, I think, I think I understand this. So, Three. Correct me if I'm wrong, but okay. I don't love multiples, right? From a financial buyer perspective, which all most of you are, if you're a self funded buyer, you're going to be utilizing SBA, or even if you're doing seller financing, you need to look at the debt service.
+
+Right? So multiples to me only makes sense when you're dealing in private equity land where they're buying the business all cash up front and maybe putting some earnouts in it. So you can use multiples as a way to kind of gauge whether they're in the transcript. realm of it being able to be financeable, but anything over a four, if you're utilizing SBA typically won't have the debt service coverage ratio that you need to be able to finance a deal.
+
+So what we do when we value businesses, or when we look at the business valuation, as we look at the [01:13:00] debt service coverage ratio that we are comfortable with, which is 1. 5, And then we look at their performance and what their SDE is and then do a valuation range based on that, based on what we're seeing elsewhere in the market.
+
+But you know, typically under 5 million purchase price, you're not going to be going above four. For the smaller, the SDE or the smaller, the adjusted EBITDA. The smaller the multiple, but, you know, ultimately the DSCR is king as far as I'm concerned. So, you know, 1. 5, I think is a reasonable and conservative debt service coverage ratio.
+
+A lot of the banks won't loan below 1. 5. So then you can use that to value the business. So in terms of your reps and getting your reps in, You know, you, what is best is to make sure that if you're structuring an LOI and you're making a financial offer that run it past a banker [01:14:00] first and make sure that they would actually finance it at that, or make sure that you're modeling it and looking at your debt service coverage ratio and that you're modeling it.
+
+Like if there's downside, if there's a downturn, you know, not modeling it off, like I'm going to grow it and make it amazing. So doing all that modeling before you submit an LOI to make sure that what you offer is what you can comfortably do. I don't like, you know, low balling it and then, or, you know, offering a lot and then changing it after the fact unless there's something materially different that you find in due diligence.
+
+**Ryan:** Awesome. That wraps up all of our questions. 
+
+**Athena:** Awesome. This is so fun. I hope you all had fun. I hope that you got some value out of this today. If you didn't already, come back to this and sit with your goals. Set some goals for yourself and hold yourself accountable. And if you want, you Send me an email with what your goal is and when you want to achieve it and I'll follow up with you I'm the accountability queen.
+
+I love it. So I hope this helps you [01:15:00] light some fire. We are up against some stiff competition. It's really tough out there, but it's It's not completely impossible. Also please respond to my email that I will be sending out with the replay of this video and tell me what you'd like to learn next so that we can do another session in the future.
+
+I was super nervous of doing this. So thank you all for your amazing energy and support. Spending your time with me and letting me geek out about one of my favorite topics in the whole world and meeting my amazing team who are the reason why all of this can happen. So thank you all for your time.
+
+We'll see you in two weeks. Same bat time, same bat place. And hopefully when you come back, you have some deals that you're looking at. So I'm excited to see you next time. Have a great rest of your day and a good weekend. If we're going to start that early, we'll see you all next time.
+
+See [01:16:00] ya.
+
