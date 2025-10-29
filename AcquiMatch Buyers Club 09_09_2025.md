@@ -1,0 +1,566 @@
+# AcquiMatch Buyers Club 09/09/2025
+
+**Athena:** [00:00:00] Hello? Hello. Welcome.
+
+Hi, Lisa. Hey Justin. Um, I think we got a few more Federico. Hey Josh, apologies for getting this kicked off late. That is totally my bad. I was trying to get up to speed with, um, some of the deal documents we're gonna be going through today. So apologies y'all. Um, but really excited. We got some fun ones to talk through.
+
+Um, so on deck for today 'cause we're docking deal reviews Today I'm gonna be, um, calling on Justin. I'm gonna be working through some numbers with Federico and then I'm gonna be working with Michael on, uh. Finance, modeling, structuring [00:01:00] options, and LOI. So it's what I have on deck today, and if we have time for anything else, we'll go through that.
+
+Um, but yeah, excited. Oh, this is fun to see all your faces too. Hope everyone's good. Uh, I hope everyone enjoyed the wealth management. My head was also spinning, so, uh, if you were feeling like your head was spinning with all of the retirement options, um, you were not alone in that. I'm still trying to figure it out.
+
+The, the US has a wonderfully complicated system, but I guess the theme that I took away from that one is get a professional to help you. Um, don't try to learn all this on your own. So, um, I will restate, uh, the books that I mentioned to Lisa real quick, if that would be helpful also. Um,
+
+this one. All right. So these, these three books have been [00:02:00] really helpful for me, um, in terms of learning some of this stuff. So tax Free wealth is a really, a good one, uh, to start wrapping your head around, um, like how you can be tax advantaged. Um, you want, you know, you can make a lot, but if you don't understand how to save it, and this is all legal ways to save on taxes.
+
+These are things written in the tax code that cut. You know, the IRS wants you to be able to save money usually through being a business owner. And there's a lot of things there. Um, I will Teach You To Be Rich is a really ga great one on personal, um, finance and the different options available to you, investment vehicles, that sort of thing.
+
+But he actually, what I like about this that he, he breaks it down kind of step by step. Um, and I think no matter how. Savvy you are on personal finances and investments. There's stuff still to be learned in this one. Um, and then Profit First. Was that what you just commented on, Lisa? [00:03:00] Yeah. Um, the, okay. So like most financial advisors, they, they do not love this because it's oversimplified and that's exactly why I love it.
+
+Um, y'all, I think mostly, you know, I was a business consultant for small business owners and startup for, you know, off and on for a decade. And like I'm living the nightmare myself of my books needing to reflect what the accountants and the financial professionals need versus what I need as a business owner.
+
+So, um, this is a really great methodology for like, managing your finances. It's, it is oversimplified. On a day-to-day basis as a business owner, it's like, well, what do I have to spend and where's all my money going? And am I putting enough away for taxes and that sort of thing. So I think it's a great model to start just kind of wrapping your head around, even if you don't fully implement it.
+
+I think it's really useful to think about, well, what am I siphoning off for? Um, [00:04:00] taxes, you know, it's a big one that can fight you at the end of the year and you have to make quarterly payments, you know, in most cases and that sort of thing. Um, and then, uh, you know, paying yourself first, I think something that Kelly said.
+
+That I feel like was the standup out comment that kind of got pushed under as we were going through the conversation last week, is it is respon, it, it it is your responsibility as a business owner to pay yourself, right? To make sure that you are okay. Um, and a lot of business owners could be like, no, I need to reinvest it all and whatever.
+
+But it's actually the health of the business is also reliant on your financial health. So making sure that you are also paying yourself not only enough to live, but to, you know, for eventualities and stuff like that. So I thought that was a pretty standout comment. Um, I skipped that part before. It's not same Lisa, same multiple founder story here.
+
+Like it's, it's not cute to, uh, not have enough to pay your bills. So, [00:05:00] um, profit first, the methodology is kind of like working with. Um, what you have coming in, you know, and so he's even like, even if it's 1%, you're siphoning off to your profit account and it's using that simplified, um, like envelope, like envelope system that used to be very old school.
+
+Like people got their cash from their paychecks and they put it into different envelopes. So it's similar. Uh, and if you're looking for a bank account that can actually do this, relay banking, um, I love them as an online banking. I get obviously no affiliate fees or whatever, but relay banking you can set up, I think up to like 30 different accounts and do this.
+
+Like most business banking, um, systems don't let you set up multiple accounts, which is really frustrating. So you get like one checking account with Relay, you get like up to 30. So anyways. Okay. So the, the, I wanted to make sure I just touched on last week, any major questions or things that jumped out last [00:06:00] week before we dive into the deals.
+
+It's anyone wanted to bring up?
+
+Head spinning, head spinning conversation. Actually, I thought it was just 
+
+**Polly:** a great reminder to us of kind of a review of what we have Yeah. In place and, and what we need to update. Because I mean, you know, I I, we've got older kids now and we did our will a long time ago. I, it's just honest, you know, so it's like just a lot of little things that were brought up and, and big things too.
+
+Uh, the disability insurance, I mean, all of those things I, I took, I jotted 'em all down. But yeah, it's a good reminder as well as new information. It was a good reminder of kind of a, going over a list of the things that you need to make sure you got, you know, active to act, updated, whatever. Totally. 
+
+**Athena:** Would that, uh, I know a few people that do estate planning.
+
+Would that be a topic that would be [00:07:00] something you guys would like me to bring to one of these in the future? Sorry. I see one thumbs up. Yeah, thumbs up for like head shakes. You know, I, 
+
+**Justin:** I had it done. I, we did it for ours. So we have an estate plan, a trust, and we've got all that in place, but I, it's always good to learn more.
+
+**Athena:** Yeah, right. Cool. Um, I, I heard some horror stories at an event I was at last year too. Like, you, you think you have it all in place and if you don't do it a certain way, it goes into probate and all sorts of nightmares for your loved ones. Especially if you have a business, um, that needs to keep running.
+
+Right. Like people get. Weird when money's involved. I've heard of all sorts of lawsuits la lately of people going after what they think is theirs and that sort of thing. I am like, man, if it wasn't in the will, like, who do you think you are? Go and after people's money. But we're in the US and that's what we do here apparently.
+
+So. Good stuff. Um, all right, well let's dive into some deals. So Justin, uh, we've got return of the [00:08:00] roofing part three. 
+
+**Justin:** So do 
+
+**Athena:** the roofing 
+
+**Justin:** dead. 
+
+**Athena:** What's that? 
+
+**Justin:** Return of the roofing Dead. This is, this is the zombie business. It just keeps coming back. 
+
+**Athena:** It keeps coming back to life. Yeah. Um, so, uh, thought it'd be helpful to talk through where you're at if you'd like to.
+
+But before you, we do that for, um, everyone here. If you just wanna give us a quick overview of this deal and what you've been through with it so far, and what's recently happened, and then, and then we can talk where, where you want to take it from here. If, if at all. 
+
+**Justin:** I mean, the, the long and short of it is that this was a business that, uh, I I, that the team brought, gosh, I already lost track of time five months ago, something like six months ago.
+
+Um, and, uh, just a roofing, uh, pretty solid roofing business doing about eight ish million revenue somewhere around there. Um, and, [00:09:00] uh, it seemed like a quality business. The, the margins were decent. The owner seemed, you know, like a really standup guy, and I thought we were hitting it off. And they, the broker was a really nice guy and was really constructive, but he had a lot of really good conversations early on, uh, with both the broker and the seller.
+
+Um, got to a point where I submitted an LOI and then it, they kind of went dark and were quiet and I was like, what's going on? Then it was just nothing for a month, maybe six weeks. And then finally it got back to me like, yeah, sorry. We've been just like, you know, evaluating a bunch of offers. We got inundated and they were just kind of dragging.
+
+I was like, well, obviously I'm not, you know, at the front of the pack for this kind of thing. And I knew I wouldn't be, because they told me right off the bat, they had a dozen offers come in and, uh, a majority of them were more attractive than mine, both from just an offer and terms, perspective, price and terms.
+
+So, um, I kind of said, okay, well, you know, probably not gonna happen. Uh, but we kept talking for some [00:10:00] reason. Like they kept saying, well, you know, but we, like you, we don't want these private equity guys. We want an owner operator. Like, uh, we like you, who you are to, to take this seat. So I was like, okay. So it kind of came back to life after that.
+
+This period. And then we kept talking and, and renegotiating and he's like, can you come up any, can, you know, can we help on the terms? And we're getting these other offers, but we still wanna go with you. So I kept meeting them where they wanted to be. Uh, cut to, uh, six weeks ago-ish, they said, uh, five, six weeks.
+
+They said, we're officially going with another offer. We've accepted an LOI, sorry, we love you. Like it's not a you thing. And it's just price was better. Terms were better. You know, it was a roofing, A guy who had roofing management experience had come from a company, uh, before, was backed by private equity, so it wasn't private equity buying it, but his funding was backed by pe.
+
+Uh, and so he saw it as an easier transition, more favorable terms than I was offering. So I was like, I get it all right. You know, I lost, and then [00:11:00] earlier this week or or late last week, I'm already losing track of time. He said, Hey, uh, over the weekend, that's what it was. The broker texted me, he is like, Hey, are you still interested?
+
+And I said, what's going on? And he said, we're, uh, we're passing the other, the other guys are out. And I was like, uh, okay, what's going on? And, and suffice it to say, we met up and they, he kind of gave me the lowdown and it's just, they, they were asking a lot. Um, first of all, the buyer signed the LOI and the next day went on his honeymoon for two weeks and was like MIA and was non-responsive.
+
+And they didn't like that 'cause I didn't make him feel good about how things were progressing. Um, and then I, I guess on top of that, he was asking for a lot of financials, a lot of detailed information that they would only share to somebody who had an accepted LOI. And, uh, and then he was doing nothing with it.
+
+He kept saying, you know, we're, I'm getting a quality of earnings, you know, based on these docs. And they said, well, who are you using? And they came to find out that he hadn't even solicited a Q of E yet. He just was asking for [00:12:00] docs that he thought they would need. And so they were providing all of this.
+
+But then every time they said, well, what, what are steps? What's our timeline? What are we doing? It was just either non-responsive or kind of. Deflective. And so they said, are you serious? Are you actually looking to buy this? And then I, I don't know the details, but basically the gist was, no, like it's not gonna happen.
+
+And so they said, well, we want you to sign a, a release so that we can get out of this LOI and pursue other, other buyers. And they said, okay. So they're in the process of getting that signed that they said it should happen within the next couple days, before the end of the work week. Um, and then that's when I got a text saying, do you wanna revisit?
+
+Um, and the broker said he, he off offline in a private site like he was the seller, was a party. He goes, he goes submit an LOI that was anywhere close, like basically it was where you had it. He goes, I will get the seller to agree and we'll move forward. So I was like, okay. And I met with the seller and [00:13:00] broker yesterday and it was a good call.
+
+They were like, seller reiterates, like, we want you, it wasn't you. Like we prefer you to be the buyer the whole time. It's just, it was the, the money and the terms, it was the, the contract. Um, so that's where we are now. So they're getting me updated financials 'cause I only have through May, I believe they're gonna get me some updated financials.
+
+I'm gonna kind of rerun my analysis and then I guess put together an LOI. Yeah. How are you feeling about it, Justin? I mean, if fine I guess. I mean, yeah. Unexpected. Um, so yeah, I mean, we'll, we'll see. I mean, if he agrees to the terms that I had, I mean, I'm not, I'm not buckling there, so it's, that's kind of all I can offer.
+
+Uh, but it sounds like they're willing to entertain it now that they'd rather just work with somebody they trust and they feel like is gonna commit. 
+
+**Athena:** Okay, so this is the perfect example of, of a seller trying to [00:14:00] like, get their cake and eat it too. Um, so initially the seller chose someone that was offering more cake and then he realized he wasn't gonna be able to eat it for five years because they were gonna continue to make him CEO and have an earnout for five years.
+
+So they came back to Justin, who had less, less attractive financial offer, but the terms were favorable, right? Yeah. He's like, I want to transition from you for six to 12 months while I get up to speed. Then another buyer came around where the seller thought, oh, I, I can, you know, eat my cake within a few days because this person has experience, so I'm not gonna have to do any training or handover.
+
+So now we're in the situation where the seller has realized it's too good to be true, to be able to like, get your cake and eat it too. Um, and. This is one of those, like, you know, uh, I, I, I had a mentor that, uh, you know, he scaled his [00:15:00] business to a billion who talks about short-term, greedy and long-term greedy, like.
+
+Justin's been playing this long-term, greedy, right? Like acting out of integrity, being realistic with what his offer is, and, and, you know, just being true to himself and what he was comfortable with all along. So he wasn't offering more to try to get it under offer. He is like, this is what I'm comfortable with and what I'm willing to do.
+
+Um, and has been, you know, kind of upstanding this whole time. So now it's a matter of well, they went away, came back, went away, came back. So how are you feeling about the relationship knowing that, like, is this something that you still feel good about? Going into at this point? 
+
+**Justin:** Yeah, I, so it's a good question, and I was kind of stress testing that a little bit.
+
+My, and I was very candid with him and not, not, I didn't take it personally. It was more of my concern is that I start to, I, I solicit a QFP, I put money down for these things, I'm coming out of pocket throughout the process. And then he gets, I don't [00:16:00] know, uh, the bottom of the ninth, another offer. And he is like, oh, I'm gonna go that way.
+
+That's my broader concern is that I'm now investing financially above my time, but financially in this for him to, you know, get eyes for, for another opportunity. And that's what's concerning me more than anything right now. I think the health of business. I, I mean, barring fi updated financials, which she'll send me, assuming that that is status quo.
+
+I mean, that was the reason I was interested in the first place. So I don't think there's anything, you know, off there. Um. He, he did admit some personal things, and I already knew this, but he reiterated on this call yesterday that, you know, he's going through some personal things. So he hasn't had his eye on the ball this last year, just unrelated to the business whatsoever.
+
+Uh, like he's going through a divorce and, you know, he, he, he's just, he is been distracted. Um, and I think he sees this now as I think hopefully he's finally come around to say like, I would rather somebody I like and trust, like, step into this so that I, I [00:17:00] can finally alleviate myself from the distraction element.
+
+I can focus on other things. I can kind of reprioritize some of his personal endeavors and that kind of thing. And, uh, and, and I believe that, I mean, I, I, I wanna believe him. It's just I, there's that now piece that's like, I don't want to come out of pocket, you know, tens of thousands of dollars for all of this due diligence 
+
+**Cash:** Yeah.
+
+**Justin:** For him to kind of change the game. Um, so that's more of my hedge. Did you bring that up with him? I did. I mean, I said I would, I said, I look, I mean, are you as committed as I would be? Because I, I'm gonna be now committing, you know, very real money to this, you know, and so I, I, I need, and you know, of course he said all the right things and he is like, oh no.
+
+He goes this, he goes, I always wanted you. I this, if anything, this feels like it was always supposed to be where this is now. Like with you making this happen. I was like, all right man. And I think it was just, he probably saw the other offers, like he said, and he is like, these look great, [00:18:00] but they weren't real.
+
+Like they weren't actually going to happen. And you know, he was candid. He goes, look, I've never sold a business before. He is like, I've never, so I think he didn't know what he doesn't know and had to kind, and he even said, he goes, I had experienced this to know like, okay, what's authentic and what is real and what can I really expect out of a, a transaction like this versus platitudes that he was promised by whomever that were never really gonna happen.
+
+And, and I could see Claudia, the broker finally like saying, I told you like, this is, this is why I was, you know, like he was shaking his head a little. He is like, yeah, but you can tell he was a little, go with Justin please. Like all along. Um, right. 
+
+**Athena:** Yeah. Yeah. So, okay. But this, this, I mean, as frustrating as it is for you, it it, it actually puts you in a much stronger position.
+
+I have more 
+
+**Justin:** leverage than I I ever have throughout this process For sure. 
+
+**Athena:** And you emotionally processed it not happening, so you're, you're detached from it. Whereas like [00:19:00] earlier in this process, you know, getting very much so getting excited about something. Yeah. So it's like, well now you gotta prove it to me that you actually wanna sell to me.
+
+'cause you ran it, ran me through it multiple times now. So, um, yeah. You know, are now it's, it's watching actions versus words, right? So if you send something over, are they responsive? Are they getting it signed quickly? Like, has, does that change or do they end up like dragging it out and doing the things that they were doing before, at which case you could be like, all right, I'm done.
+
+**Justin:** Yeah, no, the first whiff of that, I'm like, I'm out. Like, I'm, yeah, yeah. I'm not gonna do this. And I 
+
+**Athena:** think you can, you can be honest with them about it. Like, Hey, like you, I like this business. We, you know, as we talked about, you guys have run me around a couple times and I felt like you were using me to get something better with other people.
+
+So if I get a, like, if, like you said, if I get a whiff that I'm out, but I, I think it puts you in a stronger position because really you are the best offer left standing because you're not, you're not gonna keep 'em working in the business for five years. You know, [00:20:00] these other folks, like, who knows what their intentions were if they were just, you know.
+
+Messing him around, like you've been serious all along. Um, yeah. And even have like multiple potential finance options lined up. So here's another good thing. Um, the business tax return, uh, deadline is the 15th of September. Um, so for everybody, that's good to know because it means it's 2024 taxes will be filed.
+
+So those books will be locked in and not changed as long as they're all filing on time. Um, so you'll be able to see that. And if you're in, if, if, if you know this is all distracted him for nine months or whatever, then that performance note component becomes even more, you know, of an option for you.
+
+Right? Because that's something we had on the table before. So we were gonna Oh 
+
+**Justin:** yeah. Performance part. The, uh, there's a, I mean, there's a, a full 10 year standby note, there is an additional two year [00:21:00] standby note. There's, I mean, the terms were good and that's actually how the model worked out the way it did, even despite coming up on my offer.
+
+It's because of the terms that made it manageable. Yeah. And, and, and feasible, like with respect to DCR R and all of that. So, um, yeah, I I, I'm very interested to see he, he admitted he goes, August was, he goes, uh, was a little, he hasn't closed August book, so I don't know if I'll get August yet, but he goes, uh, it was a little slower, but that's true.
+
+Every year he goes, August is kind of a, a slower, uh, month, but he said the rest of the summer was good. And he goes, September's already kicking off to a much better clip. So anyway, I, I'll evaluate that. I'll, I'll look at the, some of the parts now once I've got full information and, and reevaluate, uh, the model and make sure everything still looks the way it looks.
+
+But that's something I'm, I am going over in my head and trying to figure out, like, do I. Materially change anything now like to further [00:22:00] benefit me? Or do I kind of just like in good faith, like maintain what the expectation was. You know, I, I'm still mulling over like what that looks like. 
+
+**Athena:** Well, here's a play.
+
+You know, like if we, if we keep multiple and everything percentages wise the same, see what it looks like from a financial standpoint when he gets you the updated numbers, you know, it's, it's showing an olive branch, but that's not to stop you from looking at everything. You know, when due diligence comes back, there will likely be some changes and some, some opportunities there to retrade.
+
+But what we need is some confidence that you are the chosen buyer, right? Yeah. Um, so yeah, we, I mean we can look at it, um, different ways and it might come down already ba just based on ttm, which means you're getting it a much better deal than he would've if, if he would've. Purchased it a couple months ago.
+
+Right. So 
+
+**Justin:** Yeah, true, true. Especially if [00:23:00] August is included and Yeah. Yeah. That could be, that could be part of, I think you'll show it 
+
+**Athena:** up too when you get into diligence, right? Because that will take some time and we'll, we'll do it based on updated financials and you'll wanna make sure that tax returns, and I wrote that for sure.
+
+Filed, 
+
+**Justin:** they wanted that in the LI and I. So I did write that in. I was like, you know, it'll, it'll, the, the multiple will trail depending on the time in which we close for better, for worse, and, you know, respond accordingly and all that. And so they said, fine. You know, 'cause they wanted the upside if it goes up.
+
+And I said, well, I want the downside. If it goes down then it's gotta swing both ways. Um, and they seemed okay with that, so, yeah. So we'll see. Yeah, we'll see. I mean, I guess there's a weird part of me, I hope he has a bad few months that's just very temporary, just for the, for the close and then like go back to normal business as usual.
+
+**Athena:** Well, and. There was a pretty sizable performance note in there in addition to all of this. So that's extra protection for you, you know, going [00:24:00] into it. And then hopefully without the distraction of all the different people, you can get him focused because he gets more cake if he's focused with you as the buyer.
+
+Right. But then it's, it's not putting you in a, a weird situation if, if he remains distracted, you've gotta get up to speed. It's, you know, the numbers will, um, you know, you won't have to pay that performance base note if the numbers don't, don't catch up to where they used to be. 
+
+**Justin:** That's the idea. Yeah. I think in our terms, I used the, the Barlow Williams, uh, example that they used as like a a dollar for dollar move, like so.
+
+Mm-hmm. Basically that full, like textbook pro rat, it's like for every dollar less than the agreed upon, you know, increased metric or target, then the, uh. We're gonna remove the, the dollar from the seller's note, or, you know, basically take it down. So there is definitely, like he has incentive to deliver on it or else the multiple gets more attractive in [00:25:00] effect, because everything's gonna be coming down.
+
+**Athena:** Yeah, I, I know, I know. It's so frustrating, but you're actually in such a strong position if this is the one that ends up moving forward for you. So, yeah. Um, okay. So you're waiting for them to get your financials, is that the, the balls and air court right now? Yeah. The 
+
+**Justin:** broker's helping facilitate that with the seller and he said, uh, they're trying to get it me by like end of week.
+
+**Athena:** Great. Okay, cool. And then you'll get model LOI updated. We can review that with you. I'll definitely 
+
+**Justin:** want scrutinizing eyes with, with you on that one because that's, yeah, it's real. It could be real, real now, so yeah. 
+
+**Athena:** Hey, that would be amazing if it was, we thought it was real, real two other times before, so this, uh, y'all all know this, but a deal, I, I hear different numbers.
+
+Like, a deal dies three times a deal, dies a thousand times, but basically a deal dies multiple times, um, throughout the process. So, um, and, and like overall, it felt, despite [00:26:00] this, you, you've really liked the broker throughout, you've had a good relationship with him and also the seller. It's kind of understandable what he is doing, but despite that, you do feel Yeah, there's integrity.
+
+I think 
+
+**Justin:** he's still, he's still acting with integrity. He was just. Just trying to get the best deal he could. And I, again, I don't even fal for it. Like, I'm not saying I wouldn't do the same if I felt like there was a real buyer who could offer a more attractive offer. It's like, you know, but again, he hasn't done this, so he has no basics for comparison.
+
+He didn't know how ent, what authentic looks like or what real looks like in, in an offer, you know? And so he had to learn and he told me he is like, I learned it was a, it was a process. 
+
+**Athena:** Yeah, for sure. Um, and like I said, probably a better seller for you now that he's been through that process. Right. Agree.
+
+Like if he would've chosen you initially, he would be thinking, should I be getting more when he found out what his tax bill was gonna be or whatever. Right. Um, so it's actually better he is been through this because now he understands like, [00:27:00] it's not, actually, there's not, the grass isn't greater. This was always my best option.
+
+So exciting times. 
+
+**Justin:** Yeah, we'll, we'll see. Hopefully no more crazy curve balls. I mean, until Q of E and then we'll probably get a bunch, but at least none throughout the LOI process. How about that? 
+
+**Athena:** Yeah. Um, well, uh, it sounds like they've been pretty good on staying on top of their books and they, they would have to be with the insurance stuff too, to actually like claim the money, like making sure that they're keeping track of what, what's receivable and that sort of thing.
+
+So hopefully that he, he's 
+
+**Justin:** got, I mean, he, he shared a sheet, now it's dated because it was months old already, but he shared like, uh, like a future project sheet, like where the, the receivables should be coming in based on, I think it was all the way through the end of the, well, it might have been through the end of the year.
+
+Um, and he talked me through some of that. So I mean, yeah, he is, I think they keep pretty good books. I mean it's, you know, yeah. Even if it's informal, the way they're documenting [00:28:00] it, I think it's still kept, if that makes sense. So Great. Um, yeah. Interested in digging. 
+
+**Athena:** Well keep us up to date. Let us know when you have something for us to review.
+
+Um, yeah. But excited for you. 
+
+**Justin:** Yeah. Thanks. 
+
+**Athena:** Um, all right. Cool. I was gonna grab Federico next, but I think you went off camera Federico you door. Oh, you're in your car? Uh, 
+
+**Federico:** yeah. Uh, I'm in the car. Yes. Uh, I don't know if we can do this over the phone like this or 
+
+**Athena:** we, you know what we can do, we can find a time to go through because I wanna, that's gonna break up 
+
+**Federico:** the, uh, conversation.
+
+**Athena:** Yeah. Let's see. I'll grab Michael next, see where you get to. Um, if you're in a standing place or we can just figure out a way to do this async with you two.
+
+Dunno if that got through to him. 'cause it was a little broken up. Yeah.[00:29:00] 
+
+**Federico:** Um. This is three, 3:00 PM in the afternoon, and Tuesdays and Thursdays are not really perfect time for me. Uh, but, um, I don't know, uh, by any chance would be go through it and then I'll, I'll go. I'll listen as much as possible. And if I have any questions, um,
+
+**Athena:** oh, I think we lost him. Um, cash. Do you wanna send him a message? Um, just let him know that we'll go through this with him, um, together either Async or we'll find some time to go through it. 
+
+**Cash:** Yeah, I can do it. I know Federico picks his daughter up during buyer's club every day, so that's probably why he is in the car.
+
+So, um, yeah, worries. I let him know that we can, uh, we can get together and get him everything he needs. 
+
+**Athena:** Perfect. Okay, cool. Um, awesome. So Michael, you are on deck. You've got something that you're excited about. You've got, um, your financial model and LOI kind of pre-populated, and you're [00:30:00] basically at a place where you're trying to decide between, um, what potential options to put in front of the seller.
+
+So just kind of talk us through real quick, um, what the deal is and what would also be helpful is any context or conversation, if any, around an offer, like what the competition looks like, what the seller ideally would want, if you know it. 
+
+**Michael:** Yeah. Um, the deal is, um, a software company that adds, uh, I, I kind of presume it's in the payment space, but they're not a payment processor.
+
+They add a, they're value added software on to make payments easier. Right. Uh, for low-code, no-code non-technical users. Mm-hmm. 
+
+**Athena:** Um, 
+
+**Michael:** they have. A pretty good distributed customer base. Um, and, um, has been a declining business. Um, which, uh, for a couple of reasons, but mostly I think due to own and neglect, uh, they've just been asleep at the wheel or on autopilot, which is the, the, the story there, [00:31:00] um, from, but the business is, uh, a good business that has good margins and has good cust no customer concentration, um, and, um, can run on autopilot, right?
+
+But no business runs itself. Eventually you need some energy and some direction product management, some marketing, right, to get it. Um, you know, I always use the word stabilized, right? Um, so that's kind of the business in, in and of itself. It's, um, I dunno if you wanted more of an overview of the type of company Athena, but, um.
+
+Yeah, that was, no, just strike me up 
+
+**Athena:** to speed with, um, like how are, how have the conversations, so you're wanting to make an offer on it. So have you had direct conversations about an offer? Do you understand, like what would make it like a direct hit and or is there competition, other offers coming in 
+
+**Michael:** the competitive landscape that they had one offer before, uh, it kind of, it just did not materialize the, um, that person couldn't get investors [00:32:00] to, to go through with it.
+
+Right. Okay. I talked with the, I did talk with the broker, um, well, I talked with the owner, the, the primary owner first and had a call with them, with the broker on the, on the call. Uh, and then I, I followed up and talked with the broker after that as well. Um, 'cause I was requesting a call to get a conversation with their second owner who's the, a minority shareholder.
+
+Um, and, um. Is also in charge of their technical operations of, of the environment. Right. And so that owner is, well I learned when I was talking with the broker, like he's on vacation, like head of the Switzerland. I was speaking with that broker on Thursday. We were trying to do something quick to maybe do a quick introductory type call with that owner that Friday, but it just didn't work out.
+
+And um, so when I asked that the broker during that call, it was like, well, you know, what does it look like from timing? You know, what considerations are you looking at? And that's when he started to talk about some prior offers that they had that didn't work out for whatever reason. [00:33:00] And it shed a little bit of insight into what.
+
+I deducted or deduced that the owner was kind of looking for, but he made, I don't have those notes in front of me exactly in front of me now, but it was generally like, um, you know, it was a, a really high seller note and it wasn't quite enough cash at close. And so the owner just didn't really go for that.
+
+Right. And he gave an indication of the seller note amount. Um, so I just know, I was like, well, maybe that's the ceiling and if I had a seller note that was less than that, but still in, you know, had a good cash, cash at close option for him, it might be a little more enticing. Um, those were the two, if I were looking at pain points that the seller was looking to solve for, it was cash at close and then being able to, um, and then a, um, you know, a reasonable seller note, whatever reasonable it gets to find as.
+
+Um, do you remember 
+
+**Athena:** how much the, the seller note was in the previous offer? 
+
+**Michael:** 2 million. That's what the own, that's what the broker said, so I figured, okay. It came in less than that. Right. Maybe a [00:34:00] million or whatever it would be. Right. Um, 
+
+**Athena:** got it. 
+
+**Michael:** And was 
+
+**Athena:** overall price important to them? Is it, is it they want cash now so they would take a lower purchase price, or is overall purchase price important to them, or, or is that a I don't, 
+
+**Michael:** I didn't ca it didn't, it wasn't said explicitly.
+
+Um, price always matters, right? I think, but um, but I think the, the takeaway was, at least in our situation with, with SBA or typical financing, the cash are closed, is typically coming from that, from that lender, not the seller node. Right. So it, I would say the cash are closed, probably needed to exceed 5 million is my estimate.
+
+**Athena:** Okay. So the reason why I ask is because, um, the weakness in this deal is also the potential strength from a structuring perspective for you. So first of all, um. There is a revenue decline year over year. Do you know the story [00:35:00] behind that? Because when we know the story, then we can see if it's something like, first of all, how do we present it?
+
+And second of all, um, what is you and as a new buyer, how do you overcome that? And third, it gives us an option, which is one of my favorite options in the whole world, which is a performance based forgivable seller note, or we're incentivizing them to get back to previous um, earnings. So first question is, do we, do we know the story behind the decline?
+
+And is it something that's potentially overcomeable by yourself as the new owner? 
+
+**Michael:** Yeah, the story is, uh, I think there were two competitive pressures. Um, one of 'em is probably already occurred, right? With um. The vertical. So, uh, this payment process or type of app, there's a lot of vertical integration with different software applications out there for businesses.
+
+Uh, that's one, but I think that's been in play for years now. Right. Um, so that's probably not, I think that's probably more. Old news, not to be completely dismissive of it, but it's not the [00:36:00] new driver of the news. Mm-hmm. Um, you can also see a rather steady, like a, over the last couple of years, two or three years actually, it sort of stabilizes out in their revenue.
+
+And the owners are just, they're not even trying to hide it. They're like, we're not even doing, we're, I'm working three hours a week. Like, we're not, we're they're not doing, there's no product feature ads. They're not marketing and they've got a, a, a little, a recurring marketing expense, but it's, I think it's less than it's, it is nominal.
+
+Right. And so they're just not putting any, it is worse to me where it's like we just need somebody to come in and inject energy into the business because they're doing other things. Um, this, even the CTO, the, the, the sec, the, um, minority shareholder is making a pretty good salary for not really doing anything.
+
+So, um, both of them are just kind of letting this. Writing this gravy train, I guess is the way to say it. So, okay. And I think that would be the story, right? [00:37:00] Would be having somebody like myself come in with the skills, the knowledge, the know how to inject the energy into the business, inject it into a marketing, right?
+
+Putting features and a roadmap back together for the product, getting that story out to the marketplace, and then increasing the revenue that way. 
+
+**Athena:** And this vertical integration situation, is that, uh, is that a reality that you won't be able to mitigate against? And, and I guess to, to put it in simple terms, is that, is that a decline that's gonna continue no matter what you do?
+
+I 
+
+**Michael:** don't, yeah. The, the answer to that question is, um, that's a, that's a great question, right? Part of the hard part to figure out. So the, the vertical integration pieces, if you have like, say QuickBooks today, QuickBooks probably has a, a way to invoice somebody right outta QuickBooks. So that's the functionality that occurs.
+
+So these, these companies are now putting a payment option inside their software. So if it's a CRM, [00:38:00] QuickBooks accounting, you name it, right? The markets, um, target market for this particular company, uh, 'cause they, they've always been a horizontal. Provider, right? You just buy this package, we'll facilitate the payment for you, allow you to do custom forms, custom invoicing, recurring payments that we'll send the, the link to the payment provider.
+
+That way there's a whole target market of freelancers, uh, independent contractors that aren't really big businesses. They're a trainer, um, a personal trainer that works at a gym and he sets up his own recurring client business, right? They may or may not choose to go into providing with their own CRM system or their other package, right?
+
+They just need to bill somebody and have that payment option. And that's really the market there, uh, for it. And so is there competitive pressure there? Yes. Is there still a market there? I believe there also is because. That [00:39:00] gig economy or that solopreneur or that really micro kind of business is always turning in and out.
+
+Right? It's kinda like college freshmen classes in your, if you have a rental property and a college campus, you don't really like listen renting to the college kids, but you know, there's another group coming in every single year. Right? Uh, so this gig economy is, is there, they either become bigger businesses and some of 'em could outgrow the package or they might go out of business because they, you know, couldn't make their business work.
+
+But there's usually another entrant into that market. Uh, I think that would be a consistent, um, a source for customer acquisition. 
+
+**Athena:** Okay. Um, so I have a follow up question, but Lisa just dropped something interest. What is a vibe coder? This is a phrase, I don't know. 
+
+**Michael:** Maybe a vibe coder. Yeah. Yeah. A vibe. No code.
+
+No code. Yeah. Yeah. 
+
+**Lisa:** Okay, Michael's got it. Yeah. So it's, it's people that are using AI to build apps, right? Yeah. So it's a new thing [00:40:00] where people who know no coding are writing their own apps, building their own companies. And so it'd be curious to see if it integrates Michael, um, because that would be a great potential opportunity for additional revenue, um, and additional customers if, uh, if there's an integration there.
+
+'cause like, yeah, like you said, there's a lot of solopreneurs, people that don't know anything about coding that are, you know, building something new. 
+
+**Michael:** That's their, um, this company's value proposition is about that. It's a way to low code, no code non-technical users that just need to integrate, uh, a one-time or recurring payment with their customer base.
+
+Right? And, and typically if they become a big business, they, they probably outgrow it, right? If, if you need more than just a payment application, you need CRM or accounting or any other business function, right? Um, and that's where [00:41:00] the vertical integration that's occurred over the last six years or so is probably, um, taking a lot of that market opportunity away.
+
+If I were the previous owners there, that might be kicking myself for not trying to partner with a vertically integrated provider to become the payment processor for their platform. And if I can identify one of those, you know, uh, that would be awesome too, right? But those are, that, that opportunity may not be as ripe today as it was say five years ago.
+
+Right? 
+
+**Athena:** So, um. I, I love the idea, Lisa. Thanks for bringing that up. I, I guess, Michael, the reason why I'm asking these questions is because mm-hmm. Like there's, there's a couple things that's gonna come up. One, we have to figure out an offer that is not only attractive to them, but mitigates your risk as the new owner, right?
+
+So it's, it's like, okay, I gotta make it super attractive to them, but also be super conservative. And, and when we see financials that were stronger in the [00:42:00] past than they are now, that unlocks a tool that you don't normally get, which is a forgivable performance based seller note. And we can do those, like for any business, we can put in a performance based note where they just need to perform the way that they did last year.
+
+You know, so like, if that's the highest number that it was. So it's like, as long as your numbers stay the same, but when we have higher numbers in the past, like when I'm seeing here in 2022 is significantly higher numbers, then their TTM. And that's a risk to you as a new owner that they, it's been declining, declining, declining.
+
+So they can explain it their way. But the true fact of the matter is, and they, they probably know this, that they're sitting on something that's gonna be hard to sell and hard to get financed by an individual buyer. Because, you know, lenders are not gonna be like, Hey, you should put in a forgivable note.
+
+They're gonna be like, I see a decline. I don't like it. You know, like, depending on who the lender is. But if we mitigate against the risk by putting in a sizable performance based note, um, [00:43:00] to say like, Hey, I'm actually gonna offer you more money than you were expecting, and it's gonna be on the basis of you achieving numbers that you did in 2022.
+
+And if you don't, that's all gonna be forgiven. So you make it even, and that's why I was asking you questions about what's important to them. Cash at close or overall purchase price. Because the cash at close, when you have a forgivable performance base note is gonna be lower. But the overall impact on them financially over time.
+
+If, if they do achieve that performance base note and earn interest on it and earn a significantly larger purchase price, it, it nets out a lot bigger. And you can see what that looks like in the, um, in the forecast assumptions tab on the no change. Best case, wor worst case. Yeah. If you scroll down and look at cash flow to seller.
+
+Mm-hmm. And this is for everybody to know this too. Um, you can actually see, and I recommend that you screenshot these in your [00:44:00] LOI actually, let me just pull up your, Michael, I have your, um, financial model up. Are you okay with me sharing it here?
+
+Sorry, you cut out. Is that okay for me to share here? Oh yeah, 
+
+**Michael:** that's fine. Sure. I didn't. 
+
+**Athena:** Cool. Um, let me share my screen. Why? Oh, here we go. Share screen. There we go. Okay, so just for example, and we don't have this built in yet, but we're on the no change tab. So you've got all this stuff up here, but when you scroll down to the bottom of this, you see cashflow to you investors if you have 'em.
+
+And this is super important cashflow to seller. So usually in our best case scenarios where we'll add the performance base note and then you can screenshot this guy here, this whole bit. And then they see overall what they make with all those interest payments and stuff like that. So in a, um. I'll go back to the financials tab so everybody can see what I'm looking at here.
+
+But we're seeing there was significantly higher financials in 22 [00:45:00] than there was TTM. So it's like I see that, I get excited because I'm like, well, I can offer 'em way more than they thought they were gonna get, but they only get that if they help me get the business back on track to where it was. And if they've only been spending a couple hours a week or whatever, would they be incentivized to help you, the new owner?
+
+When they're not having to be the owner, they're just helping you figure out, well, how do I get it back there? And if it doesn't happen, then you don't pay that money. You're just paying based on what actually happened. Because one of the most dangerous things we can do in business buying, Lisa will know this 'cause she heard me talk about this years and years ago.
+
+And the team all know this well, like we, we, we can fall in love with the idea of what we can do with the business. We fall in love with the potential. So I'm like, oh, I can do this and I can do this and I can do this, but you don't know if it's actually gonna work out. So we gotta buy the business based on how it's, it's actually performing right now.
+
+And, and unfortunately it's just not doing what it should be. You know? Or [00:46:00] it's, it's on a decline. So you're gonna have to go and take this in front of lenders and everybody else and explain the story and explain what you're gonna do. But all these people are gonna be like, but why wouldn't, why hasn't the current owner done that?
+
+If that's possible. So that's where that forgivable performance based note. Can help you mitigate that risk and make them much more comfortable with the risk of a business that's in the decline. Does that make sense? 
+
+**Michael:** Yeah, it makes perfect sense to me. I, I think my question on is this, well, 2022 is quite the peg, right?
+
+To go back to that amount. Yep. Right. And so, um, I don't, I can't speak for the owner. I probably, I can, maybe I can find out from the broker, but they're not investing any time in the business today. My guess is 'cause they don't own any debt on it. They bootstrapped it, it's making, it's throwing off a bunch of cash for 'em.
+
+And if they wrote it into the ground. Okay. Like, they're like, okay, I got plenty out of it. [00:47:00] Right. And so the, the question I would have is like, and maybe they would do this, maybe they wouldn't, but if they're not investing any time in the day, that's the only carrot. I've got to have them incent that to get, for that, for that behavior to change.
+
+Right. Uh, they're not doing it because they on their own or they would be right. They wouldn't have let it drag for three years. But I could, my question would be, well then, do I make the entire enterprise value purchase price off of that revenue number? Like, or how do I, where would I start with the purchase price on what?
+
+Multiple, 
+
+**Athena:** um, good stuff. So, um, first what I do is I structure a purchase price based on the most recent TTM. That's what, okay. Assuming. 
+
+**Federico:** Yeah. 
+
+**Athena:** Yeah. Assuming that. I like assuming nothing changed. Assuming I got no growth out of them, assuming that they gave me no performance based note. Um, and what am I comfortable at?
+
+Right? And [00:48:00] that's kinda your base assumption. So then when you're looking at the, the SBA loan amount, um, then, uh, you know, you kind of keep it the same when you start adding performance based notes. One thing to note here, um, in the spreadsheet, you need this number also, um, filled out unless like there's like what working capital for instance.
+
+So, um, if they're including like, first of all, where did this number come from? And then, and then I can go from there. 
+
+**Michael:** Well, I had to, um, I had to estimate it and I used, um. I took the average of all the operating expenses for the year, um, total of month by month. Took the average of that, and then used that as the, um, working capital in the LOI I've got a clause that says this'll be calculated during due diligence.
+
+Okay, so you didn't 
+
+**Athena:** actually put a real number to it. 
+
+**Michael:** Not in the LOI. 
+
+**Athena:** [00:49:00] Perfect. Okay. And there's a this, so what I would recommend if you, if 
+
+**Michael:** you, yeah, 
+
+**Athena:** I would recommend that you leave this blank then, because we always work off the assumption that networking capital is gonna be included. Where we start using this is if, you know, let's say the, the business requires half a million in working capital, but they're only agreeing to 222,000, then the spreadsheet is gonna calculate the difference and pull that out in the financials.
+
+Does that make sense? So if we know that the working capital requirement is higher than what they're willing to leave in, then you can put in numbers here for simplicity's sake. And your, your assumption is that you're gonna include networking capital. Then I would leave this all blank because you should be given enough working capital in this structure, but it's gonna affect your overall financials and projections.
+
+So, um, I'm gonna go ahead [00:50:00] and, um, you'll be able to see and track changes what I've done, but I'm gonna delete that for now, just to clean that up. Yep. Um, and then you've got them on full standby for 10 years. So I would leave this at one, otherwise it will also mess up your, um, this only goes to 10 years in terms of the, um, projections.
+
+**Michael:** So I'm gonna put the re what? One? Repayment. 
+
+**Athena:** Yeah, repayment for this. So your intention here is to say, I want you to contribute to the equity injection and you'll be on full standby for 10 years. So you're putting in 5%, is that correct? The seller? 
+
+**Federico:** Yes. Okay. 
+
+**Athena:** And then you have an additional seller note here.
+
+That's just a normal seller note. 10%. Yeah. 
+
+**Michael:** And that was one of the options. Yeah. 
+
+**Athena:** Okay, cool. Um, normally the bank doesn't love the seller to be paid back [00:51:00] before. Um, they are, so I typically leave this as standard at 10 years. And if they wanna be paid back sooner, you can offer a balloon, but that typically means that you're gonna have to refinance the whole thing in five years.
+
+So as standard, I leave this as 10. And then when you get into the financing discussions with the, the lenders after LOI, then they, you might be able to do some wiggle room here, but I always kind of go for like worst case scenario. Like, okay, if I were to get the degree to, um, being on standby for a year and taking 10% as a normal seller note, and then you have this like, negotiation point, if they come back and they're like, well, I don't wanna wait 10 years to get paid.
+
+And you're like, okay, I could do a balloon payment at five years. Um, and SBA will let you refinance if it's a pretty significant balloon payment amount. You can just refi the whole thing again. Oh, I got little Gamora. That's my little helper back here. She's helping with the financial modeling. [00:52:00] Sorry. Okay.
+
+Um, okay, so performance note, like this is, this is the real one that we wanna look at in the Forecast Assumptions tab. You're gonna wanna calculate, um, what the difference is. So like what, what amount of financial or what amount of revenue increase would get this number back to this number? And for now, let's just assume that it's a 15% revenue growth, right?
+
+And we put it in best case. 'cause this is where I'm gonna model in the performance based note and whether they get paid or not. So let's say 15%, um, revenue increase, let's see how far off I was actually to see what revenue looks like. 15%, uh, doesn't get us there. So it's gonna have to be significantly more like, you [00:53:00] know, maybe a 40%.
+
+It's gonna be pretty high to get it back to 3.3, I reckon. Let's see. 40% doesn't even get us there, but let's call it 40% for now. You need a 40% revenue growth increase from them. And then we come to deal structure. Um, for performance based notes, I like using prorata, which basically means the difference between a floor that you set, which is them achieving whatever they did last year and the ceiling, which is achieving what you want them to achieve.
+
+Um, uh, overall, getting the numbers back. That's what prorata means. So you'll pay them a portion of that depending on whether they hit the minimum. And then the target, target in the model means, uh, they, they either hit it or they don't. They either get paid or they don't. But you wanna, you wanna, you want it to be kind of [00:54:00] win-win, where if they help you get the revenue above what it was the year before, then they should have some sort of reward for that.
+
+So when we choose Prorata in here, the, um, spreadsheet's automatically gonna calculate that. What you can also do is spread those revenue growth targets over a couple years. So maybe instead of trying to get them to hit 40% in year one, we say 20% and 20%. So they get 20% growth in year one, 20% growth in year two, which then gets us to about 3.1 ish million, uh, in 2026.
+
+So we go back to deal structure. We set the minimum as 0%, which means they need to at least achieve what they did in their most recent year. And then we set the, the growth target at 20%. Oh.[00:55:00] 
+
+And then we do half the half of the note paid in year one and half of the note paid in year two based on hitting those targets. Now we gotta decide how much of that we want it to be of the, the purchase price. If we were to offer more. So let's say, um, we do a four multiple. What, what, what were they asking?
+
+They were asking like 7 million actually, weren't they? Yeah. 
+
+**Michael:** Um, they were 7 million at, um. 3.38 multiple, but a different, they had a different SDE value 
+
+**Athena:** than what? Oh, right, because you added your, your thingy in there. Okay. So what we need to do, 
+
+**Michael:** oh yeah. I was playing around with how to add a value to it so you can ignore that to the right.
+
+Yeah. 
+
+**Athena:** So let's see what a 20% [00:56:00] note looks like. If we were to take 20% of the overall purchase price, so then they would get about 4.5 cash at close. Seller debt would be in that 2.45 range, but they'd be getting the number that they wanted. We could reduce it to like 15% and then it's kind of more along the lines or even less so.
+
+Do you see how that works, Michael? We're basically just playing around with, if we were to pull this note out based on them achieving this target. And then we can look at what cash at close that they get. What my senior debt looks like. 
+
+**Federico:** Yeah. That. Um, 
+
+**Athena:** and that's on the seven multiple. And then if we go into best case scenario
+
+and we go down to the cash flow to seller, they get 4.9 at close, but they got 7.2 million over time with [00:57:00] interest. Let me see what we put on interest rate there actually. Yeah. So they're getting a 6% interest rate and then we will do typically eight years after that. So it's over the life of the loan again.
+
+So over the 10 years, 
+
+**Michael:** yeah, thanks for that. I was being super conservative on, on those. I wanted to max stress test the payments. Um, but if eight years is commonly accepted, then. Yeah, that's perfect. 
+
+**Athena:** Yeah, well, it's, it's over. It's like most lenders are gonna wanna see them get paid over the same time. They don't, they don't want the seller to get paid back before the lender does, so you need to typically amortize it over the same amount of time.
+
+Um, you'll see these seller note payments come out here. If we look at, you know, this same thing over here and we set this [00:58:00] at, um, 7 million as well, and let's assume, oops, sorry.
+
+No growth, no change. Then that note doesn't become due in here and you're still okay, right? Like you still see the cash flow to you, you still see the debt service coverage ratio if there was absolutely no change to the business and that part of the deal was forgiven. The, um, performance based note here, it's about a million dollars.
+
+If that's forgiven, you're still okay. So that's what we're looking for when we're putting in the performance based note is like, if absolutely nothing changes, what, what does it look like? Best case scenario, which is ideal. They help you increase the revenue. Um, what does that look like? You're still doing really well from debt service coverage ratio.
+
+You're doing even considerably better from a distributable cash flow. You'll wanna model [00:59:00] worst case as well, which obviously like some drop in revenue or if you like, look at the declining trend and, and trend it down the same way it's been trending over time and see what that looks like. But it gives you some more fun tools in the toolkit to play with, and also makes the lender feel a little bit bit more comfortable that if the business doesn't achieve that, you're not gonna have that debt strain on the business as opposed to just meeting them that there's 7 million.
+
+I know that was a whistle stop tour. We'll, we'll post the notes and everything for you, but is that, is that helpful as a starting point? 
+
+**Michael:** Uh, yeah, it is. And um, um, if you'll send that back to me, that'd be great. I can play absolutely with the number, just so I can look at the numbers you've done. Um, because I, I was, I was playing around with the performance note, but I was, uh, clearly struggling over, I mean, I, I get the mechanics of it, but I wasn't using it.
+
+I don't think I was using it quite the way it was intended, uh, or the way you were [01:00:00] explaining it. So that's very helpful. Um, but then I was also curious on, so you're saying that you, the value, you can go to the valuation, but then I'm just gonna make like their valuation, if they're, say if they're stuck on 7 million at whatever, 3.77 multiple, or whatever that was, uh, maybe it's 3.38.
+
+Um. Then I just have a higher forgivable seller note based off of a target peg of 2022 or 2023 revenue, whatever you choose. Right? 
+
+**Athena:** Yeah. And, um, something you can also do, um, 'cause you're, you pulled your salary out, so it's skewing the multiple because we don't Yeah, we don't do, uh, like it's, it's here for you to add it in kind of later.
+
+Another place for you to add that in, um, is in the forecast assumption. So if you wanted to start adding in a salary here, but, um Oh, okay. You wanna kind of value it based on, um, like what they're saying, their ste e numbers are when you pull out your salary, it lowers it, which [01:01:00] skews the, the multiple, if that makes sense.
+
+So when you, when you pull that out and then add it into a different place and, or, you know, what I'm always looking at, first thing I'm looking at is this. Free cash flow number. This is a number hitting your bank account after tax assumptions, after debt repayments, you know, everything that you put in these forecast assumptions so you can pull your salary out of that number.
+
+So if we put it back in, this number is even more favorable if nothing changes. Right? Um, so that's something to just kind of pay attention to. We give you the option to put it in here, but it will skew these, these multiple calculations because it's, it's calculating the STE for this multiple based off what this adjusted EBITDA is here.
+
+Makes sense? Yep. Cool. Good stuff. I'll send this back to you. Um, and then you can mess around [01:02:00] with, um, now that you understand the performance note. What I typically like to do in this scenario, because a performance note is something that. Hits people weird is you wanna, like, when you send over the offer, you'll want to show them what it actually means to them financially with the interest, right?
+
+With these payments overall, what that looks like. And you'll probably wanna have an offer in your back pocket of no performance. No. So modeling, like, if they don't go for this performance note idea, and the owners are like, Nope, I wanna be out, I don't wanna help at all. Um, then what does your offer look like?
+
+Where it, it still makes it worth your while? Um, so sometimes we'll, we'll recommend that you go forward with two options, like performance note option, here's a total amount that you'll make after 10 years with interest, no performance note option. Um, here's what you'll make after 10 years with just a standard seller note.
+
+**Michael:** Yeah. That, that part makes sense too. Um, I'll, I just wanna, I'll, um, [01:03:00] it's setting the peg on the performance note. I think I understand it better. You were, I'm just gonna go to the valuation and make it more forgiv. Yeah. I, I, I take it a different, I probably had done mental gymnastics, if I'm being honest, but anyway, I've taken a different approach to try to get there.
+
+Um, 
+
+**Athena:** yeah, no, it's all good. It's, it's, it's, you know, and everybody needs to come at numbers in a way that makes sense to them. So that's why we do these because I, I guarantee you, like listening in on it is helpful for everybody else too, and kind of seeing how these come together. Um, and, and, you know, I have a different flavor than the team does in terms of helping me with financials and stuff.
+
+So, um, it's good to, you can never hear it enough is what I'm saying. And it's one of those things that as you're doing this for the first time, it is, uh, highly complicated. Um, so feel free to like update the model, do it in a couple different scenarios. What's super helpful, and this is for everybody, if you do like a little video share in Slack.
+
+Of your model and just kind of talk us through what your [01:04:00] thinking was and then we can go in and, and make some updates or some suggestions, um Okay. Before you finalize it. Um, and then, uh, Gil, who's not here today, but um, he did a really great thing when he was including a performance note where he just put it in very basic numbers along with the offer of like, what's cash at close, what's overall cash that you'll make over the life of the loan with interest in both of these scenarios.
+
+Because they'll tell you what they do not understand. Most brokers don't even understand forgivable, forgivable performance based notes. Um, 'cause they're like, you can't do runout. It's like, it's not in or out, it's allowable. But most people don't use this tool, which is why I love it, but they don't necessarily understand it, but they do understand more money.
+
+**Michael:** Yeah. The point that good call out there, I, I think one of the things I had was, um, a question on that. It was mentioned earlier, maybe it was Justin, but, um, I'd gone with a 1%, 1%. Kind of a thought, but maybe a dollar for dollar is [01:05:00] a better way to put it. Um, like if it was 1% loss of revenue, 1% for forgiven off the performance note, but maybe it's dollar for dollar.
+
+Um, 
+
+**Athena:** I like, I like the model does it percentages wise for now because it allows you to kind of like toggle around what the per performance incentives are, at least to model it. Yeah. So you can kind of get an idea and then we can get into language and explanation later. But really what you're trying to get to is like, what's, what's realistically where I think this business can get to?
+
+Um, and then how much of the overall note would I want to account for that? Um. But it, it can get weird with dollar for dollar when you're dealing with percentages of revenue targets and stuff like that. So we'd have to, that's then break it down even more, so it might get your head spinning as opposed to just like 20% growth year one and year two, and that will get you, you know, 15% of this overall $7 million purchase.
+
+**Michael:** Yeah, I ran [01:06:00] a two, the reason I brought that up and I ran one model and it was like, all right, well one percentage of the revenue would be, I don't, I don't know, let's say $24,000, but one percentage of the performance note given up was only $6,000. I was like, well, that's fair, but, and so I was like, you know, a dollar for dollar.
+
+I was like, well what's the multiple, I'm paying for this extra revenue and is that tying out? And I went down a rabbit hole, um, to see if the dollar, you know, 'cause you're, every dollar paid is the multiple $3.38 for every dollar. Yeah. Right. So I was like, this doesn't seem to be tying out in my head, but, um, uh, I get it what you're saying on the, the way the calculator works makes sense.
+
+So. 
+
+**Athena:** Great. Okay, cool. Well, uh, sorry I kept y'all a little bit late, but I love financial modeling, so that was fun to talk through, Michael. Good luck. Um, have a play around with your offers and then send it through to us in the channel and we can have a, another glance through before you send it off to them.
+
+Um, my recommendation in the why, I'll, I'll be trying to push 
+
+**Michael:** it. Truth, truth. So thank you. 
+
+**Athena:** And, and my recommendation in the [01:07:00] LOI is try to explain it as simply as possible. Like using complicated words and stuff like that can be confusing. The LOI, the only part that is actually legally blind binding is the exclusivity and the confidentiality.
+
+So when you're doing the structure of what is my offer, you really wanna try to use plain language. 'cause remember you're dealing with on the other side, it's like, hey, if you, you know, get to this. Amount of revenue in the first year of my ownership and this amount of my revenue in the second year of ownership, I will pay you this amount of money.
+
+If it's somewhere in between, I will pay you whatever the net is in between or something like that. You know, like use simple. Don't try to go legalese on it. Try to explain it in a way that they would, they would comprehend it. 
+
+**Michael:** Yeah, that, that makes sense. Um, the way the template is written, they get kind of specific in the terms and the rate and then, and I was following that writing style for sure.
+
+Right? You do. But 
+
+**Athena:** like when you get into the performance note, the, the thing that the lawyers are gonna tell you, um, [01:08:00] and y'all can get a review with them when you get the, when you get the LOI template updated, if you want to have a first review with them, we'll have a look at it first too and give you some suggestions.
+
+We can't edit the words themselves 'cause we're not lawyers, but we can give you feedback like, Hey, you should think about maybe explaining this concept a little bit further or whatever. But what Barley Williams do is they're like, will your grandmother understand it? That's why I love them because they're like, they're very lawyery when they need to be lawyery and they're very like, just real when, when they need to be.
+
+And ultimately you just need to make sure the person on the receiving end of this document understands it. 
+
+**Michael:** Yeah. Thanks for that advice. 'cause that's, that's important. It was kinda sounding complicated when you read through it. So 
+
+**Athena:** all good. Alright, good stuff. Good to see everyone. Uh, and we will see you on oh, so Thursday.
+
+Um, I will be actually doing an Acquiring Minds episode if anybody wants to come along to my webinar. It's about building your personal searcher [01:09:00] brand. We do a lot of that for you all as clients, but it should be fun. Um, talk about, I'm gonna go into some brand psychology and stuff like that. Uh, and then Thursday afternoon we have Chris Barrett coming back from Midwest cpa.
+
+He's gonna be doing financial statements 1 0 1. Um, I really like Chris's no nonsense, like straightforward style, uh, on finances. So like, as we're finding out now, we can never get enough on financials and financial statements, so that should be a fun one on Thursday. So hope to see you all there. Have a great rest of your day.
+
+Um, and we'll see you soon. And, uh, anything y'all need, just post it in the channels and we'll get you sorted there too. Thanks, you. Bye.
+
