@@ -1,0 +1,676 @@
+# AcquiMatch Buyers Club 05/01/25
+
+[00:00:00] 
+
+
+
+**Athena:** Hello. Hello. Seeing some numbers ticking. Hi Gil. Who else have we got? Let's see. Steve's here. Amazing. Cool. Nice to see you. Steve. Polly is here too. How's it going? 
+
+Fantastic. Well, I'm super excited for this conversation. I'm, I'm sure more folks are gonna be dialing in and then we do have a lot of clients at work during the day, so everybody's kind of on the edge of their seat with what's happening in the, the SOP land.
+
+So this is a very timely conversation and you all will remember Valerie from Pioneer Capital. We're also joined today by Matthias, who is the founder. Um, they are phenomenal. SBA brokers have phenomenal backgrounds. Um, I'll let them do a quick introduction, but, um, they are really active and supportive of the ETA space [00:01:00] and kind of know the ins and outs and are constantly looking for the best, uh, lenders to help folks through the process, and are that buffer in between.
+
+Kind of you and the bank so they can help you get these, uh, deals over the line, um, instead of going to the banks individually. So Valerie did an amazing call a couple weeks ago, or maybe months ago now. My timeline is all wild. Um, and she walked us through the process, both on their end and SBA, um, process.
+
+And then we had a lot of questions and we ended up running out of time. So I was like, will you guys please come back and do an ask me anything? Uh, and then just so happened that the SOP uh, changes came out last week too, so I'm sure we'll spend a lot of time on that. But for all the folks that are joining in, um, I'm gonna be asking a lot of questions, but please, please, please put your hands up 'cause I, I just wanna keep the conversation going, but I want you all to feel like you're getting plenty of time to ask your questions also.
+
+So, if you have [00:02:00] questions as we're going through this. Please, uh, raise your hands. Um, but without further ado, Anka, if you wanna spotlight Valerie and Matthias for me. Um, thank you so much for being here and joining us today. If you don't mind, just give us a quick, uh, introduction and background on yourselves and Pioneer Capital and then I'll, I'll start firing some questions at you.
+
+**Matthias:** Yeah, for sure. Glad to start here. Uh, so, uh, Matthias Smith, founder and owner of Pioneer Capital Advisory. Thanks for having us here. Atheda, good to be with your group. So, pioneer Capital Advisor is a small business, SBA loan brokerage term specialize in helping business buyers go through the SBA financing process.
+
+And so the, the problem that we solve for business buyers is that the SBA industry, it's a $31 billion annual market of all these different banks in the space from Live Oak Bank to Huntington Bank, Wells Fargo, and, and many others. And so when you have a deal at our close to the LOI point, the question [00:03:00] becomes.
+
+Which banks are the right ones to pitch your deal to, and how do you get your deal there as quickly, as efficiently as possible, going from start to finish through the process with minimal friction. And so that's basically kind of where, where we come into the mix here. And so our team, I guess just to give a quick overview here, and we've, we've kind of shuffled some people around, so I'm not sure the last time Valerie may have joined, uh, what may have been shared, but it's, um, so it's myself, Valerie, who's on this call.
+
+So, um, Kev Moore, corporate strategy, sales and marketing, business development, going into conferences, things of that nature. Valerie is kind of the person, the trenches actually leading the team. And so she can oversees logistics, make sure the client experience goes well, um, cracks the whip on lenders that are moving slowly and basically does all of that.
+
+And then we have two, um, sales guys. One's in Brazil, the other's in, uh, Monterey, Mexico, [00:04:00] Raphael and Alan, between the two of them, they speak three languages. So if anyone here speaks Portuguese or Spanish, they can speak your language. And then we have, uh, Pablo, who's our director of underwriting. So he basically kept oversee credit quality control.
+
+And then under Pablo we have Fernanda and we also have Ramiro. And so basically we have some of the smartest people in the world within two hours of me and Valerie that work here. This guy here, Ramiro actually worked on, um, Argentina's Doge team, so helping to basically eliminate unnecessary fraud and abuse.
+
+But I'll stop there and I'll switch things to, to Valerie. So. 
+
+**Valerie:** Yeah. Thanks. Yeah, we, I, I feel so honored, um, and blessed to have just an amazing team that we work with, um, that are all just really go-getters and really wanting to help, you know, business buyers like you. You know, I. Find the right lender. [00:05:00] Um, so I've been with Matthias for almost six months now.
+
+Um, and prior to that I was, um, an SBA senior loan closer. So I handled more post-approval stuff and helping clients get from, you know, getting their loan approval, their commitment letter, um, all the way to the closing table. And that, that aspect was very, um, there's a lot of moving pieces because I'm dealing with, um, not only the borrower, um, but their attorney.
+
+Um, title companies, bank council, internal reviews, um, you name it. So it, it's, it's a lot of juggling and, and being able to understand what's needed and why it's needed. And so I love my role here at Pioneer because, you know, I love, um, working with the lenders to try to help find the best terms. Um, we know exactly, um, what these credit boxes look like so that when we present a deal to them, we're confident that [00:06:00] we can get you terms based off of those and, and can help negotiate those rates and everything with the right lender.
+
+Um, and then post-approval, like once you've gone through underwriting and stuff, um, you know, I have. Extensive knowledge in explaining, you know, what is an SB 1919 and how do you fill it out, and why do you need business insurances? And explaining all of that and getting you hooked up with the right people.
+
+Um, each bank is gonna have its own requirements and so I'm not necessarily an expect expert on what the specific bank wants, but I am, I have enough knowledge and understanding to help guide you through all of that. So, um, I love it. Like I said, I've been doing this for, um, 10 years now and, um, you know, I never pictured myself, um, being in SBA or SBA lending or anything like this, but I couldn't imagine myself doing anything else right now.
+
+So. 
+
+**Matthias:** She's being humble. She's been promoted like five times. So, and, and, and once [00:07:00] here. So 
+
+**Athena:** absolute rockstar team you're building over there, Matthias. So, um, the, we did have a, a quick overview last week of, you know, the main changes that have come through that affect buyers, but you all are closer to the lenders and, and I think something that's really interesting for people to bear in mind, like I heard this number at, um, SM Bash like a week ago.
+
+Like, there's 4,000 SBA lenders. Um, I don't know how you feel about that number, but like all of them interpret the SOP differently. And I know, I think you guys, last number I heard is something like 40 that you personally work with and vetted and that sort of thing. So there's, there's SOP guidelines and then there's like.
+
+Bank and how they look at lending and, and then how they interpret the SOP changes. So I'm curious, because I'm [00:08:00] sure you're in contact with all your folks, like what's their overall take on this and how are they handling it and how do you think it's gonna impact individual buyers that, you know, are, are writing their own equity checks and trying to do SBA loans?
+
+**Matthias:** Yeah, so as far as all the guideline changes go, so like in full transparency, I have not read through all the changes, starts to finish. The two biggest ones, candidly, that I think are gonna have the biggest impact on the market specifically pertain to the down payment requirements and the, the rollover seller equity too.
+
+So before the guideline changes that go into place due to first Athena, the SBA basically gave buyers three different ways that they could come up with a down payment. So one is cash from them and or investors. Collectively to get to the 10% down. The other route was a classic partial standby where you'd have a seller's note that for the first years after closing, [00:09:00] there would be no payments made on it.
+
+So interest could accrue and build up, but you couldn't make any payments. And then year three through year 10 payments could be made on a straight line amortizing schedule. And the third option is the full standby seller's note. But starting June 1st we go back to the 2023 guidelines that only allowed the 10% cash or the full standby.
+
+So I, I think there, it's gonna, basically, there's gonna be more equity raised needs taking place relative to before. And I think, um, buyers before that were able to kinda skate by with some of these super aggressive banks looking to really lean on the partial standby sellers Note that weren't, but like, I, I don't wanna rule people out here, but like weren't necessarily the strongest financially.
+
+It's gonna be harder for them to get deals done. So I think now there's gonna be more of a need than ever for capital partners to help invest in these deals. 
+
+**Athena:** I'm curious, [00:10:00] um, does it have, so I, I think I already answered my own question in my head, but that 10%, like if you were raising from friends and family, it couldn't be subordinated debt, it has to be equity, right?
+
+So from an investor that is, is not that an investor that knows that they're not necessarily guaranteed to get their money back. 
+
+**Matthias:** Yeah. Correct. Yeah. It has to be actual cash, yeah. Equity dollars and some subordinated that, so, so that's one of the big changes. The other one is on, um, so rollover seller equity.
+
+So just to kinda explain the concepts for anyone that's not familiar. So when, when you buy a business, you could either buy most of it or a piece of it, or you could buy all of it. And so in 2023, the SBA changed the guidelines where you could buy most of a business or part of it and the seller could retain ownership and kind of continue on in the business with you as the buyer.
+
+And [00:11:00] the new guidelines, they're making it where if you wanna do that, the seller has to basically be a signer on your SBA loan for two years. And so they have liability and recourse for the full loan amount that you're taking out. So if you're taking out a a million dollar SB a loan, or $2 million SB a loan, if things go bad and the business gets run to the ground, they're on the hook kind of right there with you.
+
+And so for good businesses where sellers are getting counsel from their attorneys and advisors, they're not gonna be inclined to wanna do that just because it's too much risk for them unless they're really kind of there in the trenches operating for that period of time. 
+
+**Athena:** That one's really interesting because I feel like it almost puts, you know, the, the whole point of this program is to help individuals be competitive and be able to obtain wealth.
+
+And if you're not a license holder, this is the thing that I wanted to talk to you guys about. 'cause I've been, I've been finding [00:12:00] it hard to figure out is it an S-B-A-S-O-P guideline that somebody has to have ownership and the, the license holder? Or is that thing that the lenders have, have started making as a requirement that they want the outgoing owner if they are the license holder to have ownership?
+
+Can you guys speak to? Did, hopefully I explained myself well, but it is just like, yeah, if, if you're not a holder, you wanna buy a business owner's willing to stay on while you find a transition. But if, if the lenders or SBA, I'm not sure which one is making this a requirement for them to retain ownership.
+
+Now we have this, you know, fully exposed situation for two years. So, um, 
+
+**Matthias:** yeah. Val, do you all feel that one? 
+
+**Valerie:** That, that, that is a hard question and I might have to do a little bit more research to get back on, get, get back with you guys on that. Because what I'm seeing is the lenders just wanna [00:13:00] make sure there's someone qualified that can, you know, like hold that license.
+
+What? And whether it's a requirement that it has, they have to have ownership in it. Um, I'm trying to think through one of the deals that I have right now where he's purchasing, purchasing, um, an HVAC company and it's in Texas and Florida, and he is got two employees, which I think he's just having them sign like an employee contract.
+
+Yeah. They don't need ownership in the actual company and the bank is okay financing that. So, um, but I don't know, I, I don't know. Mathias, like if you, do you have, do you know if there are some that, some lenders that want them to have ownership? 
+
+**Matthias:** I wanna say the, candidly, I think it's a bank specific lender preference, like.
+
+I don't think there's, 'cause some of these states you can qualify a license with someone else. I mean, you can essentially rent someone's license. I, I think the way the bank have looks at it is like after the deal or like after the business sells and the seller is basically on the picture, is they don't [00:14:00] want the seller to have undue control over the buyer.
+
+Especially because you have dynamics like the seller's note and things like that. And like, let's just say, God forbid the seller forgets to re-up their license or pay renewal fee or whatnot is, or, or like they die. Like I, I was just talking with a guy actually looking at buying a, a home service company in New York and he is trying to solve for this now.
+
+And he is like, what if the seller dies? He's in his late sixties. And so I, I think that's part of the reason the banks kinda have this prerogative. But I, I wanna say it's a bank lender thing, not an SBA thing. But I, I'd have to check the current guidelines to say for sure. 
+
+**Athena:** Yeah, I, um, I, I was reading and interpreting, as Valerie pointed out, if there's two employees with licenses, and it's like, well, if one leaves, there's still one in the business.
+
+Yeah. Obviously there's state and local regulations, but like in Florida where you can do a a, like you can legally, you know, rent a [00:15:00] license from someone. Yeah. Um. What I was trying to tease out, and you guys have been in, in the SBA land longer, but it seemed like when they changed the regulations in 23 and removed the pg that opened it up to the bank to ask for rollover equity to protect themselves where they no seller is gonna, you know, I mean I would be very surprised if, if many sellers, unless it's like a family member or something, would do a PG for two years, unlimited for somebody.
+
+Um, so that, that's the big one. 'cause a lot of our folks here are looking at businesses where the owner's license holder, they're willing to hold the license. So what, how do you think we can think about solving for that? 
+
+**Matthias:** Yeah, so what I've been selling people to do recently, and this is like again, challenging 'cause you get into the whole chicken, the egg and these emanated deals as you know, Athena where the seller typically wants to wait until further along the process to mentioned that the sales taking place, their [00:16:00] employees.
+
+Sometimes you might have a key employee in the business, like one or two people, if you're lucky, other than the seller. That could be the qualifier of the license. And so the conversations I've been having with people recently is to ask the sell side broker, is there someone else in the business that's not the seller that could be the qualifier where you could bring that person in and give them a minority piece of equity?
+
+Because essentially then you weave them into the ownership team and you kind of bring them from the sa quo of being employed to being an owner with you. So that like, you know, the number one, one of the biggest concerns going into any deal candidly is that one of the key people leaves and you have to replace 'em.
+
+Like have a former client that bought it was the Auto Collision Facilities Center in Maryland. And after the closing, you know it's got the rough and simple trying to like keep the team, try to keep the team cohesion and keep people at bay. And if, you know, if you have, [00:17:00] sometimes what happens with these deals is there might be a GM that maybe wanted to buy the business, they didn't know it was for sale, and so they can feel like they just got pushed out to the side.
+
+And so if you can take that person, basically solve for the issue of the licensing and motivate them to kind of be aligned with the team, I think that's something worth looking into. So, 
+
+**Athena:** and then, uh, so in that situation, if it's like a, are, are you saying give them like a small percentage of ownership to get them bought in and then Yeah.
+
+If they do that, are they also a co-signer? Do they have to pg? What does that look like? Not not co-signer. 
+
+**Matthias:** P yeah, not co-signer, pg. It just makes the bank happy to qualify the license. And, and you could even have an agreement with them that basically stipulates, you know, if they leave the company, you could buy out their equity for whatever.
+
+Free to find multiple of like earnings or sales or whatever. But that way you could solve for the [00:18:00] whole licensing hoopla. So I mean, in three years from now, we could be back in the same Zoom meeting and maybe they changed the guidelines back. I wouldn't roll that out. It might be four years, but who knows?
+
+Yeah. 
+
+**Valerie:** But, but you know, I, I think it is a fair question and, and honestly it's just one that has just so much, um, there's so much movement around it, and I actually now am care, like I wrote a note. I, I think I'm gonna reach out to several of our lenders and just kind of get a poll, like do a poll of like, Hey, what, what, what are you guys thinking here?
+
+And like, just for guide guidance there. And I will be happy to share that, you know, um, knowledge with you as soon as I get it. But again, it's such like a moving target with every lender that we work with. So. 
+
+**Athena:** Yeah, it's, it's an interesting one 'cause I like the way I'm interpreting it is just like, it's a disadvantage to the buyer when I, when these things are supposed, but at the same time, it's like, well, you don't want the seller to walk right.
+
+And leave the business unable to function. I get that. But yeah, it probably was a better way to solve for this [00:19:00] than, than that. Um, you know, I, yeah. 
+
+**Matthias:** When, when we go this conference, um, in two weeks from now, if I see this SBA lady, I might have some questions of my own to ask her. So 
+
+**Valerie:** Matt Matthias wants to invite her out to dinner.
+
+So Kelly, he's like, can I, I should probably 
+
+**Matthias:** let Val do this talking 'cause I don't wanna say anything that could get Yes. Ban. 
+
+**Athena:** Well, you know, it's like we're we're trying to help individuals use the loan, right? Yeah. Or use the program. Yeah. And use it in the right way and do the right things to, to become business owners.
+
+So it's frustrating when you just feel like there, there opportunity to do that as clipped. And it was, it was. You know, because of people that didn't use the program correctly, you know, and it, so I understand why they're looking at the SOP guidelines. Again, my understanding is the $400 million deficit, right?
+
+Like shouldn't have gotten there. Um, but one 
+
+**Matthias:** thing that I [00:20:00] mentioned here, and this actually just came up today, I don't know if you may have seen this, is they are doubling the limit for small manufacturers from five to 10. And so I'm gonna read into this later because there might be some opportunity there.
+
+I, I know not too many searcher buyers historically bought manufacturing companies, but you know, if you can get a $10 million SBA facility, that could be very attractive to some people. Val might for sure, Val might go and buy a business right after this call. 
+
+**Valerie:** Um, so yeah, and you know, honestly the lenders I've talked to like.
+
+Like I, I haven't really heard too much pushback really about the changes. You know, a lot of 'em are looking at like, okay, well this is gonna just bring in a different buyer profile. Mm-hmm. And, and so that's what I'm seeing, you know, like Mathias mentioned, you know, it's gonna have to, um, maybe more equity raises or people with higher post-loss or, you know, [00:21:00] current liquidity and then additional post-close liquidity.
+
+So, you know, I, I think it's just gonna change the landscape of the buyer. And you're right, the, the reason why this came about is, um, too many of those loans just went bad because they weren't secured properly. You know, there, there just wasn't enough, I think oversight there, you know, whether you feel one way or the other, like it's just, I think that's why they're bringing it back.
+
+So. Yeah. 
+
+**Athena:** Um, so just on that, uh, could you speak to your understanding of, of the post close liquidity and what people need to bear in mind when they're looking at their own situation and evaluating what their purchasing power is or whether they maybe need a equity check from somebody? 
+
+**Matthias:** Well, do you want me to fill that one?
+
+Or, or do you want sock? 
+
+**Valerie:** Well, I can give, give my thoughts on it just based off of the lenders that we work with it. And then you can fill, um, fill the needs. So, you know, a lot of le again, this is lender specific. There's not any, it's not like an SBA [00:22:00] hard, hard rule. I have some lenders that are like, well, we don't really look at post-close liquidity.
+
+You know, we don't care. I have some that have a very hard, they want five to 7% of, um, the loan amount in someone's, um, you know, personal liquidity, you know, after the closing, after they've given their equity. I have some that want 10% of the loan amount. Um, I have some that just want two to three months worth of the, um, you know, payment of like the loan payment.
+
+So there's definitely a vari, uh, like a wide variety of like what's required. And actually we, we have a questionnaire that we sent out to all of our lenders that we work with. So we know, like I said, we know their credit box, we know what they want. And so when we're looking at your deal and we, we can look at, okay, if they're gonna put this much into equity, that's gonna leave them with this amount and we're talking, we, we don't want you, we're not counting your 401k stuff, we're counting stocks and bonds, checking, checking and savings [00:23:00] account.
+
+We're not even equity in homes. Those are the things. Checking account savings account and stocks and bonds. Um, because then based off of what's left there, we know like, okay, they've got the cash leftover or we have to go to like, maybe a lender that's a little looser on that, like they don't need. So that's where we're gonna choose like what lender you should be presented to.
+
+Because some of 'em, I had some that I'm like, it looks like a really great deal. And all the, the debt service coverage ratios are great, but the lenders turn it down because they just don't have the liquidity. So. 
+
+**Athena:** Right. But the, the, the SOP or how SBA views liquidity, is there any like rules on that? Or is it completely open to the lender?
+
+**Valerie:** I think that's a lender specific thing. Um, Mathias, do you agree? I don't, in, in my time, I don't remember it being a specific 
+
+**Matthias:** s Yeah, that's okay. It's de it's definitely a great question. It's definitely a lender [00:24:00] specific thing. I would say generally, so like. The last two years, 23 and 24. Many of the banks I work with have been very, um, flexible on postal liquidity.
+
+I'd say now, especially with some of like the macroeconomic headwinds, you know, the tariffs and like this and that. There's more of a push just from like feedback. We've gone from banks on various deals to see the post close liquidity. I've seen it looked at different ways. So some banks look just strictly at how much cash the buyer ultimately has in their personal bank account after the down payment.
+
+Some of them look at it amongst the buyer group collectively. And so if you have like multiple signers in the loan, you know, say me value athe, they're all buying the loan. They might look at between the three of us, we have 10% and like that checks the box. Then sometimes they'll look at like the buyer plus the working capital and the business.
+
+That the seller's leaving plus the working capital from the [00:25:00] loan. It's all across the board. And like on the extreme opposite side of the spectrum, Val and I were at the UP Penn Board in ETA conference two weeks ago, and one of the lenders that we worked with, Bruce Marks at First Bank, bank of the Lake was like, I don't care about post calls liquidity.
+
+So that's like over here. And then like Live Oaks, like over here, and then there's banks spread, spread across. Right. 
+
+**Valerie:** And, and the reason why is, is they talked about this a lot, even at the conference. Um, you know that, that, I think even Bruce said it, like the J curve is like real. And so you're gonna have dips, like when, when you buy your business, that's gonna happen.
+
+Whether you can plan it out and forecast it, it's. They've said, they've always seen it happen. And so they wanna make sure that you have enough reserves so that you're can still put food on your table, pay your rent, and also make the payment to the bank for, for that dip, you know, like that there's enough there.
+
+They wanna set you up for success. It's not to [00:26:00] be like hard, you know, jerks. They're just trying to make sure you're successful as you go through those, you know, 
+
+**Athena:** dips. So it makes sense. Um, I see Steve has his hands up, so in just a sec, I wanted to just pull out something you said Mathas, the working capital left by the seller.
+
+Can that make Yeah, like so we, we always go for that first, you know, networking capital being included, like business wouldn't get to the point it was at if there was not working capital. So that sounds like it can, it can be an enhancement, like if, if the equity injection is like tight on your end, it's like, you know, that might.
+
+Be as much as I have, but I've got them to leave Networking capital. And that was validated by a QV. That sounds like that might ease the post-close liquidity a little bit with some lenders, 
+
+**Matthias:** uh, a hundred percent Athena. So if, yeah, if the seller's leaving cash and newer accounts receivable in the, in the business, [00:27:00] that's basically liquidity that the bank can point to and say, you know, looking at this, you have this number of months of cash burn, payroll expenses, marketing wages, whatever.
+
+And that, that a hundred percent helps the, the bankers sleep better at night and wake up, refresh in the morning before. Credit committee when they're hopefully gonna approve your loan, so, right. 
+
+**Athena:** Okay, cool. That's good. So I'm, I'm always, you know, and, and we both do this for clients, right? It's like, how do we problem solve for them, especially in, in these sorts of, so I'm always like, what kind of tools can we put in the finance toolkit?
+
+And so even now, more of a reason to kind of negotiate that working capital, whereas brokers were kind of tight on it before they're starting to come around to it as, as you know, pe ways of doing things come smaller and smaller. They're getting, uh, you know, educated on it. I was at the Texas Association of Business Brokers event last [00:28:00] year.
+
+It was like all the Texas brokers and there was the working capital education section and like brokers that have been doing this for 20, 30 years, like, it was like they finally got the concept of it was, it was wild. Right. But, um, Steve, I see you have a question for, uh, the group here. What's your question?
+
+**Steve:** Audio. Oh, all right. So thanks for joining us. Um, I just had a thought when you were mentioning, I think, Valerie, you were mentioning about, you know, the, some of the purpose behind, um, those reserves would be around, you know, making sure that you've got, you know, the ability to support yourself while you go through the J curve Question is, there's several of us, uh, part of the group that also have W2, um, you know, income.
+
+So do they count that towards that? Is that a positive? Is it a negative? How do they view 
+
+**Matthias:** that? Yeah, so I, I would [00:29:00] say there's, see if you're planning to keep your job, um, post acquisition and like generally speaking, most of these banks, they wanna see that the person that's a buyer is gonna be the, the same person operating it.
+
+But e every once step blue moon, I've gotten deals done where I. The, the business being acquired is in the same market as the, the buyer, and they're able to bring in a GM and keep their job. So for example, there's the guy that I worked with before who's on the acquired Mines podcast, and he is in my Google review.
+
+So this public information, um, his name's Matthew Kin. So he bought towing company and the rally drove North Carolina market, and he was able to keep his W2. And so in that circumstance, Steve, your W2 income would get factored into the global cash flow. So it'd be an enhancer from an underwriting standpoint, and it would definitely be of value from like, how the bank would look at working capital.
+
+But most times, candidly, that's not the case where the person that's buying [00:30:00] the company is keeping their job many times. They're kind of, they're buying the business to, to, to run the business instead of the job. Hence the, the fire your boss signed behind me with the, the billboard so 
+
+**Athena:** well to, so 
+
+**Matthias:** curve ball.
+
+**Athena:** Yeah. So with with Steve's situation, uh, poll's also on this call. They're doing this together. So my understanding of this, like Peter is on the call. Yeah. She's here. So when a, a couple is doing a, a acquisition together, um, poll will be the operator of the business. Steve will keep his W2. Does that change your answer at all?
+
+**Matthias:** Yeah, yeah, completely. If, uh, Steve, if you're keeping your W2 and if, if Paul is running, running the business, that that would change the answer. So in that circumstance, it would, it would help from how the bank would look at working capital. Now, from your standpoint, like when you're underwriting the deal and deciding how much working capital to [00:31:00] ask the seller for, I wouldn't ask for less.
+
+Simply because you're keeping the W2 because you wanna look at it as like, if you did want to, you know, if, if you were to be the operator or could have cooperate alongside Paul. You wouldn't wanna discount your ask simply for that reason. If, if that helps 
+
+**Athena:** that answer your question, Steve. Good question.
+
+Yeah. And, and that is something for folks that have, you know, a partner that has in income coming in. Um, you know, I think that that is a more. Favorable situation in some regards, but like even more of a reason now to, to argue for that working capital to be kept, kept in the deals. So this is a bit of a pivot, but it's an interesting one that's come up and I was curious your, your take or maybe explanation on it.
+
+Um, I, we, we don't look at a lot of franchises, but we have one or two clients that are open to them. [00:32:00] So this point on franchises and this, this franchise directory and what this new thing means, like, are, are you guys able to elaborate on how the SBA looks at franchises and, and these changes, like how that impacts franchises and what that all means?
+
+**Matthias:** Put this one to ve Yeah, so 
+
+**Valerie:** that's like a compliance question. Yeah. I dealt the, dealt with this a lot in the, um, you know, on closing loans back when I was a closer. So, um, the, the, the SBAs created the SBA franchise directory and it actually went away, I don't know, two years ago when they're like, Hey, you don't have to look up loans.
+
+And a lot of banks were like, how we have to kind of determine whether this franchise is eligible. So I'm kind of glad they're bringing it back. Um, and so this, um, franchise directory has literally like thousands of, you know, franchises and, um, you know, you, you can just Google SBA [00:33:00] franchise directory. I think it'll probably be back up June 1st or whatever.
+
+And so it's gonna say whether they have, you know, the SBA has approved the franchise or not. Um, and if they haven't, you know, like then there's steps to go through and get it approved. Like you have to email a certain, um. Uh, certain person at the SBA A there's probably a, a generalized email address. Um, and then you have to, like, they'll, they'll have to provide the franchise disclosure tore, uh, agreement.
+
+They'll, they'll have to, you know, provide probably certain stuff that the franchise or will have that will get, you know, validated by the SBA. But basically what it, it does, um, there, there's also an addendum that goes with that. Um, that's saying that they're SBA eligible and, and. So it's adds like a little extra step, but not really.
+
+It's more for the lender to know that it's validated by the SBA. You'll have a, a document that has to [00:34:00] be signed by the franchisor and the franchisee, that's the 24 62 or if there's a negotiated addendum. And I would, it's been a few years since I've actually looked at it since we haven't had to do it.
+
+So I'd have to pull it up and see what it actually says again on it. Um, you could probably Google SBA a 24 62 and pull it up and see what it is. Um, but it's, you know, yeah, there's some color around it. Um, I think bringing it back is, is shouldn't cause any kind of, you know, um, worry or anything. Like I said, a lot of these franchises, if it's established, it's gonna be on there.
+
+And if it's not on there, then you just go through the process. It does add time onto your loan. So I would add another. If it's not in the directory already, probably add 30 to 60 days, um, to, to it, to get it added. Um, but I don't, I don't anticipate it being like a, a big concern 'cause we did it before. So.
+
+So [00:35:00] 
+
+**Athena:** just to put it in like, um, simple terms, so I, I can also wrap my head around it. The purpose of the directory was that the SBA reviewed the franchise like agreement and they felt like it was a legitimate, like was it, was it to weed out like the Sharky predatory franchises or was it to just like, um, it was 
+
+**Matthias:** part of, it's like, so these franchises, they have like different stipulations around how you can operate the business and things of that nature.
+
+And the SBAs whole thing is like. They want the success or failure of the business to hinge on the, the borrower, not like other factors or variables. Because if like, you know, let's say the Titanic is sinking and you're pointing to, you know, Val is really driving the Titanic, not me. They, they don't want there to be like finger pointing [00:36:00] where it's like, hey, the franchisor had undue control over how this business was run.
+
+And so to your, to your question slash comment, I, I think part of it is exactly that, is they don't want, like, they don't want franchises where they, they really kept hold the strings from an operation standpoint and they're kind of telling you what you can do. And so the idea I think conceptually is like the SBAs legal counsel has done some vetting of these franchises to make sure things are kosher.
+
+Like it's fair, they're just getting a percent profits and kinda giving you best practices and. Franchise stuff, and they're not really the puppet master behind the scenes running the business. 
+
+**Athena:** Okay. So that's helpful. So if you're looking at a franchise deal now, and they're not in the directory, which, um, if I haven't already, we'll drop the directory in the Slack channel for everybody.
+
+I have the 20 23 1, but, so if it's not in the directory, [00:37:00] then the buyer will need to go through the process of, or sorry, the seller will need to go through the process of getting listed in the directory before the sale can complete. Is that correct? 
+
+**Matthias:** Mm-hmm. Yeah. And typically the way I can remember it working is the franchisor, like whoever their kind of legal contact is, typically they have someone, unless it's like a, a, a super small operation for a, for a franchise standpoint, that person would be the one that would reach out to SBA.
+
+It's like, here's their agreement and then they kind of like ping pong back and forth. And the SB is like. We're fine with this, but now this and that, and then they get to a place where it's like they sign off. And so there's just a standard addendum that needs to get signed. But sometimes Athena like the, the franchisor and the SBA can't come to terms with.
+
+The normal provisions, and then that's where they have the negotiated addendum and that's, I think it's like 2, 4, 6 4 or [00:38:00] something or what, whatever the number is. It's all four digit numbers, but that, that's, that's where they can have the, the compromise, so the, like the 
+
+**Valerie:** negotiated one and, and the Yeah.
+
+Where would would have a copy of that and so they would provide it. Yeah. I dropped in the, the meeting chat, the, the 2023 directory. And then also what the 24 62 looks like, just so you guys can see, um, you know, if, you know, if the franchise, and it would, it identifies on the directory whether there's a negotiated one or whether you would use the, the current, the addendum 24 62.
+
+Interesting. And those numbers are gonna change or not like, or if the forms are gonna change, um, when they reins, like when they bring back the directory. But, um, yeah, it's more so again, if it's not on there, then it's just going through the process of getting it added to the directory. Um, I'd have to look up like what that email address is or, you know, the process to get it added.
+
+[00:39:00] But, you know, again, it would be the franchisor negotiating that with the SBA and getting them added to it. And it's, it's protections again, you know, just making sure there's the, the control is in the right place. Right. Um, so, 
+
+**Athena:** um, if, if anyone has any questions, and it doesn't need to be about SOP, it can be about just SBA or your particular deal.
+
+I mean, we've got two of the best minds in, in this world here today. But, um, in terms of the, so I'm just thinking like if they're putting this, this directory back in place, there's gonna be like a stampede of, of people trying to get their, their franchise listed in this directory. So it might even be a temporary bottleneck in longer amount of time.
+
+'cause I can't, I can't imagine they've staffed up the franchisor part of the SBA department to handle this or so, like, probably not 30 to 
+
+**Anke:** 60 days, like. 
+
+**Valerie:** Normal time, or, but you, you, I, that's [00:40:00] normal time. Um, but you know that, that directory, if you download it, it's 200 pages long. So there's a lot of franchises already in the directory.
+
+You know, they're not gonna reinvent the wheel, they're gonna just open it back up and they update it like every, I think two weeks or something like that. Okay. You're constantly updating it and it'll have the latest dates. So someone just because you have a franchise and it's not like it could be already in process.
+
+Right. So, you know, um, it doesn't hurt again to follow those channels. But how, who knows? I honestly, I can't have, I don't have any idea about like, government timings on, on that stuff. It's just, I just picture a long time. 
+
+**Matthias:** Right. My 2 cents. Candidly, Athena is like, if something's not, I mean, I'm just looking at this right now, the franchise registry of directory.
+
+If something's not on here now, like just think about [00:41:00] the, all the cutting and spending going on currently in the government and like, it, it, it's chaos, right? Like yeah, if something's not on there now, I would assume it's not gonna get on there quickly. And so I would just, if I was buying a franchise, I would just do control, fine.
+
+See if it's on here and if it's not, I'd just punt it. So that'd be, that's my, that's my advice. 
+
+**Athena:** Yeah. We have one or two that are looking at franchises right now, and they weren't on the directory when I checked, so. Um, so, um, what is your overall, I mean, obviously people are like worried about the program.
+
+Is it going away? Like, what's your feelings on, on the program? Is it here to stay? Any, any concerns like market changes or landscape changes as it, you know, regarding SBA loans? 
+
+**Matthias:** You wanna go first, Phil? 
+
+**Valerie:** Yeah, sure. I, my, my thought is this is not going anywhere. [00:42:00] This, this program, um, was. Enact to help small businesses.
+
+I think it would hurt our economy. I think it would hurt small business owners if this went away. I think them adding back in the fees and stuff is to help make this program sustainable on its own, you know, currently right now with it, um, you know, having to dip into subsidies and that kinda stuff to like cover guarantee fees.
+
+I think once they can recoup that stuff, this, this program's not going anywhere in, in my opinion. I just, I can't see it, you know, I'm betting my career on it, so I That's, 
+
+**Matthias:** that's a bold move. 
+
+**Valerie:** I know, right? I'm trusting the government here. Um, that's just, I, that's my feel for it, you know? I think there would be a lot of uproar.
+
+Maybe Matthias has a different point of view or thought on it, but, um, I. That's my take on it. Maybe I'm too trusting. 
+
+**Matthias:** Yeah, I, I second that. Like, I don't think the [00:43:00] program's going anywhere. I think they're trying to raise the, um, the credit quality of the buyer. Now, candidly speaking, I think given the fact the last changes were only implemented it's two years ago, unless there's data that I haven't seen or that's not being shared, I'm surprised that they kept, took the stance they did on the whole rollover seller equity kept going back and pivoting to there.
+
+But I think the programs here to stay. They just wanna make sure that the people that are the buyers, you know, one are set up for success, they're well capitalized if they don't have the down payment funds, they're getting the equity injection and that there's an elevated standard from what's actually getting approved.
+
+**Athena:** Yeah. Um. So changing tack a little bit, and again, if, if anyone has any questions, feel free to throw your hands up. But, um, you know, we heard a lot of, a lot of stories from Valerie, but Matthias, I'd love to hear, and [00:44:00] actually both of you, right? Like, what is getting deals done these days? I mean, even in the last year, the landscape has changed so much with the popularity of this and, and so many people coming to business buying, I, I use the analogy, I'm like, this is the world's largest poker tournament and like anyone can enter, you know, and it's like you got all different kinds of skill levels and you gotta play through to try to get it at the final table.
+
+And you've got investors, private equity, strategics, like previous business owners and buyers coming down, down, down. And then you've got a whole bunch of buyers that heard about this coming, you know, because they heard about it on, on the internet. So, um. What's your feelings on, like, what does it take to get a deal done these days?
+
+And if, if you have any stories of like, you know, I, I I, how we hear this story, like, a deal dies a thousand times, right? So like what does it take to get a deal over the line from the buyer? Like, [00:45:00] what do you need to expect when you're going into this process and who's getting it done? 
+
+**Matthias:** So, I would like answering the question from once a deal's under LOI, I would say like patience, um, being very communicative with all parties involved from the bank to the attorney, the QE provider investors, if you have investors in the deal.
+
+And really being able to have quarterback, the, the communications with the whole team and being ready for the unexpected because you never know what that's gonna be. I mean, I, I had a deal two years ago where the seller basically. Decide to ask for a higher valuation from the buyer after the deal is approved and like before the purchase agreement was gonna get signed.
+
+So like you'll get curve balls thrown at you constantly. And I would just say like the biggest thing is just trying to stay level headed to the, to the degree possible and trying to roll with [00:46:00] the punches. But like, pre LOI, I'd say the biggest thing is like knowing what your priorities are. So is it that you have to have a good valuation of the deal?
+
+Like some people, for example, they won't pay more than four times. And it's like the, the deal is not four X or below, they're just not gonna do it. Other people, it's like they have to have the seller's note. There can't be add-backs. And I, I'd say just know what your must haves are and kept taking that step further.
+
+Like Sam Ti who's one of the, the S or the S and bootcamp, um, s and bash people, which you're just sad. I miss it 'cause my wife's birthday fell that day. He has this thing called the, the big three little two, where it's like you have industry, geography and earning size, and if you pick all three of them, you're never gonna find a business.
+
+And so what I tell people is, you know, pick two of them. And if earnings and geography are super important, be agnostic on [00:47:00] industry or, or vice versa. But. Val, what are, what are your thoughts? 
+
+**Valerie:** Yeah, I agree. Definitely communication is key and, and building a relationship with the seller to like get, explain the process with them and, you know, we, we would be helpful in guiding you, like, this is what you're gonna expect and that you're gonna be in underwriting for this amount of time.
+
+And hey, these are the things that are gonna be needed for from you in closing. You know, um, we, we have one guy that we're working with right now, and he's, he's. Anxiously awaiting his commitment letter. 'cause he is gone through full underwriting and I'm getting blown up with text messages and calls. Like, do you know yet?
+
+Do you know? And, and we're like, Hey, yeah, what? It's all good. You know, like, but he's getting pushback from like the seller's broker, you know, like, Hey, I, I'm losing faith in you. And, but this guy, we've gone through a journey with him and I swear we've looked at like four different deals with them and one he had assigned [00:48:00] LOI and then they changed it on him and said they wanted to move from an asset to a stock purchase.
+
+And he's like, no, I don't wanna do a stock purchase. And you know, like, so it's de definitely been like a journey. And I think you have to like. Until you're, you're married. Like I, I like to, I still like to use the analogy. I know it's stupid and cheesy, but, um, you know, like you get that term sheet and it's like that proposal and then, you know, well, you have like the signed LOI and then you've got the term sheet where you're like being proposed to from the bank.
+
+And then it's not until you get, you know, that signed commitment letter that you're actually like married to the bank. And, and, and honestly in actuality, until you actually, the ink is dry, you're not really married with the bank until that's done. And so, you know, there, there's a lot of emotions. We have one client right now that we're working with that has major deal fatigue because there's just been, you know, issue, issue.
+
+And she's, she's got a, a huge deal. Um, and so. I think having [00:49:00] that understanding is really gonna help you like it. It's a journey. It's not, it's not gonna be perfect and it's not gonna be easy. And if you have the communication with the seller, the brokers, whoever's involved, um, is gonna just help you get through the process just a lot easier.
+
+And so 
+
+**Athena:** I'm curious, 'cause you, you guys, you guys are at the part where you get a lot, a lot of volume, right? 'cause people have deals in hand and need loans. So have you ever seen. A perfect deal where everything that they thought was gonna happen was exactly as it happened as you went through the 
+
+**Valerie:** process.
+
+No. No. And I even, I like, I hate to even jinx it. 'cause when I think, God, this is going really smooth, it's like I was talking to one of my lenders today. He's like, God fel, this is a, this is like a. Um, the credit is perfect and it's exactly what we wanna do, and it's go and he's like, I, he actually had lost the deal to another lender and then the lender switch in banks.
+
+And so we actually brought it back to this other lender and [00:50:00] long story short, and so he's like, I knew that I was losing sleep 'cause I knew this was gonna be a perfect deal. And, you know, he's like, it's just going so smoothly and the borrower's easy to work with and there's all this stuff. He's like, and I'm like, you just jinxed it.
+
+Like you should ask that. Right. You know, so, um, but you know, it's, there are, I guess I should take that back. There are some, you know, deals that do go a little bit smoother, but there's always a hiccup somewhere along the line. And, um, are they all major hiccups? No. Are there, you know, sometimes it's just a little bump here and there, but.
+
+You know, we will, we'll work through it and figure it out. And there's a solution. We've had so many solutions that we've had to, to, to deal with and try to figure out and get creative with. And that's one thing like, 'cause we've seen so many different things, we're able to maybe be more solution oriented instead of like, okay, this is a problem.
+
+What do we do here? Because there typically is a way to get around it. Um, 
+
+**Matthias:** we're, we're not afraid of fight when [00:51:00] there's problems though. Yeah. Like I, I'm not afraid to, I'm not afraid of fight with this. Yeah. 
+
+**Valerie:** So Matthias and I have both had to put on kind of, not, I don't wanna say we're bullies, but like we've had to put on like the, the, the gloves and like really kind of fight sometimes for our clients just to get I 
+
+**Matthias:** I I'm typically more of a gloves off than gloves off.
+
+**Valerie:** Yeah. I'm a little bit more softer when it comes to it, but, 
+
+**Athena:** well, so I think, I think that's an important point though, because like people are looking for hairless worthless. Beauty queen deals, right? And it's like you're hearing it from folks that have done hundreds, maybe thousands of transactions. Like they lose thousands sleep if it looks too good.
+
+Like if this is like Miss Universe, right? We're like, there's something wrong. Um, so the problem solving element is something that like, I just like to reiterate time and time and time again, and it's, the reason why I love what we do in this process in buying a business is like, unless it's like fraud or like [00:52:00] someone trying to like, really screw you over, like there's probably a way to solve for it.
+
+It's just the resilience to be like, okay, it's not what I thought it was. This sucks. I need to pick myself up and solve a problem. 
+
+**Valerie:** I I want one issue that like, it sounds like such a silly thing. Um, or not a silly thing, like a maybe a nominal thing or. Is honestly, it's something called tax transcripts.
+
+And so once a deal goes through underwriting, um, uh, the, the seller is going to have to sign something called an 88 21, and it's a request for tax transcripts. I will tell you if that comes back with no record found or there's issues on it, that could derail your, your deals. So making sure that your, um, your seller has filed their taxes, filed 'em under the right, like entity, like, you know, sometimes they do a switch and they mail off their taxes if, if they said they mailed their taxes off.[00:53:00] 
+
+I would walk away from that deal because there is no way the IRS is backed up from Covid times to like get deals like transcripts processed. Oh, that's interesting. So 
+
+**Athena:** is there a way to check that somehow before we, they get so far down the line? I think 
+
+**Matthias:** people, I think you can order your own tra tax transcript is a sell, like as a business owner online through the IRS website.
+
+I wanna say it's possible. I dunno how fast. 
+
+**Valerie:** Yeah. I find that's, that's been really, um, the, the, I guess couple things that I've seen a deal like die for further along, like after is tax transcripts and, um, if, like, if financials expire and they come back and the deal no longer cash flows. Um, so that, that's also a concern.
+
+But, you know, other than that, most, most everything has been able to get figured, figured out, so. Mm-hmm. Um, yeah. [00:54:00] A deal not evaluating like as, as far as like business valuation. And then, then it becomes a negotiation with the seller to either lower the purchase price or unfortunately, if they're not gonna do that, you then, as the buyer, have to bring in more equity to kind of like balance that out.
+
+**Athena:** Right. Um, Steve, I see you have a 
+
+**Steve:** question. Yes. Uh, so I just wanna build on something. You mentioned Athena. Uh, yes. The past few years everybody's trying to buy a business and there's a lot of noise out there, a lot of different profiles. I'm just curious, this is not a fair question for Valerie or Mathas, but I'm gonna ask it anyway.
+
+Just from your experience with the new rules coming in play, I'm kind of wondering where you see that it's gonna have the most effect in the one to $2 million range, two to $5 million range is, and I'm looking for Okay. Where's the opportunity to strike where you're gonna get some of the noise cleared out?
+
+**Matthias:** Yeah, good question. So I would say they received, I, I guess the way I can [00:55:00] preface is before the guidelines changed to accommodate the partial standby, so if you go back in time, two years, where I saw deals getting done with like this full standby business was on the smaller side, so like one and a half enterprise value or below one, one and a half million or below.
+
+That's where there was kind of less demand from the buy side. And this is before like the space really started heating up. And so if you kind of go back a, a layer to now where you have a lot of people in the market that wanna buy these companies and some of them have basically been using the partial standby sellers note effectively to get to the, to get to the 10% down.
+
+I think if you go above like 2 million of enterprise value or 2 million purchase price, those sellers are definitively, probably not across the board going to be accepting the full standby. And so the buyers that had [00:56:00] been using the partial standby before are gonna peel of that po pocket of the market.
+
+And so now you're either gonna have to have cash equity from yourself, you know, cash retirement funds if you're doing the, the Robs thing, or equity being raised. So I think in that, like two to five range is gonna be kind of interesting. We're gonna have less buyers from before because people are just not gonna have the, the, the 10% down.
+
+I don't know if that helps answer the question. 
+
+**Steve:** It does. And that it leads me to another question, again, looking for opportunity here. Would you suggest that you, and again, you're speculating at this point, but I know you've seen changes happen before. So if you put your that hat on, uh, would you say that it's gonna be more advantageous to submit offers without seller financing as a part of it?
+
+Uh, do you see that standing out in the, in the minds of the seller more interesting? 
+
+**Matthias:** Yeah, so I would say without, so, [00:57:00] so as far as like seller financing goes, um, if I'd ask for it wouldd be like, deals specific, because some deals, you know, like if you're buying a business, hypothetically, Steve, where there's been a big jump in sales from the prior year to the most recent year, you wanna have some sort of backstop just to protect yourself in case things revert, especially if there's some sort of arms length, um, or not arms length.
+
+Some type of relationship between the seller and the key customer where it really needs to be transitioned to protect you. But speaking to the full standby specifically, I would not advocate for making the ask for that unless you know that you're like one of the only buyers in the picture. If you're going after very highly sought after opportunity, let's say major market, um, Atlanta, Georgia, Orlando, Florida, Los Angeles, Austin, Texas are similar.
+
+If you're going after a very highly sought after business, sought after [00:58:00] industry bigger deal, the ask for the full standby is just gonna crush the odds that your offer would be accepted. 
+
+**Athena:** Okay? Yeah. And so just to interpret that. You can still ask for seller finance, but it just isn't normal terms. Right.
+
+And that is, yeah, that is a normal thing to include and to be expected, and you almost want to do that so you're not handing someone a hundred percent cash on day one, and you have nothing to claw back if you get in there and realize the business isn't what you thought it was. 
+
+**Matthias:** Correct. Yeah. 
+
+**Athena:** Great. Um, I'm curious, so, um, I'm kind of obsessed with performance based notes and I, I get a lot of like, conflicting stuff from the lenders.
+
+So, um, in terms of like how and when they can be used. So, you know, the variable EBITDA in the past is obviously something that you could pull in there, but we've seen it used, [00:59:00] you know, uh. I mean, you, you were actually involved in that deal for, for customer concentration. Um, how else are you seeing performance based notes used or how can they be used when you're, when you're seeing things in, in the past or you're trying to overcome some risk?
+
+**Matthias:** Yeah, so I, I'd say a couple different ways I've seen use Athena. Um, one would be like key customers or contracts. Um, if, if the company being sold is selling for a multiple peak earnings or peak sales, basically kept keeping it, having the, the hedge in, in the, the note or provisioning it that the company needs to sustain that level in order for payments to be made on that seller's note.
+
+Um, and then any type of things similar to that. I'm just trying to, I'm trying to think here what, what that may be like. Generally any sort [01:00:00] of metric where the business needs to sustain that in order to, to keep things going at an even heel, more or less. 
+
+**Athena:** So you can put a performance based note that doesn't necessarily incentivize for growth, but is attached to maintaining, 
+
+**Matthias:** yeah, maintaining something that historically has been there, like key customer sales.
+
+You could even go TTM through like the time of loan approval. I mean, it just has to be something historical. 
+
+**Athena:** Got it. So, um, it's not a, and then, and then if we're incentivizing growth, having that, that spike in the past or a drop, you know, that, that you're able to like tag it to and get it back to that point.
+
+Have you ever seen it be able to like exceed past performance in some way? 
+
+**Matthias:** Yeah, I, I haven't seen it exceed past [01:01:00] performance. I, I know like there are some old wife sales about people that had side agreements where you keep the owner involved in the business, but I don't, I don't know if those actually happen.
+
+So 
+
+**Athena:** the, uh, the owner involved in the business, that's another great topic, right? Right. Like, what are they, do you do they actually have to like, walk away and never have any involvement with the business after 12 months? Or the workarounds for that? Like, I'm hearing people like contracting them for like certain parts of, of work afterwards.
+
+So can you speak to that little bit, wink? I mean 
+
+**Matthias:** Yeah. Since this is being recorded, ask, be careful when I say it, but, but my minds well, like 
+
+**Athena:** if we're following SOP guidelines, like is there any way for them to have involvement post 12 months, even if it's just as an advisor or something? Or do they literally have to cut contact?
+
+**Matthias:** I mean, I, I worked with a client that, uh, that that bought podcast agency and I, I think Val may have been involved in this [01:02:00] deal. Um, and the, the seller who was supposed to be outta the business kind of hung around the hoop and was still in the business. And so then when they were doing the, the subsequent and acquisition, they had to figure out how to position it to the bank.
+
+'cause the guy still in the business, he was supposed to be gone. So, I mean, generally speaking, as long as you're making your loan payment after closing, there is minimal risk. But, um, I mean, whatever people decide to do, it's a pre country. So I, I I, I, I'm a risk proponent where like, you know, I have a personally guaranteed line of credit where I'm running a business, it's all project based revenue.
+
+Like my risk tolerance is up here. It just depends on where someone's, someone's risk tolerance is candidly, but in 
+
+**Valerie:** and to Mathias point. Once you close a loan with the, the bank, they're not going to be, honestly, they're, they're all stretched thin. They have portfolio managers and stuff. Some of 'em, sometimes they outsource that, [01:03:00] but they're not gonna be like knocking at your door saying, Hey Athena, can you tell me who your key employees are?
+
+And you know, as long as you answer their emails, like you, you make your payment on time, you're probably never gonna hear from them. Um, or, you know, if you need something from them, that's when you are gonna wanna make sure, you know, everything's in order. 'cause they're probably gonna ask for updated financials and, and if they're looking through that and see, oh, why are you still paying John Smith?
+
+You know, like, they might question that. So, you know, as, as long as you're, you know, um, open to answering that. But honestly, make your payments. I I, I think the lenders are gonna just leave you alone. So it's, it's, 
+
+**Athena:** it's something that, um. My boyfriend and I are teaching a 17-year-old son. When you have control of yourself, then you're not controlled by other people.
+
+Right. If you do your chores, if we trust you to do your chores, we're not micromanaging you on your chores. Exactly. Yeah. When, when you make the payments, there's like no warning [01:04:00] signs going off, but if, if you are asking for extensions on the payments or you're not paying the payments, they're gonna be all up in your kitchen.
+
+So, 
+
+**Valerie:** um, or if you want like a servicing action, like, 'cause you need collateral lease or whatever that looks like, you know, then they're gonna probably dig in and say, okay, well we haven't had updated financials from you. Can you do this? Or, you know, we need your, like, if they ask for your tax return, send 'em over, or whatever.
+
+Like, again, like you said, as long as you're doing your thing, they're gonna leave you alone. So that's an interesting 
+
+**Athena:** point. You, oh, sorry, go ahead Mathias. 
+
+**Matthias:** Yeah, I mean, generally speaking, as long as you make your loan payments and the time you're gonna be good. Like I would say candidly, the only risk you run is one, you aren't making your loan payments.
+
+So the bank starts probing around. The second is, um, every year, like on an annual basis, the SBA lenders that are preferred SB lenders, the SBA will audit files at random in their, their database. I don't know the exact percentage, but let's say it's like 3% somewhere in [01:05:00] there. You know, if you get like the Sherlock Holmes or the Valerie of the SBA file reviewer, you run the risk that all of a sudden someone's reading through the credit presentation that the bank approves and they're like, you know, Athena, the seller is mentioned in there.
+
+They get curious and they start poking around LinkedIn and they see that still says you work in the business and then Pandora's box opens up. So that's, that's really the, the big risk I'd say. 
+
+**Athena:** Interesting. Um, good, good insight. So, uh, Valerie, you just used a term that I don't think we talk about a lot servicing actions.
+
+So I was gonna ask, could you guys paint a picture of like, post close governance or what to expect from your lender? What are, are they wanting, like monthly financials? Are they looking at it annually? What is the servicing action and 
+
+**Valerie:** what do those look like? You know, great question. So I'm not gonna claim to be an expert on that.
+
+That was not my department. Um, and they're, they're, each lender has their own way of handling, um, [01:06:00] servicing and stuff. But, um, just from experience, and I'm gonna go off of my time at Byline, we had a, a. A department that they were portfolio managers and when a deal closed, it got handed off to them. And so they would be the ones, um, who would get notices if you, if your payment was late or whatever, and they'd be calling you to check up on that.
+
+Um, I know that in the covenants of like when you signed like your loan agreement, um. For like when I was at my line. I'm just gonna use that as my example 'cause that's what I have. Um, you know, there was in there that you would, um, submit annual tax returns, annual finance, like your Yearend financials, um, and maybe an annual personal financial statement.
+
+Um, and so those were just kind of written into the loan agreement. I personally don't know how they followed up. I think they maybe had like an automated email that sent out, like, Hey, it's time to turn in your, you know, personal tax return or your per your business tax [01:07:00] return just based off of like when filings happened each year.
+
+Um, and so then you would just email that over, they file it away just for staying compliant with the SBA. I don't know, to, I'll be perfectly honest, I don't know if that's an SBA thing or if that's just a bank thing. Maybe Matthias, you know, um. What, what was 
+
+**Matthias:** the, what was the question on like personal financial statements?
+
+**Valerie:** Like just, yeah, turning in personal financial statements, annual, um, you know, tax returns, that kind of stuff. Is that bank specific or is that SBA required to have that stuff turned in? Y 
+
+**Matthias:** Yeah, I think it's, I think in your loan, I think it's, I think it's bank specific, how often they wanna see it, because some banks will ask for different things, but I think it's customary the annual business tax return, annual personal tax return and annual personal financial statement just to make sure things aren't deteriorating.
+
+Because since none of these SBL ones have covenants, the bank doesn't really know how well you're doing unless they, they can see up updated financials. 
+
+**Valerie:** Yeah. And then the servicing action that I spoke about. [01:08:00] So, um, a lot of these SB loans, so the, the a, a new rule, well, not new rule, but it's coming back, is like, um, SB has to take all available collateral on, you know, if there's a certain percentage, uh, 25% or more, like on collateral, even like rental properties, your own personal property, all that kinda stuff.
+
+So, um, sometimes like you're, we all move or you're gonna sell your house or, um, you know, you have a lot one life insurance policy and you wanna switch it out to a different life insurance policy. Those are all called servicing actions. And so those then would have to go to the, to the portfolio manager, whoever manages managing your loan post-close.
+
+And what they have to do is they have to do, you can't just go and do things. So if you wanna change your ownership post-close. Do not do that without contacting the lender first. Because what they have to do is they have to create like some sort of memo that goes to the SBA [01:09:00] notifies them of either changing the collateral or removing it, um, changing the ownership structure, which I believe you can even change your ownership structure.
+
+Um, there's a timeframe within a year or 18 months after closing. So just FYI, um, you have to, and you have to notify the SBA to do that. Um, the, that person at the bank is gonna go to the SBA, submit all the documentation. They have to get approval from the SBA to make that servicing action, and then they can go through and change out the collateral or move things around or, or do all of that.
+
+So there is a process. It does take a little bit of time. It's not, it's not. Overly complicated, but there is, you know, steps that have to go into place. So just keep that in mind, you know, as you have collateral pledged. 
+
+**Athena:** Right? So like, if, like if you have a bunch of company vehicles that they put a lien on and you wanna sell it, like you gotta little, you have to go through the 
+
+**Valerie:** process.
+
+**Athena:** Yeah. So that then that could trigger [01:10:00] them being like, I haven't heard from you in a while. Like, let me dig into this. Yeah. Um, so, okay. So like, anything that has a lean on it, ownership changes. Um, I'm assuming if you're, if you're in a premises that you lease and you wanna move to a new premises, is, is that also something you need to notify them of?
+
+**Valerie:** Um, that's a good question. Um, 
+
+**Matthias:** because presumably, presumably, so it's, it's probably not a bad you to mention it, so I, people I don't wanna update 
+
+**Valerie:** in disagreement. Yeah. 
+
+**Matthias:** When in, when in doubt, like over communicate. I mean, I, I share the financials like with my lender every quarter just because. And like, if, if you ever wanna go back and get more financing to like up a line of credit or whatever, it gives the bank like they, you know, they feel like you're a good communicator.
+
+You give them more warm and fuzzy as, as opposed to the opposite. So, 
+
+**Athena:** yeah. Um, that's a good point actually. We, we got a growth loan ourselves, [01:11:00] um, and they're like, do six months and you could get an even bigger line of credit, right? So I'm like, that's cool. It's like you, you have a good relationship with them, they trust you and then they'll extend more if they feel like they hear from you.
+
+So, um. This has been really awesome. Um, is there anything that you are seeing now that people are getting wrong or you're just like, why do people keep doing this? Right? That like, uh, like we, we see things on our side that it's like, stop. So you guys see a lot of different things from a different angle.
+
+Are are there things people keep doing that you wish they knew not to do or would stop doing that would help their process or help how you guys work with people? 
+
+**Matthias:** Um, not all, all I'll speak to that, but I'd say more just like things for people to keep in mind from an underwriting standpoint is I, and we have seen banks drilling a lot more into like one management experience [01:12:00] and then also supply chain too, especially with the back for the whole situation with the tariffs business in China is, um, the bank wants to know like if you're buying product from abroad.
+
+What's the amount of inventory the business needs kinda out the gates and like, do you have that? If you don't, how long will it take to get it? And then are you prone to cost increases so they can know, like what to expect from a margin standpoint? So I'd say to the degree that, you know, as you're approaching, um, buying a business, whether you're working with us at Pioneer, which, which you should 'cause we're awesome, or Val's awesome.
+
+It's, it's up for the debate if I am, but, or if you're going through the press on your own, I would say really think about like what you bring to the table intrinsically that you can communicate to a bank in a business plan to get them comfortable with. And then anything on, like if you, uh, oversee p and l statement, profit and loss statement or income statement, that's huge.
+
+That gives you more [01:13:00] value points of the banks. And then just trying to drill into the supply chain free, LOI to the degree possible. Mm-hmm. 
+
+**Valerie:** And I would, I would, I would be, um, make sure you can justify your multiple of what you're buying the business for because, um, I see a lot of lenders going, like, I had one deal that came across recently that they were like asking for seven or eight times, you know, like on a multiple.
+
+And the lenders like, are you cra Like, why, like, why would you pay that much for this business? And so like really having an understanding if you're gonna be higher than normal, like being able to justify why or, or how or, um, I think, you know, really having an understanding and can answer those questions.
+
+And I would agree with Matthias having, uh, a good business plan and, uh, you know, a strategy of like how you're going to grow this business, what that looks like is really important. Um, being able [01:14:00] to justify your projections with your assumptions on how you got there and why you got there. And, you know, being in the right, um, realm like.
+
+Not too conservative, not too aggressive, you know, right in the middle. And don't, I, I don't know what that middle ground is. I don't know if it's 10% or 14% or 12, I don't know. But like, just being able to really understand the business and, and, um, explaining how you can grow that and, and, you know, sustain and, and make it better.
+
+So that would be my advice. Or 2 cents. 
+
+**Athena:** I'm, I'm interested, this is great advice, and I'm also interested, like, where are you seeing I, in, in what I'm seeing? It seems like most businesses are priced around three to four, because the brokers know that's like where the debt service starts breaking below or above four, but they, they might not have got that historically, but because there's so many buyers, it [01:15:00] seems like they're, they're priced at three to four, no matter.
+
+What the variables are. Is that kind of what you're seeing on, on your end too for, you know, small, small business acquisitions varies. 
+
+**Valerie:** I, it, I feel like it varies. Um, honestly, sometimes I don't trust the seller's broker sometimes, although, like, I think, you know, sometimes they wanna put lipstick on something that is just not worth having lipstick on.
+
+And so I think you really have to do your own financial due diligence and look, look at, um, look at the numbers, understand how to read the numbers, put in your own formulas and, and see if it's worth it. And I think, you know, there are sites out there that you can go out and do your own valuations. I, I think Mathas isn't the one, like a hundred bucks or something.
+
+And you can go in and, yeah, there 
+
+**Matthias:** put, there's a site, let me drop it here in the, um, it's called Pure, pure Comps by GCF Business Valuations. So I'll, I'll quickly share my screen too. Um, so this lemme give you, 
+
+**Athena:** oh, [01:16:00] ONCA, can you give access real quick? Yeah. Good. 
+
+**Matthias:** Yeah, so this might be a good thing just for, for your team and members at the end have in their back pocket.
+
+So, uh, GCF valuation, they're, so basically they're the parent company that's pure comps. They, what they basically do is they do all these valuations for these SBA banks, like think Live Oak byline, Huntington Bake, et cetera. And so they take all their valuation data, like the multiples revenue earnings, SDE, whatnot, and they anonymize it where you can basically pay to access it, like either on a one sign basis or like a recurring annual basis.
+
+And what I tell people is like, when you're negotiating with these brokers, the, you can almost get play, play the SB as a bad cop and say, you know, Hey, I'd love to pay five times or a billion times your business, but the bank [01:17:00] valuation company, it won't. They won't value it for more than like 3.79. And so you basically share that with the broker and say like, Hey, this is the constraint.
+
+This is the max funding I can get just based on the what's market for this business. And you kind of anchor the negotiations from there. And the brokers that are sophisticated that have done a lot of these, um, they get it and they understand the constraint. And so you can always bridge the gap from a valuation standpoint between like equity and seller financing.
+
+But generally speaking, like I personally wouldn't pay more for a business that's worth, sometimes people see growth opportunities where they, you know, they're willing to pay more, but it's, you know, it all comes down to what you're, you're comfortable with. 
+
+**Athena:** Yeah. Um, it, it's, it's just frustrating with the amount of com competition out there.
+
+It's, it, it feels like it's driving, it's inflating the price where, where it shouldn't be inflated. Um, but [01:18:00] it's a good point, right? The bank won't lend more than the, like it actually states that in the SOP guidelines that they can't pay more than a valuation that comes through, right? 
+
+**Steve:** Yep. Yep. 
+
+**Athena:** That's a, sounds like a great resource.
+
+We're gonna look into it, Anka and Luke, I would love for you guys to check on that and see if it's something we can't, um, give a recap for clients or maybe just incorporate into what we do. Um, well, as always, I love conversations with both of you. I think you have such great, um, insights and experience and, and have seen so many of these and help so many people through these deals.
+
+Um, what's your kind of predictions for 2025 and what's gonna happen to this market? It's been wild in the couple years since I've been involved. Y'all have been in it much longer, so you've probably been through more variances. So what do you, what do you think's ahead for the, the next 1224 months in the business?
+
+Small business buying market. 
+
+**Matthias:** Yeah, I, I wish I had the crystal ball. I, I unfortunately don't, I mean, if I did I [01:19:00] might be doing something else. But, um, I think there will be a lot more equity raises I think on some of the deals where I, I think the buyer profile, from like a credit standpoint, it's going to increase and there's gonna be less of the people with the horse or is hopefully on, on acquiring minds where they're putting in $5,000 and like everything's going belly up.
+
+'cause they just don't have the, the wherewithal to capitalize a deal. I think the underwriting process unfortunately is probably gonna take more time with banks really to kept drilling down from a a questions standpoint. Um, I think there's gonna be more deals getting done by the more conservative banks that are gonna be, uh, competitive from an interest rate standpoint because they have higher standards.
+
+Last deals getting done from banks that have lower standards, um, and ones that have had big presences at some of these s and bash [01:20:00] conferences and similar, um, but yeah, that's my 2 cents. Val, what, what are your thoughts? 
+
+**Valerie:** Yeah, I, I'm aligned with you. There, there, um, I, I also do, again, I don't have a crystal ball.
+
+I don't have anything to, I would be really surprised if we didn't see a couple interest rate drops this year, but who knows, we're already halfway through the year. Um, but you know, that always helps business buyers along the way because SB loans adjust quarterly. So, um, so those. A crime can go down. Um, yeah, I think also just, you know, again, patience and knowing that they're adding in some more regulations or, you know, adding them back in.
+
+So you might see some more paperwork. You know, there's already paperwork on citizenship that is having to happen. Um, if you have investors, equity investors, um, they all need to be US citizens or legal permanent residents, green, green card holders, they're gonna have to, um, the SBA is really drilling down on [01:21:00] having, even if they have, you know, a fraction of a percentage, you know, they're gonna want their date of birth, their social security number, their address.
+
+'cause it all has to get put into the SBA system. Um, and that's how they're, you know, tracking that they're, they're making buyers, you know, certi certify that they're, um. That their investors are all US citizens. So just know that these are things coming into play and you're, if you wanna use this program and, um, you know, especially having outside investors, these are things you really have to keep in mind.
+
+Um, and it's still working for some, you know, we've got one guy we're working with who has like 20 investors and he is, and then some of those are LLCs that have multiple investors within the LLC that he's having to track down that ownership. Unfortunately, that's where we're at. But, um, you know, just keep that in mind.
+
+There's just gonna be more paperwork and, um, [01:22:00] unfortunately that's kind of the writing I see on the wall, you know, just, 
+
+**Matthias:** yeah. I mean, at some point you might have to trace your, uh, yourself back to the Mayflower. I mean, it depends right? We'll, we'll, we'll see what happens here. 
+
+**Valerie:** Blood te bio, vial of blood, you know, DA testing.
+
+Yeah. 
+
+**Athena:** Oh, God, we're not far from that. I don't know if y'all watch Black Mirror, but 
+
+**Matthias:** I, I've now watched that before now. 
+
+**Valerie:** Yeah. So, you know, I just, patience again, like, I think I preach this every time. I think I said it last time, you know, just communication, patience. This is, this process is not for the faint of heart.
+
+Like, it just, it, it does take a minute, but it's worth it. When you get to the finish line, you're gonna, this is what I love to celebrate, you know, the signing on the paper and you own your new business. You're changing your life. You're changing the life of generations to come after you because, um, you're, you know, you're building generational wealth then you're not just, you know.
+
+Taking a W2 paycheck, you [01:23:00] know? Wow. You like 
+
+**Athena:** master of your own destiny, you know, and it's scary to have to be the one to make decisions and like go through the, the struggle, which every business will have that. Right. And I, I honestly think it's, it's the, this process being the way that it is, and as challenging as it is, is.
+
+A limiter. Right. Um, I don't know if you guys have heard the sta, but I, uh, the founder of Baton told me like, only 2% of people that say they wanna buy a business actually close on a business. And if you look at I, 
+
+**Matthias:** I, I believe that honestly, 
+
+**Valerie:** you know, I'll add too, you know, a lot of like the, the, what seemed like.
+
+Headaches of like having to get all of this stuff or you know, like making sure you have the postal, like all of this, it is set up to protect you in a way. Like they want you to be successful. Yeah. They don't want you to set you up for failure. And so like, yeah, it may seem like extra work to get this document [01:24:00] signed or do this or whatever, but it's there to protect you to to help, you know, like again help you be successful.
+
+So I think if you change your mindset and look at it that way instead of like, oh, one more thing to do it, you know, like that can change your perspective on things. So. Oh, 
+
+**Athena:** and as a business owner you have to constantly do things you don't want to and make decisions you don't want to. And you know, resilience is one of the best things I think you can, you can develop as a business owner.
+
+Um, you know, I talk about failure training. Like I actually did stand up comedy for an entire year to try to train myself on what it felt like to get in front of a room of people and bomb, you know? Oh wow. Everybody thinks that's their idea of death. And I trained my nervous system, like when it happens and I don't die, everything else doesn't seem like that big of a deal.
+
+'cause I have people heckling me and like, not laughing and like telling me I suck. And it's like, okay, well, um, you know, so. Like, embrace [01:25:00] this part of the process as part of your resilience training. And like every time something comes back that's challenged, it's like, here's my opportunity to train myself on how to overcome this.
+
+'cause when I get my business, guess what? The whole support team goes away. And you're on your own. You don't have your deal team, right? You don't have your advisors, you don't have us. It's like you. Um, so this is, this is a great opportunity to do it, a safe space in a way, as long as you just keep getting up and, and overcoming the challenges.
+
+So, um, this is awesome. Thank you so much. I know we are at time, so, um, we'll be posting the recording along with, uh, Matthias and Valerie's contact details so that when you do all, you know, get a deal either under LOI or pre LOI and you're not sure if the funding looks like something you can do, um, they're such an amazing resource and have helped previous clients of ours.
+
+So, um, we'll put all your contact details in the channel for everybody. Um. We're gonna be watching the SOP uh, outcomes [01:26:00] closely. So if y'all hear anything that would be of benefit to us post this conversation, we'd love to, to share it with the community too. Um, and thank you for giving your time. I know you guys are, are, you know, uh, doing a lot of great stuff and have a lot of, uh, clients.
+
+So appreciate you taking the time to share your wisdom and insights with us. It was massively helpful. Thank 
+
+**Valerie:** you. 
+
+**Athena:** Of course. Definitely. 
+
+**Matthias:** Appreciate, appreciate you having us on. 
+
+**Athena:** Thank you. Cool. We'll talk to you soon. And thanks everybody. Great to see you. Have a great rest of your week and we'll see you all next week.
+
+Take care, everyone. Take care. Thanks. 
+
+**Matthias:** Take care. See you.
+
