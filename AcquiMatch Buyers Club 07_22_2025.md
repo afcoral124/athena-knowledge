@@ -1,0 +1,492 @@
+# AcquiMatch Buyers Club 07/22/2025
+
+[00:00:00] 
+
+**Athena:** Hey Gil, how's it going? 
+
+**Gil:** Okay, 
+
+**Athena:** how are you? Hi Paul. Hi there. How are you? I'm great. How are you? I'm doing fine. I think Justin might be here somewhere too. Yay. Hey Justin, how are you? Good, 
+
+**Justin:** how are you? 
+
+**Athena:** I'm good, thanks. Um, how did you all feel about the last session? Financial statements?
+
+**Gil:** I realized how much, I don't know. 
+
+**Athena:** Yeah, there's so much to them, isn't it? Like, I was like, God, we could have done another like two, three 
+
+**Gil:** hours. So intimidated me, I, I, I left the session thinking, what do I do now? You know, I was a little, I was a little scared to be honest. Um. And wanting more and more to work, to work not only with someone like him, but with him specifically.
+
+[00:01:00] Uh, once I get to that stage. 
+
+**Athena:** Yeah. There's a lot to financial statements, especially when you start spreading 'em out like month by month and looking at those different things and all the line items that people can put in there. So how did you, you feel, Justin and Polly? It seemed like you're resonating with what Gil said.
+
+Well, 
+
+**Polly:** I didn't get to actually see it. I'm sorry. I wasn't Oh, okay. Very live for it. So I do, I do need to watch it as I told Steve I would, but Steve actually was filling me in. He said it was great, but I'm, I'm definitely gonna be watching it actually. So Cool. 
+
+**Justin:** Yeah, I thought it was great. I had to, I had to leave at uh, right.
+
+The top of the hour. So I was bummed. I didn't get to finish it, but I could have stayed Yeah. For hours, you know, listening and learning. 'cause there was, there was, uh, just a lot of gold in, in what Elliot was presenting. So, uh, yeah, I, I mean I think I mentioned this at the, his, his last, uh, visit with the group, [00:02:00] but I mean, topnotch just, not only does he know his stuff, but I, I liked what he said around, you know, the kind of guy who will be the bulldog and kind of battle on behalf of his clients.
+
+That's something I like and would, would welcome. Um, so yeah, I'm pretty, I'm pretty interested to see, uh, if there's a, a path to bring him on for QV when I get to that point. 
+
+**Athena:** Yeah. It's, there's something to be said for having a bad guy to be able to point to. Um, you know, I, I was just talking to a few of his clients today and, um, we were talking about the brokers lender, right?
+
+And like, if you use the broker's lender. How you can, can can't point at the bad guy sometimes those sorts of things. So like being able to use the bad guy, like, oh my, you know, QP person or my lender, uh, needs me to get more of a seller note from you. So, um, but I, I was kind of [00:03:00] shocked about the tax return timing that he talked about and, and the, the things to like pay attention there, you know, of getting a QV done before.
+
+Oh, you can leave us all up, you know, since we're having a conversation. You don't need to spotlight me. Thank you. Um, the, the timing of like getting your QV back before they've done taxes and then them being able to like match the taxes and make the tax and I was like, oh my God. I mean, I would never think of doing anything like that.
+
+But like he said, when every dollar you find an SDE, you get three, four or four four, you know, the incentives are kind of in a certain way. So, um, we're gonna be updating the LOI processes to like, make sure we pull that out. Like, Hey, if they haven't done their taxes for last year yet, make sure you don't share any QV results until you get their, their taxes back and just keep harping on filing the [00:04:00] taxes.
+
+But I've seen folks use the taxes to like drag out a deal too, which is, it's really frustrating. I don't know how we've gotten to the point that like, we can wait until October the next year to file taxes. I certainly take my liberties because it's just like more time to do something that's like an absolute pain.
+
+But, um, yeah, that was a big one that stood out for me. Um, did I, although there's a lot to learn about the Miguel, did you feel like you got a better handle on like balance sheets and p and ls just in general kind of. The differences between 'em and how to use 'em? 
+
+**Gil:** Uh, no, actually I got, I, I really got more confused.
+
+Okay. That's why I said, uh, I left, I left the session scared about how much? I don't know. Yeah. 
+
+**Athena:** Okay. So what, uh, tell me more about that. Maybe I can, I can either do some future sessions or help clear some stuff up today. 
+
+**Gil:** Um, I, I, I really can't point anything specific right now. I just remember listening to him and saying what in my head, like, [00:05:00] what, what, what, what, what are you talking about?
+
+You know, and he was in a group of things, and I don't want to interrupt. Um, and I, the, the questions were, were, I, I believe were so basic, you know, I think I need, uh, either some, uh, udemi course or, or, or something, you know, to, to get my head wrapped around the, those principles and, and those ideas and, and, and what's actually in those, uh, files.
+
+**Athena:** Yeah, you know what? I actually tried to ask a, a lecturer that I knew from UT to, to, I couldn't, I, I haven't been able to nail 'em down, so I'm, I'm gonna see if I can find some other folks too, to just do like basic one-on-one. Maybe we'll do like a pullout from Buyer's Club. So it's just like a special long session on it.
+
+Um, but I guess I, I need an accounting 1 0 1 course. 
+
+**Gil:** You know 
+
+**Athena:** that that's, yeah, I think we all do. It's like, it's, there's so much to it. Actually, I can ask my tax strategist too, if maybe like any of their [00:06:00] bookkeepers could do a, a one-on-one for us to, um, I guess the big thing that I like to highlight about the differences between profit and loss statements or income statements, you know, 'cause they have different names and balance sheets.
+
+Are that the things that are on the balance sheets don't necessarily show up in the p and ls. And we base all of our SDE calculations off the profit and loss statements. So that's the big one, is like when they have big purchases that they make for the business, if, if it's equipment that'll be on the balance sheet, but it doesn't come outta your p and l.
+
+And so that's a big gotcha. Like, oh my gosh, they're making hundreds of thousands of dollars of purchases of equipment for the business. And you're thinking, I'm all good 'cause I'm looking at the p and ls, but it doesn't even hit the p and l because it's considered a capital expenditure, an investment in the [00:07:00] business.
+
+So that's the big, the biggest one I think that's like, could be a gotcha on, um, you know, when you're looking at, at businesses is like what's the, what's the capital expenditure that they're making? However, our cheat code is. If they're depreciating that, so the depreciation number will usually be an indication of are they making investments into the business and with the, you know, um, I, I can't remember if they're just extending this or bringing it back.
+
+The accelerated depreciation means that you can get, you know, and, and what that basically is, is like I can get, um, I can lower my taxable income by whatever capital expenditures that I make, so I can basically pull it over onto the p and l. In a way that lowers my net income because it was an investment into the business.
+
+Does that make sense? I'm trying to use like super simple terms because it just like blew my mind when I, when I [00:08:00] started learning this, I was like, why isn't it on the p and l? Like, it's money going out of the business. That doesn't make sense, you know? Um, but if you look at their p and ls and there's depreciation, then it's like, ah, okay, they're, they're spending money on the business.
+
+And that might be actual money that I have to spend out of my bank account to make investments, but a lot of times they'll do it over a lease or a finance. So they might finance it, but they'll depreciate the whole amount. So there's ways that you can account for that. Um, as the new owner, like maybe you don't make a whole cash purchase all at once.
+
+You do actually, you know, lease it or finance it over. You know, some years and that sort of thing. So I guess what's more important is just kind of paying attention to those numbers and seeing like what is a true cash flow. I love what Elliot said. You can't spend revenue.[00:09:00] 
+
+**Luke:** Yeah. 
+
+**Athena:** And honestly, like, it's, it's kind of like a, you know, lifetime goal of mine to figure out a better way to calculate cash flow. Like there, it's just so complicated to figure out what is the actual, like cash that you have available. Um, I think one of the simplest systems that I've seen when you're a business owner is the profit first system, which I really love that system of kind of simply managing, um, your finances.
+
+We actually use it here too. Um, profit first. Do y'all know the, um. Or maybe you had someone in your family that did the envelope system, you know, so you'd get, you'd get like a hundred dollars for your paycheck and you'd put like $10 into each envelope. Polly, did you have someone that did this? My mother-in-law actually used 
+
+**Polly:** to do that.[00:10:00] 
+
+**Athena:** How did she do it? Do you remember what the envelope sort I, 
+
+**Polly:** you know, my, um, first of all, my, uh, my in-laws were, um, from Europe. And I think there was just this mindset of always having cash on hand. I think I only saw her in the years that I knew her before she passed away. Um, use a credit card maybe two times that in my presence, and maybe there were others, but she always had that cash in hand.
+
+But yes, she would, because my father-in-law owned a car wash. She would. Like, put this amount of money in for groceries and this, and she had all of her little white envelopes and it was, it was, it was pretty cool actually, because you just don't see people do that. Even, this was back in the, like early two thousands.
+
+So it's, yeah, you just don't see that. But it was, I mean, she would do, she would have her savings money and you know, that every, but everything was in cash all the time. So, 
+
+**Athena:** yeah. And [00:11:00] it, it's, so this profit first system is, is essentially taking the envelope system and, and actually turning it into a business bank account system.
+
+Um, and his whole premise is like, people always take whatever's left over, but you end up spending, you know what you have, so there's not much left over. So your profit is actually like hindered because of that. So if you actually take your profit first. Out of the business, and then whatever is left is what you have available for operating expenses, for taxes, for payroll, that sort of thing.
+
+Then you need to make sure that you're not overspending on those. So it's, and I learned this system when I was a business consultant and I was like, oh my God, it's so much easier to help business owners try to manage their own finances, because business owners will look at their bank account, see how much money they have in their bank account, and they're like, that's my budget.
+
+Right? They don't look like QuickBooks and [00:12:00] profit loss statements and balance sheets like, and you guys are seeing this when you talk to owners, like they're just as confused as you are about the financial statements because they don't use it to run their business. So this profit first system is basically like, okay, you set a percentage for each category, that's your envelope.
+
+So I have this percentage going to operating expenses. I have this much going for owner income, I have this much going for taxes. I have this much going for, you know, there's usually like five. Six categories maybe, and then you automatically siphon that money on a percentage basis into those different categories, and that's how much you have available for that category.
+
+So you're automatically putting money away for taxes. So at the end of the year, you're not like, oh my God, how am I gonna pay my taxes? You automatically put money away for profit, and maybe it's only like 1% to start, you know? But like, his whole thing is like, what's even the point of being a business owner if you're not rewarding yourself in any way?
+
+So even if it's like [00:13:00] 1%, I'm like getting myself a coffee to just celebrate a good quarter or profitable quarter. Um, but uh, yeah, so it's a, it's a very cool system, but the, the point of it is it gets you to monitor. Is that a reasonable amount, right? Am I like spending too much on these different areas, on operating expenses, on payroll, et cetera?
+
+Um. So when I started having business owners incorporate the system into their business, it's like they, they felt like they had control over their finances and they could look at their bank accounts and see what their budget was every month for everything. Right? So, um, it's cool. It gets a little bit more complicated when you get bigger, but just the, the overall concept I think is really interesting.
+
+So anyways, that was a rant to say like, I am, you know, one of my, one of those like big lofty, like lifetime achievement things might be like finding a simpler accounting system that actually [00:14:00] works for business owners to understand what their cash is. Um, because this whole accrual, it's just so complicated.
+
+I don't think the normal small business owner can use any of these statements, you know, and, and processes. Well, 
+
+**Polly:** do you think, do you think AI is gonna play a big part in the future with being able to help figure those kinds of things out? 
+
+**Athena:** Yeah. I do. Um, I don't, I haven't seen any systems that are there yet.
+
+**Polly:** Mm-hmm. 
+
+**Athena:** Uh, I don't, I don't, AI still hallucinates pretty badly and it, it, it, it is like ish on doing numbers. But I think, yeah, when you have a developer that can actually like code and build out and use ai, it's different. Probably Justin, you see that in your business. Like you guys are actually like coding and using AI as opposed to just using the available tool tools that are out there.
+
+It's definitely gonna be able to help [00:15:00] my only reticence with like, using ai. And I, I felt this when I was teaching entrepreneurship and, and GPT came out and I was like, oh God. And I told all my students, I'm like, you can use it, but on your final paper, it needs to be your words, your thoughts, you know, so you can use it as a tool, as a thought parter, but don't use it as your output and so on.
+
+Their critical. Assessment of their own business idea. It was like an individual paper critical assessment of their business. We, I, I realized, I was like, oh my God, my Spanish speaking students, like all of a sudden got really good grammar, like, where did that come from? And then I, I went to my teaching assistant who was actually studying machine learning and ai, and I was like, I think this student might be using GPT.
+
+And she's like, oh my God, I thought they were all cheating off of each other. And I was like, what? And she's like. So many of their answers looked like they were like copying off each other. She's like, I think they were using [00:16:00] ai. So I was like, okay, we'll go through and see if you can identify who used ai.
+
+And she identified 10 students out of 30 that she thought used AI because they were all gen. I mean, these were like individual of their own business from their, like each, each person had like, they were like the head of marketing or sales or operations and like all four heads of, you know, like the different departments would be saying the exact same things.
+
+And we're like, if you're doing a SWOT analysis of, you know, a weakness that all of you are full-time students, like why is that not coming up in your analysis? You know, it was just these like basic things. So anyways, long story short, I ha I was like, okay, well now it's a teaching moment, right? And so I went to all of my students and I was like, look, I, I really value.
+
+Honesty and I value owning when you screwed up. And we know that quite a few of you used ai. So here's what you can do. You can come forward, you can admit you used it, you have to [00:17:00] redo the paper on your own with no ai. You get a maximum grade of a C and you get an extra credit project analyzing the use of AI in the classroom and a business to like be able to make up the extra points.
+
+So I actually gave them the opportunity to like redo everything. Um, but it was a lot more work to have to do that. Um, so, um. All 10 of the ones that we identified came forward. Like we, we, we identified them correctly and there was even like two that were like, I used Grammarly. I'm so sorry, I'm so sorry.
+
+And I was like, Grammarly's fine. You know, like what I don't want is you not, not thinking. Right. Thank you. You don't, you don't have the experience yet to not do the thinking. So anyway, that was a long-winded story. They all absolutely like tried to cancel me on like rate my professor and everything. It was horrible.
+
+It was like one of the worst couple weeks of my life because I was trying to do the right thing. Other [00:18:00] professors were like kicking him outta school, like giving him a zero, like all that thing. And I'm like, I'm giving you a learning opportunity and you're just, annihilating me was horrible. But when you're a business owner, you have to like sometimes make your own judgments.
+
+You need to like learn through experience like. So outsourcing financial decisions to AI before you understand your own finances makes me a little nervous. Right. Sorry, that was a really long-winded story, Polly, but 
+
+**Polly:** No, that's, that's fine. I was just wondering how you see it from that perspective. I mean, I think we can see it in different perspectives that, that.
+
+Pertain to our career, past careers, what have you. I mean, we're just looking at it and trying to assess it and, and use it properly and all that kind of thing. So I just really wanted your input from this perspective, because this is not my wheelhouse. The whole financial side of things is not really my wheelhouse, but I'm learning as I'm going along.
+
+And I was just wondering if there was [00:19:00] anything that could possibly be helpful, but still allowing you to, to look at it, not just assume that you know that AI got it. Right. Um, I'm definitely not that, but 
+
+**Athena:** I'm probably gonna eat my words on this because it might be able to be that CFO that's like, you know, I, I hope it gets to the point where it can detect like, Hey, you're burning more cash this month than you have in the past.
+
+You have enough to be able to cover. Right. Or your expenses in this category has gone up. Like to be that, that CFO thought partner to you and like point things out, um. But just having, outsourcing it completely for it to make the financial decisions, I'd be nervous at this point. I'm sure it's gonna get to the point where it, it is an amazing tool and resource for us.
+
+Um, actually, uh, we, the team, like they're, we're all kind of obsessed with AI and like different tools and how could we make this [00:20:00] better for our clients using, using technology to be able to offer a more human experience. And, you know, so they're experimenting with a tool that we found, you know, that like says it can help with due diligence and stuff.
+
+We're like that. We're like, okay, well let's see how we feel about that. So it'll get there Absolutely. In the next couple years. I guess my only concern is that as a business owner, you, the number one thing that can tank a business is cashflow. So I, I always like people that learn to analog first and then outsource to a tool, so then they, they can mm-hmm.
+
+Spot. Like, oh no, I don't agree with that. That's not right. That's not the right thing, you know? Yeah. Anyways. Makes sense. Um, I could talk AI and finances all day, but I I hear you Gil. I like it. It is, I'm still learning all the time. There's so much to it. Um, so I'll just, it sounds like there's still an appetite to keep bringing, I don't wanna like, keep bringing [00:21:00] finance content if you guys are like, okay, enough.
+
+So if, if there's still an appetite to do more on finances and, um, you know, uh, uh, financial statements and stuff like that, I'm happy to keep finding ways to bring it. 
+
+**Gil:** Yes. From my perspective, I mean, I'm, I'm learning new things every day. 
+
+**Athena:** Cool. Awesome. Well, um, I wanted to dive in with you all individually, so, um.
+
+Justin, I wanna check in with you, but first I wanted to check in with Gil. How are you feeling? You're looking at a deal that's, it's on market, but it's direct with the seller. You were looking at some like financial statements, uh, and financial forecasting. How are you feeling about that now? 
+
+**Gil:** Um, okay. I have a call with him tomorrow at one to ask him questions about the p and l.
+
+Mm-hmm. Uh, and after that, I will talk to you tomorrow morning about valuation for that business. Uh, because something there, he, he's, I, I think he's overpricing it. [00:22:00] Uh, but we'll talk about how, how, how do I get the right price, you know, uh, for me. Uh, but yeah, that, that, that's what's going on there. But it's, uh, that's tomorrow at one.
+
+Uh, I'll be at one 30. I'll be much wiser. 
+
+**Athena:** So when you're doing that call, um, it might be worth starting to temperature check. Uh, different structures that you could potentially put in, right? Like, so it'd be like, Hey, you know, are other people making offers? How are you feeling about some of the terms that you're seeing in there?
+
+Eg, seller financing, earn out, uh, transition support, you know, the other, the, the, the levers that you might be able to pull to like, get him his price, but on your terms, um, the seller financing one or like, you know, performance based notes, that's always a big one where you could, you could [00:23:00] potentially do that and he's had higher revenue in the past that you could peg that too and maybe help, you know, you get the revenue up to a higher amount.
+
+But I would start like temperature checking by just having a conversation with him about the other deals. Like, Hey, you know, how's it going for you? This must be overwhelming. Didn't you say you got into offerin like out twice? Yeah. You know why that is? 
+
+**Gil:** Um, if I'm not mistaken, uh, the broker said, and the broker called with Luke that he got pulled feet.
+
+Um, and I think that, um, in, in my call with the seller, he reiterated that. So, uh, somebody just, that just wasn't ready to buy and it got cold for at the last minute and, and, and walked on the deal. That's what, that's what he's claiming. Um, mm-hmm. The truth. Who knows? 
+
+**Athena:** Have you asked him about it? 
+
+**Gil:** Not in depth, no.
+
+**Athena:** Okay. I might like conversationally bring it up too. Like, Hey, I know you've been [00:24:00] under offer a couple times. Like, what, what, what didn't work on that deal? You know? What kind of terms were you looking at? Like, what, what feels good to you? Because there's obviously price, but there's other things that I might ask for from you as part of this.
+
+Like, so what felt good to you? What didn. And then that way I can, I can put an offer together that works for both of us. You know, just frame it that way. Yeah. I'm curious though, like, what did they get cold feet about? Like, did they find something that wasn't, wasn't good? I, I'd be like, oh really? They got cold feet?
+
+Like, what, what do you think that was about? Like, what part of the process were you in? Did they pay for a QV? Like how deep were they? 
+
+**Gil:** Yeah, I, I don't know the answer. I, I can definitely talk to 'em about that. 
+
+**Athena:** Okay, good. You feeling good otherwise for that call? 
+
+**Gil:** Yeah. Yeah. I feel ready and good. I have all my notes and prepared and, uh, I wrote them as I was going through the p and l and going through the sheet and everything, so yeah, [00:25:00] I'm, I'm, I'm good with that.
+
+**Athena:** Good. And the modeling all feels back on track. Makes sense. 
+
+**Gil:** It, uh, it does. Yes. 
+
+**Athena:** Good. 
+
+**Gil:** Yeah. 
+
+**Athena:** Um, I think I, I wanted to call that out 'cause it, it is, um, something that comes up too in like an EBITDA calculation that can be like super confusing. Um, so in the, the T and EBITDA's taxes, um, so it's not when, when you come across a business that's adding back taxes, the taxes can be coming out at different categories.
+
+They can be state taxes, they can be payroll taxes, um, they can be federal taxes. Uh, they could be, I think I already said sales tax, maybe say state tax. Uh, Texas has a franchise tax. You know, there's all sorts of taxes that can come out of a business on the p and l. The ones that we add back into the EBITDA calculation are only federal taxes.
+
+So say somebody has [00:26:00] like an annual tax amount that they have to pay, um, and they pay that with, with business money, right? So it'll show up on the p and l as like, you know, federal taxes. That tax amount is what we add back to ebitda. It can be confusing though, because under payroll taxes, it can save federal taxes.
+
+So it's like, do I add that back? Not if it's a payroll federal tax. Does that make sense? 
+
+**Gil:** Yes. Yes. But do we add it back? Even let, let's say that the seller didn't add it back. Do we add it back our ourselves? 
+
+**Athena:** No. No. So that's, that's, um. That's gonna be added back. Uh, typically like the payroll taxes directly related to the seller themselves.
+
+So in the add back section, if the seller is paying themselves a W2, then you would add back only the taxes related to their W2. But as a business owner, if [00:27:00] you have other W2 employees and you're paying federal tax, like this is one of the wonderful things about this country. You have to pay taxes in order to pay your employees.
+
+They also pay taxes on the money that you pay them, that you pay taxes on in order to pay them. Um, if it's, if it's anybody else but the owner, you do not add that back. 
+
+**Gil:** Okay. But let's say that I have a situation where. I get a p and l from a seller. He has federal taxes for $5,000 in there. Mm-hmm. And I'm about against add-backs.
+
+He has a, B, c, D for add-backs, but he doesn't, he did not add back the $5,000. Do I still put that in the ebitda? In in the, under the taxes. In the financial modeling. 
+
+**Athena:** Was it a payroll tax? 
+
+**Gil:** No, it was a federal tax. 
+
+**Athena:** If, if for sure it wasn't under the payroll category, because when I was looking at the p and ls that you were talking about, not hypothetical right now.
+
+Ah, okay. Just hypothetical, right? Yeah, [00:28:00] yeah. If they, if they have federal taxes as just its own thing and it's not payroll, then yes you could add that back because you are gonna have a different tax strategy than they would, so you're not necessarily, but in our calculation, we pull out taxes from there.
+
+So you would want to add it back because other, otherwise you're gonna be double counting tax liability and our modeling specifically. So yeah, if it's just straight up a federal tax that they've paid, um, then you could do that. Okay. Yeah. But when, and, and this is the, the further confusion right, on taxes, payroll, taxes, only the taxes related to the seller's comp.
+
+Would you add back everything else? If it's related to paying an employee, not the owner, then you would, you would not add that back. Okay. It's, it's, uh, like there's so many taxes that we have to pay as [00:29:00] business owners. So, um, that one can get a little confusing. But, um, you know, if they're paying themselves salary, you wanna make sure that you're adding back all of the things related to that salary too.
+
+'cause they're probably running 401k, health benefits, taxes, et cetera. Um, if they're paying themselves a salary, so sometimes they might not add that back, so that could be some extra money to add back too. And then you decide as the new owner whether you're gonna do the same. Are you gonna, you know, participate in a 401k, pay yourself health benefits, et cetera, out of the business?
+
+Usually it's better to do that for yourself because you get more tax advantages that way, but you're gonna have your own tax strategy when you take over the business. So you wanna kind of start from a clean slate and then go from there. Great. Cool. Good stuff. Cool. Um, awesome. And Justin, I've been, I can't wait to hear what's going on here because I didn't even know there was a co broker on that one.
+
+So Justin had some, uh, something interesting happening that he was waiting [00:30:00] to, to tell me until today. So what happened? 
+
+**Justin:** Yeah, no, this, this is more just kind of chaos. Um, yeah. So the, uh, there was a broker who was representing a fencing company that with trans, uh, trans that I was talking with transworld and, um, while I was talking with him, I'm sorry, that's not true.
+
+There was, uh, see this is where I've got the co brokers confusing. Uh, so, okay. There's a guy named Nick, he's with transworld and he was representing a, uh, a retail center and uh, that wasn't a good fit, but he is like, I think I've got this other thing that might be interesting to you. And he, it was like this community space situation he brought me, so he brought me that.
+
+And, um, but that was actually, that business was actually listed by another transworld broker. So they were kind of, I think internally [00:31:00] gonna split it because they were bringing me as the buyer and whatever. What's, why I get confused is that the, the listing agent was somebody I'd also talked to about a fencing company.
+
+So I, I talked to now both of them, about two different businesses. One of them brought me this third business that was listed by one of another, the original broker. Anyway, so they, they decided, I think they're gonna split it internally, whatever. Um, so I've been talking with the, yeah, the guy who brought me into this company that wasn't originally his listing, but is now getting a piece of it.
+
+I'm reading the. Con a subtext there, um, based on the, the chats. Um, anyway, long story short is that he has been very aggressive about getting me to commit, get to L Lo I and whatnot. Um, and you know, he, he, I, I said I need more to get to an l oi, I need, like, you, you haven't provided me enough [00:32:00] context around some of the financials.
+
+Like what are the, like I'm, so I was asking some questions and he's like, ah, well we'll figure that out in due diligence. Just get an LOI in. And I was like, well, part of the LOI is contingent on even knowing what I'm offering against, you know, so we kept having a little bit of this back and forth, but it was, he's very kind of forceful, but not rude.
+
+Um, and, uh, kind of a quirky personality this guy come to realize. And then, uh, anyway, so. Uh, so then he said, Hey, so when are you gonna get the LOI? Let's I, I was like, I don't know. As soon as you get me this information, he goes, okay, well I'm gonna get you this information. And he would send me a list of, you know, criteria or info via email, but it would be missing a couple points or whatever.
+
+So I said, Hey, I still need this. He goes, well, let's just, let's just set up an LOI chat you and I to like dial in the LOI together. I was like, I'm gonna work build the LOI with you. Like, that's like, I, I can handle that. I, I've got that part. Like, so anyway. Um, but he would always say, okay, I'm gonna put Wednesday, [00:33:00] like the next day I'm gonna put that on our calendar to, to regroup at three.
+
+I was like, I'm not available. Like i's, I can't do that. You know, I've got a W2, I've got a family, I've got other obligations. So he, over the last, last week, he would call and, or text and text probably two to three times each every day. And where are we, where do we sit? Uh, to the point where then he, he texted like a Latin phrase once.
+
+Just on its own. It was just a phrase in Latin. And I ran, I'm like in a meeting for my W2. I was like, I don't even know what this means. I was like, I don't know Latin. So here I'm, I'm Googling what this means in Latin. And it was like, he, he, the text he says was portion favors the bold, that was the, the Latin version of that.
+
+So I had to translate it and I was like, that's what is going on right now. Um, anyway, just the weirdest situation. And then my, so I, I happened towards the [00:34:00] letter half the week while I'm still, and I haven't even mind you gotten to complete the A model yet. Like I haven't even had a chance to fully model it out yet.
+
+So he, then he starts texting me. He is like, look like the get over the modeling. Like, we need to get to this LOI. And I'm like, what, what, what is going on? Like, this is so just erratic. And I was like, certainly I'm not gonna be forced into a seven figure. You know, decision just because this guy wants, has some arbitrary deadline.
+
+Um, and at, at the same time, about mid last week, I, and I didn't tell him this 'cause it wasn't his business, but my, my mother was in the emergency room, so I was kind of attending to some like family business that naturally took precedence and, but I, I did tell him, I go, look, I had some family things I need to address.
+
+Like, you know, I, I promise you I'm working towards it. The goal is to, should everything bear out, like get to an LOI, that's the whole point of all of this. I go, so you can, he goes, that's what do I tell my sellers? Like, that's [00:35:00] what you can tell him. Like, that's still the goal. More calls, more texts, uh, three texts on Thursday and two calls.
+
+And then on Friday I am in the hospital. In the hospital. And. I get a a, he calls and I'm literally sitting bedside with my mother. And I was like, I'm not, I can't talk to him right now. And then he sends a text and I'm paraphrasing, but it's something to the effect of like, uh, look, you need to basically figure out what's going on with this.
+
+You know, the reason you haven't closed is 'cause you're not committing and you're on the sidelines watching all the action happen without, you call me back today or I'm telling the seller that, uh, you're passing. And I was like, who are you? I was like, I, I'm not a person that takes wealth to like ultimatums and threats.
+
+I was like then and I, so I said, look, now that it's your business, but I, I'm handling some health issues with my mother. I told you I had some family concerns. I go, I don't appreciate that you conducted this business. Tell your seller I'm passing, I'm buying [00:36:00] another business. And that was it. Um, and he said, okay, best of luck.
+
+And that was, that was it. So I was like, what a weird, I have no desire to work with him ever again. I don't care to talk to him. I don't care if he has the golden goose of a listing. I, I, it doesn't matter to me. Uh, I'm, I'm big on integrity. And I was like, that is not how to handle, you know, a transaction.
+
+Then I'm, so, I'm thinking it's dead. And then, uh, yesterday the actual listing agent who I had talked with about Holy Other Company, text me and said, Hey, so I heard there's some stuff going on. It's like, I still think this is an opportunity we should talk. And so what that's telling me is like, you don't, one, you don't have buyers for this.
+
+Like, I know you don't because they're, they're scrounging. Uh, and I know why, because there's red flags all over the place. But, uh, I come to find out that the seller, uh, was working a project in, uh, Asia. And so he was [00:37:00] leaving, he left, uh, end of day Friday, which is why the, that. Aggressive broker was kind of trying to get this committed because I think the seller asked of the co brokers that he wanted some activity or wanted to know a status and like, where are we before he left?
+
+'cause he was gonna be gone for like three weeks. Well, he didn't communicate any of that to me, which would've been helpful information. Not that it necessarily would've changed my timeline, but, um, so that's, so he's now overseas and they don't have like momentum to, to offer the seller by way of saying like, Hey look, you know, we've got an LOI in front of you, or something like that.
+
+So, um, anyway, the, the, the actual listing broker said, you know, sorry, he is like, if anything, he was acting on my urgency because I knew he was leaving, you know, the, the country. And so I was trying, I was like, well, I mean, you guys talk about communication, like, you gotta tell me these, like, you know what I mean?
+
+So anyway, I, it was just a weird, all of it was weird, like. The, the broker I, I had [00:38:00] been working, was very aggressive, was very kind of like a hard sales guy. Like, you know, trying to almost bully me into action or, you know, kind of like using baseball tactics. And I was like, uh, I wasn't born yesterday, bud.
+
+Like, that's not gonna get me to make a move whatsoever. Um, so that's where we're now, and I talked to the, the listing broker today and, and got more background on a lot of this, and that's how I found out. And he's like, yeah, you know, I go, so look, did you tell the broker or the tell the seller, I'm, I, I'm passed because this is dead in the water, if that's the case.
+
+He goes, well, money talks, money talks, everything can become, can come back from the dead. You know? So, uh, you know, like if you still wanna put that offer together, you know, I was like, oh, okay. That's what I.
+
+Both of those guys, I really don't care to work with either of, they're both not my kind of people, especially the overly aggressive one. But, uh, yeah, definitely put a weird taste in my mouth. 'cause I've had really good broker engagements [00:39:00] actually throughout the process so far until this situation, uh, just a weird one.
+
+Yeah. 
+
+**Athena:** Like, never have I heard of Burger, like aggressively stalking someone. Right. Which to me is like, how good of a deal is this when, that's 
+
+**Justin:** what my wife said. She's like, that's, it's, it's in 
+
+**Athena:** a market where like Yeah. There is literally more searchers in your market than like anywhere else. Right. Yeah. So it's just like, that's wild.
+
+I'm, I'm sorry, you ru I'm I. How's your mom? She, 
+
+**Justin:** she's better, she's still in the hospital, but, um, prognosis is po more positive than it was end of last week. So I think we're on the road to recovery. She's gonna be in there probably for another three, four days is what we think. And then hopefully they'll, uh, they'll let her go home.
+
+But, uh, yeah, 
+
+**Athena:** it's uh, it's like, I'm sorry to hear that. It's kind of situations like that [00:40:00] that help you put things in perspective too, like, dude, yeah. Come on. Like, just some sensitivity when I tell you I'm dealing with like, family situations, but that's so good to me that, that, that there, that there's something off if they're.
+
+Aggressively chasing you like that? Yeah. You never got the financials that you were asking for either, did you? 
+
+**Justin:** Uh, not, I mean, the convers, I didn't get them on paper, but I got context behind what I was looking for in the chat today with the listing broker, which would've been helpful to answer some of those questions.
+
+Um, yeah, I think they were just, I don't know if they were intentionally being cagey with it or they just didn't have that information or I, I don't know. I, I have no idea why they wouldn't just be as transparent as can be if they really wanted to get an LOI and transact on this. Um, but I've been kind of dripped information, you know, and I was the one asking like, Hey, okay, if you wanna move this, like, here's what I need, I need this, I need this, you [00:41:00] know?
+
+And, uh, yeah, it was just peculiar. So I was given some of it, not all of it, or, or half like metrics, half information. That wasn't the full story. And. It was like, did you not know the full story then by talking with your seller? Is that like that because that's your job as a broker. Like you need to get the story so that you can set this up for a sale with buyers.
+
+Like I just, I don't know. It was, it is all just, it was weird. 
+
+**Athena:** Sounds weird. Um, that was the influencer one. Yeah. Right. Yeah. Okay. Yeah. Any, any news on the other, other two? 
+
+**Justin:** Uh, nothing back from the roofing company yet. I'm actually, I've got a note to, to ping the broker on that yet. Uh, or again, just to see kind of where he stands.
+
+He was gonna set up a meeting for us, the broker, or they a seller for that one. Still had you still hung up on, uh, not enough cash at close 
+
+**Athena:** is what I've 
+
+**Justin:** come to find out. Um, and I, honestly, I don't think I can come out of pocket much more [00:42:00] without completely altering the nature of, of the offer. So. Um, I don't know what's gonna happen with that, but he said, you know what, let me just get you guys in the room together and let talk it through.
+
+So that was what he was trying to do. His his, uh, next step was to get us back, you know, on the line so we could kind of just talk it out. Um, so standing by for that and then, uh, the co-working space. Yeah, it's actually the broker. I didn't, I didn't expect much 'cause like a week and change had gone by with like radio silence based on my offer.
+
+And, uh, and I think I mentioned the, the broker for that one said that he didn't think it was gonna be received very well based on just the nature of what I put in the LOI. He goes, but he goes, the guy, he goes, surprisingly, seller was not against, you know, principally like where we are. He goes, he's, he's got some issues with some things, but he did.
+
+So he gave me an update. Um, not, uh, doesn't love the performance note portion. Um, and instead it sounds like [00:43:00] is quote Courtney Berger willing to stay on for a little equity. And I'm like, well, what is he gonna do for that? Like, because I don't wanna just give equity for no reason. Like, what's the point?
+
+Like a little bit small of a person. Like what do we, what do I gain? Right? And he is like, well, and I think I phrased it like, well, what kind of role would he want to have, you know, for some equity? And he goes, well, I don't, he wouldn't necessarily wanna role. I was like, so he just wants equity. Like, it's like 
+
+**Athena:** equity, just like, it's not like you're gonna roll over and like exit in five years, you know?
+
+Yeah. 
+
+**Justin:** That's, that's why you 
+
+**Athena:** would offer rollover equity in that case, you know? 
+
+**Justin:** Exactly. If anything, I'd rather him not have equity and I just own the screen clear cleanly and mm-hmm. Call it a day. And I think that's what his counter was to the performance, or at least align it. Like if he's gonna help, he, he wants like a second bite of the apple if he wants, if he's going to at all put.
+
+His name or, [00:44:00] or, you know, signature on the line towards any kind of performance metrics, I guess is kind of, but he then I asked him like, okay, well then what, to what extent are we talking about on if, how much equity and then how much performance can be attached to like, his interest, which will now be ideally synonymous or, you know, congruent with each other.
+
+And, uh, and, and he didn't really have much of an answer and I was like, well, can we get us on the line? Like, can you get him back on the line? Like, well, I'm happy to talk through his ideas. Like, you know, um, and he is like, yeah, well, like, like just kind of run your numbers, like run your numbers and see it's like.
+
+Why do brokers just love to say, run my numbers? Like I, I don't like, I'll run numbers, but I know what my offer is built around. 
+
+**Athena:** Don't, they don't know how to do it most of the time, you know, like, yeah, most brokers have never been in the buyer's seat. They don't know how to model it themselves. They don't, they, you know, it's true.
+
+It's like they, they, they hand off to some guy to do a business evaluation for them and maybe they like hand, you know, help [00:45:00] put together some add-backs on a p and l and that sort of thing. But like, I mean, you guys see how complicated our, our thing is, and I've tried to make it as not complicated as possible, but like, yeah, they don't have that typically.
+
+Like, I think that's why they say it. And you know, Elliot says this a lot. It's like they're, they don't. They haven't done, they haven't sold a business. They haven't bought a business. So like they're in between two people doing things at a higher level than they've ever done themselves. You know? Yeah. So it's like, it's accurate.
+
+It's almost like a fob off to be like, oh, like, I don't know how to answer that. So like, oh, run your neighbors. You know, like, 
+
+**Justin:** yeah. Yeah. So it, it's, yeah, it was interesting. So anyway, that's kind of where that is, but it's not, it's alive or it's not dead. Um, it may be changing, and I don't know what that looks like.
+
+And I also don't know what that means for financing, because, you know. Uh, Matt's contact that he gave me was the only line I've got to this alternative financing so far, at least. And [00:46:00] he has a pretty demanding criteria list of what he needs in order to finance anything, like even get close to a term sheet.
+
+Mm-hmm. Um, and that would only happen after LOI and we've got, you know, something that we can lend on. So, um, we're kind of like at a bit of a, I guess I gotta get creative and this is part of what I, I was gonna kind of work with, uh, work through with you on the, when we connect on the one-on-one is just like, yeah.
+
+Some versions now of this like, new scenario and like tinker with it a little bit. Maybe I could get your eyes on it and just, um, because this all just literally found, just found this out today. 
+
+**Athena:** Yeah. Yeah. Let's model it out and see if there's some. 
+
+**Justin:** Yeah. Things 
+
+**Athena:** you could do there. I'm happy to do that, but I mean, they don't have any other options right now, you know?
+
+So. Yeah. 
+
+**Justin:** Yeah. I mean, the, like I said, this one's not distressed by any means. The, the seller is like, he's kind of a laid back chill guy, but he is also, doesn't need to sell for any reason. I kind of like Mo he had moved to Nashville, which is, [00:47:00] it's the story as to why there's a bit of a dip, like in performance.
+
+But he's, he's now moving back to Houston where the, the business is based. So I don't, you know, maybe that's a good thing. I don't know. I mean, especially I guess if he wants equity and he's gonna be more, you know, I guess prone to seeing through its success. But, um, but I do know he's more involved now and looks like he will be, at least until a sale happens, um, because he's gonna be moving back to the, the market, uh.
+
+So, oh, and then coincidentally, the, the broker who I also really liked, super nice guy, really enjoyed talking with him. He's, uh, even though he's not, you know, he's still a broker, right. For what that's worth. Um, but nice guy. And he said, uh, he goes, yeah, you know, I've got a pretty sizable, by the way, I've got a pretty sizable, uh, commission, you know, that would come out of a transaction like this.
+
+I'd be into, you know, leaving that on the table for some equity for this deal. [00:48:00] And I was like, Hey, what about your aunt? Do you have a grandma? You wanna bring her in for some equity? Like, who else can we get some equity? Who wants your dog? Do they want equity? It's just, it's, it was just his hands up. Yeah.
+
+Gail, you and colleagues, what you have UX equity, 
+
+**Athena:** everybody gets some equity. Let's go. I 
+
+**Justin:** feel like I'm Oprah with, with like cars on, like under your chair or something. It's like, you know what? Equity for everybody, let's do this. 
+
+**Steve:** I have a dog too that wants some equity. 
+
+**Justin:** You know what? Done, done? Uh, all the bones, all the bones the dog can handle.
+
+Um, yeah, it's, it, it, yeah. So anyway, because this is non SBA and we all know it there, everyone's being like, real, let's how crazy can we make this one? Like, you know? 
+
+**Athena:** Yeah. Well, I'll, I'll be interested to like, revisit the terms that we saw on the performance note and see if there's anything there where we can still keep it favorable for you.
+
+And, and like the equity thing, I'm like, uh, I'll, I'll noodle on it [00:49:00] tonight too and I'll probably have some, you know, creative ideas around it because it's not an SBA deal. We can, we can get wild, do everyone some equity. There you go. There 
+
+**Steve:** you go. I, um, um, let's 
+
+**Justin:** see, let's make it happen. 
+
+**Athena:** Oh, that's funny.
+
+Awesome. Um, well, uh, good stuff. So always, always good to talk with you guys. Steve. Nice to see you too. We were, um. Just since we have five minutes, are there any, any thoughts you had after the financial statements conversation last week?
+
+**Steve:** Are we talking about Elliot? 
+
+**Athena:** Yeah. 
+
+**Steve:** Yeah. He's awesome. Um, yeah, he's, he's phenomenal. Um, wow. Thoughts on Elliot? Uh, you know, definitely, uh, yeah, I don't know. I don't know if I'm more scared about buying a business now after talk, listening to em or, or less scared. That's exactly what Gil said. You guys are not really doing a good [00:50:00] job at selling this idea, to be honest.
+
+But no, I was just happy to hear that it's not just us against the crazy stories of the brokers. Thank you. Justin. I, I know I jumped into the end, but I'm like, I even texted Polly. Everybody's got their Ramsey. 
+
+**Athena:** Oh, yeah. 
+
+**Polly:** Hey, I, I have to chime in and say, what's really funny about that is the group that he's with, um.
+
+I get their newsletter that just is like, these are the deals we have. And that deal is still open for sale. It's so funny because he was like, I've got, you know, a couple of Lois and you guys are gonna have to ask, you know, act fast. And then of course he didn't answer any of my questions and I reached back out to him and never responded to my email.
+
+But that business is still for sale, so I guess his Lois didn't work out. 
+
+**Athena:** Oh my goodness. I, I, I wish we didn't have to have these like conversations, you know, [00:51:00] like the, just the, the brokering industry as a whole. I guess there's bad actors everywhere, but. 
+
+**Polly:** There are, and you know what? All the rest of 'em, I will have to say, I, we have not had one bad experience with anybody else.
+
+It just, you know, it's one bad apple in the bunch. It's not a big deal. But to Justin's point, I mean, you have one like that that's just so incredibly pushy and they want this from you and that from you, and they want it right this second and just not necessary and not, certainly not in Justin's case, taking into family considerations and so forth.
+
+So anyway. 
+
+**Justin:** Yeah. They, they even used the line like, there's 20 more behind you. Yeah. I was like, yeah. I was like, well, there's also 20 more businesses to choose from. Like Yeah, exactly. So you like, it goes both ways, bud. 
+
+**Polly:** Yeah. And, and to think that I had. So my questions that I had sent this guy originally, like the first time I should say, [00:52:00] were pretty extensive, and we went over that with Athena.
+
+That might've been a little bit too much, but then I sent him another email and kind of scale scaled some things back and said, Hey, you know, we could have another conversation. And he never responded to me. So anyway, 
+
+**Steve:** but, but just to be honest on that, Justin, just to clar, you know, put some more, like you said, you, you don't really take too kindly to be getting bullied and everything else.
+
+So the reason why the 1 million questions, it was me that jumped in with all these millions of questions. I'm like, I'm gonna make these guys like miserable and Athena since has straightened me out. But, uh, it's just, it is just a reaction of like, you know, screw you. It is like, uh, you know, I don't know, just sometimes I'm not the one who should take the phone call.
+
+**Athena:** Yeah. You know, it's, it's so interesting to me how much, um. They do themselves and the sellers a disservice because they let ego get in the way. You know, it's like, okay, [00:53:00] hey Polly, all of your questions are valid if you were to prioritize which ones are most important at this point. Exactly. You know, it's like, it's genuinely just like, Hey, I, we're gonna get all your questions answered during this process.
+
+Maybe not all at once. So like, which ones would you like answered now? 'cause I got a bunch of people an, you know, it's like, it's just yes. Having that ability to be like, okay, like, and it's, it's valid for you to have questions. You're gonna be making a multimillion dollar purchasing decision that can put your whole family at risk.
+
+Right. Um, but it, yeah, it's, it's wild being in, in and around these conversations and these players and, um, you know, uh, I, I hope that, you know, as we continue to do work in this space, that we're able to change it for the better. That's something that's really important to me. 'cause, um. Some of the brokerages that you all have interactions with.
+
+I'm just like seething behind the scenes. I'm like, oh, if you weren't behind a good deal, you know, or a potential good [00:54:00] deal, like I would've put you all outta business. 
+
+**Justin:** The the bar is surprisingly low for what I thought was coming in as a, a novice, you know, to this I, I, I was like, oh, everybody's gonna be real dialed in when it comes to, like, how businesses transact.
+
+No, no. It's surprisingly low bar. Yeah. And I'm like, wow. I, I, I'm starting to learn. I know nothing still, and I'm starting to feel like I know more than the brokers in some of these cases on, at least from a sales like transaction perspective, how to frame this, how to represent a client. But like, I'm like, and I should know, like, you've been doing this all longer than I have bud.
+
+Like, I shouldn't know this. I shouldn't feel like I'm just, you know, confident. 
+
+**Athena:** Yeah. It's because all the, all the good practices from private equity, investment banking, everything are coming lower. And, you know, these brokers, there was no barrier to entry. There is still no barrier to entry apart from being able to like, not get paid for 12 to 18 months, you know?
+
+[00:55:00] So, um, in, in some states there is, you have to be licensed by the real estate board, which I don't, I don't make it make sense. Like, just like how does real estate and business transacting have anything to do with each other? So, um, you know, there's, there's not really like consistency across the board, but like there is now a barrier to entry because as a young person to try to enter this space and you're using their model, you do have to wait to get paid for 12 to 18 months.
+
+So you just have a whole bunch of people that have gotten themselves to the point where they can take that amount of time, which kind of gate keeps younger people being able to get into it. You know, it's like the taxi. Did, did any of you ever go to London when the black taxis were the only way that you could get around?
+
+Or do you, are you familiar with it? Yeah, they, they have to like study for like three years to be able to get their taxi license there. It's called the knowledge. They have to be able to like [00:56:00] buy memory, know every single little side street. Um, and when I first moved there, it was the only way to get home if the tube wasn't running or the buses weren't running.
+
+You got a black taxi and these guys were so full of themselves and it was like this little mafia of people, you know, that were like, I'm a black taxi driver. And so they refused to take credit cards. They, if they didn't like the look, yeah, they, or how you talk to 'em, they'd just leave you on the side of the road at three in the morning.
+
+They just felt like they were untouchable. Gil, was this kind of your experience too? Yeah. 
+
+**Gil:** Yeah, most definitely. 
+
+**Athena:** And then Uber comes along and it's just like, man, like, okay guys, that's what you got for treating people like crap and not offering what they want. And Uber, it's like, I can rate this driver. I can know exactly where they are and what I'm gonna get it.
+
+Like I know that they've been background checked and whatever, and I can use my credit card, you know? And the convenience of being able to do that. And it's like, you know, overnight black taxis [00:57:00] are just irrelevant. So I kind of see that happening with the brokering industry, like, these guys are doing it this way because that's how they've always done it.
+
+And there's been a barrier to entry in terms of like a. You know, not being able to be paid for a long time, but I don't see that lasting long. And if I can be a part of that, then I, I hope I can be. But anyways, um, yeah, I love our chats. Uh, so good to talk to you all as always. Looking forward to catching up with you individually tomorrow.
+
+Um, we've got Barlow Williams coming back on Thursday, so they're gonna be going through, we've updated the SOP template on your dashboard, but they're gonna be going through the updates they made based on the SOP changes. And also I've asked 'em to touch on legal due diligence. So like, after you're under offer, what are the kind of legal things that you need to be prepared for or look for?
+
+Is there stuff that you can do earlier on what to, what to expect from the legal. Side of things after you get under offer, uh, and go through that process. So, um, [00:58:00] James, David and Bill from Barlow Williams are their own special like personalities and stuff and I absolutely love dealing with them. So I hope you guys join on Thursday 'cause that should be fun.
+
+Um, if you haven't met them before, they are like, pretty much the main lawyers that I recommend, they just are exceptional. Um, at, you know, efficacy, flat fee, really caring about the outcome and making sure that they protect their clients and, you know, contributing to this space. So, um, hope to see you all for that on Thursday and I'll see you all tomorrow.
+
+So, um, enjoy the rest of your days in the meantime. 
+
+**Gil:** Thank you. Thanks. 
+
+**Athena:** See y'all. Bye. Bye.
+
