@@ -1,0 +1,534 @@
+# AcquiMatch Buyers Club 06/05/2025
+
+[00:00:00] 
+
+**Athena:** Hello. Hello. Welcome. Welcome.
+
+Hey Steve. Thanks. Nice to see you. I think we got a few more coming in. Um, yeah, it looks like Polly might be here. I think Justin's gonna be jumping in. Hey Polly, how are you? Good, how are you doing? I'm good, thanks. Um, awesome. So I'm just gonna, there he is. Cool. Justin is here too. So I've got some, uh. I got an agenda that I was going to, to follow through.
+
+And before I do that, um, I'm gonna talk about Thursday too, just to make sure. Uh, I don't think we dropped an announcement in, in the Buyer's Club channel yet, but we're having Elliot Holland, uh, come in. Elliot, um, has been doing diligence for 15 years. He's [00:01:00] seen it all when it comes to deals. Um, he is a QE provider, but also has been working a lot with buyers on, you know, what happens after LOI getting a deal to close.
+
+So on Thursday he is gonna be talking, uh, just about that. So post LOI, um, things aren't appearing as they initially were. So how do we have these conversations? What's a deal killer versus a deal? Um, adjustment. Um, what do we do when the Q of E comes back? So I know, uh, one of you is, is living this reality right now, so it'll be a very timely, uh, conversation.
+
+But this happens on, on just about every deal, right? Things are gonna come up post LOI that you weren't expecting or not as expected. How do we bro these conversations, um, what are kind of the negotiation tools that we have in the toolkit? So he is not only a diligence. Due diligence provider from the QOB side, but excellent in negotiation and he is kind of seeing everything.
+
+So, um, he's gonna be doing a, you know, uh, [00:02:00] conversation, fireside chat, uh, presentation about all this stuff. So really great opportunity to learn, you know, some different tools in the toolkit and get direct to access to Elliot. Um, he, uh, typically charges for this kind of consultancy and stuff, so I'd highly recommend you join that conversation on Thursday so you can ask all your burning questions too.
+
+Um, cool. So, um, I was gonna kick off and chat through Justin's opportunity. It was something that went away and came back. And then Polly, I know you've had a few conversations, so I was gonna circle back around to you after we chat through Justin's stuff. Um, and then if we have some time, Gil, maybe you don't mind me sharing a few learnings that we've gone through and where you're at, even though I know we've talked, but we'll see where we get to timing wise there.
+
+Um. So Justin, let's chat. So give us a, an update. This was a deal we loved for you. It was a big one. Went away. Yeah, it's [00:03:00] come back. So give us, give us everybody the, the kind of context and update and then what would be useful to talk through in advance of your re-engagement call with the broker tomorrow.
+
+**Justin:** Yeah, so yeah, this was a roofing company, uh, that I, I talked with, was very competitive, uh, from an an offer perspective. Um, I think according to the broker, they got upwards of 20 offers. Um, a big cohort of that was, you know, pe um, because it's just in, it sits in that, that range that would attract them. Um, I think 2024 EBITDA was about 2 million, just shy of 2 million.
+
+Um. And so I, I put my hat in the ring. I submitted an LOI following some, some conversations with the broker and the seller. We really hit it off. But, um, you know, I was not the high end of that, that spectrum when it come to the offer. Just, it was, you know, outta my price [00:04:00] range. Couldn't make it work. Uh, but they really liked me and then they said, but you know, let's keep talking, you know, standby.
+
+And then it kind of went radio silent for weeks. Um, and I would check in periodically with the broker, Hey, what's going on? He's like, oh, we're still, you know, figuring out, you know, when he would respond, sometimes he just wouldn't respond. So I assumed it was done, you know, it was like, okay, well they taken one of those, you know, PE offers, um, that were at least a couple million more than my offer.
+
+And, uh, then he came back to me, said, Hey. Let's, let's have a chat. The broker said, let's have a chat. I got on the line with him and he said, you know, are you still interested? I said, yeah. He goes, okay, well, we had the p offer we thought we were gonna go with at the, at the ninth, bottom of the ninth. They had a bunch of strings attached that weren't a part of the original LOI, and in effect, they wanted the, the owner to stay on for years following, uh, the transition.
+
+And he didn't wanna do that. And he's like, I want out. I wanna retire. You know, I don't, [00:05:00] I don't wanna be stuck. And so that changed everything. And, uh, I think I, I don't know for sure, but he said, the broker said, you know, John, the seller really likes me and that he envisioned. This going to somebody more like me versus an equity firm.
+
+Something to that effect. Uh, so that kind of brought us back to the table and he sent me, updated, the broker sent me updated numbers year to date, which I did not have when I submitted the LOI had, you know, calendar year 24 at the time, you know, six, eight weeks ago. So that's, uh, kind of painted out almost a new picture too, because of the updated financials.
+
+And, um, that's where we sit. So I, you know, we're, I'm hopping back on the line with the seller and the broker in a, in a call tomorrow morning and trying to kind of catch up on where they sit, what they've seen in the, in the weeks since I've had a chance to talk to the seller directly and, you know, see if we can make a deal out of this.
+
+Um, there are, I do know there are other interested parties there are talking to, so it's not like I'm the only guy in town, but I am on a short, [00:06:00] shorter list than I originally anticipated. I'll put it that way. 
+
+**Athena:** Right. Okay. So from a strategy perspective then, this is not just gonna be with the broker, it will be the seller also on the call.
+
+**Justin:** Yep. 
+
+**Athena:** Good. What's your plans for the call? Has they just set it up? You don't know what they're gonna go through, so you're kind of, you can drive this or the, 
+
+**Justin:** he just, he wanted to set it up, kind of get us back together. Uh, probably some element of just catching up on the latest, what's transpired. I mean, part of my agenda is I definitely want to see, uh, more, uh, find out more details around what happened with some of the opportunities that they didn't go with that I know we're, you know, more money for sure.
+
+Um, and just try to pick in and out a little bit to see if I can, you know, peek under the hood and, and understand more of what's really motivating, um, the seller. And then, you know, part of this, the tactical nature of the conversation, and this is something I wanted to [00:07:00] ask, you know, you and, and the team here is that, you know, the trailing 12, he had a slower first quarter in 25 and it's very project based around right, like hailstorms they go, he was a former adjust, the owner was a former adjuster, so he knows the insurance game really well and that's what gave him the confidence to go to this side owning the roofing company 'cause he can play the game and knows how to basically get referrals through the insurance companies as like the vendor of choice for new roofing and all.
+
+I mean, he knows that inner workings very well, which is kind of his competitive advantage. Um. But it's also project oriented around a lot of storms. Well, if there aren't storms and hail and incidents like that in the central Texas area, it's a little slower. Um, and it was, that was the case in Q1. So the revenue in top line revenue in 24 was like 8.6 million year to date, or, uh, trailing 12 is just under seven.
+
+So there's a, a [00:08:00] pretty, you know, notable change in revenue and then of course EBITDA and everything that follows, you know, underneath that. Um, and so my offer that they see on paper, on the LOI was the original numbers. And now, you know, we've gotta, I've gotta figure out kind of what, where can we reign this in based on more recent performance and, you know, what's his expectation around a realistic multiple, you know, based on.
+
+The numbers we have in hand. And he did, broker sent me some, like, here are some accounts receivable that we've got coming on the pipe or whatever that haven't been, projects haven't been collected on yet. Um, so, but all, all of those new things to consider. 
+
+**Athena:** What was the original multiple that you offered?
+
+**Justin:** Four and a half. 
+
+**Athena:** You did offer a four and a half. Okay. And so the new model that you were sending over that was modeled around the same multiple. Same 
+
+**Justin:** multiple. Yeah.
+
+**Athena:** I mean, [00:09:00] a 4.5 for that kind of growth trajectory is realistic, but now they're on a down. 
+
+**Justin:** So, yeah, I mean, he, we had the storms that came through recently and he said that that should infuse more in the future. So I know they're gonna lean, I just, I know they're gonna lean into like, well, yeah, but, you know, that kind of thing and say you've got a lot of stuff coming, and so they're gonna hold value to that.
+
+Um, right. We all, we all know, like, lenders only see what you've done. So they, they're gonna, you know, funding is gonna be largely contingent on past performance. And, and yes, there's value to what's to be, um, received in the future, but you know, what, if something happens and those payments don't come in and you know what, what have you.
+
+So, 
+
+**Athena:** so I would almost like, so there's two conversations we need to have right now. One is what's the, what's the strategy for tomorrow and going forward, and then what's a potential new [00:10:00] offer look like? Mm-hmm. Which you don't, and you shouldn't throw out on the phone. I would give, yeah, I don't. 
+
+**Justin:** Any 
+
+**Athena:** numbers tomorrow.
+
+Right. 
+
+**Justin:** I don't plan on any of that. Yeah. 
+
+**Athena:** Yeah. So, but I'm, I, I like to kind of know the end in mind, like what's, what's my variables here? What I'm just listening to 'em and hearing about and seeing what's important to them. And, you know, I wanna just pull the multiple down for the cash at close and then offer like a performance note, you know, to get them back to that 4.5 or higher level.
+
+**Steve:** Mm-hmm. 
+
+**Athena:** Um. Because they, they now are showing that they can't sustain that kind of growth supposedly, right? Well, it's like, well if you can't sustain it and it is your trailing 12 continues, then you know, this is where I would be comfortable at. And then we could do a performance based note for anything above that.
+
+If you do hit those metrics that you hit [00:11:00] in 24 or continue to hit that kind of like growth in the future. Um, but we would model that all out before you talk to 'em. So tomorrow, I think what your, your strategy's good. Kind of hear the broker out and then the things that I would want to tease out from them are, and you can, you know, for it sounds like you have a really good relationship with the broker too.
+
+I get a sense that both of them really like 
+
+**Justin:** you. Yeah, yeah. They're very friendly people. So we, we have good chats when we've talked. 
+
+**Athena:** That's good. Okay. So then it would be, uh, you know. What about the, like what components, if we were to like actually break this down component by component, the amount of time you had to stay in the business, what was not okay for you there?
+
+Okay. Is it an amount of time or the active role that you would have to take? So there's a difference of like being on as a consultant and on the other end of the [00:12:00] phone versus actively running the business, which a lot of private equity, they'll, they'll make the owner just continue as is. Right. And they, 
+
+**Justin:** that was, that was the pe They basically just said, nothing changes.
+
+Like, you're gonna stay on, we need you to stay on. And, uh, and he goes, no, I don't wanna do that. 
+
+**Athena:** Yeah. So then it's like, okay, well, like let's, let's talk through that, right? Because I'm gonna want to transition from you, but you know that I wanna be the owner of the business, but I'm gonna need you more actively involved upfront.
+
+So like, what kind of like hours or role would be ideal for you? And I would just get, and you're so good, like having your sales background, like the consultative kind of discovery, you know, and hearing out what their desires are. On these different components. So it's like, okay, well first of all, tell me what you didn't like specifically about these other deals.
+
+Like, why didn't you choose 'em? What, what were deal breakers for you? Because they were offering you more money. So forgive me if I'm wrong. How would you walk away from more money than I offered you? What, what was a deal breaker for you? So that you [00:13:00] can get an idea of like what their deal breakers are, what were the things that they didn't like?
+
+Um, and then that also gives you insight and negotiation in your back pocket for when they ask for more money. It's like, well, I'm not asking you to be an active owner of the business for two years. Right? So I'm gonna have to do that. So first of all, get them to try to talk as much as possible about what they didn't like about the other deals that were more money.
+
+'cause, and you can play to the fact that they like you and just be like, forgive me for saying, but like why would you turn down more money? 
+
+**Steve:** Yeah. 
+
+**Athena:** You know, oh, well, what, what, what, what were they specific? Like, what, why, why did you walk away from that? Or what were the deal breakers? Or what did they ask for that was like a non-negotiable for you?
+
+So I can, and then position it as like, I wanna go away and think about what would make a win for you and also a win for me. And, you know, I'm gonna be in a different scenario because I'm, I'm a individual buyer, so this isn't a strategic play for me. So I just wanna understand like, where you're at, where you're coming from, what's [00:14:00] important to you.
+
+So what are all the deal breakers? And then, okay, well, if we were to talk about your ideal scenario, like how much time would you want to work, what kind of role would you want in the transition? What, what would you do to support me and make sure that I was able to, to do things? And also, like, talk about the fact that you've seen like, hey, you're on a downtrend this year, so, um, how would you like.
+
+Look at this, if you were the buyer, you know, and you can almost get the owner, 'cause the owner's there. Like, like is this, I'm, I'm only looking at like, what's happened in the last 12 months. So is the summer normally like the sweet spot? Um, and then the other thing that I'm curious about is like, how much of the business comes from insurance claims and how much of it is just like new roofs, people need a need repairs to their roof.[00:15:00] 
+
+**Justin:** Yeah, it's, uh, I have, he sent me some email. I can track it down. Um, uh, where he, he gave rough per the broker gave me rough percentages. Maybe it's even in the sim it's just been a while since I've gone back to look at that. But I, I do know if a material weight is on the, um, in insurance, uh, pre or, uh.
+
+Claims, but I mean, he says that they're sourced from the he know market and he's got a sales team, you know, and they're still sourced from the end buyer, meaning like the customer who needs the roof. But I think what I, what I understand so far is that he kind of helps navigate, well, two ways. He helps navigate them to, in, in a way that guides them towards what to say, how to say it, to ensure they get the claim approved.
+
+And he says he knows like ways and things to position it, that like not everybody knows in the industry again, 'cause he was an adjuster, so he knows what the, what the trigger words [00:16:00] are. So he helps them in that way. Uh, so he does have the client kind of pushing that way. But my read is, and he was le he was more kg, not kg is the wrong word, but he was more close to the chest about like business or referrals or what.
+
+He might get the inverse of that, where it's like. You know, like the hailstorm that came through Austin recently, a whole bunch of people are all like calling insurance, everybody's, you know, trying to get a new roof or, or what have you. And so he's got, you know, partnerships and, and very close contacts within the insurance world.
+
+So as people maybe even contact their insurance first when they don't have a roofer lined up, they may say, oh, well we have the roofer for you and, you know, that kind of thing. And I don't know, I, I'm speculating again, he has not released anything like that. And he cheekily told me that when I asked him, I go, what's your secret?
+
+Like what you said you got some like secret sauce, like, can you gimme a little bit about, you know, what that [00:17:00] competitive advantage is? And he was like, well, I'll, I'll just close that to the buyer. Like when I've got somebody basically under my wing and, and moving forward, he is like, I'll, you'll know everything there is to know about how this all works.
+
+And I was like, all right. So he is, you know, he's doing a little bit of that. 
+
+**Athena:** So my concern for you as the buyer, and you can, you can decide if you wanna bring it up on this call or post LOI. It sounds like even with the insurance claims, there's seasonality, it's seasonal dependent. 
+
+**Justin:** Oh, yeah. It's very dependent on storms.
+
+I mean it's, and so that is definitely next factor out of control or out of the control because it's not something that the business, it's an exposure point. You know, it's, and I think that's why it's Q1 was softer because we didn't have any hailstorms. Um, we, we did recently. And he, so it's very, it's not like a month over month, very stable forecastable [00:18:00] performance.
+
+It is ebbs and flows, it's windfalls and then a little bit of drought and kind of thing. Based over the year, over year's performance, at least until the trailing 12, it was in 22, they did, I'm looking at the breakout, 1.5, top line revenue 23, 4 0.5 7, 24, 8 0.6. So they have been massive like upswings year over year for past few calendar years running, um, year to day or the trailing 12 is where there's been a dip.
+
+But it wouldn't surprise me if, because of that lull and then the rebound again, we're gonna see another big uptick that more than makes whole potentially 24 or more. I, I don't, I, you know, it's hard to, it's hard to know. 
+
+**Athena:** Well, I guess, I guess from the buyer's perspective, right, and like starting to plant some seeds to make your negotiation points stronger, I'd be like, Hey, you guys, like year over year, just like [00:19:00] insane growth.
+
+And also this is a seasonal business, so like. I'm a little bit concerned for how we, you know, we're seeing a dip already, so like, if there's no weather things or if there's limited weather things like Right. How do you sustain that kind of revenue? Like, how do I make sure I can stay still, make loan pays, you know?
+
+**Steve:** Yeah. And 
+
+**Athena:** they, he might be like, oh, that's for the buyer, but it plants the seed of I'm concerned, you know, like, you're showing me already that you're not on track with what you did last year. If this is dependent on seasonality and as Luke just pulled 90% our insurance driven claims, which I'm assuming are dependent on weather, like, how do I, the new buyer, make sure that I'm at least sustaining that kind of revenue to be able to make my loan payments, you know?
+
+Yeah. And so I think if you throw out that doubt, just be like, I'm, I'm not private [00:20:00] equity backed, like I need to be able to pay my loan payments every year, you know? 
+
+**Steve:** Right. 
+
+**Athena:** Um, so like, what it, what, how are you looking at that as an owner and you know, like, what if there are no, whether it's, are there reasons for people's roofs to get fixed or.
+
+Other ways that you're looking at, like how to get revenue or are you going back and scooping up other claims? You don't need to tell me exactly how, but alleviate my concerns and help me go justify this to lenders and, you know, um, lenders and investors, if I'm gonna offer you top dollar, or is there some way of structuring this that, that we're in this together, that if the seasonality things don't happen?
+
+Right. So I wouldn't get into any specifics, but I would just like, when you're in a good place and dah, dah, dah, and just be like, Hey, I, I gotta, you know, talk about the, the numbers not being what they were the year before, as you know, like. This, [00:21:00] this has a potential to bankrupt me. I'm an individual buyer.
+
+So how do you look at that as an owner, right? And mm-hmm. And just have that conversation and just say like, I know you don't wanna tell me your secret sauce or whatever, but like alleviate my concerns that we'll be able to sustain this kind of like performance despite the weather, you know? Yeah, sure. Or can we structure this in a way that if there's not major weather events that I'm not bankrupting myself, like what would you recommend here?
+
+And you can throw it over the broker and the owner and that sort of thing. And so basically the outcome that you want from this call is you wanna unearth as much intel as you can about what they didn't like about the other deals. You know, show them how excited you are, but also you're still a discerning buyer and you've seen a growth, growth growth, and now there's a dip.
+
+And, and how do we accommodate for that in the way that we work together going forward in the deal that we put together and plant that seed? Because it'll give you more negotiation power like down the line, rather than [00:22:00] just being like, yep, yep, yep, I wanna buy it. I'm not looking at like the issues that you're having or the fact that 90% of your revenue comes from insurance claims.
+
+Like, well, what, what other potential methodol, like if you were still the owner and you had these loan payments, what are you doing to make sure that your performance stays the same? Or what avenues do we have to, to do that? 
+
+**Steve:** Mm-hmm. 
+
+**Athena:** And if they don't have a good answer for that, then it gives you more, then we can regroup after it and we can get more of a performance based structure together.
+
+**Justin:** Yep. Yep. I mean, all, all those thoughts are valid. And the same ones I have, especially being able to leverage the trailing 12 numbers to facilitate that conversation in a way that I think they'll understand, because, you know what I mean? It, my, my guess is that they didn't [00:23:00] expect, you know, a slower first half or whatever.
+
+So when I bring this up, I think it'll resonate. I think it'll land, they'll, they'll get it, you know what I mean? Um, 
+
+**Athena:** another thing ask based on just what I know 
+
+**Justin:** from them. 
+
+**Athena:** Yeah. So another thing to ask 'em, another big component that PEs normally put in as like earnouts, right? So before you start planting the seeds of doubt, I'd be like, you know, were there earnouts, were you uncomfortable with that?
+
+What aspects 
+
+**Justin:** were there? There, there were, broker already told me. Yeah, yeah. 
+
+**Athena:** Well ask, dig into it though. Like what about the earnout made you uncomfortable? Was it you at the helm or the fact that the business had to continue performing that way? Yep. Like what's, what's more important to you? Is it more cash at close or is it overall purchase price?
+
+You know, and then you can circle back to that later and be like, well now, you know, now your, your performance is down year over year. Um, so if you think that's not gonna be a problem, like. [00:24:00] How, how would you structure it? You know? No, I, I know you don't wanna announce, but I need to know that, that the business can sustain the performance.
+
+Like, what ideas are you having for structuring, or what would you like to see there? Because what I'm thinking is you bring the, the purchase price down to something that, like the variability won't bankrupt you if you can't make the payments, and then you entice them with a bigger purchase price with a performance note attached.
+
+So that if they do, if he does show you how to continue to sustain that kind of performance, you want him to be rewarded. Yes. But if, if it's so super seasonally dependent and it can't be sustained, you don't want to be on the hook for that. Right. So it's like you, if you both, you both win. If the business can continue to perform the way it has in the past, but like, holy crap, you went from 1.5 to 4.5 to 8.5, is that [00:25:00] sustainable?
+
+If so, let's both win. But if not, don't don't put me on the hook to bankrupt myself. 
+
+**Justin:** Yeah. It's a fair ask and it's exactly where my head is at when I'm modeling it and, and thinking through how to attach myself to the performance. I mean, what I do know, he wants the, they flat out, the broker flat out said that he wants more cash.
+
+The most cash is possible at close. That's, that was like one of his big ones. Um, so I, I knew, I know that going in. Um, but I think. To my advantage, or in talking through this, he can't have his cake and eat it too. So it's, you can't, you know, you can't de command the highest peak of the revenue performance and then value your company based on that, or expect that from an offer, but then also offer nothing by way of assurance to make sure that that number actually holds true for the next buyer.
+
+Right. You, you can't have it both ways. I mean, so, um, [00:26:00] or maybe you can in a hot market, I don't know. But evidently they, he, there was a reason he hasn't accepted an LOI from one of those other offers. So I think Yeah, advantage just, just digging, digging in there will help. Yeah. 
+
+**Athena:** Yeah. And the advantage of a performance based note versus an earnout is like, you are gonna be the operator, right?
+
+So he's incentivized to train you on how to do those numbers versus him. Being the operator and having to like continue to work full-time in the business to, to get more than what he's already achieved. So I would like, you know, do all the discovery questions and stuff and just be, and ask the broker like, hey, you know, here's, here's the variables I'm seeing in the concerns I have.
+
+Like what kind of structure do you think is the right structure going forward to account for the variability and the trajectory? And then we're seeing it down and this is seasonal and you know that I'm an individual buyer, that's gonna be the operator. [00:27:00] So what kind of, you know, structure are you seeing here?
+
+Right. Um, so like. Get them to throw something out and then be like, well, you know, um, have you guys talked about performance based notes at all? And, and then say like the, you know, the upside of that is that you're not having to be the operator. I am, you're incentivized to help me keep the business on track the way it's been performing before, but then we both win if, if we prove out that it can sustain this kind of like, growth in numbers, right?
+
+Yeah. Um, so leave that to the very end. Once you've gotten all, what's important to them? What's important to the seller or what's the broker's idea of like, how, you know, what kind of structure this is? This needs to close. Have they have, they talked about performance based notes, you know, you've done really good in the past of like teaching people about these sorts of things.
+
+So. Um, the broker might be like, oh yeah, I hadn't thought of that. You know, and it's like, he's not gonna be the operator. I am. But it's a, a way that we can sweeten the pot for everybody, because I want [00:28:00] those numbers to be hit. But if they're not hit, I'm not, this isn't a, you know, an investment fund for me.
+
+Like, I'm literally out on my butt. I, not in Texas 'cause it's the homestead state, but still, you know, um, yeah, you, you can play to that. You know, it's just like the, how does, does the owner know that there's a personal guarantee and you just ing your, bankrupting yourself and losing your home and all of your da da, you know, all of your assets and like the stability for your family.
+
+It's not like you're a fund, you know, you are an individual that's putting it all on the line. So you need some sort of security that what you're buying is gonna sustain that. So, um, yeah. I, I think you're in a really good place, especially since you have a good relationship with them and you're so, you know, good at asking these questions.
+
+So I just get as much intel as you can. Once you have that conversation, you find out what's important to them, see if they're circling around some [00:29:00] sort of number or expectation around performance. Then we can like structure something that gets them close to what they want and what's important to them, but also protects you and incentivize them.
+
+**Justin:** Yeah. Oh, that, uh, makes sense. 
+
+**Athena:** Cool. Well send us an update after your call tomorrow. That's exciting. 
+
+**Justin:** Yeah. Yeah, will do. Oh, and not for nothing, I guess, but I'm also got a call with the seller for the, uh, work lodge, the, the other Oh, good. Tomorrow, that's first call I'm gonna have with him, but we've got that tomorrow afternoon.
+
+**Athena:** Yeah. I'm still looking for, I'm not, not having any like. Massive bites for that one, but it's interesting. So you get to just meet the seller regardless of the financing situation. Hey, I mean, if he loves you, seller financing is, 
+
+**Steve:** might be his only 
+
+**Athena:** way here, you know? Well, 
+
+**Steve:** we'll see. Yeah. 
+
+**Athena:** Good. I would, I mean, if you're talking with him, [00:30:00] I'd ask him about that.
+
+Like, hey, um, you know, it is a tough one considering you can't get SBA, like what, what have you been open to in terms of, um, you know, financing options. You know what seller financing is like. Just see what he knows and what he's comfortable with. 
+
+**Justin:** Yeah. Yeah. Can't hurt. 
+
+**Athena:** Good. Cool. Well, send us the updates on both.
+
+Will do. Awesome. Anything else you need or are you feeling good for tomorrow? 
+
+**Justin:** Yeah, I think that's it for now. 
+
+**Athena:** Okay, cool. Good luck. Can't wait to hear how it goes. Um, awesome. Paul. Yeah, I saw Steve just dropped, but I know you've been the one doing the call, so I'd love to hear, I think you've had, uh, two broker calls or was there an owner call in there too?
+
+**Polly:** Um, there was an owner call today, and actually I'll do, we'll do that second. Okay. It, so maybe when he comes back, um, he can give you his perspective on that because he's [00:31:00] looking at it from a technical perspective. I'm looking at it from the internal account management sales perspective, relationship between the owner and the account managers, more from that perspective.
+
+So, um, we, I think we both, uh, had some good questions and she was actually great on the phone. So, um, let me start with, um, uh, and landscaping company up in the Alpharetta area that. Uh, has been in business for 35 years and, um, looks like a good business. Um, talked to the broker yesterday. Um, everything, you know, operationally speaking, everything looks, you know, looks good.
+
+Um, the financials, we need to come over a little more. The broker said that just based on the [00:32:00] business and the fact that they've been so successful for so many years, that it's gonna be probably, we need to, to offer about a four, uh, about a four multiple. So, um, maybe a little more than that. So, we'll, we'll, we can talk more in depth about that tomorrow on our one-on-one call.
+
+What I'd like to do is try to get the whole thing modeled out between now and then. 
+
+**Athena:** Great. 
+
+**Polly:** And then, um, show you and, and we can talk about it. Um, is it, is it common, uh, when there is some, uh, when there, when there's a quite a few people interested, quite a few buyers interested in a business like this for there to be an LOI presented before the seller will even talk to you.
+
+**Athena:** Yeah, it will. I mean, the broker can run it anyway that they [00:33:00] want, but I, I have seen that in competitive deals where maybe you can get a call, you can't get an owner meeting, or the broker wants to get all the offers first and then make an introduction to the owner. So it's not ideal, right? Because the, the relationship is so important.
+
+But is that what this broker's saying is their process 
+
+**Polly:** on this one specifically? Yes. Um, I've actually dealt, we've dealt with this broker before in the past on another deal that we passed on, but. And he wasn't asking for that, but for this one, he is 
+
+**Athena:** Uhhuh. So, um, I would, you know, your video cover letter seemed to work really well last time, so I'd implement something like that if you're excited about the business.
+
+But, um, so, uh, multiple aside, it is been in existence for 35 years. How are you feeling about the business and the opportunity? 
+
+**Polly:** Um, I think it, I think it could be a great opportunity. I think we've got to really [00:34:00] dig in deeper and like I said, and model this whole thing out maybe a couple of different ways, um, from what the broker's perspective was, is that it's gonna have to be some creative financing.
+
+Um, this owner wants to potentially stay on, um, for five years, but doesn't have to, so he's, he's willing to go out the door after the transition period all the way to staying to five years. So, you know, it's. I, I think it's gonna be like a, a per, it could be a performance based deal. Um, it could be, you know, where that's all a part of, of the offer itself.
+
+Um, and him staying on for a period of time as the business grows. You know, just, I think there's gonna have to be some creative financing to this one. So, um, it is not, I mean, it more, more or less, I mean, it's SBA approved and that [00:35:00] the broker made it sound like, you know, that's, that's kind of like a no brainer.
+
+This business has been around for so long and, you know, has, has, uh, has been very successful. Each year it's grown, so, you know, he doesn't feel like the SBA piece of it is gonna, to be qualified for that is, is not, is not even something he's concerned about. But he said the seller financing, the seller would be willing to go probably 10 to 15%.
+
+So that's good. Um, and then the rest, you know, he said it just kind of depends on what, what we, um, present is what we would present in the way of how long we would want him to stay, that kind of thing. So he wants to do sales is really what he wants to do. He doesn't want to do operations, so he wants to stay on the sales side.
+
+He has a, um, a manager who, an operations manager of all of the crews that go out and they do a, I mean, [00:36:00] a plethora of different, um, services. So they, they, they do everything from lawn maintenance to, you know, hardscaping, uh, they do pools. I mean, it's pretty, um, it's pretty fast. 
+
+**Athena:** Is it residential 
+
+**Polly:** or commercial?
+
+It's, it's mainly residential. Um, it's, it's very high end residential, so that's where the success has been. Now they do some commercial, um, but they have, have predominantly been residential and they have maintenance, of course, like lawn maintenance contracts, but they've been most successful in their hardscaping and kind of their landscape remodel and that kind of thing.
+
+So, um, got it. 
+
+**Athena:** Yeah. I was gonna ask contracts, recurring revenue, what that looks like. 
+
+**Polly:** It's, um, the contracts as far as maintenance contracts, they're, um, he said that, [00:37:00] you know, it's a, it's pretty much a monthly thing. Um, it can, it depends. Um, they offer different ways of doing it. It could be a yearly contract, um, it could be six months.
+
+It could be they're, they're pretty creative when it comes to that for their, for their customer on the maintenance side, just on the, you know, on the regular lawn and weekly maintenance, or even in the fall, I'm sure leaves all of that kind of thing. Um, and I asked, you know, what is the, what is the period of cancellation?
+
+And he said 30 days, so mm-hmm.
+
+A 30 day timeframe. 
+
+**Athena:** Cool. And so talk me through what he said is the process, like what's his process? Um, what the, the, the, the broker for like, you know, next steps and that sort of thing. The next 
+
+**Polly:** step would be, the next step would be, uh, coming up with, well, first of all, if we were interested in talking to [00:38:00] the seller, the next step would be an LOI.
+
+So that's gonna be the next thing 
+
+**Athena:** is he saying, you don't get to talk to the seller until a signed LOI or just submitting an LOI, and then you get to talk to the seller. 
+
+**Polly:** I think that, I think submitting the LOI, I think what I'm gonna have to do though is press a little bit more, because here's the deal.
+
+He, I think that because this is fairly competitive, I do think that there are other, you know, there's certainly other offers, if you will, on the plate right now. Um, I, I think that it, that the LOI might have to be a little more creative. Is that, is that possible? Like just presenting it with. The first, uh, I guess with the LOI, um, can you have variations of that?
+
+So we, maybe we could show you like a few different ways, or you could help us with a few different ways and we pick the best one. 
+
+**Athena:** Yeah, I [00:39:00] mean, uh, how quick are you feeling? Like you, so there's, there's. A different strategy depending on what's going on, right? Like if a bunch of people are submitting Lois right now and you just, and this is highly competitive and time sensitive, then you kind of get an LOI out knowing that there's probably gonna be a RET Trader two after the fact.
+
+You know, because you have limited information. You're supposed to define how long you want the seller to stay in when you haven't met the seller. You know, there's just things in there that it's like, okay, the LOI will grant you access to have the conversation and get a deeper look. So, you know, we're really just putting out what we think might, you know.
+
+Did he tell you in asking Bryce and structure and stuff, 
+
+**Polly:** basically taking the SDE? Um, he, he said about a four times plus multiple is what he said. [00:40:00] So, and he said anything below that is not gonna be considered. But here's the thing, Athena, with, with the broker, I, like I said, we, we dealt with him on a previous deal that we passed on, but he's a, he's just, he's one of those, he's one of these people who makes it sound like there are 20 offers on the table, and you really don't know.
+
+He is, he is a little bit, he is a little bit pushy. Nice. But you know, he's, he's trying to get the thing sold as quickly as possible, as I know most brokers are, but. Some are a little more polished and he's not quite as polished. He's a little, little pushier. So 
+
+**Athena:** I very much dislike these folks. Um, this is like, yeah, they're not doing anyone any favors, including their clients.
+
+By acting this way, you know, is really what you need is a, a good relationship with the seller. But I also understand that they're trying, like, when there's a [00:41:00] lot of interest on a deal, they're trying to like, keep the seller from going on this like, road show of a bunch of conversations. So, um, what I would say is like, do your best to do some modeling, um, based on what you know.
+
+We can look at it tomorrow and then get a, you know, get an LOI like just filled out, start looking at some modeling. We can like look at, okay, where's the max that we could get to? And you can get aggressive and competitive. Like, well, if everything checks out and these things happen, then we'd be happy to pay this price.
+
+So we go, come in at more of a competitive offer. But knowing that once you get under the hood, have lender conversations, talk to the seller, look at those contracts and see like what is actually recurring revenue? How stable is this business? You might have to have a RET trade conversation. Um, and, and that's why I don't think the broker does the seller any, any, [00:42:00] um, favors here by doing this because it's like you have limited information to work off of right now.
+
+And so there's probably gonna be a bunch of changes after you get all the information that you would normally get before you submit an offer. But if you really like it. Then we can be competitive hit at the high end and like, well if everything checks out exactly like this, we'd be happy to pay this price.
+
+Um, and then, you know, if it doesn't check out, then, then we adjust it accordingly and have that conversation with them later. You know, when you start having lenders looking at it and looking at the security of those kinds of contracts and stuff. And, um, yeah. I, this is a area that I am, my, my boyfriend has an exterior lawn maintenance company commercial, so Okay.
+
+Like. Guess, guess who gets to pour through those contracts and hear all those things and that sort of thing. So, I, I have too much knowledge on this area now too, to be able to look at like where [00:43:00] the potential issues might be in this, so you can, you can help us dig in a little bit more 
+
+**Polly:** than on it. 
+
+**Athena:** I 
+
+**Steve:** think one of the other, 
+
+**Athena:** I'm, I'm happy to hear that Denise's story didn't scare you off landscaping, but like, you know, we need to talk to the seller to be like, do you do any gambling?
+
+Like, who are your referral sources? Uh, like where is the money actually coming from? 
+
+**Polly:** The one thing, the one thing that the broker did say about the business is that systems need to be improved. He said they're pretty archaic. He said they, they really don't have a CRM in place. They really don't. I mean, they do their invoicing, their, their right.
+
+He said that their financials are clean and that kind of thing. I mean, at least that's what he said. But he said that, you know, it could be, it could, their systems could be so much better. So 
+
+**Steve:** that's one thing. I think one thing too. Yeah, I think, I'm sorry, I'm, I had to bounce out for a second. Uh, [00:44:00] but I think one thing too is just basically an LOI off what the conversation with the broker and the sim is.
+
+It, it's a tough thing, tough swallow because for example, in the sim they list, this is an asset sale. In the asset page, they list the real estate as part of the assets, and that's not the case. So if you're going by what's presented to you and you're making an LOI off of that, that's just one thing. Who knows what else is, I'll call it misunderstood between them.
+
+That, that you would find out in a direct conversation. Another thing was that the last year, uh, the rent he's paying to his own piece of property dropped by like 30%, uh, uh, dropped the rent. So you're just trying to, you know, uh, boost up the SDE because of that. So that's, that's kind of, there's the, there's those types of questions that maybe not interrogate the, the owner, but at least have a conversation to see.
+
+You know, a couple of the, those questions and, and [00:45:00] so that's to Polly's point is like not super comfortable just dropping an L LOI without even a conversation. But if it makes sense, we can do it. 'cause I think we can get outta Is the, 
+
+**Athena:** is the broker open to more questions or like, so, or is it just like, yeah, so I would before tomorrow too.
+
+Maybe write down your list of questions, you know, these sorts of things. Um, or even if, if you have a bunch of those questions, I'd get it out to the broker like today, maybe like tonight and just say like, Hey, um, we're really excited about this business. We are putting an offer together. Here's all of the question marks that we have right now.
+
+That's, that's, you know, making it a little bit of a challenge. Can you get these answered for us? Um, 
+
+**Steve:** Polly, were we able to talk to the owner of the last business that he represented? I don't remember. Like the actual owner himself. I think he shielded him as well. 
+
+**Polly:** Mm. Um, no, we were not. No, we were not. But [00:46:00] then because we looked more closely at the business and decided that we were gonna pass on it, we didn't really pursue it, but we had several.
+
+I believe that that was the case last time too. Yeah. 
+
+**Athena:** Yeah. So what you might do is get, get your list because it sounds timely. So I, today, if you guys can get your list of questions together, like all these things, um, send it to him in an email, say, here's some questions that would be really helpful to make sure that our LOI, you know, doesn't change after the fact.
+
+Um, if you want, we can do this over a call with you too. Because maybe they won't wanna type it up or whatever, and he'd be happy to jump on a call and answer all your questions, but, so he knows like where the question marks are. Um, and then also if you don't get those answered pre LOI, then it's like when you get the answers to all of those post L loi, assuming you get awarded it, then it's not gonna be a surprise or anything.
+
+It's like these were questions, right? Um, so that, that's how I'd play it. And then we can talk [00:47:00] through structuring tomorrow, but don't wait on trying to get the questions answered and see if the broker can either answer an email or jump on another call with you to answer those questions. If you like it, I'll 
+
+**Polly:** get those.
+
+Um, we'll sit after, or this evening, Steve, and I'll sit down and we'll, we'll get the questions asked so I can send those, um, send those over to him and, um, and get, hopefully get either a phone call or him to answer me an email before. Um, we get on our call with you tomorrow and probably just so, um, if I, Steve, I saved the, uh, review on the digital marketing company, um, for you just because you had a very technological, more of a technol technological take on things where I was looking at it as I told Athena more from an internal perspective about the relationship, um, the owner has with her two contractors and that that tightness of their relationship and the whole [00:48:00] transition process and that kind of thing.
+
+So I'm gonna let you give the overview on that one. 
+
+**Steve:** Yeah. Yeah. So, uh, basically, um, they provide marketing services to, uh, e-commerce businesses, and it's essentially, it's Google ads. It's. Facebook ads, retargeting, re remarketing, all that, that type of foundational stuff. Uh, they, uh, we, we had conversations about how they're gonna leverage ai, et cetera.
+
+Um, you know, there was an agreement that AI could be useful, however, not replace it. And, and I got that. Um, as far as her reason for, she said she's kind of just burnt out and wants to, she's turning 40 now and wants to retire and kind of kick back a little bit. Uh, I'm thinking for the cost, you know, for the amount it costs to the business, and she lives in New York City.
+
+She's got about three weeks worth of money left after that because New York City's not cheap. And you're not, you're, [00:49:00] this is not money that you're just walking away with and, you know, however, how do you, how do you say it? There's, there's no fu money associated with this, right? Right. You're gonna find something to do.
+
+Uh, so that's, and, and the question marking, I probably mentioned it, but, uh, her two main contractors, uh, it came out that Oh, yeah, yeah, she brought them along. She knows them from a previous life, so that's a big red flag. You know, if she starts something else, you think they're gonna be loyal or they're gonna go to the, the, uh, people that she, you know, they, they know really well.
+
+So that's the business. It's her two contractors and a part-time, uh, admin person. And you, I think we spoke about this a little bit. She does the, um, she is kind of that brand. She does the blog post. She'll, she'll, you know, kind, kind of come in and close the deals. And so he's the influencer. There's a lot of race.
+
+What's that? Yeah. 
+
+**Athena:** Where did, where did you talk about what channel she, because she didn't have that many followers on the social channel. So like, where the clients [00:50:00] come from, 
+
+**Steve:** what's she mentioned it, and I, I'll, I didn't get my notes transcribed yet, but, uh, she mentioned a couple of like, business hubs that they're, uh, associate with and she'll write some blog posts for, for, for these, these different organizations.
+
+And she gets a lot of questions coming out of the blog post. You can imagine small business owners, they get a million things going on. They're, they, they, they don't even want to push the button to put the Google ad up there. They just want it done for them. So I, I get the business and the business model and it's very niche.
+
+We asked about where she saw, you know, growing from, you know, Polly asked, are there other niches you would tag on? She said, anything E-commerce will work. But she just happens to know, uh, that business, 'cause she owns one of those businesses. Um, I think it's got some interesting components to it. The niche, but she is the niche number one.
+
+Mm-hmm. And, and my, my big question back to her is somebody who comes in without that [00:51:00] boutique experience. 'cause there's a language around it. There's, there's a lot to that. She said her two people definitely know how to talk that talk, but then again, what are the assurances that are gonna stay? Um, I, I just, if she was, if she was, you know, in our age group right now, I could see how yeah, she just wants to step back.
+
+But at 40 years old with the amount of money she's asking for the business, there's no way she's not needing to do something else, or she's not, she's, I don't buy the, the burnout thing. 
+
+**Athena:** Yeah. I mean, the burnout could be real. She just wants to get out, you know, so. Mm-hmm. It doesn't sound like there's a defensible moat here.
+
+What I'm interpreting. It's, it's, 
+
+**Steve:** their thing is, is that they, they, she could relate to the niche. That's the big draw. Other than that, there's, you, anybody can do remarketing, retargeting. There's plenty of [00:52:00] organizations out there that do it. Uh, I think that a lot of people are gonna start trying to do it on their own, maybe fail miserably at it.
+
+But you, you know, there's, there's, you do have that component that's competitive. Uh, I just, I, I have a, we didn't really get into what her contracts looked like, et cetera, but she's got 29 customers. Uh, across the board. And to me, if I'm in her position and is working that well, there's gotta be more than 29 boutiques in this country that are selling, um, women's boutique clothing that w that would like some help.
+
+So I would just scale it that way. I just, there's just too many points of, no, there's not enough points of failure. There's like one or two points of failure and it's done. 
+
+**Athena:** Right. 
+
+**Steve:** Okay. And she said she'd stay out like 45 days to, to 90 days, 
+
+**Athena:** right? Yeah. Which isn't enough time for you to learn how to 
+
+**Steve:** like, 
+
+**Athena:** speak to that client and [00:53:00] service that client and all the specialty knowledge that goes with that.
+
+Um, and the fact that all the leads are coming from, like her specifically going out there and spreading her brand, it's like how is that repeatable? So I'm getting the sense this isn't, isn't, isn't one to move forward. 
+
+**Steve:** It's gonna be tough to move forward. I love the, yeah, I love the concept that you can build on it, but I don't know if we're the right ones to build on it.
+
+'cause we don't have her specific experience or exposure. And it, it really boils down to e even her customers, when they hear she's gone, they, they went because of her, uh, because they don't trust any other marketing agencies. 'cause they can relate to her. 
+
+**Athena:** Right, which hadn't somebody built an agency like this where they weren't the face of it, then we'd be having a different conversation, you know?
+
+Well, even you, 
+
+**Polly:** last week when we were talking with you about it, we were, you got on the website and shared your, shared the screen and it was her all over it, which we, you know, we had seen, I [00:54:00] mean, she is the face of that company and that's why I asked her, you know, what would the transition time be?
+
+Hoping that, you know, maybe it would be, you know, longer than that 90 days. Just, just to kind of get a feel for what they do, how they do it, how you could transition that business to. Still thrive, even though I'm sure there would be a bit of a downturn without her face on everything. I mean, I just don't, I just don't know if that's possible.
+
+I'm, you know, it's like Steve said, she is the business. So yeah, it's gonna be interesting. 
+
+**Athena:** Good, good job asking these. 'cause it's still an area that you're interested in, right? Like if we find something like this that has a niche that doesn't have a, you know, founder is the lead source, that sort of thing, it could still be a very interesting business for you all given your interest areas, your backgrounds, being able [00:55:00] to get your daughters involved.
+
+So, um, it's good to learn about these kinds of models and like to be able to dig deeper in it. So I think it's, it's still good that you had these conversations, but, um. 
+
+**Steve:** I offer because, you know, we, you, when you go through this, and for others on the call, I'm sure you do it too. You, you think you, you like something and you get into like, ah, I don't, like, I don't really see us doing this.
+
+I could see us doing this, but not this one. Uh, yeah. It affords the things we're looking for. Uh, we, you know, can do it anywhere. Uh, if, if it was, yeah, just the ba I, I got enough background in it to be dangerous. Uh, so that's a good thing. I was familiar with it. Not afraid of it. And, uh, the, the other piece is, um, the margins are insane and that's how, yeah.
+
+So you can make mistakes with margins like that. 
+
+**Athena:** Right. Um, well good, uh, excited to talk through this other one tomorrow and then if you sleep on this one and you're like, we still wanna, you know, see [00:56:00] if there's a way we can talk through that, but excited to go through the other one tomorrow. Um, hopefully we'll hear back from the broker before then too.
+
+And, uh, good work. Good. I love this. Like, we're just gonna take every broker call and learn from it. So it's a 
+
+**Steve:** good, good mindset. I wish Justin a, I wish I knew Justin a couple years ago when we tried to get a roof and, and the, the roofer said, this is a slam dunk. You have wind damage everywhere. We had, he had the picture of the storm over the house and I won't name the, uh, the, the, the, the big ugly, um, company, state Farm, uh, that would, that said, hell no, you're not getting a roof no matter what.
+
+Every house around us got a roof. We're the only one who didn't get a roof. This guy said, I've been doing this 30 years, I've never seen something. And they had the adjuster that came out 'cause we're in Georgia, you got steep roofs in Georgia. Uh, they, they had the adjuster came out, was from [00:57:00] Arizona, didn't even go on the roof, got a ladder on the edge and just looked up at it.
+
+So. Um, geez. Yeah, I could have used you Justin. You should have bought this ago. 
+
+**Justin:** Uh, I gotta talk. I'm already, just through the research, I'm learning a lot about this roofing industry, like tactics, what to do. I mean, it's crazy. So nothing else. As a consumer, I've got some back pocket things. That's awesome.
+
+**Athena:** Um, well good. Uh, cool. I know we're a little over time, but Gil, I just wanted to check in really quick. Do you need a pep talk before you go back to the mean broker? Are you feeling good about the next conversation? 
+
+**Gil:** Uh, um, I sent him the email within three minutes. He said, call me. So I don't know if you read it and digested it, but, uh, I'll give him a call now and see what he wants.
+
+**Athena:** Well, the only, the only thing I digested was him telling you to call you. Was there something else I missed there? No, 
+
+**Gil:** that's 
+
+**Athena:** it. That's it. Yeah. So Gil, uh, do you, I, I won't, I won't give the specifics, but Gil's in a post, LOI, things have [00:58:00] come up during the process that have changed things materially. So now it's a retrade conversation with a, we, we, we've got an unfriendly broker on this one.
+
+So Gil's doing an amazing job of navigating difficult conversations on a deal, which he has a really great relationship with the seller and, and still likes the business. So it's a shame that the broker's being, uh, the meanie that he is. But I think Gil's handling it, handling it well. So Gil wrote a good email back to him, basically like, here's the offer that I'm willing to make under the, the circumstances that we've now uncovered.
+
+And brokers told him to call him again. So, um, if he shouts down the phone with you, I would, I would end the call this time, though, and just say, Hey, I told you I'm not gonna do this, so let's, let's communicate over email. 
+
+**Gil:** Yeah, most definitely. 
+
+**Athena:** Cool. Well, good luck with that. Let us, I'm. Yeah. And, and the thing is, is that, you know, the brokers will be like, oh, there's all these other offers and all, you know, it's like, well this stuff's gonna come up during that process [00:59:00] regardless.
+
+And it feels like he knew that the way he's fighting it, fighting it, and just questioning the QV and that sort of thing. So if he is not willing for you to do your proper due diligence on this, you can, you can walk, you know, you don't have to buy the business at this point. 
+
+**Gil:** Yeah, most definitely. I'll, uh, I'll pick you as soon as I talk to him.
+
+**Athena:** Yeah, I would love to hear how it goes. And good luck. I know these conversations kind of suck, but I think you're doing great and you're facing the challenging conversations head on, which is all the fun stuff we get to do. And, you know, when, then when you're a business owner, like the challenging conversations as a business owner feels easy.
+
+So it's like, I get to choose my customers now, so I'm not gonna, I'm not gonna take that from you. So, um, so you're doing great. Thanks. Keep us posted and then, uh, the conversation on Thursday will hopefully be especially useful for you. So come with all your questions. Elliot's got a ton of 15 years experience and he's a little more hard headed on the negotiation side [01:00:00] sometimes, so I think he'll probably have some useful tips for you going forward too.
+
+**Gil:** Excellent. Will do. 
+
+**Athena:** Awesome. All right, everybody. Well, uh, so great to chat with you all. Oh, also schedule update two. Uh, so Thursday we've got Elliot, and then the following Thursday, uh, we won't be having a buyer's club. I'm gonna be, uh, working on a strategy session for us for how we get better at how we service you.
+
+So, um, no club next Thursday, but we'll still do one on Tuesday, which will, you know, be coming on and doing deals. Um, and then the following Thursday, we are just about to confirm that person. But should be a fun, I mean, hopefully they're all fun conversations. Was Denise not a Nailbiter? Like Luke was like, that was like watching Netflix.
+
+So I was like, I love bringing these conversations to you. 
+
+**Polly:** I actually thought, you know what, if we, if we keep moving forward with this, uh, with this landscaping business, we might be calling her. 
+
+**Athena:** Yeah, for sure. She's, [01:01:00] um, she's amazing and she wants to help people. So, and uh, we're, we're getting a little green, green group here in uh.
+
+Texas gonna get Lindsay and then my boyfriend who does the landscaping, and then, um, Denise and her wife, business partner are gonna come out and talk landscaping stuff. So, yeah, I think that's one of the cool things is about bringing those people here is like, they're willing to have conversations and help out.
+
+They're just not necessarily talking about this like, publicly. Right. Um, so, you know, she, uh, her mindset too, like the, you know, deciding to walk away from the lawsuit, even though like they sh you know, like by, by all means, they are in the right to pursue a lawsuit, but it's like, how much time, energy, money, are we gonna sink into the lawsuit?
+
+Are we gonna focus on the business? It's like those hard conversations that come up as a business owner. It's like, I like this. This is shitty. Like, they should pay. They sh he should not be able to do this. But that mindset [01:02:00] of, well, we're in competition with like, however, like a hundred landscaping businesses or whatever in Dallas.
+
+So I was like, that's. Not an easy decision arrival mindset to get to. So that was, uh, one of my favorite conversations that we've had for sure. And I hope it's motivating for you guys rather than like demotivating. I think he 
+
+**Steve:** needs to spend some money and take out an ad on the, on a milk carton and put his face on it.
+
+Do not trust this man every store. 
+
+**Athena:** Oh, they could do a billboard. That's a good idea. Hey, maybe we could do a little pool and buy a billboard in Dallas and put that man's face on it for them.
+
+My boyfriend wants to, he's like, well, like when we meet them, I'm gonna find out who he is and I'm gonna report him for fraud. You know? I was like, okay, let me do that. So anyways, um, love these chats. Good stuff y'all. Um. And, uh, excited for Thursday for Elliot. So come, come with your questions, you [01:03:00] know, on how to deal with the hard stuff and this negotiation post LOI during due diligence, all the things that you're worried about that might come up.
+
+Or even Pauly and Steve, like, we're in a situation where he is asking us to submit an LOI and we don't have all the information. So how do you handle that after you get under LOI and we get all the information we wanted before. So those sorts of questions are, are awesome, and he's ready and willing and prepared to, uh, bestow his 15 years of wisdom on us.
+
+So I'm excited for that. Okay, 
+
+**Polly:** sounds great. 
+
+**Athena:** Awesome. All right, y'all have a good rest of your day. I'll see, uh, some of you later. Um, and then we'll see you on Thursday for Virus Club and keep us posted on all your deals. You've all got conversations in the next couple days, so keep us posted. 
+
+**Steve:** Thanks. 
+
+**Athena:** Thanks.
+
+Take care. Bye bye.
+
