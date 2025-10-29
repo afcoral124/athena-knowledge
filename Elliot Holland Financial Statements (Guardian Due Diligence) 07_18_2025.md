@@ -1,0 +1,634 @@
+# AcquiMatch Buyers Club - 07/18/2025
+
+[00:00:00] 
+
+**Athena:** Hello. Hello. Welcome. Hey, how's it going? I think we've got Steve here. Hey Steve, how are you? 
+
+Hey, good afternoon everybody. 
+
+**Athena:** Awesome. Justin's here. Nice to see you Justin. Um. I am so excited for today. I think you all, uh, were either there or watched back, um, Elliot's last, uh, session with us. So he has, um, agreed to come and talk about, oh, Peter's here too.
+
+Hey Peter. Um, so. Elliot has a really fun and engaging, uh, advisory style, teaching style. So I thought, who better than to take us through financial statements in Elliot. Um, and this is something that I, when [00:01:00] I started reading 'em, I felt like it was like learning a foreign language and it was so hard to kind of wrap my head around.
+
+And Elliot looks at these kind of all day long, so I was super excited that he agreed to take us through it. What he looks for kind of some one-on-one stuff. And if you were at his session last time or watched his session last time, um, he's probably gonna make it pretty interactive and, and bring us all into it too.
+
+So, um, Elliot, I don't wanna do you disservice by giving your background and everything, but thank you so much for being here. Could you give us, I, I know everybody knows you well, most of the people here know you, but just give us another intro before we dive in. Yeah. Thank you again for doing this. I'm excited.
+
+Awesome. 
+
+**Elliot:** Yeah, so I'm, I'm a kid from man Harvard. Uh, I got into a fancy business school. Harvard wanted to be rich. Uh, uh, got into private equity, um, realized really quickly that it's better to own the equity than work for other people to own the equity. So I, I spun out when I was a independent sponsor, which I just call like a former private equity or investment [00:02:00] banking can do that's doing it deal by deal.
+
+And then I did that for a while, and then my business partner effectively retired. And so I spun out and I was a self-funded searcher before it was even called that. Uh, I was pretty early. Um, worked on a couple deals. One that kind of took the last of my budget, didn't work out, threw me into a tailspin.
+
+So I took a year off the gap year and I'm like, I have all these investing skills. What the heck am I gonna do with them? And it was right around the time, 2018, when like Roland Frazier, Cody Sanchez were getting really crazy with, oh, no money down deals easy. No diligence, just, you'll be fine. And so I, I said, I don't want regular people that are putting up personal guarantees to go to the house.
+
+So I started Guardian due diligence to be an avenue for folks that were smart enough to know, to not do this alone, to have a solution that was not just financial diligence oriented. Because like when you're like a financial dude, you can just have an accounting tool, kind of help [00:03:00] you with due diligence.
+
+But when you are a self-funded searcher, not a super finance dude or do that, um, you need more of a comprehensive solution. So guarding was meant to be that. And now we have a masterclass as well that we launched last year. And I really enjoyed these topics because I was an undergrad engineer. And then I get to business school and I'm like, hold on.
+
+All this complicated finance stuff is just addition, subtraction, multiplication, and division. That's it. Oh man, come on, let's go. And so ever since then, I've been trying to kick the butt of all the Wall Street Finance bros. And then also making it kind of reasonable for everybody. Who, who probably doesn't wanna go to Wall Street and work there.
+
+So that's, that's a little bit of an intro. 
+
+**Athena:** I love it. So excited to have you here and sharing this. So I'm gonna ask EDA to take the spotlight off me, give you share access, and over to you to kind of guide us through financial statements, Elliot's style. 
+
+**Elliot:** Sweet. [00:04:00] All right, cool. So let me do this. And then, um, I was fortunate enough, two of my clients are willing for me to share their stuff.
+
+Um, it's a couple years old, so not a big deal. Um, one is a deal that got consummated and we can go through the sim on the income statement and the balance sheet because I think where the real fund is, the sort of in between the crap the broker sends and what's really there and what you really need to know.
+
+And then the second one is one that didn't really have a sim, you know, it's like those two pages and the text returns that you get sometimes. And so I'm gonna take you from when someone tells you what kind of revenue and profit they're making, but nothing on the balance sheet. How does the balance sheet affect ebitda, cash flow, et cetera.
+
+And my goal is to put nobody to sleep. And you're right. I think the more interactive you guys are, the more fun we'll have. But I'm gonna try to do it interactive regardless. So with [00:05:00] all that said, lemme share my screen. I think I need permission.
+
+**Anke:** I gave you permission now. 
+
+**Elliot:** Thank you
+
+all. So this is a stone business. It was presented by pretty broker, um, and high level details. Um, three.
+
+You'll see kind stuff. Quite a
+
+gimme a second guys.
+
+You'll see sales[00:06:00] 
+
+can't spend. So, um, let's see. You'll see financial analysis like this. So p um, since we're having fun, who's good enough to describe these first, uh, four areas on.
+
+**Peter:** So, so, uh, gross sales is, you know, whatever our customer said, I, you know, promised now in the future to pay for what you selling to me. Uh, cost of goods is what that service related, you know, and, uh, [00:07:00] and then, uh, it looks like
+
+that in addition to you, your cost sold. Um, so it's like that, that profit is sort of like an operating profit, but like bunch stuff going in
+
+**Elliot:** that income directionally. On financial statements is different than taxes. Um, in the United States, you're free to present your taxes in any way you wanna subject.
+
+Most people do it on a cash basis, but they're simply not one for one to the financials. Um, the financials not profit is simply not [00:08:00] income, which is revenue minus all state expenses. We'll get into more detailed list in second, so then people show the, the, they send they prequalification letters. And so that's the typical.
+
+So
+
+this.
+
+So they said,[00:09:00] 
+
+just as comparison, do this.
+
+So revenue close.
+
+Nine 90, so not bad. They had 1.2 owner and we higher.
+
+I'm gonna start with the add back at a summary level and hop into the detailed income [00:10:00] statement. So most of our, and we're gonna build in adjustments
+
+then we're.
+
+This is a more detailed look at that same year, 2021 was in the P. Now when we talk about cost, let's double click. So
+
+shot and Peter got it Directional, but this is really important. Know
+
+Justin wanna take, I mean, [00:11:00] 
+
+**Justin:** cost product
+
+actually good goods like somebody. So the actual cost of like stuffed animals. Of stuff would've been a cost, right? That's the hard cost into the 
+
+**Elliot:** actual's. All of the sort of direct and indirect, um, expenses associated with or, so if I go to a detailed statement, um, if I look at revenue and the discount here, and I look at cost sold, cost include things like expense supplies, equipment,
+
+labor, labor. One of the things that most small businesses don't do, most of them, everything into, um, [00:12:00] sort operating expenses. It's harder to put operating separately. You wanna gross profit, wanna look at the business? That's actually versus the something, um, wanna put the,
+
+that's related specific to the good of service and costing good sold. And then just because we're having
+
+statement and think it's 90% think it's a, to think it's uh, 25% 
+
+than, than.[00:13:00] 
+
+**Elliot:** A normal dude. So first off, to get the labor component, you have to ask a seller, how well do they track labor on overall or per job? Per product basis? Basis. For instance, um, if it's a manufacturing facility, the shop, that person,
+
+if you do, you separate that, um, delivers the goods half of this time, but works in a machine. The other half you separate that specifically. Um, all those kind.
+
+So this was a stone and granite [00:14:00] stone business for people who like, you know, fancy countertops their kitchens and bathroom. So, um, maybe you track the stones, but what about faucets? Fixtures? So the first thing you have to do as a sort of income statement analyzer is sort of understand, alright, cost sold all the products and labor, and ask how good things, because I wanna ask that first because if I asked that you deliver in your car, so, oh, heck yeah, Elliot.
+
+Absolutely. So before you get there, you wanna ask how good track it, because you wouldn't expect someone that didn't track it well to have it accurately.
+
+You wanted state or correct state. The gross you [00:15:00] also might come to have is, well, I think half
+
+have with that in some situations on smaller deals. Does that make sense? 
+
+It does. I have a question, Elliot. 
+
+**Elliot:** Yep. 
+
+In that line, 5,000 line 33 on the spreadsheet, cost of good sold. Others that were like fixed expenses, like let's, you've gotta manufacturing facility, rent, utilities, et cetera. That also could be part of the down there.
+
+**Elliot:** Hold on.[00:16:00] 
+
+Don't remember because,
+
+and I don't wanna make something up. Um, just to answer the ll see something like that, you'll see it, it might be what you just described. Um, sometimes we'll use it as a catchall for other stuff. But as we learned about the business and how they actually function, we realized operating shoulda been.
+
+So
+
+you'll also see a lot of.
+
+What's in there. Um, and frankly you need to allow the, uh, the seller to say, oh, that's, that's my money [00:17:00] and uh, and my beer money is because in there kind of people,
+
+so cost of good sold is also important because when you guys are thinking about buying your business, you are more to be able to,
+
+so the cost of good sold typically seller is not overpaying people and not overpaying for cost stated correctly. You can, you can believe that there's probably, you know, five or 10% you, but it's, you substantially. The other thing about, um, cost and gross profit, more gross profit. You guys familiar with Worlds?[00:18:00] 
+
+Worlds World? World And it's no different than, um, you know, Goldman Sachs industry report on, uh, kitchen remodeling, right? But one of the metrics that goes world gross margin per industry. And so if you were to, to, okay, or home remodelers, and the average gross margin or gross profit is in October. So about.
+
+You'd be able to track that. Say, okay, is this person a lot higher profit or lower? And that's why getting the cost can be because
+
+perspective, that sense.[00:19:00] 
+
+So now I'm gonna,
+
+so some of these are pretty obvious, but the reason I think financial statement stuff is fun is because how often sellers will try to play some, so the way I'm gonna go through, I'm gonna ask you guys kind of games. Do you think somebody could play with this? Now some of these games will end up throwing themselves in the add, right?
+
+And.
+
+So they don't have much in
+
+marketing.
+
+So these [00:20:00] kind of,
+
+um, how do you think,
+
+Peter, what do you think? 
+
+**Peter:** I mean, just, just, just in general, from my experience of having overpaid for marketing services in my current business, pretty much every single year, uh, I anything can be, you know, marketing. I, I, I even have one or two employees who think, you know, buy me a whole wardrobe and that's market.
+
+**Elliot:** That's good. So most, most sellers or owners probably have the, [00:21:00] because I do, I have over for marketing. I've had to actually, my whole marketing team this year, kind of five times. If I was selling my business, I'd wanna tell you, oh, so folks, they were too out team representative need going forward. And I may have just gutted 50% of my team and maybe I don't show that until the two or three months before the deal consummate.
+
+But that's one game people will play. Um, I've seen a lot of games, expenses, so, um, in this case, website was. Would, sorry, it's really cheap
+
+case[00:22:00] 
+
+and all rest of that stuff you'd be asking. Yeah. I think you spend a bit more on that than what you're saying. Um, if you see advertising, particularly now most of the advertising, you gonna digital billboards anymore. Uh, one of the things get a here is, oh, that whole squad we terrible,
+
+four
+
+what? 
+
+**Justin:** Yeah. Basically the multiple return on every dollar expense towards your advertising, uh, line item. 
+
+**Peter:** Yeah. Person that's been around this revenue, that's revenue, right? That's not, that's not profit, is it? Is that correct saying, okay, hey, I spent a dollar on ads and I got a dollar in revenue. That's it [00:23:00] isn't how it's, versus like, well, okay, like doing that.
+
+Oh yeah. Right. I mean, yeah, 
+
+**Elliot:** yeah, yeah. Just check if you have someone doing Google ads, someone ads, ads, someone Instagram ads different. They'll all give you return on, tell you the one, oh, our Google ads return on blah. Well. The nice thing is on an income statement, you can actually look at it and on an absolute basis, you can look at the whole year versus letter it's, but I'll tell you that I haven't heard an accurate return on ad and information memorandum in the five or six years running Guardian.
+
+So never trusted, validated, and you're right, it's revenue and not profit. So you could [00:24:00] be running positive multiple with the business that's still not making profit.
+
+Um, here they have lead referral commissions. So like in January 21
+
+commissions, you click what is that? Is it the best seller who you're taking outta the business? Is it a market based transaction? Like can you call that same person? But when I about marketing
+
+my goes to where people, and that was helpful. 
+
+**Athena:** One of, one of my favorites, Elliot, is like seeing the marketing that didn't work goes in the add back. Yeah, right. [00:25:00] Like they're like, oh, well that we didn't work. So that's an add back and I know how you feel about this personally. That's part of being a business owner spending stuff and it not working.
+
+That's not an adv. 
+
+**Elliot:** It's just like part of doing business. Think you'll better than for years certain 2024, you make 25 and 2026. I promise you. I'm gonna market strategy gonna, like Peter said, agencies.
+
+Whether it's on the people you allocated in your Google Ads or not is questionable, but [00:26:00] 
+
+yes. So I have a question. Sorry. What comes to mind to me? A lot of small businesses, they've got services or products. Uh, I example up there, let's say I embroider shirts and jackets. Uh, what about like the barter situation?
+
+Where does that fall in? So I'll give you your team jackets in 5,000 worth of jackets and shirts, and you gimme five worth.
+
+**Elliot:** So I'm gonna go this, this, I'm gonna put under the label of BS stuff that owners do that you should absolutely validate and put more seller behind because it's very hard bartering and cash payments. So then give you a range of like.
+
+So, and [00:27:00] big, so
+
+freeze 
+
+**Athena:** You freeze. Yeah. You froze for a, for a second, right when you were just starting to say my advertising company and then we lost you. Alright. 
+
+**Elliot:** Uh, let's hope that this doesn't get, uh, so, uh, I can do this too sometimes if I stop sharing my, alright. So. If there's a company and you do the break shirts and you run up a $10,000 bill with the advertising company and you say, Hey, I'm gonna give you 10,000 worth of shirts for the 10,000 worth of advertising, there was an invoice, there were services.
+
+You can track it. Whether you gave cash or the equivalent in goods is kind of irrelevant. In fact, the goods are better [00:28:00] off from a profit perspective because you have profit in it. Right? That's one thing, not a big deal. If it's like 0.5% of like revenue or profit, you also don't care much at all. But I had some friends in Dallas that were buying a construction company and it was two like former private equity dudes.
+
+I love working with these guys because they love their spreadsheets, but like they ain't seen the construction site in a long time. And so we we're talking, oh yeah, he's making a lot of money. We see his boat, we see his house. You know, it's a lot of cash, but he's not showing much on the income statement, Elliot.
+
+So, you know, help us out because we don't wanna lose our shirt. And so we start talking to the guy and he brought everything and nothing in his trap and he takes cash payments. So it's like he does, uh, he was doing a lot of tiny houses, so he'd do three or four tiny houses for somebody's hunting thing in [00:29:00] Texas and then somebody would show up in the office with a bag full of money.
+
+He had it on some spreadsheet somewhere, how much money was in the bag full of money. And then the next one he does, he'll do three tiny houses for somebody else and he'll barter for that person's his personal, you know, pool in his backyard. And then you start going like this. And the fourth of fifth story I heard, I did the math on the quality of earnings, and I had to come back and say, Hey look, clients, I'm knocking to be able to prove this stuff out.
+
+That doesn't mean that it didn't happen. It just means that from a quantitative valid audit, like quality of learning, I'm not gonna be able to validate this stuff. So I don't wanna finish the second half of our work. So I kind of let people quit at the halfway point. I don't wanna finish the second half of our work and you not know that.
+
+'cause I know that now. So they took a week to kind of think about it, whether they were gonna do the second half, and then [00:30:00] they actually got smart. So this time the private equity actually helped. So they were able to negotiate with the seller that, look, my private equity guy or my Q OE guy and my banks aren't gonna accept all these ad backs.
+
+We believe it. We'll pay you exit closing primarily based on real estate and maybe a little bit of a down payment. The rest is gonna go on a seller note. We do think that the seller note's gonna pay out because that's stuff's gonna happen again. But if it doesn't, you won't. And so they did the, they did the deal without finishing the QOE largely on a seller note.
+
+So when I started this whole thing, I said, this is like the category of stuff you have to kind of solve with a big a seller note. That's typically how you solve it. Um, unless it's like such a small thing and so trackable that it's not material to the business. Does that make sense? Steve 
+
+does. Yeah. It's like you say construction guys.
+
+I'm building a house. I get the, the, uh, I, I cut a deal with, uh, I do one part of construction. I'm a framer. I do the framing. They come and do my fireplace for me [00:31:00] and Yeah. Shirts for, uh, lawn care, whatever it is. Yeah. So I, I get it. There's, but there's the big things that really move the needle and then, but I was kind of wondering, you know, how do you track that or how could you even uncover that?
+
+You can't, uh, in my opinion. So do you just kind of go with, just to, do you try to even assume, and I guess you just gotta, um. No, we don't assume anything. It's a big deal or not, right? 
+
+**Elliot:** We, we, we, we don't assume or believe anything. So I think items that are more than 10 or 15% of ebitda, so if you put a multiple on it, it'd be more than 10 or 15% of purchase price are material enough for someone to renegotiate or potentially kill a deal.
+
+And so my first question is, is this stuff bigger than 10% of ebitda, right? Kind of. Yes. No, if it's less, maybe I would negotiate a slightly bigger seller note. Maybe I negotiate a larger transition period. Maybe I say, Hey man, [00:32:00] throw in an extra a hundred k of working capital and, and I'll believe your thing and off we go.
+
+Um, if it's bigger than 10%, then you really need to adjust for it. And um, that's where cash payments and bartering are about are different. There's no fricking way you're gonna unravel somebody's bartering. So like. I met Athena in April at the Esen Bash. If we start bartering Aquamacs for Guardian, there's no way you're gonna get the both of us in the room.
+
+We're gonna snitch on each other. If she's selling and we're friends, I'm gonna be quiet on the tough questions around whatever that is, right? And anybody who's done bartering and house stuff or anything, I mean, those are your buddies. Only people you trust can you do that with. So for those, you almost have to say, Hey, I wanna believe you, but I gotta see that stuff pan out again.
+
+So the next time I wanna barter, I can barter because bartering is higher profit than paying out dollars. So if I get the same amount of bartering [00:33:00] benefit in the first six months or years you did in the past six months or year, then that part of the seller note will pay out. If not, then either I shouldn't have believed you or didn't repeat either way.
+
+I shouldn't pay that out. So I'm bartering. You sort of have to make the assumption that you shouldn't believe it. Cash payments are interesting, so. My advice on cash payments. So Bruce Marks at First Bank of Elect, you can't do deals with cash payments. I've certainly, people do deals with cash payments.
+
+The thing that I recommend as a solution, and it's a little bit tough because you haven't earned the right to do it yet, but I helped this, um, finance guy at a Philly who was buying a construction company. These things happen quite a bit at construction companies. He's like, E they got cash payments. Man, can I get through this?
+
+I'm like, well, let's see. You're gonna need to tell the seller that, Hey, look, I haven't earned this trust with you. Um, but you've been taking cash payments for about 20% of your revenue[00:34:00] 
+
+box for these 90 days that I'm doing. Hey, Elliot, 
+
+**Athena:** we uh, we, we lost you for just a second again. 
+
+**Elliot:** Oh man. Um. 
+
+**Athena:** So you said, uh, hey seller, I haven't earned this trust yet. 20% is cash and then we lost you after that. 
+
+**Elliot:** Yep. Um, 20% is cash and um, I don't know you well enough, but I need you to change religions. I need to put all the cash that comes into the business into a box.
+
+I need to see it for these 90 days. So I need to be able to say, in the first 30 days, this much cash came in 31 to 60, this much cash came in 61 to nine, this much cash came in. And I recognize that may have a fear that I'm gonna go tell the tax man on you, or you don't like the fact that cash is sitting around and I know, but that's the only way that we're gonna be able to [00:35:00] underwrite that cash.
+
+Believe it. Alternatively, that portion is gonna go to seller note, and it may be 20% of revenue, but 60% of EBITDA and purchase price. 
+
+**Athena:** Yeah. Um. Going back to the, the marketing spend, like what jumped out at me, um, in those numbers that you showed us was the erraticness of it. So like that tells me they don't have a marketing system that works yet.
+
+**Elliot:** Right, right. Um, also they're probably doing cash basis accounting or cashish. So like that, um, a lot of those things had, you know, month one 12 and so you can sort of see that it's cash. And so that's another one. Um, you actually open up a great question, Athena, [00:36:00] who wants to describe the difference between cash accounting and accrual?
+
+This is gonna be lot of fun. 
+
+**Peter:** Take a shot. All right. Uh, so. Cash accounting is, is is literally like when money moves in and out of like a bank account. Yep. Like, so it's real like, uh, accrual is, uh, the, the, the date and promise to uh, have the expense or have, uh, you know, wrap arrow. 
+
+**Elliot:** Yeah, that's, that's pretty close.
+
+Uh, anyone else wanna tag team on that? And then, and add any expertise into it?
+
+Alright, lemme call some folks. Cash. 
+
+Cash base is probably the simplest one, right? Most, a lot of small business probably do cash base 'cause it's simple to track and you're not, you're not [00:37:00] looking at forward looking, you know, revenue collection. So, um, Luke or Gail, you guys got anything 
+
+**Elliot:** for me?
+
+All right. So accrual is supposed to match revenues and costs so that you can understand the revenue generated, costs incurred, profits made in any period. It tends to smooth financial statements out. So let me go back to, well, you saw like one month, 83 months, 0, 95, whatever. Um, I, in 15 years of doing deals under $10 million in enterprise value, I've never seen a pure cash presentation or a pure accrual.
+
+Not once. They always answer, oh, on my revenue recognition question in my QOE, oh man accrual, leave me alone. Oh man, cash, leave me alone. It ain't never [00:38:00] either one. It's always cash is, or accrual is. Um, and so. 
+
+So, so do you see that certain businesses lend themselves towards cash ish versus accrual ish? You know, example software, it's like you gotta deliver the software and then you know, the payments net 30 45, whereas I'm thinking, I'm cutting your lawn.
+
+I'm, I'm here to collect cash right away. Do you see certain businesses lend more to one lean one or the other, or No. 
+
+**Elliot:** Great question. As the difference in between the time when you deliver a service, pay your employees and collect money from your customers. As that goes from same day or same week to something different, you get bigger differences in Cassius or accrual ish.
+
+But even like the neighborhood, um, landscaping company. From like an [00:39:00] individual house, they're gonna take money the day that they do it. Like when they're doing the apartment buildings, they're probably giving them 30 or 60 day terms. So now what you hear is, oh man, we do cash pay our people once a week.
+
+People, we collect the money. Right. When this, okay, well two of your biggest customers are real estate developers or apartment buildings. Do you give them terms? Oh yeah, we pay, they pay us in 30 to 60 days. What's this account receivable on your balance sheet? We'll get into the balance sheet stuff in a minute.
+
+Oh yeah. I guess we don't report in cash. Yeah. So then what we tend to do to keep everything in layman's terms, we just ask them to walk us through a customer engagement, both like the residential one and the commercial one, so that we can understand. Okay. So, um, what about the deposit that you force your, uh, residential, uh, customers to put up at the beginning of the season?
+
+Sure they're gonna stick with you. So [00:40:00] that's not cash basis either. So you start realizing when you ask the questions and have people walk you through a customer engagement, you start getting to the answers better. And then you're not gonna tell 'em that, oh, this is cashish. Or Acru is, you're just gonna, as a QOE person or as a smart business minded acquirer, you're gonna say, okay, well now I can interpret it better.
+
+So like, my revenue recognition question, frankly, in the past two years has become like the biggest question, um, in the financials. Um, because it is almost like the translation between like English and Spanish, or Spanish in general, it allows me to understand the financials in the way that they're actually created versus me making an assumption.
+
+Now software companies have a lot of deposits, so that gets you messed up. Um, other businesses that tend to. There's just a lot, and you'll see a lot of [00:41:00] businesses in the s and b world that take payments at very different terms depending on the size of the customer. And even though a lot of their stuff may be cash, a lot may be accrual.
+
+What you'll normally see is that not many employees are gonna get paid on 30 days terms. So most employees get paid within the month. But then as you look at trailing 12 month numbers, you have to be careful that, did I move a payment on the front end of that 12 months outside of it, and did I move a payment on the, the other end outside of it?
+
+And so instead of, you know, 52 weeks of payment or 26 payments every other week, do we have 24 payments? Right? And so you have to start asking those questions. Um, the other thing that you guys should know as it pertains to income statements and people playing games, um. How familiar is anybody with year end adjustments?
+
+So I didn't learn this [00:42:00] until four or five years into Guardian? Anybody? No, shouldn't be. But in small business you should. Okay. So most of these small businesses don't pay a lick of money during the year and then pay some accounting for, they call their CPA 1500 or 2,500 bucks to do their taxes. What A CPA does a bunch of year end adjustments to create their taxes.
+
+One of those is most businesses aren't tracking depreciation through the year 'cause it's really a tax construct. And so the, the CPA does their magic math at the end of the year and does that, they'll also move certain cash and accrual, um, expenses and revenues in or out of the cash period for 2024.
+
+Well, and then also a lot of times, because nobody likes paying the tax man, they'll run a bunch of other expenses. Other people buy their big trucks, their hunting lodges and all that kind of stuff. It's typically December of name a year. Right? Well, here's the issue. You're buying [00:43:00] it as of May 20, 25. TTM plus or minus, right?
+
+So any business in between January and May you, they haven't done the yearend adjustments on those yet. And so if the, if the company has a significant amount of yearend adjustments from the year earlier, you have to have some concept that that stuff is in the numbers you're looking at, but unreconciled and so you can't be silly.
+
+The other thing that I'm getting a lot is I'm getting confidential information memorandums from brokers that you'll never know if they don't know or if they know, gosh darn well, they used interim pre adjusted 2024 numbers to make their sim. When you pull the QuickBooks net income is off by hundred 50 grand and you're trying to reconcile it, and I'm the new QE guy, or you're the new buyer, so you haven't built the trust to call people out yet, so they think you're stupid.
+
+And then you ask the magic question, Hey, [00:44:00] what's December close, Mr. Broker, when you did the sim? And they won't even know what you're asking, but if you ask it in front of a CPA or a controller, they'll say, oh no, I sent an interim stuff. I told 'em, you shoulda changed that. And so that's something else to be cognizant of as you're looking at this stuff.
+
+Does that make sense guys? 
+
+It does. I have one last question on the cash and the accrual. Um, yeah, just 
+
+**Athena:** real quick, Steve, before the question, I just, I just wanna double click on something Elliot said there. That's really important because we're in tax season, right? And people don't need to file taxes until October most of the time.
+
+So when you're looking at buying a business, and we're in this season asking if they filed taxes, yet we're not. And also saying, I'm gonna need them to finish their taxes before we proceed on this, because you, you need to actually see how those books balance out. But that's one of the hardest things about the fact that taxes could be 10 months after the year [00:45:00] happens.
+
+Because there's, there's all sorts of things that you can do after the fact, like, like Elliot just said, but things like additional 401k contributions and like all this stuff, right? So, um. The, it, it's, it's an important conversation to have. And something that I've seen, I watched a seller, uh, drag out doing their taxes so long that the LOI expired, they went out and got a different broker.
+
+Like it was this whole thing, right? So they were like, have you filed your taxes? Have you filed, she avoided it. Avoided avoid it, right? And then, so, um, it's a, it's a, it's an important point. So I just wanted to highlight that. 
+
+**Elliot:** And you won't have the trust enough to push your people to push the sellers. You hire me, I'll push for you.
+
+Some of my competitors don't have an enemy either. Just keeping it real. And so you just gotta be careful about it. Um, good numbers come quickly. So [00:46:00] if I ask for something and I don't get in the week, I'm calling my client like, Hey man, when I look at stuff in a week, I think they're lying. I'm not saying they're lying, but if you're gonna bring $3 million in the brink truck in a couple of weeks, I think you should call a person to get that data.
+
+Steve, you had a question. And I wanna say another way that brokers and sellers are gaming people these days. 
+
+Yeah. Could, could be a short answer. So when it goes back to cash and accrual, so the first thing I started thinking about, it's interesting, but why should I care? So the first thing I think about is why I should care is now that, that, that term working capital is starting to come in mind.
+
+'cause I got people that need to get paid if it is worth the money coming in. Uh, is there any other big reason why I'm worried about the cash versus, uh, accrual stuff? 
+
+**Elliot:** Athena. These, these guys are warming my hearts, man. This is, this is a nerd playground. 
+
+**Athena:** I, I told you they're awesome. They have the 
+
+**Elliot:** best job in in the world.
+
+Yeah, I got a pretty good one too. So why should you care? Cash versus accrual. And then before I [00:47:00] forget, I'm gonna tell you how brokers and sellers are gaming novice buyers maliciously that I've seen a few too many times.
+
+So you're right. Um, working capital is one of them, but all right, I'm working on the land surveying company. So they'll go out and do land. So they'll take like raw forests, knock down trees, put in, you know, electricity and, and water and stuff, and they sell it to a developer. But oftentimes, um, the developers have all the negotiating power.
+
+So you might do the work January, February, 2025, they may buy it from you in March, 2025, but they don't really get any payments, their first deposit since October of 2025. And they may still string you for another two months on payment. And so [00:48:00] now not only is it a working capital issue, but I would call it a cash flow issue.
+
+I would call it. You're gonna need not just. You almost don't care about accrual financials at all because you have such a cash strap. And then notoriously, when you have big customers that have already strung you out for nine, 12 months in ably, they come back to you, say, Hey Elliot, I give you 85% of it today, man.
+
+And they know you're in the cash crunch. They know you have people to pay. And um,
+
+I just gotta keep it real with you guys. So if you have a hundred dollars of an invoice from March of 2025, and then in December of 2025 when these big guys decided to pay you, they say, Hey, I got $85 of your 100 today. It's gonna take me another two or three months to get the full 100. The proper way to account for that is to [00:49:00] $85 is cash, $15 is um, doubtful accounts on the balance sheet.
+
+Over time, you'll have an average amount of money on the balance sheet for doubtful accounts. So you can have a sense on average how much discount a company is taking. But a lot of these companies, either their financials aren't sophisticated enough or they're playing games and they will adjust the invoices to $85 in December of 2025 to not have to tell you that it's 15% discounted construction, remodeling, all the rest of that stuff is really important.
+
+The one that came up 10, 15 times this year is work in progress, which is technically Steve a work in capital. So forgive me if I'm telling you something, you know, but let's say I do, uh, 30 remodeling, uh, jobs in a year, and I'm on cash accounting. Not a big deal from an accounting perspective, but if I start a project [00:50:00] in March, finish it in June, get paid in August.
+
+I keep that on a cash basis. August is gonna look amazing, but I was paying out expenses all those months. Those months are gonna be deflated. I sold that work in December of last year, so really, I probably should have had it on revenue then because I took a deposit. And so now both on a month to month basis, but even year over year and insider trillion 12 months and outside trillion 12 months can be really wonky.
+
+But even more so on these project based businesses, which like the stone business is a project based business. There's not a manufacturing line of stones coming out, right? They're doing jobs out kind of stuff. Well, if I do 30 jobs a year, and Steve, you buy it June 1st, I'm probably in process on 10 of those 30 jobs.
+
+Well, if I'm a seller, I'm gonna tell you all those jobs are, oh man, they're [00:51:00] 80% done, man. They're almost off the line. They're heading out next week to the customer, bro. Like 80% of the expenses are done. Don't worry about it. You ain't gonna know. Especially for some of my white collar clients who are going into blue collar businesses.
+
+Even if you walk the, the, the shop floor, you're not gonna know. Here's where you have to get into it, like you do in revenue recognition policy. So we had to tell a bunch of venture capital and private equity clients who are knuckleheads. I throw myself into that bunch, hard to tell anything that the work in progress is so poorly accounted for that on these 10 jobs in progress.
+
+I can't tell you definitively, even after all the data they gave me, is that 80% done, 10% done? Is it at. Uneven the metric because I worked as a CFO of a telecom construction company and we were working for a Nokia sub. And until the customer [00:52:00] went through their checklist on their time and said all the stuff that we did was done, it wasn't done.
+
+So we might be done July 1st. They don't wanna pay out, so they don't show up and check the thing until December. So all this kind of stuff, and so that's another reason you care. Um,
+
+a lot of times with customer deposits, you care in a big way as well. So, um, you may buy something on June one, they've got, um, 10 projects, um, and they take deposits some of the time, not all the time, based on owner's discretion. Well, on a cash basis they should have reported that as revenue. Did they? Is that truly a cash basis?
+
+Is it even on the financial statements that you're reviewing? Um, have they hit it and they're telling you you're gonna get a hundred percent of the payment after you close, but they've already [00:53:00] taken 40% and not put it on the balance sheet. All these kind of things make you care. And here's what I'll say.
+
+If a business is like approximating accrual presentation and they're in the size that we're looking at, it takes so much more rigidity. I know an owner overpaid relative to their peers to get a clean set of financials. So although I don't trust everything, I'm more likely to trust stuff because I know they overspent to get it clean versus someone who's cashed.
+
+And now I almost have to ask like definitively on each important piece on the income statement and the balance sheet, what's in this, what's out? What if this happens? What if that happens? Does that help Steve? 
+
+It does. So it's a lot more complicated than just working capital. So 
+
+**Elliot:** there's, that's why like my jobs this past year, brother, I'll tell you what, and my clients think I'm crazy because it's one outta 40 lines and it's not QuickBooks or taxes and their bank's already underwritten a [00:54:00] thing.
+
+So they're like, why do holding up? And it's like, because you don't know if this is Spanish or German, bro. That's why. And, and, and I'll tell you that on a million dollars of ebitda, you paying four times, they have six, $700,000 of deposits they didn't put on the balance sheet, which is gonna kill your working capital line in one month.
+
+And even though you may have the profit in the 12 months after you purchased the business, you'll be insolvent in in 31 days. I saw a question. Lemme go down. Oh, uh, 
+
+**Athena:** that was Justin saying he, he was living it. He had to jump. But I'm, I'm curious, could you, um. Show us around some balance statements is, is there things we can look out for there?
+
+Or, you know, is it hidden or just not, not recognized? The deposit thing absolutely in particular is interesting. Um, like how do you recognize something if it's a refundable [00:55:00] deposit refund? So it's like, well, they've given me the deposit, but they, they can change their mind and give it back. So do you really recognize that income if you're giving back it back?
+
+**Elliot:** Yep. I'll get right to that. I wanna state one more thing before I move on. So I'll tell it in the story and then I'll explain how to watch out for it. So I file my taxes in October. I bet you Athena does as well. Most business owners do. So we get an extension, we file 'em in October, boom, but we're getting this big Brinks truck, right?
+
+And so, um, the SBA sometimes will want, uh, the taxes just to prove it out in, in underwrite stuff. Well. I had a client who was buying one of these job based construction oriented business. I don't know if it was remodeling or like restoration, something like that. And, um, it was the one where they would have a hundred dollars invoice and would get paid $85 because their clients would stretch 'em, but they didn't input the [00:56:00] invoice into their QuickBooks until they got the cash.
+
+So in a different way, you never knew if it was 85 and they got paid 85 or 200 and they got paid 85, we had already alerted the clients of that risk. Um, we had alerted them that their, their financials were messy, even for folks that presented on a cash basis. These were messier than average. And then I kind of told my client like, I wouldn't recommend this, but that's the stronger recommendation I can give.
+
+Right? It's not my money, not my life. So then the client like quiet for like a week or two. And I'm typically talking to my clients once a week, even post QE, because they're going through fundraising. And oftentimes people will hit me up about fundraising stuff through the sba, whatever, working capital.
+
+Nothing else I hadn't heard from in two weeks. So if they know I'm sitting down one day, I'm like, oh, they're gonna try to run a play on my client. They're gonna try to file their 2024 taxes. Now that they know the QE has come back [00:57:00] tough, they're gonna put fictitious profit on the 2024 taxes to make it look great.
+
+The bank's gonna underwrite to the taxes. They may have even been using a pocket bank from the broker. And they're gonna be telling my client, Elliot's just a crazy fool. Look at him on the internet. The bank's smarter than him. Pay my client this big check. Look, look at the taxes. There's $400,000 of, of, uh, operating income on this thing.
+
+And you see a thing that's covering her face. So I called my client. I'm like, Hey, you just got 20, 24 taxes last week, didn't you? He was like, how'd you know? And they looked really good, don't it? He's like, yeah. I'm like, they're trying to run game on you. Let me just tell you how that goes. And he was like, dang, man, you're right.
+
+I was going off. They had talked me all in my ear. I thought I was gonna be solid. The bank was underwriting it. A week later, I get an email that he killed the deal. Um, dude just quit his job and moved to the Bay Area. His wife [00:58:00] had a technology job. Uh, it was a brother Peter, but it matters for all you guys.
+
+He was gonna be sitting on his wife's payroll blowing through a bunch of money, causing the person a guarantee. He'd have been in a whole lot of trouble, but people would try to run game. And so
+
+you just gotta be thoughtful. Like, why did taxes come late and why did they look so frothy? Why did they come miraculously after the QE came in? Why are they trying to separate me from my advisors? Those are all things you have to kind of think about. So 
+
+**Athena:** I, I, I mean, I'm, this is why I love you coming on, 'cause I learned so much from you too.
+
+But yeah, I mean, I think we're gonna get in early this year, maybe like August or September, go us, you know. Um, but it is, it is, it is. I, I like being a small business owner. I have so much sympathy for having to do the books when you're not big enough to have, you know, A CFO and that level of like financial [00:59:00] support and everything, but the timing, right?
+
+So if you know they haven't done their taxes, almost like saying like, I need the tax returns from you before. Like we move forward before you share the QE results, just so you don't give them the opportunity to do something like that. I ne I mean, I think the best in people, you know, I'm always like trust, trust and verify trust until you gimme a reason not to.
+
+But like, wow, that's, that's wild. 
+
+**Elliot:** I feel like the, I feel like the, the murder cop, I've seen all the bull swank and so I have a hard time trusting anything even though as a business owner, I'm optimistic and I only deal with people who are high integrity. Um, but, and I say this all the time, when somebody's getting three to five times every dollar they lie about, and a broker's getting 10% of purchase price and they're 60.
+
+Talking to my clients who are [01:00:00] 20, 30, 40, 50, maybe 60 occasionally, um, you shouldn't expect to not show. Be manipulated also, a lot of my clients are running from six figure jobs and a seven figure opportunity, so they're very personally biased. And so, um, you know, I, in my personal life, I try not to ask people questions where I know they're gonna have to lie to me.
+
+I don't try to like walk people into a lie when somebody's getting three or four or five times ebitda. That is a, a, a, a situation where even like, you know, the pastors and the deacons might start telling fibs and then you'll never back out. Whether it's malicious and purposeful or accidental and nobody new.
+
+For me, if it's over 15 or 20%, I don't think anybody took home an extra 20% or 20% light on what they spent last year and didn't know. So for me, malice is kind of out of the window. It's [01:01:00] magnitude, but a lot of stuff gets played. A lot of games get played. Let me hop into a balance sheet. So, but then you ask a specific question about how do you know if it's a refundable deposit?
+
+The only way you know that is if you go the contract, which a lot people are too lazy to do. Or
+
+I say this, a contracts are in language. Yeah, you can send to your lawyer to read them, but you, and now you can. So you know, if you, how that works.
+
+Also tell you the deposit are 40. Sometimes that's the situation where seller takes you're 
+
+**Athena:** deposit
+
+a like [01:02:00] create a account, an account. Charter accounts for like refundable deposit. So it's like this is recognized revenue. It could go away. Is that one way of like, if you're taking over a business that takes deposit or something like, 
+
+**Elliot:** so as a new person business, you should
+
+name again. So most of these business owners, their controllers, you know, from high school that already knew how much they made 15 years ago, they don't want anybody else to know how much they made. Typically, people are getting way and then what we think, oh, their CPA got paid, [01:03:00] do nothing but the cheapest tax eight block package.
+
+But they can't tell you like, Hey man, they only paying me 15, so I'm making all this up to not make client silly, leave me alone. But that's what a lot of these really probably should say. So what I'm saying is you shouldn't expect refundable be broken out somewhere. The balance sheet, you're gonna ask recognition
+
+and own.
+
+Other thing, don't, Hey, here's how you shoulda stated your financial look at how much you clients too. It's just, Hey, they said we got, so we stated it differently. Right? But it's still, or by 30% you should probably be [01:04:00] negotiate, but you shouldn't expect a lot of that ity. Um, couple tricks. So people will say, Hey, um, Elliot, the bank statements are in data.
+
+Well start with the simple stuff. What is a balance sheet asset to an statement? Yeah. Yeah. Um.
+
+So when I look at, um, this April,
+
+the beginning of this is actually represented the end of this period. So the [01:05:00] balance sheet is all of the accounts, both physical that are out here, right? I think of the income statement, flow document. All the revenue and expenses flow the company year, whereas the balance sheet is a snapshot. So at the end of April, this is the snapshot of the business.
+
+End of March, snapshot of business assets have equal equity and frankly, small business. The equity portion of balance sheet almost. As long as it balances, because you're gonna redo that as you buy it. But let's go through some of this stuff to kind give you some tactical stuff to look at when you're looking at these financials.
+
+So a lot of times people say, Hey, uh, bank statements. I put those bank statements in the data. What's up? I thought we closed that. Uh,[01:06:00] 
+
+and so all the bank account business, typically that's one you can trust is they have a bank accounts on because even
+
+they had a bank account wasn't. Um, so now this business has way more bank accounts than an average one does. And even some of these ones that may not have, um, motion in them in three months, you still need get bank statements for them because.
+
+In, out, why went in. So be careful about that one.
+
+There's
+
+one of my favorites. Uh, Steve, you asked about this working capital[01:07:00] 
+
+**Peter:** single account. You wish it was that easy, that money.
+
+**Elliot:** I call these I News. So Peter, if you could go out to the, to the pub and I spot your bar on on Friday.
+
+Owe,
+
+but it's not in an account anywhere. It's on your balance. It's owed me contractually. I should be able to it, but in reality it's no. So you should know that because you just went from hard coded, go to the bank, the bank won't lie numbers to this account receivable number that typically is the biggest number in, um, your [01:08:00] working capital.
+
+And now it's really not all that much stronger in a bunch of IOUs. And so that's why as a Q person, I'm looking a lot at historical accounts receivable and has that customer paid you before 90 days paid, whatever, because I need to know how solid that number is Again. A company should say, Hey, for every of, we collect 98, so there's 2%, um, adjustment for doubtful accounts, you fortune, balance sheet accounts, not gonna small business.
+
+So you need to do the work kind understand that. The next section is other current assets. So what is versus[01:09:00] 
+
+I like that. That's exactly it. These things typically can, here, the ones below it can't. Um, but because somebody said that and put in current assets, don't make like this from.
+
+Um, that,
+
+like, that's not anything that you're gonna wanna handle, right? Um, you see this, these are in dollars, you see this employee advances. Um, you're gonna understand what is the nature of employee [01:10:00] advances. So that may be a question that had you not looked at the balance sheet, looking at the income statement, payroll line, you're never known to think about employee advances, but you need to understand that now.
+
+Um, and then, uh, one of my favorite, uh, inventory, so if you have a company with inventory, know that there's a lot of games that can be played. Um, I'll tell you two quick ones. So in the book Buyout by Rickers, he has a whole chapter about where he tells a story when in private equity went go
+
+inventory three, um, warehouses. He is like, as a smart, you know, young analyst, lemme go visit the warehouses. I wanna see the inventory. Right? So he arranges, you know, Monday visit, Tuesday visit Wednesday visit, and the sellers at each one and comes to find out later, they were moving [01:11:00] inventory from one warehouse to the other, to the other because coming and
+
+actually, so one of the.
+
+Progress question and I'm trying to, whoever doing diligence asks, they, so some companies don't control system. They'll tell, they buy I when they need it. Oh, that number's not accurate. We don't have one point million inventory. It's close to million or some
+
+that's not sellable. And so inventory ask how you inventory, is the number balance sheet [01:12:00] accurate? Is any of that stuff inventory should be and everything should be held at the initial cost on the balance sheet. So this should be the, all the costs of all the inventory, whatever date they purchased it. To that.
+
+So be a people.
+
+So if, I dunno if I put one widget into a product or three or five because I don't have a good control over it, then all of a sudden my product portion,
+
+portion cost. [01:13:00] So now we're dealing with how, and that's another.
+
+But,
+
+and
+
+so, um, small business, we have any equipment, equipment this, so you know, how much is owe forklift Mercedes,
+
+that's tax de all these assets. [01:14:00] Like if I look at, um,
+
+so if I look at they have million accumulated.
+
+And a whole bunch of fixed assets. So most of these fixed assets have been fully depreciated. You might wanna assume that means they're old, but the tax code allowed
+
+times.
+
+But you need to understand what's on the balance sheet. But you also need a current market value. So for instance, like if they're using a three year in the business, may value percent those D.
+
+So make sure you get some estimate from the fair market value. This stuff is, if you can't assume [01:15:00] it or guess it like a manufacturing facility or touch, why are those numbers important to a buyer? Um. A manufacturing company deliver stuff, um, and has one machine they bought last year. One machine they bought 20 years ago, one truck they bought, bought years and they depreciation on.
+
+So you might say on a basis they worth,
+
+but really that truck worth
+
+20 machine have value, but it could any day and you have to replace to million, which wouldn't be in [01:16:00] Steve's working calculation. And so that's why you need to understand not just market value, replacement value, all those kind of things. Because again, I mean a lot of these manufacturing, 10 old manufacturing assets still work.
+
+Oh man. Gone for 20 years, it'll go forever. But if on you and it's got a half million replacement,
+
+**Athena:** much. 
+
+**Elliot:** Did I answer your question? Yeah, I think so. I 
+
+**Athena:** like, um, I think it's good asking it and kind of theorizing in different ways. So, um, it's not necessarily the valuation, like this doesn't necessarily evaluate the factor to the value or what potential cash am I gonna have to spend when I take over the business and the, the, uh, [01:17:00] example from my search life when I got on car wash like everybody else, right?
+
+And I was, um, I'll tell you about this car wash guy sometimes because you'll, you'll love it. But, uh, he was an absolute character. I didn't realize, just have insanely expensive equipment and it only lasts so long. And like the guy that I was trying to buy a car wash from had a maintenance contract on his equipment, which made it last longer, but the useful life was five years and he was two and a half years into this equipment.
+
+So in another two and a half years, I would be looking at two and half or two $50,000 to replace. And when you're buying business, right, you don't necessarily see that if it was like, you know, not within the last three years or you're [01:18:00] not understanding that. So that, that's a, I guess just another example of, yep.
+
+It's not just necessarily like valuation, it's also like what are the potential cash outlays. You to um, you know, put some maintenance CapEx for you. And I talk about maintenance CapEx a lot. Once I, I realized that, but it's not something we talk about a lot, nor know how to calculate. It 
+
+**Elliot:** came up
+
+equity still manufacturing engineer. So the other thing that's related here is said CapEx, but there's replacement CapEx too. So what's CapEx 
+
+**Peter:** a at that capital exp? So, um, just I look at it as like, uh, all these large purchases that are [01:19:00] required to run business but not like. Every day, you know, it's, you gotta purchase the thing, you know, like you on like a sort of a cost sold where every day or or every period of time you gotta purchase thing, get the sale.
+
+It's like if, if, yeah. Right. So it's like if, if, if you live in Chicago where know, it's like how do you run a manufacturing snow on, right. Right. So yeah. 
+
+**Elliot:** So in trucking, um, well another way to say it, money on that doesn't show up in EBITDA or working capital screw you would be another way to describe Cap and something that, excuse me, like a sucker buyer wouldn't see until they might spent hundred grand on legal not representing.[01:20:00] 
+
+Million cash only
+
+wait bank under so people,
+
+but it's the maintenance stuff,
+
+you know, 50 grand a year to have somebody maintain, right? But then you have a replacement cap, which every five years you got a quarter million amount of money you gotta put up. So whether you count for that in working capital, or you spread the two 50 out over five years, or however you do it. [01:21:00] If you don't account for it correctly, you'll be in trouble.
+
+So I had some clients who were buying a trucking business. It was like distributions. So it was like more than trucking logistics, but it was trucking at day and you know, we're tasked with looking at ebit, right? So I assumed that they had understood CapEx and understood the, they were making financial come to, I get a call, I'm looking at this EBITDA versus cash flow and,
+
+and I don't think I have any cash. And he's like, well how do I do the, the cash flow analysis on this? And you know, that's not qe, but I've done trucking so much that I just kind of did a ball on the side. But you have to know what's the annual maintenance on 10 trucks? What is their replacement timeline?
+
+So some, some. Owners [01:22:00] choose replace wheel every three before they get off their manufacturers warranty. Some five years before their, um, market drop off. 15 need to understand how ally and then into your cash flow assumptions you need to put, okay, well three trucks gonna need to replace next year, five in three years, two and the other year, but also as a smart buyer.
+
+And there's a couple of good,
+
+let say you got three trucks, your whole business and one truck breaks down. That could be a third revenue that might be down for two or three. And if you don't have like dedicated maintenance resources or like a dedicated for.
+
+Pain
+
+revenue 30% for [01:23:00] a month. And so wrinkle
+
+sign, you have to consider both maintenance and replacement CapEx, and they're gonna call you crazy. The brokers are gonna call you crazy. The seller are gonna call you crazy. The bank will sort understand the credit community will understand, but the sales person may not. And so you have to strong enough to know I can be called crazy, but if I don't account for this cash, I'll be 
+
+**Athena:** literally looking at deal.
+
+Discovered this. I thought the broker had like pulled a one on me and was lying to me. I was like, hang on minute, like I was looking, I was like this, right? And then I was like, wait. I was like the owner, I went and like [01:24:00] sat with the owner on this like archaic financial system and he's like showing me that he's spending a million and a half a year on equipment.
+
+And I was like, but that's not. Where, where is it going? Right. And I was, I was like, here, that's real cash going on the business. It's not selected in the numbers that were showing me. So I was like, shouting, I'm so mad. I was like, why is nobody telling me this? You know? And, and, and that's, that's the thing that, uh, in our, in our modeling template now that, that we have for clients, we take the depreciation number just as like, uh, if I don't have that cap, yes.
+
+Might be if we take average that. But I think that's one of the really important things about the balance sheet, that if you're buying equipment for the business, it's gonna go on balance sheet, but not the p&l. 
+
+**Elliot:** Yes. [01:25:00] 
+
+**Athena:** That that's a huge Gotcha. You're not a savvy financial statement reader buying a business 
+
+**Elliot:** and these numbers that I kind of brushed over, that means that, let's say I bought and sold 10 in March.
+
+I'm gonna
+
+go up
+
+million some. And so again, to point, and companies really have, if you understand, because. Balance sheet. You directionally the [01:26:00] directionally get more, but oftentimes
+
+so
+
+**Athena:** is the time. This is, this is so much fun that I've been having. Um, I could, I could, I'm sure we could go on for hours and hours and hours. So, well as a starting point, is there any like main points you wanna make before we sign off today and maybe we can convince you to come back? To be continued 
+
+**Elliot:** back? I would just say the same analysis assets,
+
+long liabilities. Account payable on payroll, but lot of times people stick stuff in here. The other [01:27:00] thing on balance sheet that you gotta be careful about is, um, so certain expenses you can capitalize. Like if I buy a truck, I can capitalize that expense on my balance sheet. It won't show up on my income statement, but some sellers will capitalize expenses that really should be run through the p and l.
+
+And you'll see it because you'll see these wonky lines on the balance sheet and you'll ask what's in it and there'll be expenses. A lot of times the maintenance portion of CapEx is actually an expense that runs through the income statement. And so you need to understand is that running through the income statement purely on the balance sheet.
+
+So, um, you won't be great at balance sheets right away. Found yourself to be a little bit better each day. Um, and that's what I would, would end with. 
+
+**Athena:** Um, this is super helpful and I, I guess the, the little moral of the story here is like, don't buy a business without having someone like you do this deep analysis on [01:28:00] everything unless you know how to do it yourself and like, um, you know.
+
+I am endlessly learning about things and businesses run their, and here's the thing, it's like you could be the most sophisticated financial statement reader, but the seller might not be a sophisticated financial statement maker. So it might not be fraud. It might just be they don't know how to do all this.
+
+And I can tell you from firsthand experience, Mr. Peter can too, like running QuickBooks on your own business. It's an absolute hair puller outer when you're just trying to run your business. So the importance of having somebody that can go in, rebuild everything, verify everything and tell you what's what, so that you know what you're buying and what you're walking into and those cow cash alleys might be super important.
+
+Um, but I guess the other thing to say here too is that this, uh, is, is kind of what, what you will be doing as part of your [01:29:00] diligence process. So it's not necessarily something you could get answers. Pre LOI, right? So like there's, there's an order to these types of questions and digging deeper and deeper and deeper.
+
+So digging into trying to dig into this stuff pre LOI can be a problem. You might lose it, especially if it's competitive, right? Like so, uh, any final words on on that thought? 
+
+**Elliot:** Yeah, you're not gonna know most of this stuff. Pre LOI play to win pre LOI broadly, and I should, I dunno. Athena has your guys back to not do silly things but play to win.
+
+Um, once you get the data room, there's stuff you can do yourself before you pay somebody like me and frankly, week one after a letter of intent and a week before to me, or the same date. So I don't, I don't think you really extend yourself that much. The other thing I'll remind you is like that HVAC or roofing or whatever company owner has been selling for 30 years.
+
+They put kids through [01:30:00] college, paid mortgages, right? There's 15 or 30 employees that pay their mortgages and put their kids through college on his ability or her ability to sell. They can certainly sell you some bullshit.
+
+**Athena:** Um, I love this in Indy, Elliot, I learned so much from you and I just love the no nonsense. Um, thank you so much. This was super valuable. Um, I, I'm sure everybody here got as much value as I just did, and, um, really appreciate you taking the time and just giving us your expertise. Um, hopefully we'll get you back again 'cause you're, you're one of my favorite guests.
+
+Uh, there's so much to this, it's so important, but I love how you explain things and the energy you bring to it. So thank you so much. 
+
+**Elliot:** Awesome guys. I love it. I'm a nerd in that way. If you need something, holler at me. Thanks for having me. 
+
+**Athena:** Cool. Thanks everyone. 
+
+**Elliot:** Thank you. 
+
+**Athena:** [01:31:00] Take.
+
