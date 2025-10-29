@@ -1,0 +1,456 @@
+# AcquiMatch Buyers Club 08/26/2025
+
+[00:00:00] 
+
+**Athena:** Hello. Hi, Justin. Nice to. Welcome to the Only Buyers Club this week. We know end of month is always a mad dash for most people in life. So little break. Um, and then next week will be Eric Boyce coming back on the Thursday to talk about wealth management for owners. So today we're just gonna talk through your deals, see where you're at, see if we can help unstick anything or get some clarity.
+
+Um, and yeah, that's about it. So excited to see everyone. Um. Curious. Uh, I think most of you were on the, um, conversation last week around tax strategy. So how did that land? Were your brains melting after that or did it help create some clarity? How are you feeling about tax strategy after the conversation?
+
+**Polly:** I don't think it melted Steve's brain quite like it melted [00:01:00] mine, but it's all good probation. I was just trying to process it and it, it just, it came at a, a pretty, uh, he was very good, but it came at a lot of speed for me, so, um, but that's okay. I can, that's the beauty of being able to re-watch it right.
+
+**Athena:** Yeah, was there anything that stood out as like useful information or something that you were like, I literally have no idea what he is talking about? I need to double click on that one at some point. 
+
+**Polly:** Uh, 
+
+**Athena:** let's 
+
+**Polly:** see. That's all right. Thing here. Um.
+
+Give me a few minutes to process this for a second. 'cause I, I did have something that I could refer to, but it's not coming to me right now just because I just got done dealing with the furniture or the, uh, refrigerator repair guy, so. Oh, amazing. No, no, 
+
+**Athena:** no worries. Anyone else wanna dive in? Was there anything in particular that you're like.[00:02:00] 
+
+Oh my gosh, I need more conversation on that, or, that was a huge epiphany and helpful and, and broke things down. Michael, I see you unmuting. How did that all come through for you? 
+
+**Michael:** Yeah, I enjoyed the presentation, I guess you call it, but, um, I, I do think that, um. It was a broad brush on a few different topics and a quick pace, right?
+
+And so, um, and some of these, well maybe more, not maybe more than some were areas that I was like, okay, I know a little bit about it and wanted to do more research into, and, and that might have been a perception of also making it feel like it was going at a quick pace, right? Mm-hmm. Um, but, uh, I thought it was, um, I, I'm trying to think back because, you know, that was.
+
+Last Thursday. Right. Um, but, um, if I had, if I had any more specific feedback, I'll chime in. But yeah, I just, there's, there are some things that I'd want to consider, but it's like, until you know what your deal is and [00:03:00] where you're going, um, then you might alter your strategy a little bit from that standpoint.
+
+Right. Um, whether or not. I guess the two big choices, I guess are S Corp or C Corp by his standard. Or maybe you could keep it with an LLC. But I think once you get into that path, you have to start to look at the things that he was presenting and go, okay, does this apply? Do I need to dig into it? Do I need to learn more about what the right strategy is, uh, for me or the business?
+
+Right. Yeah, I think it definitely, I mean, it definitely left me wanting, needing or wanting more information, which I've got on my list to go back and re-listen or listen to it again that way I, I, I'll tell you, this is probably a little bit, I, I, I found myself a couple of times wanting to rewind it while it was live and go back and hear what he said again.
+
+And then I realized, no, no, I have to wait on the recording for that. And so, um, but that kind of sums it up for me. 
+
+**Athena:** Yeah, I remember the first time I heard someone explain what an F reorg was, which is, [00:04:00] which is what he was talking about the I, I forget the name of the document, but where you take an S corp and you turn it into like in a stock sale and you turn it into an asset sale in a new entity through F reorg.
+
+And it's basically like the first time I heard it was at an event and it was like. Super corporatey, like legal, accounting, speak. And my brain was just like melting. And I was like, so you mean it's kind of like it's a caterpillar, the f reorg is the cocoon and then the butterfly is the new entity. And they were like, yeah.
+
+And I was like, you could have just said that. You know, like, um, so I, I, I think the biggest. The takeaway for y'all is, is just realizing like, wow, these are super complex situations. Um, so making sure you have advisors that can help you, like navigate these things and just having an overview of it early on, you'll kind of be like, okay, [00:05:00] I don't understand what that thing is, but I know this is something that needs to be dealt with, right?
+
+Or I need, I know that. I need to have the tax conversation with the seller. 'cause that could be a breaking point. Um, so, you know, enough to be dangerous but not necessarily be the expert on it. Um, how about you Gil or Justin? What were your kinda takeaways or thoughts from last week? I, 
+
+**Gil:** he kind of. Sh shone some light for me on the double Dation issue with, with the C corp.
+
+**Athena:** Yeah. 
+
+**Gil:** Um, I'm, I'm, I'm gonna be using the Robs, so I will be using a C Corp. Uh, and that idea always frightened me, but the way he explained it is like, okay, maybe I shouldn't be that frightened from it. Uh, but also just, just to echo what other people are saying here, um, definitely need to rewatch and, uh.
+
+Kinda scared me a little bit, um, also because of how much I don't know, uh, and how much I, I do need advice and, and, and, [00:06:00] and coaching in this, in this area. Wow. Um, 
+
+**Athena:** yeah, and that's one of the benefits of like, you know, getting into diligence, getting good advisors around you is like, you know, you don't get that kind of team assembled when you're a business owner.
+
+Yeah. So it's kind of cool to like, go into the business, having all these people advising you as long as you, you make, you know, that's why we bring these people, to introduce you to 'em is like making sure that my team is covering me on all of these knowledge areas that I have no knowledge of. Um, and then when you're a business owner, it's like you don't get that kind of support on a day-to-day basis or going into a, you know, like your quarterly reviews and stuff like that.
+
+So it's, mm-hmm. I, I think it's kind of a cool thing to like, think of that, right? It's like I don't necessarily need to retain all of this knowledge or be the expert on it because, you know, you're buying a business that you're then gonna be the owner of. So focusing more on like, well, what do I need to be successful as an owner?
+
+Um. But yeah, there's a [00:07:00] lot there on the tax thing that you just like, it's, it's so nuanced and layered. Um, Justin, how about you? 
+
+**Justin:** I haven't had a chance to watch the playback completely yet. I'm 15 ish minutes in, so I'm trying to get time to go back and review it. But what I will say is it sounded, uh, from the onset, very in depth or, uh, maybe just.
+
+Almost over my head with it comp potential complexity. So I plan on probably taking it slow on the rewatch and like really digesting and trying to understand the nuance because there's, there's a lot to unpack when it, when it comes to, yeah. And, and the taxation element for me, probably of all of this is where.
+
+I get most encumbered on understanding, you know, set up, you know, what, what is most tax advantaged in how, not only set up, but then how it's run every step of the way. So, I mean, it's a great topic and I wanna bone up on it, but it is, it can be very [00:08:00] complex and this was evident of that. So I'm assuming I'll probably go back and rewatch three or four times just to try to take it all in.
+
+**Athena:** Yeah, it's a, it's a, it's a heavy but very important topic. So now you know, you're starting to get a real taste of why I'm obsessed with taxes and like I just talk about it all the time, like taxes, you know, both in the purchase. But as a business owner, there's so much that. You can do to be tax advantaged.
+
+There's so much that most accountants will not advise you on. They'll just be like, what were your expenses? Okay, cool. And they'll file your tax returns. And it's like you're leaving all this like legitimate legal money on the table that you could be taking. Um, the other thing I I found particularly interesting, and I'm excited to see how we can incorporate that into some negotiation post loi, is, is the, um, you know.
+
+Being, seeing the deal qualities that would allow [00:09:00] you to tell the seller, like, Hey, you can do this completely tax free if we do it this way. So I'm gonna, you know, potentially lower the purchase price, whatever. Um, it's a cool tool in the toolkit. I'm always excited about these structuring toolkits. And Justin, you might have not been around for that conversation, but there's certain, um, qualities that if the business has.
+
+And you've held the stock for a certain amount of time, so you as a new business owner can do this too. Um, then you could potentially, you know, get zero tax on the proceeds of the sale, which is huge, right? When we're looking at like hundreds of thousands of dollars of tax for a lot of these sellers. Um, so, but making sure not to reveal your hand, pre LOI.
+
+So that they can go off and take the schmuck that doesn't know that giving the higher price, and they are able to get the tax free benefit of that. So, um, you know, strategically placing those conversations throughout the process. But I'm excited to, to pull [00:10:00] that one out. Um, the, there's a few things that, um.
+
+Sorry, brain went in two different directions. That's always where the pause goes and like starts running down two different paths. Um, but I think it's, it's fun to listen to these and I think it's a great idea for all of you to go back and listen to 'em again and again because when you start, you know, getting further on these deals or having these conversations and you're able to, to kind of see them click into place, that's where it has to happen for me.
+
+'cause it's such a. Complicated conversation. Um, you know, the f reorg took me a while to kind of wrap my head around. Steve. Welcome. We were just chatting any takeaways or epiphanies or questions that we had off the attack strategy call last week? Polly said you, uh, you, you were able to kind of follow along.
+
+**Steve:** Yeah, I think it was in the car last week. [00:11:00] Uh, but yeah, it was awesome. Um. I don't know if a a, an epiphany other than I guess the, the, the one thing. Back and forth with is when to engage. 'cause I think it was brought up as matter of fact, I think your first question was the first question I was thinking about.
+
+Yeah. Because a lot of times we're trying to move so quickly onto an LOI is that, you know, we might not have time to, but I understand at least the framework or understanding around it. So that was the only, that was the only area of clarification from it. But it does, uh, open a lot of. Mind thought, I guess you'd say on, you know, the, some things, how, how do I say it?
+
+Things that seem so straightforward aren't so straightforward. 
+
+**Athena:** Yeah, for sure. I mean, so you guys are, are my clients first? Everyone is always gonna tell you pre LOI, right? But that's a lot of [00:12:00] expense for you. It's a lot of running around and, and having to get a lot of opinions before LOI. And if you're in a competitive situation, it's not ideal.
+
+So none of this can't, like, can't be cleaned up. Post LOI, um, there are a few things. I'm gonna be checking our templates or seeing if I can get Barlow Williams to update like the, the client suggest the or, um, the buyer suggested tax allocation. Um, I can't recall if that's in our template, so I'm gonna go back and see if we can get the template at least updated so you're armed with that.
+
+'cause sometimes you don't have the luxury of chasing around a bunch of advisors pre yellow eye. Um, and. Especially lawyers. Lawyers want to be involved as early as possible. Like that's their, their kind of default. And he is a lawyer, so, um, and, uh, yeah, so I, I'll, I'll just, you know, my view on it is the. OI template that we have is pretty locked solid.
+
+I'll check it for the tax implications, but all of it will be able to be cleaned up pretty early on. And [00:13:00] I like that his company will do like the carve out on the tax strategy. If your m and a attorneys don't feel competent to advise on that, like sometimes with an F three org, they'll be like, Hey, we need to bring in somebody else on this if they don't feel competent on the tax side.
+
+Um, so that's pretty cool is you can pick and choose who feels right for each component of that. Um, I was gonna grab my book. Here comes the book lady. This book was really helpful for me to just kind of start wrapping my head around tax strategies as an individual and as a business owner. Um, and really any opportunity you get to just fill your head with tax strategy.
+
+It really also comes into play in the m and a process too, because I think especially if, if most of you have been W2 and haven't had the vehicles to be able to like be tax advantage beyond real estate, then you know. Learning this stuff or at least enough to be dangerous, then when you're choosing advisors, you can [00:14:00] stress test them on this because like, and I'm, I'm just flabbergasted and maybe some of you can buy CPA firms and start incorporating tax strategy in it, but the people that are doing tax strategy are like doing so well as a business because so few CPAs and accountants actually do tax strategy for people, which is just mind boggling to me.
+
+Like, um, but. 
+
+**Steve:** That's a good point, Athena, that was the other one that really hit home, because I've got a brother who owns his own business and stuff like that, and you go to your CPA, he's been doing the taxes for the business, et cetera. And then that guy retired, a new group came in, he's like. I never knew I could do all this stuff.
+
+And I've been with a guy for 30 years, so, and they're both CPA firms and so that, that, and that was the other part right there. You think you got a CPA, they're, no, they're just gonna run numbers for you in taxes and do inventory. They're not really there to, uh, I guess to be a, [00:15:00] uh, like a tax attorney, like an, uh, advisor.
+
+**Athena:** Yeah. I mean, they don't even need to be an attorney, like a tax strategist, you know, like, um, like. That is someone with a specialty knowledge that's gonna need to look at your unique situation, your business, what your goals are, what you want to achieve, right? Like do you want to be investing into real estate or do you want to like be maxing out your retirement accounts?
+
+Like what are the ways that tax advantage vehicles you as a business owner can use to keep what you make? You know? And all of this is. Legal, if you have the right person. It's all written in the tax code because the, the IRS incentivizes business owners, right? And there's like 693 pages, or I don't know, I can't remember the exact number, but I think it's like 700 pages of the tax code.
+
+And only seven of them say what you must pay, and the other 693 are always for you to save money on taxes. But CPAs aren't learning that tax code and aren't applying it. They're just filing your [00:16:00] taxes and whatever you tell them are your expenses, you know? Um, so if you, if you learn about these strategies yourself, then when you're reviewing people as a new business owner to do your taxes, um, and strategize on the taxes, then um, you can, you can vet whether they're gonna be able to help you or not, but.
+
+Majority of them do not do tax strategy, which I, I can't comprehend, like, how is that even a business model to just buy all taxes for someone and not show them how to save money on taxes. Um, but yeah, it's a fun topic. It's a, it's a pretty deep one to get into, especially with the transaction and, um. You know the seller's situation too.
+
+So if they also have a CPA that does not understand tax strategy or m and a, that can often be a blocker for you in the deal. Like CPA says, oh, you're gonna have to pay all these taxes, or CPA doesn't [00:17:00] help. The seller with that. So even more having the benefit of having someone that can like, help both sides understand the situation so they know what they're walking into and you can have a real conversation about it.
+
+Um, and it sucks that the seller doesn't necessarily have that kind of support to help them through that because it's pretty meaningful. And imagine someone didn't know the, the fact that you could do it tax free and they ended up like paying all that because they just had a bad advisor on it. Steve, what were you gonna say?
+
+**Steve:** Oh, oh, I had a question, uh, regarding that. It was, another thought I had during the call last week is when he was talking about he can come in and help the seller understand how receptive in your experience has been a seller, knowing it's your, um, you know, tax advisor bringing that information, they standoffish or they welcome it, or 
+
+**Athena:** if.
+
+I [00:18:00] mean, Caris might have a lot of experience from this on the cell side in my experience. Like, you know, it doesn't get talked about early enough. And then, you know, people. Reliant on their, their own personal CPAs, and that can be a blocker and often something that kills the deal. So I can't say like specifically, oh, if you bring, um, Roman and his team in to talk to both sides, that would make it better.
+
+But from a negotiation and just being on the same page standpoint, um, what I've seen is that like say the seller has an attorney. That was their family attorney never did m and a experience, whatever. And then they're going through this process we're, we have competent people on our side and we also tell them like, Hey, we can get you representation that has this kind of experience.
+
+We tell you guys to tell the seller that because it makes the whole transaction better. And oftentimes what happens is the CPA or the lawyer gets fired midway through when [00:19:00] they realize how incompetent they are at it. You know, so like if you're helping them understand something that's complex that their team's not understanding, then to me that garners trust.
+
+Chris, have you had any experience with the tax conversations? 
+
+**Charis:** I mean, not as, you know, in depth like that, like a scenario like that? I think. Initially they might receive it a little sketchy, right? Like, oh, you're giving me this like, feedback, I haven't heard this before. Um, but all they need to do is, um, you know, validate that what you're saying is true and they can benefit, um, from those tax savings.
+
+And then, yeah, they might. You know, go through some, a firing process and a rehiring process. But in the end, once they validate it, they'll be really thankful and that might score some really good points. 
+
+**Athena:** Yeah. I, I, I, I [00:20:00] can't, I, yeah, it'll probably be like a upset at first. They're gonna find out their tax bill one way or another.
+
+Right. What you don't wanna happen is like when you're drafting the a PA or about to sign the a PA and they're finding out what their tax bill is, and you've spent all that money. And it, it kills the deal. So, you know, when you're going through the process, like, Hey, who's your CPA? Do they help you with tax strategy?
+
+Have they been through m and a deals before? Right. Like I would be stress testing their representation. And, and it's one of the things that, you know, we talk to you guys about when you're on offer and you start like dealing with the seller more directly is finding out who's on their team. Because those could be blockers.
+
+Um, and being able to ask questions like, you know, Hey, I, I have my own representation, but the team at Acrim Match have great people that would be separate representation for you if you want recommendations, if you don't feel like you're in good hands. Lawyers are bound by like that, you know, like they have to treat the clients separately and [00:21:00] differently.
+
+So, um, you know, them getting good. Representation there. Um, also like there's fiduciary responsibilities depending on whether it's a CPA or not, and, you know, those sorts of things. So, um. But I think it's, it's absolutely should be part of the earlier conversation is seeing who's on their team, how confident you are.
+
+Oftentimes they're like, yeah, you know, my family attorney that drafted our, our whatever, you know, or like, has helped me with. Creating contracts. It's like, well, have they done m and a deals specifically with SBA? Right? SBA is gonna have its lawyers all over it, and then there's gonna be all sorts of red lines.
+
+So what often happens is they don't understand these types of transactions and end up holding up the whole deal because you're on the other end of the table from somebody that's not competent or experienced in these types of things. I kind of went in a circle there, Steve. But yeah, if you're bringing them useful information that will help them.[00:22:00] 
+
+Can't imagine it would do anything but like garner goodwill. Um, cool. Well, um, excited to hear how some of your deals are coming across. So, um, Steve and Polly, uh, I know you put an offer out there, they said no. Curious if there's any more feedback on that or if you know, um, kind of some of the, um, specifics around that.
+
+**Polly:** Really what it came down to is, um, just to give everybody a, a quick background. So this was a, um, digital agency, specifically lead generation to elder care, um, attorneys and estate planning attorneys. So, um, he started this business because his wife, uh, was in the world of law. I think she worked for an attorney specifically.
+
+They were trying to get more leads and that kind of thing. And, and so this, uh, owner [00:23:00] worked with them on, on marketing for them and it kind of word of mouth, uh, spread like wildfire. And he built the business from 2017. Today to today it's, um, up to 4 million. Uh, well that was the ask price. Um, anyway, he.
+
+When Steve and I talked with him on the call, you could tell both by body language and just his conversation that unless he was going to get exactly what he was asking for, which was a 30% equity injection, was willing to do a little bit of seller financing and that, but nothing more than 10%. Um. He probably wasn't gonna do the deal because his business is going well.
+
+The only reason he wanted to quote unquote sell it potentially is the fact that he made a promise to himself when he started the business that when he turned [00:24:00] 40 he would be ready to sell it. But, you know, he has, um, employees and he's about to hire two more salespeople in the next 60 to 90 days. And he just would not move off the dime with the 30% equity injection, and we were just not comfortable with that.
+
+So, you know 
+
+**Athena:** why, if I, so this is what I don't understand, did you dig into that with the broker? Because the, like you be able to get it financed through whoever, so why are they stuck on the 30% when they aren't the one financing the deal?
+
+Um, because you're given, you offered 90% cash workflows with 10% seller note, right? So that's not any different from like what they're proposing. So that's what, what I don't understand. 
+
+**Polly:** Well, Steve, can you help to answer that question a little [00:25:00] bit? Because I think, um, I mean, the way I understand it is they had wor they were working with a lender.
+
+That had done I, is that correct, Steve? Am I right about that on the SBA side? 
+
+**Steve:** Yeah, they were. And, and so they, I, I think what it came down to, uh, is. They, I think if you, correct me if I'm wrong, because I know you spoke to the broker, they had a couple of offers that were willing to do the 30% injection. So unless you met at full price, uh, they had no interest even though we offered, you know, just not those terms of saying we're gonna put 30% injection in.
+
+I think part of it was that's what they, their lender. I know Athena, we had this conversation, their lender approved them with a 30% injection, so they just wanted to stick with that period. And he said he is got a couple of offers with that, 
+
+**Athena:** but you don't even include that in the [00:26:00] LOI. So I'm just, I'm perplexed.
+
+Who's the broker? 
+
+**Polly:** Pardon me. Um, the, it's a, is it, is it a quiet light? It is quiet light. Mm-hmm. 
+
+**Athena:** So the, it sounds like the broker's choosing his lender, not a buyer that could get it financed. 
+
+**Cash:** I think that's exactly what's going on. 
+
+**Athena:** Like when, uh, Paul Polly or Steve, like when they said, was this like over a phone call or email?
+
+Like how did he tell you this? 
+
+**Steve:** That was with Polly, so. 
+
+**Polly:** I'm sorry, I, you'll have to ask that question again. I was actually looking for the last exchange of emails with the broker so I could actually look to see more specifically what, um, he asked if it was 
+
+**Steve:** by phone or email that he communicated that with you.
+
+**Polly:** Um, actually both. So it was, it was both phone and email, so. That's what I'm trying to, '
+
+**Athena:** cause when you, when [00:27:00] you put an LOI in, you don't, you don't tell them how much cash you're putting into an equity injection. Right. You tell them what the seller will make it close. Like what cash it close will be and what your seller e like seller, um.
+
+**Steve:** Finance 
+
+**Athena:** seller note will be, sorry, I lost the word there. It's, um, but you don't, you don't say, I'm putting 30% in equity injection into an LOI. So there's something fishy here, and that's, that's why I'm digging into it. 
+
+**Polly:** Well, if you, what, what I can do is this. Um, so the owner is actually, uh, on his way to Australia on a, I'm assuming vacation.
+
+And so I don't know how long he's gone, and I'm sure he'll be having conversations and correspondence with the broker. Um, if you have specific questions you would like for me to ask him, um, I'm happy to do that. You know, [00:28:00] I, I, we both liked the business, but it's just, it really, I think it really comes down to, you know, can, can we work these terms?
+
+Can we. You know, even get him to budge a little bit. Um, but I'm happy to write down the questions that you would want me to ask the broker at this point. And I can certainly pose, you know, uh, email those questions and go from there. See if I can get a, some feedback, um, before we meet with, uh, cash tomorrow.
+
+**Athena:** Yeah, I mean, feel free to forward the correspondence in the channel so we can see like where it was left off. Okay. Um, it's something around, it's something to the effect of, I'm confused about the equity injection. Um, you know, if we were to get an alternative lender, are you saying that the only lender that the buyer is able to use is this one?
+
+If so, like, could we have a conversation [00:29:00] with them to understand the equity objection requirements? Um, like why do they need 30% down? That's not typical for SBA and yeah. Why is a seller choosing someone. Based on the lender, like does the seller, the brokers getting kickbacks from the lender and like, or is the lender, or is the broker passing the kickbacks over to the seller that they might be getting?
+
+It's just, it's weird. Um, hopefully that's clear why it's weird. Are you guys picking up on 
+
+**Polly:** Yeah, I, yes. And I'm writing this down. So 
+
+**Athena:** it's, it's, it's a different thing, you know, if the seller's like, I'm not doing any seller note. That's one thing because it actually affects their cash at close. But whether you do 10% equity ejection or 30% equity ejection using an SBA lender is no skin off the seller's back 'cause they're gonna get the same amount of cash at close.
+
+Yeah. 
+
+**Michael:** Yep. I see. Unless the bank doesn't want the exposure not covered [00:30:00] by the SBA, I know I should probably keep my mouth shut, but there is a gap there. We, we, but 
+
+**Athena:** that the broker should never dictate that you have to use the lender, which is why, why I am like, you know, this broker must be trying to, you know, get two bites of the apple by saying, oh, you can only use my lender, which I'm gonna get a referral from, from sounds nefarious 
+
+**Michael:** for sure.
+
+**Athena:** It does be like, you know, it sounds like you're choosing buyers that will use your lender over buyers that will, but like
+
+there's a way, if we see the, the most recent comms, then, then we can have some thoughts about this. Um, p is exceptionally good at this because this is kind of objection handling, right? With the, the broker, there's, there's objections. It just doesn't make sense. So like objections usually aren't. The objection they give you isn't the reason.
+
+So maybe he's using that because there's some other question mark about you guys that he is not voicing also, like maybe it's overall financiability or [00:31:00] something like that. And he's just using that as the reason to object to you moving forward with the deal and there's something else. So if we see what he said then, then we can suggest maybe some ways of overcoming those objections.
+
+'cause it, it is just not, and quiet lights. Supposedly a very repeatable brokerage. So if they're doing things like that, like not selecting buyers because they're not using their lender, that's, it's not in integrity with who they are, but I feel like maybe there's something else going on that we're not seeing.
+
+So that's a few like it enough to continue to like clarify on it. And it seemed like you were really interested in it. It does seem like a solid business. 
+
+**Steve:** It's interesting to, to, to me, it, it looks to me, and I'm just, um, you know, doing like an assumption, which I shouldn't, but it looks to me like the, the seller wants his price and terms, and if he doesn't get it, he's happy just running the business.
+
+He's, I'm gonna hire more [00:32:00] people, which, yeah, but the 
+
+**Athena:** term 
+
+**Steve:** I still don't, I still struggle with the, the only reason he is selling, so he turned 40 years old. 
+
+**Athena:** Right. Yeah. The, but he's 
+
+**Steve:** still gonna get the cash. No. 
+
+**Cash:** What, right? Like exactly. 
+
+**Steve:** It doesn't, like the 30% doesn't affect him at all. Right. Get, I guess the 10% down, he would have to take a 20% seller note.
+
+So that's No, no. He's not willing to do it. That's what he is saying. 
+
+**Athena:** No. Like if, so here's, here's the thing. If you go to the broker and say like, if we found another lender that would be willing to finance it, the way we're talking about he got the same amount of cash to close, would that change things?
+
+**Steve:** Right. 
+
+**Athena:** Right, because they're, they're, and the, 
+
+**Steve:** and the brokers, the broker leaned in and I'll probably share you the email. I just looked at it again. Uh, the broker leaned in on the fact is it's approved by the SBA for these terms. So if you can't come up with the extra cash for the terms, you know, he is saying that there is no other broker in their mind that's gonna approve it for the normal SBA [00:33:00] financing.
+
+That's what he's leaned in on. 
+
+**Athena:** But it's not approved by the SBA. It's approved by that lender, and every lender has different parameters for it, which is wild. So it's like if we found another lender that would be willing to lend it our terms, you know, same cash at close, would that change things? 
+
+**Steve:** Right.
+
+Okay. So, and I'll quote it, the 30% equity injection is something that was required for the SBA lending based on the conversation I had with lenders. That was, that was the quote, unquote, from them. So that's where the disconnect is. 
+
+**Athena:** Yeah. So there are seven or 6,000 SBA lenders. 6,000 of them. Right. So it's not the SBA A, it's that lender.
+
+So like if, if it is, if they are saying it's the SBA, which you've never heard of before, then like, give us more clarity on that. 'cause we're, we're confused. Okay. Mm-hmm. 
+
+**Polly:** Fair. Okay. Yeah, we can definitely do that and I can still [00:34:00] forward, um, you cash, both of you. I can send you the thread of emails if you wanna look at that yourself and see if you pick up on anything that we missed 
+
+**Cash:** us, put us on a Bali.
+
+We'll get them, send them my way. 
+
+**Athena:** If nothing else, I just wanna get to the bottom of it. It's, it's upsetting me, you know, like, this is, this is weird. Why is this happening? Um, but yeah. Good. Um, awesome. Anything else on, on that, or we're, we're gonna get to the bottom of this one. 
+
+**Polly:** Um, looks like we're at least gonna get to the bottom of it.
+
+I don't know that it'll, if it doesn't change anything, at least we can figure out, you know, all of us can. Figure out what's really going on here. Hopefully. 
+
+**Athena:** Yeah. Um, awesome. Good stuff. Right? Um, so Michael, I was gonna call on you. I know you got first writeup looking at that, some concerns on, uh, the owner's reason for selling.
+
+So talk us through your [00:35:00] deal and where you're at with it. 
+
+**Michael:** I can, um, go through it. Um, I don't know what's customary. I guess I can provide a brief overview of what the opportunity is. Yeah, just brief, brief 
+
+**Athena:** overview and then where you're at and like what, like what, if anything, would be useful to talk through that might be blocking you from moving forward.
+
+**Michael:** Um, uh, as far as the opportunity goes, it's a distributor, um, uh, um, in the Southeast focusing on, uh, CNC machines, uh, dust collection systems and, um, duct work, uh, for woodworking and millwork type opera, uh, type shops, machine shops, right. Um, across a. Two or three different sectors, um, you know, but co uh, commercial government and, you know, furniture makers and cabinet makers, et cetera.
+
+Um, the, the, it's a, about a five person shop with the owner, um, that he founded the company. And, um, I. We met with Ryan on this, uh, on [00:36:00] Friday. Uh, kind of just talked through, you know, what we could see in the sim. Um, pretty strong company as far as like the financials go and some of the wrinkles. I guess in a nutshell, our synopsis are the owner has a son working in the company that's also in sales and wants to stay with the company.
+
+Um, the owner owns a second company that's. Um, complimentary company, uh, with the, with the distributor, and he wants to keep that and run it. And there's some overlap, uh, with that from a customer base standpoint. And then, um, and I guess those were the kind of the, you know, the, the, the bigger stickier items, um, that were, you know, brought up.
+
+It was like, okay, if you were to, how do you wanna manage that post-sale, you know, transition, uh, with this. S owner son remaining. And then what were their jobs, you know, how those responsibilities and going forward would look like. And then I had questions that [00:37:00] I could go through, but um, not being innately familiar with this industry, kind of did some research on that to figure out, okay, where would it go, you know, um, under certain scenarios, could you grow it?
+
+If you grew it, what avenues would you have to do? So like. Get a new territory or expand into different markets or go to different product lines, et cetera. So I was working through some of those scenarios in my head, but um. Uh, kind of roll it forward. I did meet with the broker today, had a quick conversation, uh, with her, um, and just asked a few different questions around the concerns I had with the, her, the, the owner's son wanting to stay in the business.
+
+I'm like, well, would you, you know, they, to be blunt, it was like that he's willing to sign a non-compete, right? From the customer standpoint, he's willing to sign a non-solicitation. Uh, for the employee standpoint. Um, and those were good things. I was able to confirm when they're looking for in timing. So, you know, they're, um, I'm [00:38:00] probably a little bit late to the game.
+
+They've already got some interest, you know, as, as they always do. But I think that the interest is probably genuine. They already have some iis in hand. Lois in the hand, the owner probably wants to make a decision by the end of this week, and so. Um, what I'm waiting on now from the broker is, uh, she's gonna gimme access to the vault so I can get updated, you know, the p and ls for the last three years, plus Q2 through Q2 of 2025.
+
+So I'm waiting on that so I can take a look and then, um, look at the numbers and see where some of the. A little bit different breakdown of what was provided in the sim financially. Right. I can go through that and then if I like that, I can call, I guess call back and, or reach out, reach out back, reach back out to her and get a, um, you know, potential meeting with the seller if I wanna move forward.
+
+Right. But, um, the, in a, in a nutshell, right, I think. Pretty good company. It's remote, right? So they're, I wouldn't, they, their employees are remote and it's a sales [00:39:00] operation, pretty much a peer sales operation. And, um, they sell this equipment to their customers. Um, that part is pretty solid. Um, the margins are pretty reasonable and solid.
+
+Uh, the company looks pretty good. That's got a growth trajectory up into the right over the last two or three years with, with revenue. All good signs. But, um, you know, with the, there's the, the things to figure out that, uh, you know, uh. Give you pause or at least things that can think through would be the owner's current relationship with the new company and how that would look going forward.
+
+His son remaining in this company, which he'd wanna stay if I bought it, what that would look like going forward. And then how do we transition post-sale? I asked the broker this question as well and said, he, she had mentioned that the guy was pretty like, Hey, be willing to transition for 30, 60, 90 days.
+
+It, it may be longer if he needed to stay on in a consultative type of role. And I was like, well, with the way this is currently in the owner view, the way that he's wanting to have this [00:40:00] structured, I would think that a partner, it's almost like a partnership going forward, right? Because. The, the business that he wants to retain and keep moving forward is the parts business, right?
+
+So the CNC machines, you know, they've got drill bits and saw blades and circulars, you know, all the different blades, right? Those are wear and tear, replace them. Well, that's, that's the company that he wants to keep and maintained. Um, he started that company because it, it left the, it, it allowed him to keep a touch point.
+
+With those existing customers. So when you're replacing bits and saws and things, over time you start to notice, hey, this machine's getting a little old. You kind of use that as your sales cycle. Keep your customer up front and center, keep 'em fresh, and it's a way to keep your pipeline kind of warm and, and be involved when it's time to, you know, buy the 600 about a hundred thousand dollars or whatever they call CNC machine, for example.
+
+Um, and so there's like this. There'd be this partnership relationship. 'cause she said that couple of the employees, um, probably do, [00:41:00] um, sell those parts and like what would that relationship going forward. So it's kinda like, maybe, for lack of better phrase, you've gotta figure out a way to split this baby.
+
+Right? Because I. Some of the employees, if they, if they're 10 99 contractors going forward, are they going to continue to refer and sell parts, you know, surface parts for the other company? Right? So there's this, this, this exit isn't a traditional exit. Like, hey, it, the six, the six months is up. You've done your transition, you've gotten the money, you know you're gone.
+
+Right? That'd be the more traditional way. The reality is, well, his son's still in the business. We are, you know. Good of a manager as I could be. His loyalties are gonna be with his dad. Right. I mean, that's just natural. Um, and so would there, would he leave and want to go on, you know, just those are questions that you just have to balance.
+
+But, so, 
+
+**Athena:** um, what's. What's stopping you from getting on a call with the seller and, and having all these conversations rather than theorizing about 'em? 
+
+**Michael:** Well, 'cause I've learned about the opportunity at three on [00:42:00] Friday. I reviewed the sim on Monday and I talked to the broker today, and the next step would be to, to get there.
+
+So. Okay, cool. Well, you said you nothing's, you said you 
+
+**Athena:** wanted to review the financials before you got on a seller call, so, 
+
+**Michael:** well, that was what she recommended. She was like, let me get you access to the vault. 'cause I asked about the p and l and I was like, all right, lemme take a look at that. And then she goes, if you like that.
+
+You figure out where to go forward, because that, if that's not a deal breaker, then, you know, if I, if you don't like that, then it just makes sense. But I figured, all right, I'll take a quick look at that, kind of go through it and if I like what I see, talk with the sellers, I think there's, see where, where it goes.
+
+Right. 
+
+**Athena:** So given the timeliness of it, if there's other offers, I might invite you to accelerate your conversation with the seller. Yeah, I mean, if I, if I came, so I would, yeah. So yeah, I would try to get on that sooner than later because, um, we talk about this a lot, right? Like, um, verifying the assumptions.
+
+So oftentimes the broker won't have the full picture and you won't be like, you don't have the relationship with 'em. So you'll get on the phone and you're like, oh my gosh, the seller's awesome. I can [00:43:00] totally see myself partnering with them. Love their culture, love them. You can ask 'em all those questions too, like, Hey, I'm concerned about your son staying in the business.
+
+What do you think about that? Hey, mm-hmm. Uh, you know, how do you see this relationship working? Um, so I would like, and part of the skillset early on is, is getting past the broker onto the call with the seller, and then developing that relationship with the seller too. So regardless of whether this one ends up being one you move forward on, I'd try to jump on the call as soon as possible.
+
+Um, for that, um, in terms of the dependency of the two businesses, is the business that he is wanting to continue to run dependent on the business that you would be buying or vice versa? 
+
+**Michael:** Not dependent upon it, the but um, there, there's this, there's the same customer base, right? So, um, the machine, like for example, if you buy a.
+
+Uh, something simple. Let's just say a simple table saw that you see at Home [00:44:00] Depot. Well, in, in the, in this world, that's a, that's a sophisticated CAD design, CNC machine, right? But that's more expensive and more complex. But they have blades that wear out, right? You need to replace your saw blade every so often.
+
+Your drill bits, every so often, the wear and tear parts of the, of the cutting and the processing and the wheel work. And that's where he's just selling these parts into those. Uh, in this case may, uh, woodworking manufacturers. Right? Millwork manufacturers. Got it. So you 
+
+**Athena:** were, you were potentially a referral source to him if you are, or you're getting them the original equipment and then Yes.
+
+So that, that's good, right. For his. His success in this new business to be dependent on your success, that's a great relationship to go into because he's gonna want to make sure that your transition is successful. So he keeps 
+
+**Michael:** continuing. I, I mean, I think he's also, you know, from the broker's viewpoint, he's a little older wanting to slow it down.
+
+This is [00:45:00] probably a less stressful, less proposal based, you know. He smoothed out more sales cycle, right? It doesn't have the big ticket items. Um, it's probably 10. They're relatively speaking in the broker's, uh, eyes where it's probably 10% of the business that the power line distributor business is, or that business is.
+
+So those things kind of make sense if he really wanting to just kind of wind it down, um, spend a little more time with his. Parents that are still alive. That was another thing she mentioned. Uh, those, those all kind of make sense and I think there is a complimentary relationship there. But, um, for sure, but I think I'd, you know, like to see the financials and then move quickly on, you know, meeting with the, with the, with the seller if I can, you know, get on the phone with 'em and, and go from there.
+
+Um. 
+
+**Athena:** Unless, unless the broker's moving quickly with getting you access to that, I'd kind of chase them to get on the phone with the seller. Yeah. I'm supposed to get access 
+
+**Michael:** to this file today. Um, yeah, and I, [00:46:00] I, I didn't even, I talked to her, um, one o'clock today. 
+
+**Athena:** Okay. So, 
+
+**Michael:** yeah. So. Uh, 
+
+**Athena:** I guess what I'm suggesting is don't let that hold you up from also setting up the call and getting that moving.
+
+'cause you can do 'em alongside each other with reviewing the financials and stuff. Typically, on the first seller call, you don't wanna dig into the financials with them anyway. That's something that. You know, you'll have a conversation with them. You wanna do a culture fit check, ask some of these big picture picture questions.
+
+Like, your goal on that first seller call is, do I like them? Can I get them to like me? Right? And it's, it's like blind date, you know? Mm-hmm. Um, so if you start digging into like, Hey, I saw this thing in 22, that was a variance here. What is that? Then it can, it can interrupt that because get, yeah, that would, I 
+
+**Michael:** don't think that'd be the right conversation to have.
+
+Right. If like, exactly. So you can do, I'm looking possibly a long term partnership with this guy. 'cause he's probably gonna be around, we're gonna cross the same circles, right? Yep. We may not be, we know we're probably not having weekly standup calls or anything, but. [00:47:00] His son's gonna work in the business and he's gonna be selling complimentary products and we're gonna share the same customer base.
+
+Our, our paths are gonna cross one way or another. Right. So yeah, being able to work with a guy just and establish four would be the number one thing I'd be trying to establish. 
+
+**Athena:** And this is what we recommend for, so I'm just kind of outlining what we recommend for like the first seller call is, it's a relationship rapport building thing.
+
+Can you get them to see you as an ideal buyer? Alongside that, you can also review the financials, and then if there's questions that come up with the financials, you'd follow up with the broker on that, because the seller often doesn't understand the financials to the level. Uh, that you're gonna be looking at it.
+
+Um, and that can interrupt the relationship building early on. So you can do those things simultaneously, especially if there's other offers, right, that are already in the mix. You wanna move super quick. Um, and you can do that by doing things alongside each other. So, um, following up with our, and being like, Hey, looking forward to getting the financials.
+
+Also, can we get a seller call in, um, and see if you can get [00:48:00] that set up so you can do 'em alongside each other.
+
+Cool. That's exciting. Uh, it sounds like a fun one to sink your teeth into for the first one. So, um, and then with the, the son staying in the business, I, I do see this a lot, even though it is a concern, obviously with the family relationships, but a lot of times the, the children don't want the responsibility running the whole business, 
+
+**Polly:** you know?
+
+**Athena:** Um, so there's usually a reason for that, but you can talk to him. About that and be like, Hey, I gotta call out the elephant in the room. Like, why isn't your son taking this over? You know? And just hear it straight from him. So I just like asking questions in a more conversational like. Hey, like, so, you know, uh, why is your son the natural choice?
+
+That sounds interesting. Um, why he wouldn't wanna take it over. And he'll be like, oh, you know, and then you, then you can start to stress test what is the relationship there and you know, what is it gonna look like going [00:49:00] forward for you? But do it in a way that's like rapport building and kind of more fun and just natural, like relationship dynamics.
+
+**Michael:** Yeah. Understood. Um, I think that's a good approach. 
+
+**Athena:** Um, and then Cash can help you prep for that call too with the seller questions. Yeah. And stuff. Yeah, 
+
+**Cash:** I was gonna say if there's anything I can do at all on that, Michael, or Yeah. Even with this being a unique situation, you know, if you need to hop on another call or something to dive through it, like let me know anything I can do on my end.
+
+Yeah, will do. Yep. 
+
+**Athena:** Awesome. Good stuff. Good luck. But I'm excited to hear how it develops. 
+
+**Michael:** Cool. Yeah, I'll keep you posted for sure. Looking forward to getting the next step. 
+
+**Athena:** Awesome. Um, cool. And then, um, I know we only have a few minutes left, but Gail, I, I think it, it sounded like no real updates on that side, apart from the one we liked is no longer available.
+
+Is that right? 
+
+**Justin:** Yep. That it 
+
+**Athena:** Cool. I know CAR has something in the, [00:50:00] the pipeline for you. Yeah. Oh, sorry Gil, I was talking over you. 
+
+**Gil:** I'm sorry. I just said that at this point. Yeah. 
+
+**Athena:** And, and it was an all cash offer. Is that what happened? Yeah. Those are really hard to compete with. 
+
+**Gil:** Yeah. Um, I don't think that's real reason to be honest.
+
+**Athena:** Oh, okay. 
+
+**Gil:** But, uh, that's what he says. I gotta think it met his word. 
+
+**Athena:** What's your gut telling you 
+
+**Gil:** that, uh, they don't wanna sell? 
+
+**Athena:** Interesting. Did you, uh, sorry if I've not remembered correctly. Did you get through to the owners? Were you able to talk to them? 
+
+**Gil:** The broker, but, but the broker said that things have changed on their side and the three partners wanna stay on, so as employees, so I'm like, okay, so why are you selling?
+
+Um, but yeah. 
+
+**Athena:** Oh, so are they looking for like a growth investment? Yeah. Potentially then for like private equity. Okay. That sucks. 
+
+**Justin:** Yep. 
+
+**Athena:** Um. [00:51:00] Yeah. Good, good instincts on that though, the reading between the lines or seeing if you can get some clarity. So yeah. Um, good stuff. Well, I know there's gonna be some new things on your desk soon for everybody actually.
+
+Team's got some good healthy pipeline kicking, so, um, I'm easy to catch up with you all. Uh, excited to hear updates on everything. Team is at the ready to support you. Um, and then we will not be having Fires Club on Thursday, so we'll be back here a week from now. Same time. 
+
+**Gil:** Thank you. 
+
+**Athena:** Thanks everyone. Good to see you.
+
+Take care. Bye.
+
