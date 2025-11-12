@@ -1,0 +1,249 @@
+[Error #1 - Category: Entity Name (Company)]
+Location: 8:36 / Speaker: Luke Gillespie
+Transcript excerpt: "…the whole conversation was just going to be name dropping Athena Simpson and Aquamats the whole time."
+Issue: Company name appears as “Aquamats”
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: The company referenced throughout is AcquiMatch; “Aquamats” is a phonetic/ASR substitution.
+Impact: Medium – brand misnaming reduces clarity/professionalism
+
+---
+[Error #2 - Category: Entity Name (Company)]
+Location: 9:19 / Speaker: Luke Gillespie
+Transcript excerpt: "…when I started working with Athena Simpson and Aquamatch, I signed up in January."
+Issue: Company name appears as “Aquamatch”
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Consistency with brand name; missing the “i” is a common ASR miss.
+Impact: Medium
+
+---
+[Error #3 - Category: Entity Name (Company)]
+Location: 54:46 / Speaker: Athena Simpson
+Transcript excerpt: "We have the opportunity to be uniquely AccuMatch now, you know…"
+Issue: Company name appears as “AccuMatch”
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Internal name is AcquiMatch; “Accu” vs “Acqui” is a typical error.
+Impact: Medium
+
+---
+[Error #4 - Category: Garbled/Truncation]
+Location: 36:59 / Speaker: Athena Simpson
+Transcript excerpt: "Luke: Ah, yes. Okay… Athena: ударing Fathom is open than I do. Luke: That is terrifying."
+Issue: “ударing Fathom is open than I do” is nonsensical; includes Cyrillic characters
+Likely intended: Something like “You have more Fathom tabs open than I do.”
+Confidence: Medium
+Reasoning: Context is screen sharing and many tabs; phrasing closely matches common remark.
+Impact: Low – minor aside but clearly erroneous
+
+---
+[Error #5 - Category: Tool/Entity Name]
+Location: 1:01:34 / Speaker: Anke Badenhorst
+Transcript excerpt: "…how to do that with Milshake."
+Issue: “Milshake” tool name is incorrect
+Likely intended: “Mailshake”
+Confidence: High
+Reasoning: Mailshake is a well-known cold email tool; “Milshake” is an ASR miss.
+Impact: Medium – could mislead process/tooling
+
+---
+[Error #6 - Category: Tool/Entity Name]
+Location: 1:15:59–1:16:03 / Speakers: Athena Simpson, David R
+Transcript excerpt: "…that just goes into Milkshake, just like an upload." / "…automate as well the uploading to MailChick."
+Issue: Tool appears as “Milkshake” and “MailChick”
+Likely intended: “Mailshake”
+Confidence: High
+Reasoning: Consistent tool elsewhere; both variants are plausible ASR confusions.
+Impact: Medium
+
+---
+[Error #7 - Category: Misheard Acronym/Business Term]
+Location: 1:22:51 / Speaker: Anke Badenhorst
+Transcript excerpt: "…check off on the important stuff like minimum MST, this and that…"
+Issue: “MST” in deal context is unclear
+Likely intended: “minimum SDE”
+Confidence: High
+Reasoning: In buyer profiles/deal boxes, minimum SDE is a standard criterion; “MST” is not.
+Impact: High – changes meaning of a core deal parameter
+
+---
+[Error #8 - Category: Terminology Distortion]
+Location: 42:36–43:10 / Speaker: Luke Gillespie
+Transcript excerpt: "…explaining to him how ADVACS and SDE works as it can be kind of confusing."
+Issue: “ADVACS” appears instead of “add-backs” (ad backs)
+Likely intended: “add-backs”
+Confidence: High
+Reasoning: Add-backs is standard valuation term; “ADVACS” is ASR artifact.
+Impact: Medium
+
+---
+[Error #9 - Category: Entity/Role Misheard]
+Location: ~41:12 / Speaker: (email quoted by Luke)
+Transcript excerpt: "I’m Athena Zia. She wanted me to let you know she’s really looking forward to your conversation…"
+Issue: “Athena Zia” likely misheard role
+Likely intended: “Athena’s EA” (Executive Assistant)
+Confidence: High
+Reasoning: Common phrasing in scheduling emails; “Zia” is phonetic error for “EA.”
+Impact: Medium
+
+---
+[Error #10 - Category: Semantic/Entity Unclear]
+Location: 1:19:41–1:20:26 / Speaker: Anke Badenhorst
+Transcript excerpt: "Then David takes the deal box and he tells Masam to find the leads."
+Issue: “Masam” entity unclear (tool/person)
+Likely intended: A specific VA/tool name (unknown), but spelling likely wrong
+Confidence: Low
+Reasoning: No other mention; could be a VA’s name or tool. Ambiguous.
+Impact: Low – internal reference but unclear for readers
+
+---
+[Error #11 - Category: Business Category/Entity]
+Location: 6:52–7:10 / Speaker: Athena Simpson
+Transcript excerpt: "Well, the off-market HVAC was signed. The exterior skylights was signed."
+Issue: “exterior skylights” as an industry/category seems off
+Likely intended: Possibly “exteriors (skylights)” or a different trade category
+Confidence: Medium
+Reasoning: “Skylights” is specific; “exterior skylights” uncommon phrasing; could be mis-transcribed.
+Impact: Medium
+
+---
+[Error #12 - Category: Omission/Numerical]
+Location: ~49:46–50:20 / Speaker: Athena Simpson
+Transcript excerpt: "…how I made that deal work for even Eli, because even Eli needed like 500. Okay, after that service to make it work."
+Issue: “500” lacks unit/context (dollars? thousands?)
+Likely intended: Likely “$500k” (or “500,000”)
+Confidence: Medium
+Reasoning: Deal sizing suggests 500k; missing unit hinders understanding.
+Impact: High – financial magnitude unclear
+
+---
+[Error #13 - Category: Names/Grammar]
+Location: ~49:37–50:10 / Speaker: Athena Simpson
+Transcript excerpt: "…was how I made that deal work for even Eli, because even Eli needed like 500."
+Issue: “even Eli” likely misheard name/phrase
+Likely intended: “Evan and Eli” or “Evan/Eli” (two buyers) or “Evan, Eli”
+Confidence: Low
+Reasoning: Context implies two buyers (“even Eli” doesn’t fit); could be “Evan & Eli.”
+Impact: Medium – may confuse who the buyers were
+
+---
+[Error #14 - Category: Misheard Phrase]
+Location: 6:52–7:10 / Speaker: Athena Simpson
+Transcript excerpt: "I don’t want to derail this conversation. Station, but like, this is why I need to approve…"
+Issue: Extra word “Station” is spurious
+Likely intended: “…derail this conversation, but…”
+Confidence: High
+Reasoning: “Station” is an insertion likely from ASR.
+Impact: Low
+
+---
+[Error #15 - Category: Misheard Acronym]
+Location: 1:06:22–1:07:08 / Speaker: Athena Simpson
+Transcript excerpt: "…they were using GBT. We were like… my TA thought they were all cheating."
+Issue: “GBT” acronym wrong
+Likely intended: “GPT”
+Confidence: High
+Reasoning: Context is AI-generated papers; GPT is standard.
+Impact: Low–Medium
+
+---
+[Error #16 - Category: Semantic/Grammar]
+Location: 4:54–5:06 / Speaker: Luke Gillespie
+Transcript excerpt: "…the online business in Canada with a H, did they, they didn’t sign the LOI, did they?"
+Issue: “with a H” is ungrammatical and unclear
+Likely intended: “with an H” (name starting with H) or missing proper name
+Confidence: Medium
+Reasoning: Sounds like a placeholder for a company name; ASR likely dropped the name.
+Impact: Low–Medium
+
+---
+
+[REMOVAL #1 - Type: Small Talk]
+Location: 0:15–1:06
+Speakers involved: Athena Simpson, Ida Badenhorst
+Content excerpt:
+"Anke: How was your weekend? … Ida: I hope you get overtime, though.
+Athena: …I own the business… I like the quiet time when there’s no messages…"
+Reasoning:
+Extended weekend/working-hours chatter without business content until pivot into service agreement/lender update.
+Context impact: Low—business discussion resumes immediately with service agreement rewrite and lender confirmation.
+Recommended action: REMOVE 0:15–1:06
+
+---
+[REMOVAL #2 - Type: Off-Topic/Technical Aside]
+Location: 28:03–28:19
+Speakers involved: Athena, Ida
+Content excerpt:
+"Ida: I can’t find anything now. And somewhere there’s music playing. 
+Athena: I hear music."
+Reasoning:
+Brief tech/tabs/music aside unrelated to business content.
+Context impact: None
+Recommended action: REMOVE 28:03–28:19
+
+---
+[REMOVAL #3 - Type: Small Talk]
+Location: 48:59–50:20
+Speakers involved: Luke, Anke, Ida, Athena
+Content excerpt:
+"Luke: Dina’s chair looks comfy.
+Anke: I’m sitting on the worst little bench…
+Ida: My chair is actually not very comfy.
+Athena: I keep locking my family out of the house…"
+Reasoning:
+Chit-chat about chairs and a personal anecdote about house locks; not business-relevant.
+Context impact: Low—Athena resumes deal discussion right after.
+Recommended action: REMOVE 48:59–50:20
+
+---
+[REMOVAL #4 - Type: Personal/Off-Topic]
+Location: 1:37:26–1:40:34
+Speakers involved: Anke, Athena, Ida
+Content excerpt:
+"Anke: …emojis in emails…
+Athena: …millennials are very like, about emojis…
+Ida: …only emojis.
+Athena: …pagers… texting with pressing buttons three times…"
+Reasoning:
+Extended generational/emojis/pager nostalgia unrelated to deals, processes, clients, or financing.
+Context impact: Low—conversation returns to next steps immediately after.
+Recommended action: REMOVE 1:37:26–1:40:34
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: 0:41–1:06
+Content excerpt: "Athena: …that’s what a founder does… not in a position that I can take the whole weekend off right now…"
+Business relevance argument: Light insight into founder workload and company resource constraints; minor context on operations.
+Personal content argument: Framed as weekend/working-hours small talk; no direct impact on deal processes.
+Recommendation: REMOVE (covered by Removal #1). Impact minimal and the next line pivots into concrete business updates.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 42:50–43:20
+Content excerpt: "Anke: …Athena mentioned that you’re on a ski trip with your daughter… we hope you had an amazing time…"
+Business relevance argument: Demonstrates personalization tactics that improved owner engagement; directly tied to outreach strategy being discussed.
+Personal content argument: Contains personal detail about the owner’s ski trip.
+Recommendation: KEEP—It exemplifies the personalization approach the team is standardizing.
+
+---
+
+Notes on Patterns/ASR Issues Observed
+- Company name: Multiple inconsistent renderings of AcquiMatch (Aquamats/Aquamatch/AccuMatch).
+- Mailshake tool: Repeated mishears (Milshake/Milkshake/MailChick). Flag for ASR vocabulary/training.
+- Add-backs: Rendered as “ADVACS” once—watch for valuation term distortions.
+- GPT: Once transcribed as “GBT.”
+- Stray insertions: “Station,” Cyrillic “ударing”—likely noise/ASR artifacts.
+- Names: “even Eli” and “Masam” ambiguous—review original audio or internal records for accurate names.
+- Numerical units: “needed like 500” lacks unit; recommend confirming amounts where currency/k is implied.
+
+Speaker Attribution
+- No clear speaker swaps identified; dialogue flows logically by role (Athena leading; Luke presenting case studies; Anke/Ida/David contributing process/AI inputs).
+
+Cross-Reference/Consistency
+- LOI: Team distinguishes “submitted” vs “signed”—consistent and important.
+- SDE/add-backs usage consistent except for the noted distortions.
+- Tools referenced: HubSpot, Mailshake, Make, Perplexity, GPT—ensure final documentation uses correct names.
+
+End of report.

@@ -1,0 +1,166 @@
+Below is a focused error and relevance analysis of the provided transcript. I’ve prioritized high-impact ASR issues (acronyms, finance terms, entity names) and clearly marked non-business small talk for removal, while preserving business-relevant flow.
+
+ASR/Transcript Errors
+
+[Error #1 - Category: Misheard Acronym/Finance Term]
+Location: 14:59 / Speaker: Athena Simpson
+Transcript excerpt: "whatever they're asking, like the asking price and the SCE that they're calculating, first and foremost, need to work..."
+Issue: "SCE" in a valuation/cash flow context
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: SDE is standard in small-business acquisition; "SCE" is nonstandard and appears multiple times in this transcript.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym/Finance Term]
+Location: ~18:05 / Speaker: Athena Simpson
+Transcript excerpt: "...the new buyer doesn't realize they're about to be hit with a $250,000 Apex investment the next year."
+Issue: "Apex" in CapEx context
+Likely intended: "CapEx"
+Confidence: High
+Reasoning: The discussion is explicitly about maintenance/growth CapEx; "Apex" is a common ASR error.
+Impact: High
+
+[Error #3 - Category: Entity Name]
+Location: 1:53 / Speaker: Anke Jordaan
+Transcript excerpt: "I have a question for Charis on GL... Last time we spoke, you were going to ask Gil if he officially passed on Falcon."
+Issue: "GL" vs "Gil"
+Likely intended: "Gil"
+Confidence: High
+Reasoning: Same speaker references "Gil" moments later; likely initial was misheard.
+Impact: Medium
+
+[Error #4 - Category: Misheard Proper Name]
+Location: ~32:50 / Speaker: Athena Simpson
+Transcript excerpt: "It is one of Lute's clients, so you guys will need to collab on deal fit..."
+Issue: "Lute" as a person’s name
+Likely intended: "Luke"
+Confidence: High
+Reasoning: Team member is "Luke Gillespie." "Lute" is phonetically similar.
+Impact: Medium
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: 44:45 / Speaker: Athena Simpson
+Transcript excerpt: "But it, you are able to do a partial with. Over equity, but with the SOP change..."
+Issue: "Over equity"
+Likely intended: "rollover equity"
+Confidence: High
+Reasoning: SBA/transaction context uses "rollover equity"; "over equity" is nonstandard.
+Impact: High
+
+[Error #6 - Category: Misheard Phrase]
+Location: 29:17 / Speaker: Anke Jordaan
+Transcript excerpt: "...and the bars club updates."
+Issue: "bars club"
+Likely intended: "Buyers Club"
+Confidence: High
+Reasoning: "Buyers Club" is referenced repeatedly elsewhere and is a known internal meeting.
+Impact: Medium
+
+[Error #7 - Category: Misheard Word]
+Location: 21:59 / Speaker: Ryan Cash
+Transcript excerpt: "...this complicated like map that looks like it's like a. Portboard and yarn everywhere..."
+Issue: "Portboard"
+Likely intended: "corkboard"
+Confidence: Medium
+Reasoning: Common expression "like a corkboard with yarn" for complex org charts; "portboard" is unlikely.
+Impact: Low
+
+[Error #8 - Category: Word Choice/Semantic]
+Location: ~36:35 / Speaker: Luke Gillespie
+Transcript excerpt: "...we're kind of objecting our responsibility to the brokers..."
+Issue: "objecting our responsibility" is semantically off
+Likely intended: "abdicating our responsibility"
+Confidence: Medium
+Reasoning: Context is relinquishing control; "abdicating" fits idiomatically.
+Impact: Medium
+
+[Error #9 - Category: Omission/Truncation]
+Location: 13:57 / Speaker: Ryan Cash
+Transcript excerpt: "...this broker sent me like a $3,000."
+Issue: Truncated measurement/unit; ambiguous meaning
+Likely intended: "a 3,000-line P&L" (later clarified as "3,000 line P&L")
+Confidence: Medium
+Reasoning: He later references a "3,000 line P&L"; "$3,000" alone is incoherent.
+Impact: Medium
+
+[Error #10 - Category: Omission/Truncation]
+Location: 59:39 / Speaker: Ryan Cash
+Transcript excerpt: "The broker did send Frederico. We're to in the full set of P&Ls..."
+Issue: Garbled/incomplete sentence
+Likely intended: "The broker did send Federico the full set of P&Ls..." or "We're getting the full set..."
+Confidence: Medium
+Reasoning: Syntax error breaks meaning; context indicates P&Ls were sent.
+Impact: Medium
+
+[Error #11 - Category: Misheard Word]
+Location: 56:45-56:57 / Speaker: Athena Simpson and Charis Siau
+Transcript excerpt: "Also, does he have the ability to finance that? What's his prequel?"
+Issue: "prequel" in financing context
+Likely intended: "pre-qual" (prequalification)
+Confidence: High
+Reasoning: Financing discussion; "pre-qual" is standard shorthand.
+Impact: Medium
+
+[Error #12 - Category: Misheard Phrase]
+Location: ~39:30 / Speaker: Athena Simpson
+Transcript excerpt: "...All the clients are about to create a meet me. How do we like get them a bunch of deal flow?"
+Issue: "meet me" in an idiomatic "backs against the wall" scenario
+Likely intended: "mutiny"
+Confidence: Medium
+Reasoning: Motivational metaphor fits "mutiny"; "meet me" is nonsensical here.
+Impact: Low
+
+[Error #13 - Category: Misheard Name]
+Location: 41:04 / Speaker: Athena Simpson
+Transcript excerpt: "Great. Pash, I have not had a chance to catch up on Slack."
+Issue: "Pash" vs the team member "Cash" (Ryan Cash)
+Likely intended: "Cash"
+Confidence: High
+Reasoning: Ryan’s surname is Cash; "Pash" is a common ASR swap.
+Impact: Low
+
+[Error #14 - Category: Consistency/Redundancy/Glitch]
+Location: 14:59 / Speaker: Athena Simpson
+Transcript excerpt: "Yeah. Yeah. Thank you. Thank To the purchase price, right? Like pulling the multiple..."
+Issue: Fragment/glitch "Thank To the purchase price"
+Likely intended: "Thank you... To the purchase price" or simple transition
+Confidence: Low
+Reasoning: Audible filler likely mangled; not material but disrupts readability.
+Impact: Low
+
+Patterns to note for ASR improvement:
+- SDE is repeatedly misheard as "SCE."
+- CapEx occasionally mis-transcribed as "Apex."
+- "Rollover equity" misheard as "over equity."
+- Proper names (Gil/Luke/Cash) are misheard at times.
+
+
+Segments for Removal (Personal/Off-Topic)
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 0:25–1:40
+Speakers involved: Anke Jordaan, Ryan Cash, Charis Siau, Athena Simpson
+Content excerpt:
+"All right, Athena will be with us in a second... Got my parents in town... They're staying in Anke's room. It's a joke... my dad was like fixing chairs yesterday... I haven't seen my dad in two years..."
+Reasoning:
+Extended personal conversation about family visit, hosting, furniture assembly—no business relevance.
+Context impact: Low—removal cleanly transitions into agenda at 1:40 ("Amazing. Cool. What have we got on deck today?")
+Recommended action: REMOVE 0:25–1:40
+
+
+Borderline Segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 8:00–9:31
+Content excerpt: 
+"What's going on? Mood feels low today. How are we feeling?... excited to keep trucking along... time to do some more broker calls... getting more settled... work on our write-ups and give our clients the deliverables..."
+Business relevance argument: Although it starts as a mood check, most responses contain operational updates (broker calls, write-ups, deliverables) and team readiness—relevant to process and client outcomes.
+Personal content argument: Includes brief emotional/state-of-mind check-ins and general pleasantries.
+Recommendation: KEEP—Content transitions quickly into work cadence and capacity, which supports the operational context for deal execution.
+
+
+Notes on Context Preservation
+- Removing 0:25–1:40 eliminates purely personal small talk and leaves the meeting to begin naturally with the agenda setup and screen sharing.
+- No other large personal tangents detected; the rest of the meeting is focused on deals, financing constraints (SBA, seller notes), CapEx, valuation, deal flow operations, and client management.
+
+If you’d like, I can also mark “KEEP” blocks explicitly for each major business topic (peer review process, asset-heavy analysis/CapEx, SBA equity limitations, specific client deal updates, deal flow pipeline fixes).

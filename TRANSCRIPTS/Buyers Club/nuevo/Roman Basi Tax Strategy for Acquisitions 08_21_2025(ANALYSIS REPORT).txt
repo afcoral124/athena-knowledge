@@ -1,0 +1,196 @@
+Segment mapping overview
+
+- 00:00:00–00:00:25: Opening greetings and attendee shout-outs – REMOVE (small talk).
+- 00:00:25–01:58:30: Main presentation (entity choice, LOI timing, asset vs. stock, 338(h)(10), allocations, SBA/earnouts/holdbacks, post-close ops, QSBS/1202, 1031, estate/tax planning, contact info) – KEEP.
+- 00:58:30–End: Q&A (LOI timing, seller CPAs, off-market seller education, QSBS negotiation, SBA nuances, goodwill, tax clearance letters) – KEEP.
+
+Detected transcription errors
+
+[Error #1 - Category: Business terminology distortion (homophone)]
+Location: ~00:02:15 / Speaker: Roman
+Transcript excerpt: "We're not really limited by estate border. We're looking at a lot of federal tax laws..."
+Issue: “estate border” in this context conflicts with jurisdictional discussion
+Likely intended: “state borders”
+Confidence: High
+Reasoning: In M&A/tax, attorneys aren’t limited by state borders; “estate” is a common ASR substitution.
+Impact: Medium
+
+[Error #2 - Category: Business terminology distortion]
+Location: ~00:06:10 / Speaker: Roman
+Transcript excerpt: "where we should file our EQU acquisition entity should be in the state of operations."
+Issue: “EQU acquisition entity” is nonsensical
+Likely intended: “where we should file our acquisition entity” (or “ACQ entity”)
+Confidence: High
+Reasoning: ACQ/acquisition commonly misheard as EQU.
+Impact: Medium
+
+[Error #3 - Category: Business terminology distortion]
+Location: ~00:18:45 / Speaker: Roman
+Transcript excerpt: "You can start a company pharmacy corporation, distribute your, the stock to yourself..."
+Issue: “pharmacy corporation” makes no sense in tax structuring context
+Likely intended: “form a C corporation”
+Confidence: High
+Reasoning: “form a C” can be misrecognized as “pharmacy.”
+Impact: High
+
+[Error #4 - Category: Entity name misheard]
+Location: ~00:18:15 / Speaker: Roman
+Transcript excerpt: "Look it up. You can Google it, you can chat TPT..."
+Issue: “chat TPT” is incorrect product name
+Likely intended: “ChatGPT”
+Confidence: High
+Reasoning: Frequent ASR confusion on “ChatGPT.”
+Impact: Low
+
+[Error #5 - Category: Misheard technical term]
+Location: ~01:00:35 / Speaker: Roman
+Transcript excerpt: "...coming in with a complicated F three organization or something like that to a seller."
+Issue: “F three organization” is not a recognized tax reorg type
+Likely intended: “F reorganization”
+Confidence: High
+Reasoning: IRC “F reorganization” is a known concept; “F three” reflects ASR digit insertion.
+Impact: Medium
+
+[Error #6 - Category: Misheard technical term]
+Location: ~00:38:45 / Speaker: Roman
+Transcript excerpt: "when I first learned about 3 38 H cents, I learned something on every single transaction..."
+Issue: “H cents” is incorrect
+Likely intended: “338(h)(10)”
+Confidence: High
+Reasoning: “H ten” commonly misrecognized as “H cents.”
+Impact: Medium
+
+[Error #7 - Category: Business terminology distortion]
+Location: ~00:25:30 / Speaker: Roman
+Transcript excerpt: "we can set him up a Florida LC."
+Issue: Missing letter in entity type
+Likely intended: “Florida LLC”
+Confidence: High
+Reasoning: ASR often drops repeated letters.
+Impact: Low-Medium
+
+[Error #8 - Category: Homophone]
+Location: ~00:26:50 / Speaker: Roman
+Transcript excerpt: "...you are only assuming the liabilities that you are selecting or that you know about accept... Tax liabilities follow assets."
+Issue: “accept” instead of “except”
+Likely intended: “except”
+Confidence: High
+Reasoning: Common ASR homophone error; changes meaning.
+Impact: Medium
+
+[Error #9 - Category: Homophone]
+Location: ~00:53:05 / Speaker: Roman
+Transcript excerpt: "You cannot touch the game. If you're ever gonna buy or sell real estate..."
+Issue: “game” instead of “gain” in 1031 exchange explanation
+Likely intended: “gain”
+Confidence: High
+Reasoning: Fits tax context; “gain” is the correct term.
+Impact: Medium
+
+[Error #10 - Category: Financial/numerical error]
+Location: ~01:15:40 / Speaker: Roman
+Transcript excerpt: "If you allocated a million dollars to an asset, you might be able to write off a billion dollars that year."
+Issue: Implausible scale shift from million to billion
+Likely intended: “...write off a million dollars that year.”
+Confidence: High
+Reasoning: Likely ASR magnitude slip; context is same amount allocated and expensed.
+Impact: Medium
+
+[Error #11 - Category: Misheard terminology (entity type)]
+Location: ~01:09:05 / Speaker: Roman
+Transcript excerpt: "They show there're a Sue corporation and we look at their books..."
+Issue: “Sue corporation” is not an entity type
+Likely intended: “C corporation” (or “S corporation” depending on context)
+Confidence: High
+Reasoning: Discussion is about QSBS/1202, which applies to C corporations.
+Impact: High
+
+[Error #12 - Category: Omission/truncation]
+Location: ~00:10:40 / Speaker: Roman
+Transcript excerpt: "That is not necess that. Then you have to pick a method of taxation..."
+Issue: Truncated/garbled phrase disrupts meaning
+Likely intended: “That is not necessarily it. Then you have to pick...”
+Confidence: Medium
+Reasoning: Natural phrasing in this explanation would be “not necessarily [it/true].”
+Impact: Low
+
+[Error #13 - Category: Omission/truncation]
+Location: ~01:23:30 / Speaker: Roman
+Transcript excerpt: "...not applying for the certificate or not applying for the analyst by analysis, by the state."
+Issue: Garbled phrase
+Likely intended: “...not applying for the analysis by the state.”
+Confidence: High
+Reasoning: He’s referring to state tax clearance analysis; “analyst” is spurious.
+Impact: Low
+
+[Error #14 - Category: Typographic/terminology]
+Location: ~00:22:40 / Speaker: Roman
+Transcript excerpt: "...distribution of an lll C'S assets to partners if it's taxes, a partnership."
+Issue: “lll C'S” and “if it’s taxes” are malformed
+Likely intended: “LLC’s assets... if it’s taxed as a partnership.”
+Confidence: High
+Reasoning: Common ASR letter duplication and verb-form error.
+Impact: Low
+
+[Error #15 - Category: Omission/truncation]
+Location: ~00:00:40 / Speaker: Athena
+Transcript excerpt: "Taxes has been something that I have been absolutely obsessed with since I moved back to the US and 12 years away."
+Issue: Awkward/omitted connector
+Likely intended: “...since I moved back to the US after 12 years away.”
+Confidence: Medium
+Reasoning: Standard phrasing for that concept; current phrasing is ungrammatical.
+Impact: Low
+
+[Error #16 - Category: Omission/truncation]
+Location: ~00:58:55 / Speaker: Athena
+Transcript excerpt: "it was super, are so much information."
+Issue: Garbled filler; missing word
+Likely intended: “it was super, there’s so much information.”
+Confidence: Medium
+Reasoning: Fits conversational compliment.
+Impact: Low
+
+Small-talk/off-topic removals
+
+[REMOVAL #1 - Type: Small Talk]
+Location: ~00:00:00–00:00:25
+Speakers involved: Athena
+Content excerpt:
+"Athena: Hello. Hello. Welcome. Welcome. Hey girl. Hey Michael. How's it going? Looks like got some more polly's here. Hello, Polly. Hey, Lindsay's here. How's it going?"
+Reasoning:
+Opening attendee greetings and informal salutations provide no business value.
+Context impact: None—business context begins immediately after.
+Recommended action: REMOVE ~00:00:00–00:00:25
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:01:35–00:01:50
+Content excerpt: "I'm a managing real estate broker as well as a private pilot. They put that on there even though of course it doesn't apply to necessarily today's topics."
+Business relevance argument: Part of speaker’s bio; establishes broad experience (though pilot detail is unrelated).
+Personal content argument: The “private pilot” line is unrelated to M&A/tax content.
+Recommendation: REMOVE the “private pilot” sentence only; keep the rest of the professional bio.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:25:05–00:25:15
+Content excerpt: "Today I spoke a little higher level than I think I... would normally speak to a seller."
+Business relevance argument: Explains tailoring of messaging to different audiences; minor meta-comment.
+Personal content argument: Self-referential process comment; not essential to the substance.
+Recommendation: KEEP (low impact; provides conversational continuity in Q&A).
+
+Speaker attribution validation
+
+- Speakers appear consistent with roles: Athena (host/moderator), Roman (speaker), Michael (attendee). No apparent misattributions or reversed Q&A turns.
+
+Patterns to flag for ASR improvement
+
+- Acronyms/letters + numbers frequently misrecognized: “338(h)(10)” → “H cents”; “F reorganization” → “F three organization”; “LLC” → “LC”/“lll C’S”; “C corp” → “Sue corporation”.
+- Homophones: “state”/“estate”; “except”/“accept”; “gain”/“game”.
+- Product names: “ChatGPT” → “chat TPT”.
+- Numeric magnitudes: “million” → “billion.”
+- Omission/truncation in mid-sentence leading to awkward or incomplete phrasing.
+
+Notes on context preservation
+
+- The only suggested removal is a brief greeting block; removing it will not affect understanding of the business content.
+- Borderline items are minimal; if retained, they do not disrupt flow. If removed, ensure cuts occur at sentence boundaries to maintain coherence.

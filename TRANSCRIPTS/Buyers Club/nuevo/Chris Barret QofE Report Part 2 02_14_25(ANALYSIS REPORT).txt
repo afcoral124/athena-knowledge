@@ -1,0 +1,195 @@
+Below is a structured analysis of potential ASR/transcription issues and content-mapping for business relevance.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Misheard Acronym/Term]
+Location: ~00:01:30 / Speaker: Athena
+Transcript excerpt: "show you under the hood on a QV report"
+Issue: "QV report" is not a standard term in M&A due diligence.
+Likely intended: "QoE report" (Quality of Earnings report)
+Confidence: High
+Reasoning: In M&A/SMB acquisitions, “QoE” is the recognized term; “QV” is a common ASR slip.
+Impact: High - terminology clarity is critical for readers
+
+[Error #2 - Category: Misheard Acronym/Term]
+Location: ~00:19:30 / Speaker: Chris
+Transcript excerpt: "the actual QA itself. So, here is where we tie out all of our adjustments"
+Issue: “QA” (Quality Assurance) is not the intended concept here.
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: He is describing the Quality of Earnings section; QA would be unrelated.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym/Term]
+Location: ~00:32:10 / Speaker: Chris
+Transcript excerpt: "so that's QB tab and I've talked about how we tie all of our adjustments"
+Issue: "QB tab" is inconsistent with the context of a QoE report.
+Likely intended: "QoE tab"
+Confidence: High
+Reasoning: He is walking through the QoE report sections; “QB” would mean QuickBooks, which doesn’t fit “tab” in a report context.
+Impact: Medium
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:09:45-00:10:10 / Speaker: Chris
+Transcript excerpt: "We also take out the creation expense. Um, any accrual, this wage accrual here and 5%"
+Issue: “creation expense” is nonsensical in this context; stray “5%” is out of place.
+Likely intended: "depreciation expense" (and possibly a separate remark about wage accrual; the “5%” appears spurious)
+Confidence: High (for “depreciation”); Medium (for the spurious "5%")
+Reasoning: Converting to cash basis typically removes non-cash items like depreciation; “creation expense” isn’t standard.
+Impact: High - affects understanding of cash-basis adjustments
+
+[Error #5 - Category: Semantic Inconsistency]
+Location: ~00:32:30 / Speaker: Chris
+Transcript excerpt: "We didn't recast the financials. We want to be able to show you like month by month..."
+Issue: Contradiction—he then describes recast financials immediately after.
+Likely intended: "We then recast the financials..."
+Confidence: Medium
+Reasoning: The workflow description indicates he did recast; “didn’t” likely an ASR mis-hear of “then.”
+Impact: Medium
+
+[Error #6 - Category: Misheard Acronym]
+Location: ~00:30:20 / Speaker: Athena
+Transcript excerpt: "what the S. C. E. is"
+Issue: “S.C.E.” is not standard; in this context of lending and ad backs, “SDE” is expected.
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: SDE is the common small-business earnings metric presented to SBA lenders.
+Impact: High
+
+[Error #7 - Category: Homophone/Garbled Phrase]
+Location: ~00:54:40-00:55:10 / Speaker: Chris
+Transcript excerpt: "Even a change your beer, maybe that's 76,000 dollars. I went up to 190..."
+Issue: Garbled phrase; “Even a change your beer” is nonsensical.
+Likely intended: "EBITDA change year-over-year"
+Confidence: High
+Reasoning: He is introducing an EBITDA bridge and year-over-year change.
+Impact: Medium
+
+[Error #8 - Category: Omission/Truncation]
+Location: ~00:09:15-00:10:20 / Speaker: Chris
+Transcript excerpt: "and and, um, um, ... Do we want. You want to convert that to a cash..."
+Issue: Multiple truncated/fragmented sentences suggest missing words around the expense reconciliation explanation.
+Likely intended: Continuous explanation of converting book expenses to cash basis (incl. credit card liabilities, depreciation, wage accruals).
+Confidence: Medium
+Reasoning: The logic of the section indicates missing connectors/phrases.
+Impact: Medium
+
+[Error #9 - Category: Misheard Word (Entity)]
+Location: ~01:18:30 / Speaker: Athena
+Transcript excerpt: "How often do you see burgers? Adding things back..."
+Issue: “burgers” is a mis-hear.
+Likely intended: "brokers"
+Confidence: High
+Reasoning: She is discussing broker behavior around add backs.
+Impact: Medium
+
+[Error #10 - Category: Business Terminology Distortion]
+Location: ~01:24:30-01:24:55 / Speaker: Chris
+Transcript excerpt: "they all know if they put a dollar even on, they get 4 back"
+Issue: “even on” is garbled in context of valuation/multiples.
+Likely intended: "if they put a dollar in EBITDA, they get 4 back"
+Confidence: High
+Reasoning: Refers to EBITDA multiples; a dollar of EBITDA yields a multiple in value.
+Impact: Medium
+
+[Error #11 - Category: Garbled/Unclear Phrase]
+Location: ~00:58:10-00:58:25 / Speaker: Chris
+Transcript excerpt: "Al blow you to figures. Talk about the Q and E."
+Issue: Garbled phrase; unintelligible.
+Likely intended: "I'll go over the figures. Talk about the QoE."
+Confidence: Medium
+Reasoning: Fits the flow—he is moving to discuss figures/QoE.
+Impact: Low-Medium
+
+[Error #12 - Category: Systematic Pattern Note]
+Location: Multiple (00:01:30, 00:19:30, 00:32:10, ~00:58:15)
+Transcript excerpt: "QV report", "the actual QA itself", "the QB tab", "Q and E"
+Issue: Inconsistent, mis-heard renderings of “QoE”
+Likely intended: “QoE” each time
+Confidence: High
+Reasoning: Consistent domain term; pattern suggests ASR confusion
+Impact: High - suggests systematic ASR tuning need
+
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+Segment A
+- Location: 00:00:00–00:01:05
+- Content: Greetings, Austin weather, “Living the dream,” attendance/“Are you coming to work tonight?...”
+- Classification: REMOVE
+- Reason: Personal small talk; unrelated to due diligence/finance topics.
+- Context impact: None—business discussion starts right after.
+
+Segment B
+- Location: ~00:01:05–00:04:00
+- Content: Agenda, recap of prior session, QoE overview, topics (WIP, working capital)
+- Classification: KEEP
+
+Segment C
+- Location: ~00:01:06–00:01:14 (embedded one-liner)
+- Content: "I think it's going to be cold, so stay warm."
+- Classification: REMOVE (Small talk)
+- Context impact: None
+
+Segment D through end (all other sections except noted small talk)
+- Location: ~00:04:00–01:29:00
+- Content: Proof of cash; tax/book reconciliations; payroll checks; QoE adjustments (add backs, reversals); bank/SBA acceptance of add backs; recast financials (method/illustration); working capital (definitions, averages, DSO, seasonality, cash conversion cycle); EOY anomalies; Augusta rule; sales tax liability; WIP/debt-like items; negotiation strategy; fraud vs errors; horror stories; program announcements; brief closing.
+- Classification: KEEP
+- Reason: All business-relevant due diligence/financing content or directly related logistics.
+- Note: Brief opening/closing courtesies and program announcements are acceptable as professional context.
+
+
+REMOVALS
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: 00:00:00–00:01:05
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: Hello. Hello. Hi, Gil. How's it going in the dream?... Living the dream with this Austin weather. Are you coming to work tonight? By the way, did you need a message for that?
+Justin: I can't, yeah, I can't make that one tonight..."
+Reasoning:
+Extended greetings/weather/event attendance are not business-relevant to the due diligence content.
+Context impact: None—the session agenda starts immediately after.
+Recommended action: REMOVE 00:00:00–00:01:05
+
+[REMOVAL #2 - Type: Small Talk]
+Location: ~00:01:06–00:01:14
+Speakers involved: Athena
+Content excerpt:
+"Athena: I think it's going to be cold, so stay warm."
+Reasoning:
+Pure weather small talk.
+Context impact: None—removal does not affect understanding.
+Recommended action: REMOVE ~00:01:06–00:01:14
+
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~01:27:30–01:29:00
+Content excerpt: "We’ll be putting the recording up... Mathias is going to be coming through... SBA broker... also our friend... 6Million dollar acquisition... Thanks so much, have a great weekend."
+Business relevance argument: Program logistics for upcoming SBA/buyer case study content are relevant for participants’ acquisition journey.
+Personal content argument: Not deal-specific; could be considered administrative.
+Recommendation: KEEP—Useful business-program context; brief and professional.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:53:20–00:54:10
+Content excerpt: "I like using real analogies... I don't want to be like Indiana Jones..."
+Business relevance argument: Clarifies working capital risk (runway/buffer) in accessible terms.
+Personal content argument: Anecdotal/analogy-based.
+Recommendation: KEEP—Enhances understanding of working capital exposure at close.
+
+
+NOTES FOR ASR IMPROVEMENT (Patterns)
+- QoE is consistently mis-transcribed as QV/QA/QB/Q and E. Train model to prefer “QoE” in M&A/financial due diligence context.
+- “Depreciation expense” misheard as “creation expense” during cash-basis adjustments.
+- “EBITDA change year-over-year” garbled to “Even a change your beer.”
+- SDE misheard as S.C.E. in SBA/ad back discussions.
+- “Brokers” misheard as “burgers.”
+- Occasional stray numerals/percentages inserted (e.g., “5%” after “wage accrual here and…”).
+- Multiple truncations/duplications (“and and, um, um,”) around reconciliation explanations.
+
+Speaker Attribution
+- No clear instances of swapped speakers; Q&A exchanges flow logically (host asks, guest explains).
+
+Overall, the transcript is rich in business-relevant content with a few opening small-talk lines suitable for removal, plus several high-impact ASR errors around key acronyms/terms that should be reviewed and corrected by a human refiner.

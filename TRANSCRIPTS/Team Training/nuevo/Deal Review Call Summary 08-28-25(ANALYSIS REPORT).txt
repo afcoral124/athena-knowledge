@@ -1,0 +1,280 @@
+[Error #1 - Category: Misheard Acronym/Business Term]
+Location: 2:08 / Speaker: Luke Gillespie
+Transcript excerpt: "…has it been asked very pre-qualified? Although Quiet Light already answers that in the sim."
+Issue: "asked very pre-qualified" is nonsensical in this context; likely an acronym/term was misheard. "sim" also appears off.
+Likely intended: "Has it been SBA pre-qualified? …in the CIM."
+Confidence: High
+Reasoning: In deal prep, advisors ask if a business is SBA pre-qualified. Quiet Light provides a CIM (Confidential Information Memorandum), commonly mis-transcribed as “sim.”
+Impact: High
+
+[Error #2 - Category: Business Terminology Distortion (Pattern)]
+Location: Multiple (2:08, 12:25, 13:32, 13:37, 20:08, 40:22, 40:39)
+Transcript excerpt: "…answers that in the sim." / "…deep dive on the sim…" / "…took a look at the sim…"
+Issue: “sim” used repeatedly where the industry term is “CIM.”
+Likely intended: “CIM (Confidential Information Memorandum)”
+Confidence: High
+Reasoning: CIM is the standard document package in M&A; “sim” is a common ASR error.
+Impact: Medium-High
+
+[Error #3 - Category: Entity Name]
+Location: 3:25 / Speaker: Ryan Cash
+Transcript excerpt: "…Who's the best client for Love Meowth?…"
+Issue: Business/site name garbled.
+Likely intended: "Love Meow"
+Confidence: High
+Reasoning: The deal is repeatedly referred to as “Love Meow” elsewhere. “Meowth” is likely an ASR artifact.
+Impact: Medium
+
+[Error #4 - Category: Omission/Truncation]
+Location: 1:35–2:08 / Speaker: Ryan Cash
+Transcript excerpt: "…is there any way that we could skip the broker call? No. on this one and be able to get a write-up…"
+Issue: A stray “No.” breaks the sentence and reverses meaning.
+Likely intended: A continuous question about skipping the broker call on this one.
+Confidence: Medium
+Reasoning: The flow suggests he’s asking permission to skip; inserted “No.” contradicts.
+Impact: Medium
+
+[Error #5 - Category: Misheard Acronym]
+Location: 6:51 / Speaker: Anke Jordaan
+Transcript excerpt: "…what's the ASDE looking like? What sort of clients fits the ASDE?"
+Issue: “ASDE” is not a relevant acronym; SDE is.
+Likely intended: “SDE”
+Confidence: High
+Reasoning: SDE (Seller’s Discretionary Earnings) is discussed throughout.
+Impact: High
+
+[Error #6 - Category: Financial/Numerical Error + Omission]
+Location: 6:59 / Speaker: Ryan Cash
+Transcript excerpt: "A million... A a million in SDE, four million in SDE, dude, I'm sorry, but is four million dollars asking me?"
+Issue: Garbled figures/structure; unclear SDE amount vs asking price; missing words.
+Likely intended: A clear statement of SDE (~$1M) and asking price (~$4M).
+Confidence: Medium
+Reasoning: Context elsewhere suggests ~$1M SDE and price around $4M; ASR merged phrases.
+Impact: High
+
+[Error #7 - Category: Entity Name]
+Location: 11:29 / Speaker: Anke Jordaan
+Transcript excerpt: "Paris, what's your thoughts on the cat thing?"
+Issue: Mispronounced/mis-transcribed name.
+Likely intended: "Charis"
+Confidence: High
+Reasoning: The participant is Charis Siau; “Paris” likely ASR confusion.
+Impact: Medium
+
+[Error #8 - Category: Business Terminology Distortion (Pattern)]
+Location: 12:25 and 14:08 / Speakers: Anke Jordaan
+Transcript excerpt: "…do it as a tape check…" / "…put it in front of him as a tame chick."
+Issue: Misheard phrase.
+Likely intended: “temp check” / “temperature check”
+Confidence: High
+Reasoning: They repeatedly describe a “temperature check” with the client.
+Impact: Medium
+
+[Error #9 - Category: Business Terminology Distortion]
+Location: 12:25 and 14:53 / Speaker: Anke Jordaan
+Transcript excerpt: "…open up a steel box… Open up the open up his thoughts…" 
+Issue: “steel box” is irrelevant; likely “deal box.”
+Likely intended: “deal box”
+Confidence: High
+Reasoning: “Deal box” is used earlier to describe client criteria; “steel box” is a phonetic error.
+Impact: Medium
+
+[Error #10 - Category: Entity Name]
+Location: 40:39 / Speaker: Anke Jordaan
+Transcript excerpt: "I quite a lot wouldn't put that, like, sim… Put the sim in front of the client."
+Issue: “I quite a lot” likely misheard proper noun “Quiet Light”, and “sim” vs “CIM.”
+Likely intended: "Quiet Light wouldn’t put the website in front of the client; put the CIM in front."
+Confidence: High
+Reasoning: Quiet Light is the broker; “CIM” is the document. The sentence structure aligns with that.
+Impact: High
+
+[Error #11 - Category: Entity/Tool Name]
+Location: 40:47 / Speaker: Ryan Cash
+Transcript excerpt: "…my entire Luke video is just going to be me playing around with the website…"
+Issue: Likely misheard tool name.
+Likely intended: “Loom video”
+Confidence: High
+Reasoning: Loom is commonly used for async deal videos; “Luke video” doesn’t fit.
+Impact: Medium
+
+[Error #12 - Category: Omission/Truncation]
+Location: 9:57 / Speaker: Luke Gillespie
+Transcript excerpt: "You might other... You might also have other..."
+Issue: Incomplete phrase.
+Likely intended: “You might also have other deals going out…”
+Confidence: Medium
+Reasoning: Next lines refer to multiple deals going to Peter.
+Impact: Low-Medium
+
+[Error #13 - Category: Omission/Truncation]
+Location: 35:04 / Speaker: Luke Gillespie
+Transcript excerpt: "…this sounds like an  or something based on what Gil's saying."
+Issue: Missing key word (e.g., a multiple or term).
+Likely intended: Possibly “8x” or a specific valuation term.
+Confidence: Low-Medium
+Reasoning: Context is valuation/multiple; ASR dropped the word.
+Impact: Medium
+
+[Error #14 - Category: Speaker Misattribution + Semantic Inconsistency]
+Location: 47:46 / Speaker: Anke Jordaan (attributed)
+Transcript excerpt: "You stuff like I'm a five-year-old Anka."
+Issue: Garbled sentence and likely wrong speaker; phrase doesn’t fit Anke addressing herself in third person.
+Likely intended: Another speaker saying, “Explain stuff like I’m a five-year-old, Anke.”
+Confidence: Medium
+Reasoning: Structure suggests someone addressing Anke; current attribution makes it nonsensical.
+Impact: Medium
+
+[Error #15 - Category: Misheard Acronym]
+Location: 43:20 / Speaker: Anke Jordaan
+Transcript excerpt: "…completely screwed up the QV and the lending…"
+Issue: “QV” acronym incorrect for the context.
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: They later say “Q of E” and discuss CPA/QoE.
+Impact: High
+
+[Error #16 - Category: Entity Name Consistency]
+Location: 21:52 / Speaker: Luke Gillespie
+Transcript excerpt: "…You can pass to Stephen Pauly from Gil's experience…"
+Issue: “Stephen Pauly” likely a mis-merge of “Steve and Polly” (mentioned earlier as a couple).
+Likely intended: “Steve and Polly”
+Confidence: High
+Reasoning: Earlier: “Steve and Polly… we’ve been throwing digital stuff their way.”
+Impact: Medium
+
+[Error #17 - Category: Semantic/Grammar (ASR) Error]
+Location: 18:03 / Speaker: Luke Gillespie
+Transcript excerpt: "Justin, open a DFW if it's something that he would only have to go in person once a week…"
+Issue: “open a DFW” is ungrammatical.
+Likely intended: “Justin’s open to DFW…”
+Confidence: High
+Reasoning: Standard phrasing for location openness; aligns with context.
+Impact: Low-Medium
+
+[Error #18 - Category: Business Terminology Distortion]
+Location: 51:35–51:40 / Speakers: Luke/Ryan
+Transcript excerpt: "Consistent… And there's no ad bets."
+Issue: “ad bets” likely misheard “add-backs” (or “ad-backs”).
+Likely intended: “add-backs”
+Confidence: High
+Reasoning: Add-backs are standard in SDE normalization; discussed earlier.
+Impact: Medium
+
+[Error #19 - Category: Omission/Truncation]
+Location: 32:31 / Speaker: Luke Gillespie
+Transcript excerpt: "So I was like, dude, I can actually do fly. it, too."
+Issue: Sentence broken; “do fly” nonsensical.
+Likely intended: Something like “I can actually do a call” or “swing it, too.”
+Confidence: Low-Medium
+Reasoning: Near context: texting timing/call logistics.
+Impact: Low
+
+[Error #20 - Category: Semantic Inconsistency]
+Location: 0:00 / Speaker: Anke Jordaan
+Transcript excerpt: "…that's why I thought it'd be best if we still kept this goal."
+Issue: “goal” inconsistent; likely “call.”
+Likely intended: “kept this call”
+Confidence: Medium
+Reasoning: They’re on a recurring deal review call; “goal” doesn’t fit.
+Impact: Low
+
+
+REMOVALS (Personal/Off-Topic)
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: 5:56–6:13
+Speakers involved: Anke, Charis, Luke
+Content excerpt:
+"Anke: Why is Charis like? I just...
+Charis: I you like sniff flowers like twice and I was really confused.
+Anke: I got some flowers for my husband. Aren't they beautiful?
+Luke: Aww.
+Charis: Cute."
+Reasoning:
+Pure personal small talk about flowers/gifts, unrelated to deals or clients.
+Context impact: None—business topic resumes immediately after (deal red flags and SDE fit).
+Recommended action: REMOVE 5:56–6:13
+
+[REMOVAL #2 - Type: Off-Topic Humor]
+Location: 39:39–40:13
+Speakers involved: Ryan, Anke, Luke
+Content excerpt:
+"Ryan: Athena doesn't actually need me to go buy Apple gift cards for her. Does she? I'm getting like some Chinese scammer...
+Anke: Yeah, I guess that was one of the ones...
+Luke: What am I going to do with these $500 in Apple gift cards now?
+Anke: You want me?"
+Reasoning:
+Scam/Apple gift card jokes are off-topic and add no business value.
+Context impact: None—conversation returns to deal discussion right after.
+Recommended action: REMOVE 39:39–40:13
+
+[REMOVAL #3 - Type: Casual Conversation/Pop Culture]
+Location: 47:12–48:31
+Speakers involved: Ryan, Anke, Charis
+Content excerpt:
+"Ryan: Oh, is that a South African thing?
+Anke: …throw up the ball in the air…
+[...]
+Ryan: So if you see me throw up.
+Anke: It's all true.
+Charis: Anke's little binge bucket is Jersey Shore…
+Anke: …Geordie Shore… my guilty pleasure… Kardashians…"
+Reasoning:
+Extended cultural explanation and TV show chatter; unrelated to business.
+Context impact: None—next segment resumes operational planning (onboarding sessions).
+Recommended action: REMOVE 47:12–48:31
+
+
+BORDERLINE SEGMENTS - Requires Review
+
+[BORDERLINE #1 - Requires Review]
+Location: 41:21–42:45
+Content excerpt:
+"Luke: I want to say Destin and Lindsey have cats. They look like they have cats.
+[light joking about who has cats, cheetah/gold bars/reptiles/cages]
+Charis: No, we should really… Asking these questions in our buyer discovery call, like, what pets do you have?
+Luke: This is important… that will influence the way that we look at deals."
+Business relevance argument: The suggestion to add a pet question to the buyer discovery process could inform fit for pet-related businesses—process improvement.
+Personal content argument: Banter about who “looks like” they have cats, cheetahs, gold bars, reptiles, and “4x4 cages” is purely humorous and irrelevant.
+Recommendation: KEEP only the process-relevant lines (42:04–42:22 and Luke’s reinforcement 42:12), REMOVE the jokes 41:35–42:00 and 42:33–42:45.
+- Keep: 42:04–42:22 ("…Asking these questions in our buyer discovery call… what pets do you have?… questionnaire…")
+- Remove: 41:35–42:00 and 42:33–42:45 (cheetah/gold bars/reptile/cages jokes)
+
+[BORDERLINE #2 - Requires Review]
+Location: 58:54–59:50
+Content excerpt:
+"Anke: Do you think AI will be able to tell Ida if there's a possibility of this person being a cat person?
+Ryan: I'm sure it'll give you an answer… AI also likes to hallucinate…
+Anke: So, like, it'll tell that Cash is the right buyer.
+Ryan: …posting my cat videos… imagine… pigs… Maybe I do spin up a pig content website."
+Business relevance argument: Discussion of using AI to augment buyer profiling touches on process/ops innovation.
+Personal content argument: Jokes about Cash disappearing to post cat videos and pig content are off-topic.
+Recommendation: KEEP 58:54–59:25 (AI capability/limitations), optionally KEEP 59:25 (“it'll tell that Cash is the right buyer” – borderline), REMOVE 59:31–59:50 (cat/pig jokes).
+
+
+Additional Notes on Context Preservation
+- The removed small-talk segments are bounded and do not break the flow of deal analysis or action items.
+- The pet-related banter is trimmed to keep the actionable idea (adding a discovery question) while removing unrelated humor.
+- The AI discussion is kept where it pertains to process capability and reliability; humor-only lines are removed.
+
+
+Speaker Attribution Validation
+- Likely misattribution at 47:46 ("You stuff like I'm a five-year-old Anka.")—appears to be another speaker addressing Anke. Flagged as Error #14.
+- Overall Q&A flow otherwise aligns (representative guiding, team discussing clients/deals).
+
+
+Pattern Flags for ASR System Improvement
+- CIM consistently misheard as “sim.”
+- “Temperature check” consistently misheard (“tape check,” “tame chick”).
+- “Deal box” misheard as “steel box.”
+- Names occasionally drift (Charis→Paris; “Steve and Polly”→“Stephen Pauly”).
+- “Loom” misheard as “Luke.”
+- Acronyms: QoE misheard as “QV”; SDE variants (“ASDE”).
+- Frequent truncations/omissions in mid-sentence, especially during overlaps or laughs.
+
+
+Summary of KEEP vs REMOVE
+- KEEP: All deal/valuation/financing/process content (Quiet Light cat content site; Falcon deal valuation/multiples/DSCR/ad-backs; client fit/DFW daycare; handoff process improvements; onboarding scheduling; broker background check risk mitigation; action items).
+- REMOVE: 5:56–6:13 (flowers), 39:39–40:13 (Apple gift card jokes), 47:12–48:31 (sports idiom/TV shows), plus specified joke sub-lines in 41:35–42:00, 42:33–42:45, and 59:31–59:50.
+
+This preserves all business-relevant analysis, strategy, valuations, financing considerations, process improvements, and action items, while trimming unrelated small talk.

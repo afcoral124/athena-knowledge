@@ -1,0 +1,303 @@
+[Error #1 - Category: Business terminology distortion]
+Location: 0:39 / Speaker: Athena Simpson
+Transcript excerpt: "…how people could consider this and lowering the SC and having conversations with the brokers."
+Issue: "SC" is unclear in this context; likely a misheard word.
+Likely intended: "…lowering the ask…"
+Confidence: Medium
+Reasoning: In deal discussions with brokers, “ask” (asking price) is a common term. “SC” is not standard here and sounds like ASR confusion.
+Impact: Medium
+
+---
+[Error #2 - Category: Homophone/Near-homophone]
+Location: 1:36 / Speaker: Luke Gillespie
+Transcript excerpt: "…the media since nationalizes things so much…"
+Issue: Nonsensical phrasing.
+Likely intended: "…the media sensationalizes things so much…"
+Confidence: High
+Reasoning: “Sensationalizes” fits the sentence meaning; “since nationalizes” is a typical phonetic ASR error.
+Impact: Low-Medium
+
+---
+[Error #3 - Category: Omission/Semantic inconsistency]
+Location: 1:42 / Speaker: Athena Simpson
+Transcript excerpt: "…drive for three and a half hours to Dallas to get to us and bash."
+Issue: Phrase “to get to us and bash” is incoherent.
+Likely intended: Possibly “to get to Dallas and back” or a specific event name (e.g., “Austin bash”).
+Confidence: Low
+Reasoning: The words as transcribed don’t form a meaningful destination/event; likely an ASR drop/misrecognition.
+Impact: Low
+
+---
+[Error #4 - Category: Speaker Misattribution]
+Location: 4:48 / Speakers: Attributed to Luke Gillespie
+Transcript excerpt: "ahead, Luke. Okay. So, uh, can I share my screen, please?"
+Issue: “Go ahead, Luke” is likely said by another speaker, not Luke referring to himself.
+Likely intended: Athena or another team member: “Go ahead, Luke.” Then Luke: “Okay. Can I share my screen…”
+Confidence: Medium
+Reasoning: Turn-taking logic suggests a prompt then response; current attribution blends them.
+Impact: Low
+
+---
+[Error #5 - Category: Business terminology distortion]
+Location: 4:48–5:33 / Speaker: Luke Gillespie
+Transcript excerpt: "…and he's going to be called for 2.4 million."
+Issue: “called” likely misheard.
+Likely intended: “pre-qualed for 2.4 million” or “prequalified for 2.4 million.”
+Confidence: High
+Reasoning: They are discussing SBA pre-qualification amounts; “pre-qual” is standard phrasing.
+Impact: Medium
+
+---
+[Error #6 - Category: Financial/numerical error]
+Location: 5:41 / Speaker: Luke Gillespie
+Transcript excerpt: "…So 5% of $1 million, $500,000…"
+Issue: The math doesn’t align with the $10M deal context.
+Likely intended: “5% of $10 million = $500,000.”
+Confidence: High
+Reasoning: The deal is repeatedly referred to as $10M; 5% of $1M is $50,000, not $500,000.
+Impact: High
+
+---
+[Error #7 - Category: Business terminology distortion]
+Location: 6:10 / Speaker: Athena Simpson
+Transcript excerpt: "…keep it there because, oh, okay, you're going to his fire profile."
+Issue: “fire profile” is incoherent.
+Likely intended: “buyer profile.”
+Confidence: High
+Reasoning: They immediately reference profiles used for clients; “buyer profile” is standard.
+Impact: Medium
+
+---
+[Error #8 - Category: Business terminology distortion]
+Location: 6:59 / Speaker: Athena Simpson
+Transcript excerpt: "…ask Wendy where the pre fall came from…"
+Issue: “pre fall” is incorrect term in lending context.
+Likely intended: “pre-qual” (pre-qualification).
+Confidence: High
+Reasoning: They are discussing a pre-qualification amount from a lender.
+Impact: High
+
+---
+[Error #9 - Category: Semantic inconsistency]
+Location: 12:34 / Speaker: Luke Gillespie
+Transcript excerpt: "No, equity with a Wendy from SBA prequalification."
+Issue: The phrase is not grammatical or meaningful.
+Likely intended: “No, check with Wendy on the SBA prequalification” or “Note: check with Wendy…”
+Confidence: Medium
+Reasoning: They repeatedly discuss checking with Wendy about pre-qual discrepancies; “equity with a Wendy” is likely ASR garble.
+Impact: Medium
+
+---
+[Error #10 - Category: Word substitution]
+Location: 16:36 / Speaker: Athena Simpson
+Transcript excerpt: "We can only theorize and pasteurize as much as we can…"
+Issue: “pasteurize” is semantically wrong.
+Likely intended: “postulate” or “speculate.”
+Confidence: Medium
+Reasoning: Common idiom would be “theorize and postulate/speculate”; “pasteurize” is a clear ASR misfire.
+Impact: Low
+
+---
+[Error #11 - Category: Homophone/Near-homophone]
+Location: 18:00 / Speaker: Luke Gillespie
+Transcript excerpt: "…see what he said on the sales halls…"
+Issue: “sales halls” incorrect phrase.
+Likely intended: “sales calls.”
+Confidence: High
+Reasoning: Context is checking a prior call; “sales calls” is standard.
+Impact: Medium
+
+---
+[Error #12 - Category: Word substitution]
+Location: 19:46 / Speaker: Luke Gillespie
+Transcript excerpt: "…we'll incorporate it into your search blowing forward."
+Issue: “blowing forward” incorrect.
+Likely intended: “going forward.”
+Confidence: High
+Reasoning: Common phrase in professional settings; “blowing” is an ASR misrecognition.
+Impact: Low
+
+---
+[Error #13 - Category: Entity name]
+Location: 27:09 / Speaker: Luke Gillespie
+Transcript excerpt: "…thanks for calling Aquamatch…"
+Issue: Company name appears misspelled.
+Likely intended: “AcquiMatch.”
+Confidence: High
+Reasoning: The company in this transcript is consistently “AcquiMatch.”
+Impact: Medium
+
+---
+[Error #14 - Category: Omission/Word substitution]
+Location: 27:09 / Speaker: Luke Gillespie
+Transcript excerpt: "…If you're looking to speak to him over the team, Luke or Ryan…"
+Issue: “him over the team” is ungrammatical.
+Likely intended: “a member of the team…”
+Confidence: High
+Reasoning: Standard IVR/voicemail phrasing; “member” fits context.
+Impact: Low
+
+---
+[Error #15 - Category: Word substitution]
+Location: ~30:05–30:23 / Speaker: Athena Simpson
+Transcript excerpt: "…when Brian took over and started doing all the. worker falls…"
+Issue: “worker falls” is incoherent.
+Likely intended: “broker calls.”
+Confidence: High
+Reasoning: They are discussing outreach calls with brokers; “broker calls” is standard.
+Impact: Medium
+
+---
+[Error #16 - Category: Word substitution]
+Location: 38:12 / Speaker: Athena Simpson
+Transcript excerpt: "…performed in the plant past."
+Issue: “plant past” is nonsensical.
+Likely intended: “past.”
+Confidence: High
+Reasoning: “past performance” is the standard phrase regarding performance-based notes.
+Impact: Low
+
+---
+[Error #17 - Category: Homophone/Near-homophone]
+Location: 40:44 / Speaker: AcquiMatch Team
+Transcript excerpt: "Got it. Okay, Oscar."
+Issue: “Oscar” likely misheard acknowledgement.
+Likely intended: “Okay, awesome.”
+Confidence: Medium
+Reasoning: “Awesome” is a common response; “Oscar” is a frequent ASR mishearing.
+Impact: Low
+
+---
+[Error #18 - Category: Business terminology distortion (Pattern)]
+Location: 43:44 / Speaker: Athena Simpson
+Transcript excerpt: "…5 to 10% for equity ejection."
+Issue: “equity ejection” is incorrect term.
+Likely intended: “equity injection.”
+Confidence: High
+Reasoning: SBA/financing context uses “equity injection.”
+Impact: High
+
+---
+[Error #19 - Category: Misheard acronym/abbreviation]
+Location: ~51:56–52:30 / Speaker: AcquiMatch Team
+Transcript excerpt: "…really only been that one, which I've submitted my UI. I'm trying to work on it…"
+Issue: “UI” is incorrect in M&A context.
+Likely intended: “LOI” (Letter of Intent).
+Confidence: High
+Reasoning: They are discussing a deal under offer; LOI is the correct term.
+Impact: High
+
+---
+[Error #20 - Category: Business terminology distortion (Pattern)]
+Location: 1:01:00 / Speaker: AcquiMatch Team
+Transcript excerpt: "…can be treated as equity rejection…"
+Issue: “equity rejection” is incorrect.
+Likely intended: “equity injection.”
+Confidence: High
+Reasoning: Repeats the same term error as earlier; standard SBA term is “equity injection.”
+Impact: High
+
+---
+[Error #21 - Category: Business terminology distortion]
+Location: 1:05:24 / Speaker: Athena Simpson
+Transcript excerpt: "…then what he gets a slow note because tuning is like we'll close on anything…"
+Issue: “slow note” is likely incorrect; also “tuning” appears as a name mishearing.
+Likely intended: “seller note” and possibly “Tooti” (person referenced elsewhere).
+Confidence: Medium
+Reasoning: “Seller note” is on-topic; “slow note” isn’t used in this context. Name “Tooti” recurs in the call.
+Impact: Medium
+
+---
+[Error #22 - Category: Word substitution]
+Location: 1:06:38 / Speaker: AcquiMatch Team
+Transcript excerpt: "I'm Tariq."
+Issue: Likely preposition misheard, changing meaning.
+Likely intended: “On Tariq.” (i.e., “On [the] Tariq [deal]…”)
+Confidence: Medium
+Reasoning: The question was “do you think you can daily chase him?” referring to the Tariq deal; “On Tariq” fits the reply.
+Impact: Low
+
+---
+[Error #23 - Category: Homophone/Near-homophone]
+Location: 1:08:07 / Speaker: AcquiMatch Team
+Transcript excerpt: "…message saying on a threat, an old threat back from February…"
+Issue: “threat” is wrong.
+Likely intended: “thread.”
+Confidence: High
+Reasoning: Refers to an email/message thread.
+Impact: Low
+
+---
+[Error #24 - Category: Word substitution (sensitive misrecognition)]
+Location: ~1:09:30–1:10:10 / Speaker: AcquiMatch Team
+Transcript excerpt: "…so that these could be included in the Muslim email."
+Issue: “Muslim email” is an offensive misrecognition in this context.
+Likely intended: “mass email” or “bulk email.”
+Confidence: High
+Reasoning: They are discussing adding items to an off-market outreach email; “mass email” aligns, “Muslim email” is clearly erroneous.
+Impact: High
+
+---
+[Error #25 - Category: Business terminology distortion]
+Location: 13:33 / Speaker: Athena Simpson
+Transcript excerpt: "…Gil's only pre-called for 2.4…"
+Issue: “pre-called” is incorrect form.
+Likely intended: “pre-qualed” or “prequalified.”
+Confidence: High
+Reasoning: Consistent with other mentions of lender pre-qualification.
+Impact: Medium
+
+---
+[REMOVAL #1 - Type: Off-Topic/Personal + Social Commentary]
+Location: 1:42–2:43
+Speakers involved: Athena Simpson, Luke Gillespie
+Content excerpt:
+"Athena: Well, they do have to control people, you know, if people are afraid, then they shut down, they're controllable… I won't get any into any of those discussions because I knew we're running late. So, um, I want to try to wrap up on time because I have to jump in my car and drive for three and a half hours to Dallas to get to us and bash… I've got two phone calls scheduled… I like doing phone calls from the car because it's a good way to pass the time."
+Reasoning:
+Extended political/social commentary about control/media and personal travel/scheduling details unrelated to deal analysis, financing, or client work.
+Context impact: Low – conversation resumes to business planning immediately after.
+Recommended action: REMOVE 1:42–2:43
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: 31:27–34:34
+Content excerpt: "…there's very much still this generational gap… I'm 23 with all these old white guys… tips on positioning as a mentee… older men love me because I'm like, tell me your story… they see me as like a daughter…"
+Business relevance argument: Provides practical relationship-building tactics for working with older brokers (industry insight and sales strategy).
+Personal content argument: Contains personal anecdotes (references to boyfriend, comments about “older men love me,” familial analogies) that verge on non-business.
+Recommendation: KEEP—The segment imparts strategic advice on broker relations despite personal tone.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 1:05–1:36
+Content excerpt: "…the media just scares people all the time… administration is going to change every four years…"
+Business relevance argument: Addresses buyer sentiment and market timing concerns, which impact acquisition decisions.
+Personal content argument: Could be seen as general social commentary.
+Recommendation: KEEP—Directly tied to client buying behavior and deal timing.
+
+---
+Patterns and Notes for ASR Improvement
+- “Pre-qual” consistently misrecognized: “pre fall,” “pre-called.” Recommend boosting language model for “pre-qual/prequalified.”
+- “Equity injection” repeatedly misheard as “equity ejection/equity rejection.” High-impact finance term—prioritize correction.
+- “LOI” misheard as “UI.” Common acronym confusion—add domain-specific biasing.
+- “Seller note” misheard as “slow note.” Domain lexicon update would help.
+- “Broker calls” misheard as “worker falls.” Likely phonetic confusion; add broker-specific vocabulary.
+- Company name “AcquiMatch” inconsistently transcribed as “Aquamatch/Acquimatch.” Add brand name to custom dictionary.
+- Frequent casual acknowledgments misheard (e.g., “awesome” → “Oscar”).
+- Sensitive mishearing: “mass email” → “Muslim email.” This is a priority to avoid offensive content.
+
+Segment Mapping Summary (Keep/Remove/Mixed)
+- 0:03–0:32: KEEP (brief greetings/praise; team context)
+- 0:39–1:36: KEEP (deal/pricing strategy; buyer sentiment)
+- 1:42–2:43: REMOVE (political/social commentary + personal travel/schedule)
+- 2:43–51:00: KEEP (deal financing, pre-qual discrepancy, investor openness, process)
+- 51:00–1:06:33: KEEP (client management: Jason/Tariq deal, service expectations)
+- 1:08:07–1:18:20: KEEP (operational follow-ups, off-market outreach, scheduling/action planning)
+
+Speaker Attribution Validation
+- Minor misattribution at 4:48 around “Go ahead, Luke.” Flagged in Error #4.
+
+Cross-Reference Consistency
+- Pre-qualification amount (2.4M) is consistent but phrasing varies due to ASR errors (pre fall/pre-called).
+- Consistent discussion of SBA rules (seller note on full standby 2 years) but “equity injection” term is often misheard—see pattern.
+
+If you want, I can produce a compact list of edited timestamps to excise (for the REMOVAL segment) and a quick glossary of corrected domain terms to aid the Transcript Refiner.

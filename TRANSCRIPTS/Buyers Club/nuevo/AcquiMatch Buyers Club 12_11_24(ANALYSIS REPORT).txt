@@ -1,0 +1,193 @@
+Segment mapping (approximate timestamps)
+- 00:00:00–00:01:05: Greetings, agenda, recording and resources note — KEEP
+- 00:01:05–00:05:30: SBA 7(a) vs. 504 overview; 25-year amortization with ≥51% real estate — KEEP
+- 00:05:30–00:09:10: Separate appraisals; using seller notes to keep RE >51%; Acquiring Minds example — KEEP
+- 00:09:10–00:13:10: Q&A: amortization vs. total interest; bundling leased property purchase; landlord communications — KEEP
+- 00:13:10–00:16:20: SBA lease-length requirement; negotiating lease extensions/market-rate options — KEEP
+- 00:16:20–00:20:30: Combining 7(a)/504; standby seller notes toward equity injection; 504 Green intro — KEEP
+- 00:20:30–00:25:30: 504 eligibility Q; rates; combining loans strategy — KEEP
+- 00:25:30–00:33:30: Templates; structuring creativity; “my price/your terms”; modeling overvalued RE scenarios — KEEP
+- 00:33:30–00:41:30: Negotiation approach; Chris Voss concepts; rapport-building; role-play offer — KEEP
+- 00:41:30–00:49:30: DiSC overview and application in seller conversations; mirroring/labeling — KEEP
+- 00:49:30–00:55:30: Partial buyouts, rollover equity, SBA SOP/PG thresholds; partnership cautions — KEEP
+- 00:55:30–00:56:10: Closings/pleasantries — REMOVE (low priority)
+
+Detected transcription errors
+
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:18:30 / Speaker: Athena
+Transcript excerpt: "there are instances where you can overcome that with When you use a separate NA CIS code, I think I hope I said that in the right order."
+Issue: “NA CIS code” is not the standard acronym
+Likely intended: “NAICS code”
+Confidence: High
+Reasoning: NAICS (North American Industry Classification System) is the standard term in SBA/504 contexts; “NA CIS” is a phonetic mis-split.
+Impact: Medium – could confuse listeners verifying program rules or researching eligibility
+
+[Error #2 - Category: Entity Name (Podcast)]
+Location: ~00:07:30 and ~00:20:10 / Speaker: Athena
+Transcript excerpt: "this, um, acquiring minds episode..." / "This is the episode that I actually wanted to drop..."
+Issue: Podcast name appears as lowercased or possibly “mines”
+Likely intended: “Acquiring Minds” (podcast)
+Confidence: High
+Reasoning: “Acquiring Minds” is a known SMB/M&A podcast; ASR often drops capitalization or mishears “Minds” as “mines.”
+Impact: Low – brand reference; still understandable but should be recorded correctly
+
+[Error #3 - Category: Misheard Acronym/Term]
+Location: ~00:10:45 / Speaker: Athena
+Transcript excerpt: "the proceeds from the loan go to different people like your legal team, your QV or et cetera."
+Issue: “QV or” is not a standard term in diligence
+Likely intended: “Q of E” / “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: In acquisition diligence, “QoE” is a standard; “QV or” is a common ASR mishearing.
+Impact: High – changes a key diligence concept
+
+[Error #4 - Category: Financial/Numerical Error]
+Location: ~00:05:50 / Speaker: Athena
+Transcript excerpt: "if you have, for example, a 3 million loan and the real estate is 1. 6%, then you get 25 year amortization."
+Issue: Percentage sign makes the calculation nonsensical
+Likely intended: “...and the real estate is $1.6 million...” (i.e., >51%)
+Confidence: High
+Reasoning: The 51% test is by dollar allocation; 1.6% of $3M cannot meet the threshold. Likely a “million”→“%” ASR slip.
+Impact: High – central to qualifying for 25-year amortization
+
+[Error #5 - Category: Omission/Truncation + Numerical]
+Location: ~00:30:20 / Speakers: Athena, then misattributed to Ryan
+Transcript excerpt: "...still work and come at the 1. 5 and" / "Ryan: 4."
+Issue: Statement is truncated; stray “4.” attributed to Ryan
+Likely intended: DSCR targets (e.g., “1.5 and 1.25”) with no interjection
+Confidence: Medium
+Reasoning: Typical DSCR references for SBA lending are around 1.20–1.25 (504) and ~1.25–1.5 (scenario-dependent). The fragment and “4.” are ASR artifacts.
+Impact: High – obscures key underwriting metric
+
+[Error #6 - Category: Business Terminology Distortion]
+Location: ~00:22:35 / Speaker: Athena
+Transcript excerpt: "When you can do a 5 or 4, which is going to be more at 6%, whereas 7 days."
+Issue: “5 or 4” and “7 days” are misrecognitions
+Likely intended: “504” and “7(a)’s [rate is higher]”
+Confidence: High
+Reasoning: 504 vs. 7(a) context is clear; ASR often breaks “504” and “7(a)” oddly; “days” likely clipped from “7(a)’s.”
+Impact: Medium – may confuse which program she’s contrasting
+
+[Error #7 - Category: Financial/Numerical Error]
+Location: ~00:23:25 / Speaker: Athena
+Transcript excerpt: "maybe you want to do a 504 loan with, you know, 24 amortization, 25 amortization on the real estate"
+Issue: “24 amortization” likely a number error
+Likely intended: “25-year amortization”
+Confidence: High
+Reasoning: 504 standard maturities are 10/20/25 years; not 24. She immediately says 25 next.
+Impact: Low–Medium – minor but numerical precision matters
+
+[Error #8 - Category: Semantic Inconsistency (Policy nuance)]
+Location: ~00:19:15 / Speaker: Athena
+Transcript excerpt: "There's no, there's no cap on the number or size of the loan. If the criteria is met..."
+Issue: Overbroad statement about 504 Green caps
+Likely intended: She may have meant increased/expanded limits under 504 Green
+Confidence: Medium
+Reasoning: 504 Green has higher aggregate debenture availability, but projects still have per-debenture limits; “no cap” is likely overstated or misheard.
+Impact: Medium – could mislead listeners on financing capacity
+
+[Error #9 - Category: Homophone/Word Choice]
+Location: ~00:37:10 / Speaker: Jason
+Transcript excerpt: "Yeah, the whistle brain gets in the way."
+Issue: Unusual phrase in negotiation context
+Likely intended: “lizard brain”
+Confidence: Medium
+Reasoning: “Lizard brain” is a common colloquialism about instinctive reactions; “whistle brain” is unlikely in this context.
+Impact: Low – not critical to core content
+
+[Error #10 - Category: Entity Name (Product)]
+Location: ~00:39:15 / Speaker: Athena
+Transcript excerpt: "I used chat GBT and I was like, you are coaching me as..."
+Issue: Product name misspelled/misheard
+Likely intended: “ChatGPT”
+Confidence: High
+Reasoning: Widely known tool; common ASR error swapping letters.
+Impact: Low
+
+[Error #11 - Category: Foreign Term/Proper Spelling]
+Location: ~00:52:40 / Speaker: Athena
+Transcript excerpt: "because everybody's still going to respond to him as the hefe because that's what he's been."
+Issue: Misspelling of Spanish “jefe”
+Likely intended: “jefe”
+Confidence: High
+Reasoning: In business slang, “jefe” (boss) is standard; “hefe” is a typical phonetic misspelling.
+Impact: Low
+
+[Error #12 - Category: Speaker Misattribution/Omission]
+Location: Multiple (e.g., ~00:01:00; ~00:10:55)
+Transcript excerpt: "No, feeling good. Ready to learn soak it in." (no speaker) / "Yeah, no, I get it. But I was thinking." (no speaker)
+Issue: Missing speaker labels on lines; one stray interjection (“Ryan: 4.”)
+Likely intended: These belong to Jason or others responding inline; “Ryan: 4.” is spurious
+Confidence: Medium
+Reasoning: Flow suggests quick interjections by participants; the stray “4.” likely from previous truncation.
+Impact: Medium – affects readability/attribution
+
+[Error #13 - Category: Business Terminology Distortion (pattern)]
+Location: ~00:43:00–00:48:00 / Speakers: Athena, Andrew
+Transcript excerpt: "desk profile... Do you mind... breaking down what disc is?... I see is like, your accountants... high as..."
+Issue: Inconsistent/misheard references to DiSC types (S/C) and name (“desk/disk/disc”)
+Likely intended: “DiSC profile... High S... High C...”
+Confidence: High
+Reasoning: DiSC is a standard model; ASR frequently mishears single-letter categories and brand capitalization.
+Impact: Low–Medium – could confuse listeners unfamiliar with DiSC
+
+[Error #14 - Category: Word Error]
+Location: ~00:55:45 / Speaker: Athena
+Transcript excerpt: "financial modeling or role plating, we can make time for that."
+Issue: “role plating” is incorrect phrase
+Likely intended: “role playing”
+Confidence: High
+Reasoning: Context is practicing seller meetings; “role playing” is the standard term.
+Impact: Low
+
+[Error #15 - Category: Semantic Inconsistency (possible factual confusion)]
+Location: ~00:18:05 / Speaker: Athena
+Transcript excerpt: "there are instances where you can overcome [the 7(a) $5M cap] with... a separate NAICS code... unlock more 7a loan capability"
+Issue: Statement appears to conflate industry classification with 7(a) maximums
+Likely intended: Possibly referring to 504 project caps or affiliate/size-standard nuances
+Confidence: Low–Medium
+Reasoning: 7(a) maximum guaranty/loan size isn’t increased by NAICS; the idea may be mis-expressed or misheard.
+Impact: Medium – could cause confusion on program limits
+
+[REMOVAL #1 - Type: Brief Pleasantries/Closings]
+Location: ~00:55:50–00:56:10
+Speakers involved: Andrew, Athena
+Content excerpt:
+"Andrew: Thank you. Thanks all. Cool. Thank you. See ya. Bye guys.
+Athena: Bye."
+Reasoning:
+End-of-call pleasantries only; no business value.
+Context impact: None—discussion is concluded.
+Recommended action: REMOVE ~00:55:50–00:56:10
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:42:40–00:43:15
+Content excerpt: 
+"Jason: Yeah, it's like public speaking. Like it's like, once you get some reps and public speaking, it's fine. But if you haven't done it in like six months, it's nerve wracking.
+Athena: Super nerve wracking."
+Business relevance argument: Relates to confidence/reps for seller meetings and negotiations; supports educational theme.
+Personal content argument: Generic public-speaking aside not directly about deals.
+Recommendation: KEEP — It briefly reinforces the negotiation skills point and doesn’t disrupt flow.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:47:05
+Content excerpt: 
+"Athena: ...it's probably misspelled because I have these talons on my finger..."
+Business relevance argument: None; purely personal aside about nails.
+Personal content argument: Off-topic and not adding value to acquisitions discussion.
+Recommendation: REMOVE — Trimming this one sentence would not affect context.
+
+Additional notes/patterns for ASR improvement
+- 504 and 7(a) frequently misrendered as “5 or 4,” “7 days,” or with stray punctuation/spaces. Train model on SBA program terms.
+- Acronyms and initialisms (QoE, NAICS, SOP, PG, LOI, DSCR) often misheard or spaced oddly. Improve acronym handling in finance/M&A domain.
+- Numbers and units: “$1.6 million” vs “1.6%” and “25-year” vs “24” appeared; prompt the model to use contextual validation for percentages vs dollar amounts.
+- Proper nouns: “Acquiring Minds,” “ChatGPT,” “DiSC,” “jefe” need entity tuning.
+- Speaker attribution: Short interjections are sometimes unlabeled; improve diarization for multi-party Zoom audio.
+
+Speaker attribution validation
+- A few unlabeled interjections likely from Jason or others (e.g., “No, feeling good. Ready to learn...” and “Yeah, no, I get it. But I was thinking.”). Recommend review and assignment to the correct speaker to maintain clarity.
+- The stray “Ryan: 4.” is almost certainly an ASR artifact linked to the truncated DSCR sentence (Error #5).
+
+Context preservation check
+- Removing the closing pleasantries (REMOVAL #1) and the single “talons on my finger” aside (BORDERLINE #2) will not disrupt the instructional content or flow.
+- All other segments contain substantive guidance on SBA/504/real estate structuring, leasing requirements, negotiation strategy, or process education and should be retained.

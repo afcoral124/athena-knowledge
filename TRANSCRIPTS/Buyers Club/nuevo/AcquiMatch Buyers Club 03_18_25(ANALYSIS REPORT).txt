@@ -1,0 +1,214 @@
+Below is a focused error and relevance analysis of the provided transcript. I’ve prioritized high-impact ASR issues (acronyms, numbers, entities) and mapped non-business small talk for potential removal, while preserving business-relevant content and flow.
+
+Detected Transcription Errors
+
+[Error #1 - Category: Misheard Acronym/Business Term]
+Location: ~00:24:45 / Speaker: Gil
+Transcript excerpt: "the trillion and twelve months, I didn't have them. I don't, I don't have that information."
+Issue: "trillion and twelve months" is nonsensical in this context.
+Likely intended: "trailing twelve months (TTM)"
+Confidence: High
+Reasoning: In financial analysis and modeling, “trailing twelve months” (TTM) is the standard term; “trillion” is a common ASR mishear.
+Impact: High - changes the meaning of a key modeling reference.
+
+[Error #2 - Category: Misheard Acronym/Business Term]
+Location: ~00:50:05 / Speaker: Gil
+Transcript excerpt: "same thing here with the training 12 months and then the C Corp."
+Issue: "training 12 months" is incorrect.
+Likely intended: "trailing 12 months"
+Confidence: High
+Reasoning: Matches the earlier TTM topic and is a repeated ASR pattern.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:25:35 / Speaker: Gil
+Transcript excerpt: "it's probably going to be a C corp because I'll probably use Rob's, uh, as part of the finance."
+Issue: "Rob's" is almost certainly the ROBS structure.
+Likely intended: "ROBS" (Rollovers as Business Startups)
+Confidence: High
+Reasoning: ROBS is a common financing method for acquisitions; “Rob’s” is a frequent ASR confusion.
+Impact: High
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:26:20–00:26:35 / Speaker: Gil
+Transcript excerpt: "this cell is actually what's in the sim. What's in the, uh, yeah, in the sim."
+Issue: "sim" likely refers to CIM (Confidential Information Memorandum).
+Likely intended: "CIM"
+Confidence: Medium
+Reasoning: In M&A contexts, “CIM” is standard; “sim” is a plausible mis-transcription.
+Impact: Medium
+
+[Error #5 - Category: Entity Name]
+Location: ~00:02:05–00:02:35 / Speaker: Joe
+Transcript excerpt: "Live Oak, who, uh, I know Athena and AquaMatch, they, they favor Live Oak..."
+Issue: Company name misstated as "AquaMatch."
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: The organization is AcquiMatch; “AquaMatch” is a phonetic error.
+Impact: Medium
+
+[Error #6 - Category: Entity Name Inconsistency]
+Location: ~00:02:35 and ~00:05:45 / Speaker: Joe
+Transcript excerpt: 
+- "a credit union called DFCU that I've worked with..."
+- "I talked this morning with DFCW on things that were included in the closing costs..."
+Issue: Credit union name alternates between DFCU and DFCW.
+Likely intended: One consistent name (probably DFCU)
+Confidence: Medium
+Reasoning: ASR often mishears terminal letters; lender identity consistency is critical.
+Impact: High - affects clarity on which lender provided what terms.
+
+[Error #7 - Category: Entity/Person Name Inconsistency]
+Location: ~00:02:55 and ~00:06:05 / Speaker: Joe
+Transcript excerpt:
+- "...City National Bank and a guy named Tuney."
+- "I haven't had a call with Tony."
+Issue: Person’s name appears as “Tuney” and later “Tony.”
+Likely intended: One consistent name (e.g., Tony or Tuney)
+Confidence: Medium
+Reasoning: Likely the same person; inconsistent renders cause confusion for follow-ups.
+Impact: Medium
+
+[Error #8 - Category: Business Terminology Distortion]
+Location: ~00:04:25–00:04:40 / Speaker: Joe
+Transcript excerpt: "leasing a license from the seller for the age from the HVAC company until I can get my own license"
+Issue: Extraneous “age” inserted; phrase is garbled.
+Likely intended: "leasing a license from the seller for the HVAC company until I can get my own license"
+Confidence: High
+Reasoning: HVAC licensing context; “age” is nonsensical filler.
+Impact: Medium
+
+[Error #9 - Category: Omission/Truncation]
+Location: ~00:11:00–00:11:10 / Speaker: Athena
+Transcript excerpt: "from the 3, I don't know where you're leaning, but I feel like your local bank and also their preferred lender, which means they don't have to."
+Issue: Sentence cuts off after “don’t have to,” missing the key completion.
+Likely intended: "...don’t have to send the file to SBA for separate approval" (PLP context) or similar.
+Confidence: Medium
+Reasoning: In SBA context, “Preferred Lender” usually implies delegated/PLP authority.
+Impact: Medium
+
+[Error #10 - Category: Homophone/Near-homophone]
+Location: ~00:09:15–00:09:35 / Speaker: Athena
+Transcript excerpt: "they gave you a more substantial line of credit. I didn't see the live of what they offered there..."
+Issue: “live” is unclear; could be “Live Oak” or “line (of credit).”
+Likely intended: Either "I didn't see what Live Oak offered there" or "I didn't see the line of what they offered there."
+Confidence: Low-Medium
+Reasoning: Both “Live Oak” and “line (of credit)” are plausible given adjacent words.
+Impact: Low-Medium
+
+[Error #11 - Category: Misheard Acronym]
+Location: ~00:15:55–00:16:40 / Speakers: Athena/Joe
+Transcript excerpt:
+- "are you planning, you're planning on doing a QV also?"
+- "I specifically asked about QV..."
+- "did you see Chris's walkthrough of a QV report?"
+Issue: “QV” is not the standard acronym.
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: In M&A, the standard is QoE; ASR commonly reduces it to “QV.”
+Impact: High
+
+[Error #12 - Category: Homophone]
+Location: ~00:15:05–00:15:15 / Speaker: Athena
+Transcript excerpt: "if you weren't on that virus club, or you haven't watched it, I highly recommend..."
+Issue: “virus club” is incorrect.
+Likely intended: "Buyers Club"
+Confidence: High
+Reasoning: Matches meeting context; “virus” is a phonetic mishear of “buyers.”
+Impact: Low-Medium
+
+[Error #13 - Category: Homophone/Business Term]
+Location: ~00:21:45–00:21:55 / Speaker: Joe
+Transcript excerpt: "bring back a couple notes to DFCW that she specifically needed for, um, around the, uh, ARNAP."
+Issue: “ARNAP” likely garbles AR and AP.
+Likely intended: "AR and AP"
+Confidence: High
+Reasoning: He’s been discussing aging AR and AP; concatenation is an ASR error.
+Impact: High - could confuse lender documentation requirements.
+
+[Error #14 - Category: Speaker Misattribution]
+Location: ~00:26:55–00:27:05 / Speakers: Gil, Joe, Athena
+Transcript excerpt:
+- Gil: "And this cell right now..."
+- Joe: "real"
+- Athena: "catch."
+Issue: “real catch” phrase split across two different speakers, with Joe interjected.
+Likely intended: One speaker (Athena) responding “That’s a real catch.”
+Confidence: High
+Reasoning: Conversational flow indicates Athena acknowledging Gil’s catch; Joe’s insertion is incongruent.
+Impact: Medium
+
+[Error #15 - Category: Entity Name Inconsistency]
+Location: ~00:23:05 and ~00:24:25 / Speakers: Anke, Athena
+Transcript excerpt:
+- Anke: "Exciting."
+- Athena: "Oh, Anca, can you give share access to Gil?"
+Issue: Two near-identical names used (Anke vs Anca).
+Likely intended: One consistent name (Anca or Anke)
+Confidence: Medium
+Reasoning: Could be two people, but context suggests one role handling admin/sharing.
+Impact: Medium - could confuse who is being addressed.
+
+[Error #16 - Category: Omission/Truncation]
+Location: ~00:24:25 / Speaker: Athena
+Transcript excerpt: "Oh, Anca, can you give share access to Gil? All"
+Issue: Stray/incomplete word “All” at line end.
+Likely intended: Possibly “All right” or artifact of interruption.
+Confidence: Medium
+Reasoning: Common ASR truncation on cross-talk.
+Impact: Low
+
+
+Segments Recommended for Removal
+
+[REMOVAL #1 - Type: Small Talk/Opening Pleasantries]
+Location: 00:00:00–00:00:25
+Speakers involved: Athena, Gil
+Content excerpt:
+"Athena: Hello. Hello. Welcome. Welcome. Thank you.
+Gil: Hello.
+Athena: How's it going?
+Gil: Wonderful. And yourself?
+Athena: Yeah, really good. Thanks.
+Gil: Good. Good."
+Reasoning:
+Pure greeting/pleasantries with no business content.
+Context impact: None—the conversation immediately transitions to deal/model discussion.
+Recommended action: REMOVE 00:00:00–00:00:25
+
+[REMOVAL #2 - Type: Off-topic aside]
+Location: ~00:48:05–00:48:15
+Speakers involved: Athena
+Content excerpt:
+"Athena: Oh, no. Uh, sorry. She sent that to me."
+Reasoning:
+Brief internal aside unrelated to deal, financing, or modeling concepts.
+Context impact: Low—removal does not affect instructional flow.
+Recommended action: REMOVE ~00:48:05–00:48:15
+
+
+Borderline Segments (Requires Judgment)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:59:00–01:01:05
+Content excerpt: "Thursday, we're going to have Valerie from Pioneer Capital... common pitfalls... why you might want a broker... No buyers club next week... taking a week off..."
+Business relevance argument: Educational and directly related to SBA lending processes, broker roles, and pitfalls; valuable for buyers’ learning.
+Personal content argument: Includes administrative scheduling/housekeeping that isn’t about a specific deal.
+Recommendation: KEEP—with discretion, you could trim just the purely scheduling lines (“No buyers club next week… taking a week off”) if brevity is required, but the educational preview is useful.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:20:05–00:21:15
+Content excerpt: "How are you feeling about the relationship with Pino? How's that going?... he's responsive... savvy... learn a lot from him."
+Business relevance argument: Seller responsiveness and capability are material to execution risk, transition, and license issues—highly relevant.
+Personal content argument: Lightly conversational tone about rapport.
+Recommendation: KEEP—this directly informs deal risk and post-close support.
+
+
+Notes on Context Preservation and Patterns
+
+- Patterned acronym errors: “TTM” → “trillion/training 12 months,” “QoE” → “QV,” and “ROBS” → “Rob’s.” These are high-impact, recurring ASR confusions worth addressing in ASR tuning.
+- Entity consistency matters: DFCU vs DFCW, Tuney vs Tony, Anke vs Anca, AquaMatch vs AcquiMatch. These create real follow-up and attribution risk.
+- The “preferred lender … don’t have to” truncation likely refers to PLP authority (i.e., not needing to send to SBA for separate approval). Clarify in the source audio.
+- The formula discussion interruption (“real catch”) exhibits speaker splitting—likely cross-talk misattribution.
+
+If you’d like, I can cluster these recurring error types for ASR model feedback (e.g., “TTM,” “QoE,” “ROBS,” “CIM,” “AcquiMatch,” “Live Oak”), or produce a concise errata list for a transcript refiner to verify against the recording.

@@ -1,0 +1,301 @@
+[Error #1 - Category: Homophone/Misheard Phrase]
+Location: Opening minutes / Speaker: Athena
+Transcript excerpt: "I'm heading to, um, acquisition.com. Workshop leader tonight to work on, um. Just bettering how we operate..."
+Issue: "Workshop leader tonight" is likely misheard phrasing
+Likely intended: "workshop later tonight"
+Confidence: High
+Reasoning: “Leader” vs “later” is a common ASR confusion; “workshop later tonight” fits context.
+Impact: Low
+
+[Error #2 - Category: Entity Name Misheard]
+Location: Opening minutes / Speaker: Athena
+Transcript excerpt: "Hi, girl. Oh, I can't hear you. Hello?"
+Issue: Likely misheard participant name as “girl”
+Likely intended: "Hi, Gil."
+Confidence: High
+Reasoning: A participant named Gil is speaking later; greeting “girl” in this context is unlikely.
+Impact: Low
+
+[Error #3 - Category: Misheard Acronym (Pattern)]
+Location: Multiple / Speakers: Athena, Gil
+Transcript excerpt: 
+- "Elliot's been doing QV specifically for like over 10 years now."
+- "between the, uh, QOV providers that we've, uh, been exposed to..."
+Issue: “QV/QOV” appears in diligence context
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: In SMB/M&A diligence, “QoE” is standard. “QV/QOV” are common ASR artifacts for QoE.
+Impact: High
+
+[Error #4 - Category: Misheard Acronym]
+Location: Mid-call / Speaker: Athena
+Transcript excerpt: "you guys have all experienced negotiating Lois. There's a lot of work that goes into that."
+Issue: “Lois” used where plural LOIs is intended
+Likely intended: "LOIs"
+Confidence: High
+Reasoning: Plural of LOI in M&A is LOIs; “Lois” is a proper name.
+Impact: Medium
+
+[Error #5 - Category: Speaker Misattribution/Omission]
+Location: Early discussion of Elliot / Speakers: Steve, Luke
+Transcript excerpt:
+"Steve: ...'cause that's when it really gets crazy like. At
+Luke: this
+Steve: No, it, it, it was great..."
+Issue: Fragmented “At this” split across speakers; likely crosstalk misattributed or truncated
+Likely intended: Single speaker phrase “At this point?”
+Confidence: Medium
+Reasoning: The flow suggests Steve was completing his own sentence; Luke’s lone “this” is unlikely.
+Impact: Low
+
+[Error #6 - Category: Garbled/Truncated Phrase]
+Location: Discussion of due diligence timing / Speaker: Steve
+Transcript excerpt: "they wait until like day, 60 day, sorry, look this off. They wait until day 60..."
+Issue: “sorry, look this off” is garbled
+Likely intended: "sorry, scratch that" or “sorry, let me reset”
+Confidence: Medium
+Reasoning: Filler correction likely; ASR mangled the interjection.
+Impact: Low
+
+[Error #7 - Category: Entity Name Inconsistency]
+Location: IOI/LOI discussion / Speakers: Athena, Justin
+Transcript excerpt:
+- Athena: "I would actually reach out to Claudia if I were you..."
+- Justin: "With Claudio just to get his input one-on-one..."
+Issue: Broker’s name inconsistent ("Claudia" vs "Claudio")
+Likely intended: One consistent name (likely “Claudio”)
+Confidence: High
+Reasoning: Justin repeatedly uses “Claudio”; inconsistency can cause confusion.
+Impact: Medium
+
+[Error #8 - Category: Semantic/Garbled Phrase]
+Location: IOI sequencing advice / Speaker: Athena
+Transcript excerpt: "Or I'll play Lose it out from under your feet."
+Issue: Phrase is nonsensical
+Likely intended: "Or they'll pull it out from under your feet."
+Confidence: Medium
+Reasoning: Common idiom is “pull it out from under your feet”; “I’ll play Lose” is not idiomatic.
+Impact: Medium
+
+[Error #9 - Category: Numerical Formatting/Financial Terminology]
+Location: Offer structure / Speaker: Athena
+Transcript excerpt: "So maybe like 3, 5, 3, 7, 5, and just be like in light of the trailing 12..."
+Issue: Comma-separated numbers where decimals are expected for multiples
+Likely intended: "3.5, 3.75"
+Confidence: High
+Reasoning: Multiples expressed as decimals (3.5x, 3.75x) in M&A; current form is ambiguous.
+Impact: Medium
+
+[Error #10 - Category: Misheard Word (Entity)]
+Location: Update on seller call / Speaker: Gil
+Transcript excerpt: "I'm meeting the stars on, on Monday, and we'll take it from there."
+Issue: “stars” unlikely in context
+Likely intended: "sellers"
+Confidence: High
+Reasoning: He’s discussing scheduling a seller call; “stars” is a common ASR error for “sellers.”
+Impact: Medium
+
+[Error #11 - Category: Numerical/Omission]
+Location: Requesting financials / Speaker: Gil
+Transcript excerpt: "at the end of the call, I'm gonna ask them for the 12, 20 months..."
+Issue: “12, 20 months” unclear/ill-formed
+Likely intended: "12–24 months" or "last 12 months (LTM)"
+Confidence: Medium
+Reasoning: Buyers typically ask for TTM/LTM and/or 24 months monthly P&Ls; phrasing suggests truncation.
+Impact: Medium
+
+[Error #12 - Category: Numerical/Omission]
+Location: Same section / Speaker: Gil
+Transcript excerpt: "because it's June and I only have 24 numbers."
+Issue: “24 numbers” likely missing the year prefix
+Likely intended: "2024 numbers"
+Confidence: High
+Reasoning: Referring to current-year (2024) numbers vs trailing metrics fits the discussion.
+Impact: Medium
+
+[Error #13 - Category: Semantic Inconsistency]
+Location: Same section / Speaker: Gil
+Transcript excerpt: "then there is, uh, the, the profession that I did see the past three years, there's a very sharp decline..."
+Issue: “profession” doesn’t fit; likely wrong noun
+Likely intended: "performance" or "progression"
+Confidence: Medium
+Reasoning: Declines year-over-year relate to business performance; “profession” is out of place.
+Impact: Medium
+
+[Error #14 - Category: Business Terminology Distortion (Pattern)]
+Location: Landscaping scope / Speaker: Gil
+Transcript excerpt:
+- "not do any landscaping work, just basin area work, uh, missionary work..."
+- "even in the missionary work, they're doing very specific jobs..."
+Issue: “missionary work” appears; incorrect for construction/landscaping context
+Likely intended: "masonry work"
+Confidence: High
+Reasoning: Landscaping hardscape projects include masonry; “missionary” is a frequent ASR mishear of “masonry.”
+Impact: High
+
+[Error #15 - Category: Misused Term]
+Location: Research suggestion / Speaker: Athena
+Transcript excerpt: "learn enough lingo to be dangerous... like some of these like retention walls or masonry terms..."
+Issue: “retention walls” is nonstandard for landscaping walls
+Likely intended: "retaining walls"
+Confidence: High
+Reasoning: In landscaping, “retaining walls” is standard term; “retention walls” refers to water retention structures, not typical hardscape.
+Impact: Medium
+
+[Error #16 - Category: Redundant/Misheard Word]
+Location: Research anecdote / Speaker: Athena
+Transcript excerpt: "Nash won over his transition transmission repair guy just by doing some of that..."
+Issue: Redundant/misheard “transition transmission”
+Likely intended: "transmission repair guy"
+Confidence: Medium
+Reasoning: “Transition transmission” is unlikely; “transmission repair” fits the example.
+Impact: Low
+
+[Error #17 - Category: Possible Misheard Term]
+Location: Landscaping scope / Speaker: Gil
+Transcript excerpt: "just basin area work, uh, missionary work..."
+Issue: “basin area work” seems off for landscaping hardscape
+Likely intended: "paver and masonry work" or "patio/basement area work"
+Confidence: Low
+Reasoning: Could be “paver/masonry”; uncertain without audio. Marking as possible mishear.
+Impact: Low
+
+
+---
+
+
+[REMOVAL #1 - Type: Small Talk/Technical Setup]
+Location: Opening lines
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: Hello? Hello. Welcome. Hi, girl. Oh, I can't hear you. Hello?
+Justin: I. Hear me? Um, oh, there you
+Athena: are. Yep. Gotcha. Cool."
+Reasoning:
+Audio check and greetings without business content.
+Context impact: None—business discussion starts immediately after.
+Recommended action: REMOVE opening setup lines shown above.
+
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: Early intro before business updates
+Speakers involved: Athena
+Content excerpt:
+"From a little hot desk in San Antonio, I'm heading to, um, acquisition.com. Workshop leader tonight...
+And Anka is actually on a plane to meet me... to be able to come to the workshop..."
+Reasoning:
+Personal logistics and travel unrelated to the buyer/seller/financing topics of the call.
+Context impact: Low—removal doesn’t affect subsequent business discussion.
+Recommended action: REMOVE this personal update block.
+
+[REMOVAL #3 - Type: Small Talk (Holiday)]
+Location: Early in discussion
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: Happy Father's Day, all the fathers.
+Justin: yeah. Thank you."
+Reasoning:
+Brief holiday greeting not tied to business content.
+Context impact: None.
+Recommended action: REMOVE these lines.
+
+[REMOVAL #4 - Type: Personal Anecdote (Within Mixed Segment)]
+Location: Poker analogy section
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: Do any of you play poker?
+Justin: I did extensively.
+Athena: ...I actually, um, my relationship in college ended because I got better, way better than my boyfriend at poker. But I'm like, you give me stats and put a wager around it... they just thought I was this cute little girl trying to play poker..."
+Reasoning:
+Extended personal anecdote (college relationship, persona at the table). While the poker analogy supports negotiation concepts, these specific personal details add little to business utility.
+Context impact: Low—retain the strategy analogy that follows (power shift after LOI) to preserve meaning; remove the deeply personal portions.
+Recommended action: REMOVE the personal anecdote portion from “my relationship in college ended…” through “…cute little girl trying to play poker,” KEEP the analogy explaining strategic shifts and LOI power dynamics.
+
+[REMOVAL #5 - Type: Personal/Off-Topic]
+Location: Landscaping section
+Speakers involved: Athena
+Content excerpt:
+"that's one of the cool things about landscaping though... My mom used to like... that was, my mom had all these chores that I could earn money doing... $25 I could earn mowing the lawn..."
+Reasoning:
+Childhood chore story not necessary for evaluating the landscaping deal; no direct business insight.
+Context impact: None—discussion of landscaping business continues coherently without this anecdote.
+Recommended action: REMOVE this anecdote.
+
+[REMOVAL #6 - Type: Small Talk (Scheduling/Weekend)]
+Location: Early after FOMO comment
+Speakers involved: Justin
+Content excerpt:
+"it's been chaotic the last couple business days and then, uh, the weekend was pretty much a no go for me."
+Reasoning:
+Personal scheduling status; not relevant to deal analysis.
+Context impact: None.
+Recommended action: REMOVE this line.
+
+
+---
+
+
+[BORDERLINE #1 - Requires Review]
+Location: Negotiation mindset analogy
+Content excerpt: 
+"every time you think, you know, I'm really nervous out there, the realization is that other guy is just as nervous as you are... I kind of got from Elliot's, like, Hey... you have more power than you think. Especially once you're under LOI."
+Business relevance argument: Illustrates negotiation psychology and power dynamics post-LOI; supports strategic mindset.
+Personal content argument: Karate competition anecdote is personal and non-business.
+Recommendation: KEEP—Adds useful negotiation framing.
+
+[BORDERLINE #2 - Requires Review]
+Location: “Nash won over his ... transmission repair guy” anecdote
+Content excerpt: "Nash won over his transition transmission repair guy just by doing some of that before he went in."
+Business relevance argument: Example of preparing industry lingo to build rapport with sellers.
+Personal content argument: References third party experience; could be seen as anecdotal.
+Recommendation: KEEP—It directly supports actionable advice (prepare terminology to build rapport).
+
+[BORDERLINE #3 - Requires Review]
+Location: “Broker gets paid from your loan” framing
+Content excerpt: "The paycheck to the broker literally comes out of the loan that you yourself sign. It's not the owner paying them..."
+Business relevance argument: Emphasizes buyer leverage and broker incentives near close; strategic relevance.
+Personal content argument: Slightly oversimplified mechanics; could be seen as opinionated.
+Recommendation: KEEP—It conveys incentive alignment important for negotiation posture.
+
+
+---
+
+
+Segment Mapping (High-Level)
+
+- Opening greetings and audio setup: REMOVE
+- Athena’s personal travel/workshop update: REMOVE
+- Review of Elliot’s session and negotiation tactics post-LOI: KEEP
+- Father’s Day greeting: REMOVE
+- Steve’s mindset takeaways and PE/broker dynamics: KEEP
+- Broker incentive and buyer leverage near close: KEEP
+- Poker strategy analogy:
+  - Personal story details: REMOVE (see Removal #4)
+  - Strategy/power shift explanation: KEEP
+- Due diligence timing and QoE discussion: KEEP
+- QoE provider comparison (Chris vs. Elliot), pricing/roles: KEEP
+- Justin’s LOI modeling, multiples, structures (performance note vs. higher multiple): KEEP
+- IOI vs LOI sequencing and broker call (Claudio): KEEP (correct name inconsistency per Error #7)
+- Seasonality and bank view: KEEP
+- Offer structure advice (lower cash at close, performance note): KEEP (fix numeric formatting per Error #9)
+- Gil’s landscaping deal (seller call, NJ licensing, revenue declines): KEEP (correct mishears per Errors #10–#15)
+- Owner compensation/SDE adjustments and tax examples: KEEP (kids as models example is borderline but informative)
+- Closing: KEEP (brief professional closing)
+
+
+Speaker Attribution Validation Notes
+
+- Possible crosstalk misattribution around “At this” (Error #5).
+- Name inconsistency for broker (Claudia vs. Claudio) likely refers to same individual (Error #7).
+
+
+Cross-Reference/Consistency Notes
+
+- Repeated mishearing of QoE as QV/QOV throughout (Error #3).
+- Consistent misuse of “missionary” for “masonry” (Error #14).
+- Multiple references to LOI spelled as “Lois” once (Error #4).
+
+
+Technical Audio/ASR Pattern Notes
+
+- Common ASR confusions observed: QoE→QV/QOV; masonry→missionary; LOIs→Lois; retaining→retention; name mishears (Gil→girl; Claudio/Claudia).
+- Several truncations/garbles indicate possible crosstalk or hesitations not captured (“sorry, look this off,” “when he was,” etc.).

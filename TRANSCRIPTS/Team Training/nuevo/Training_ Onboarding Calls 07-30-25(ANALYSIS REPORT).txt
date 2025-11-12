@@ -1,0 +1,141 @@
+Segment Mapping (by timestamp)
+- 0:01-2:02 — Meeting setup (greetings, Zoom/Fathom note-taker settings). KEEP. Operational guidance relevant to client-facing workflow.
+- 2:02-3:36 — New team members’ progress getting to know clients. KEEP. Internal process relevance.
+- 3:36-14:00 — Training goals, onboarding process overview, responsibilities, timelines. KEEP. Core process content.
+- 14:00-27:19 — Expectation management philosophy (includes bartending anecdote to illustrate). MIXED (see Borderline #1).
+- 27:19-28:50 — “Search prep” call purpose/placement. KEEP.
+- 28:50-31:09 — Q&A on overview; upcoming Oracle/buyer profile data pipeline. KEEP.
+- 31:09-36:30 — Onboarding Call 1 “why” and framing (includes a brief personal/“woo communities” aside). MIXED (see Borderline #2).
+- 36:30-56:20 — Deep-dive on goals, financial targets, skills/experience, hobbies/interests, culture/ethics. KEEP.
+- 56:20-59:02 — Handling politics/news bias when evaluating deals; recap. KEEP.
+- 59:02-1:04:30 — Comfort running the call; hand-off/shadowing plan. KEEP.
+- 1:08:14-1:09:06 — Misc. admin (naming calls; agenda handoff). KEEP.
+- 1:09:06-1:14:06 — Weekly calls cadence; specific client scheduling nuances. KEEP.
+- 1:14:50-1:15:06 — Closing pleasantries. KEEP (brief, professional).
+
+Detected Transcription Errors
+
+[Error #1 - Category: Entity name/title]
+Location: ~20:20 / Speaker: Athena Simpson
+Transcript excerpt: “We also send them two books when they start. They get a mug … and then we send them, buy them, build, and never split the difference.”
+Issue: Book title misheard as “buy them, build.”
+Likely intended: “Buy Then Build” (Walker Deibel) and “Never Split the Difference”
+Confidence: High
+Reasoning: “Buy Then Build” is a well-known SMB acquisition book; “buy them, build” is nonsensical.
+Impact: Medium – could confuse trainees or clients trying to find the book.
+
+[Error #2 - Category: Business terminology distortion]
+Location: ~6:40 / Speaker: Athena Simpson
+Transcript excerpt: “…we’re going to have to actually remount this out based on our new situation.”
+Issue: “remount this out” is atypical phrasing in process design.
+Likely intended: “remap this out”
+Confidence: Medium
+Reasoning: “Remap” is standard when restructuring processes; “remount” doesn’t fit context.
+Impact: Low-Medium – minor clarity issue in process description.
+
+[Error #3 - Category: Omission/ASR garble]
+Location: 33:05 / Speaker: Athena Simpson
+Transcript excerpt: “page here goes, about There he the ofili mrs I Anke, which tab am I on?”
+Issue: Heavily garbled content; sentence nonsensical.
+Likely intended: “I’m pulling up the page/script… Anke, which tab am I on?”
+Confidence: High
+Reasoning: Surrounding context is screen sharing and navigating a script tab.
+Impact: Medium – momentarily obscures meaning.
+
+[Error #4 - Category: Homophone/near-homophone]
+Location: ~22:30 / Speaker: Athena Simpson
+Transcript excerpt: “I would probably ask you guys to do it yourselves. Bye. Bye. You have access to it in this document.”
+Issue: “Bye. Bye.” is likely a mishear.
+Likely intended: “By the way…”
+Confidence: High
+Reasoning: Phrase fits the informational segue; saying “bye” mid-call is illogical.
+Impact: Low – minor but noticeable.
+
+[Error #5 - Category: Misheard abbreviation]
+Location: ~24:40 / Speaker: Athena Simpson
+Transcript excerpt: “…if you’re trying to get through for a bigger deal and their pre-call is a little bit lower.”
+Issue: “pre-call” in banking context is likely wrong.
+Likely intended: “pre-qual” (short for pre-qualification letter/amount)
+Confidence: High
+Reasoning: Discussion is about Live Oak’s SBA pre-qualification letters and amounts.
+Impact: Medium – affects understanding of financing readiness.
+
+[Error #6 - Category: Omission/phonetic mishear]
+Location: ~47:10 / Speaker: Athena Simpson
+Transcript excerpt: “And I’m not going to correct them necessarily because this is a goal setting call. I’m Thank And we’re figuring out them…”
+Issue: “I’m Thank” is incorrect/garbled.
+Likely intended: “I’m thinking…”
+Confidence: High
+Reasoning: Grammar and context strongly suggest “thinking.”
+Impact: Low – minor clarity issue.
+
+[Error #7 - Category: Omission/truncation]
+Location: 1:09:59 / Speaker: Athena Simpson
+Transcript excerpt: “We’re Thank Oh, he canceled his call today.”
+Issue: Fragmented phrase likely from a mid-thought correction.
+Likely intended: “We were— oh, he canceled his call today.”
+Confidence: Medium
+Reasoning: Interrupts herself; “Thank” is likely “thinking/we were.”
+Impact: Low – does not alter scheduling info.
+
+[Error #8 - Category: Speaker Misattribution]
+Location: 0:54 / Speakers: Attributed to Charis Siau
+Transcript excerpt:
+“Did that work for you guys, Charis and Cash? Yeah, I don’t see them anymore. Okay, perfect.”
+Issue: Same speaker appears to ask and answer. Likely two different speakers.
+Likely intended: Question from Athena; response “Yeah, I don’t see them anymore” from Charis (or Cash).
+Confidence: High
+Reasoning: Unnatural for Charis to ask herself and answer; fits facilitator/participant roles.
+Impact: Medium – causes brief confusion about who is directing the meeting.
+
+[Error #9 - Category: Homophone/semantic]
+Location: ~52:10 / Speaker: Athena Simpson
+Transcript excerpt: “…businesses that tell themselves it’s like being religious.”
+Issue: “tell themselves” likely wrong verb given context.
+Likely intended: “sell themselves as being religious.”
+Confidence: Medium
+Reasoning: Discussing how businesses market/position themselves (religious daycares, etc.).
+Impact: Low-Medium – affects nuance of how businesses are described.
+
+[Error #10 - Category: Redundancy/duplication]
+Location: ~9:00-9:10 / System inserts
+Transcript excerpt:
+“ACTION ITEM: Watch sales calls for upcoming onboarding client before tomorrow’s training w/ Anke & Ida … [repeated 3x]”
+Issue: Duplicate action item entries appear back-to-back.
+Likely intended: Single action item.
+Confidence: High
+Reasoning: Three identical blocks in sequence suggest ASR/export duplication.
+Impact: Low – clutter/noise in action list.
+
+Pattern Note
+- Recurrent ASR confusions: “think” → “Thank”; “pre-qual” → “pre-call”; occasional garbled inserts during screen sharing or rapid speech.
+- Proper nouns/titles: ensure “Buy Then Build” is captured correctly.
+
+Removals
+No removal segments recommended. The few personal anecdotes (e.g., bartending, “woo communities”) are used directly to teach expectation management, rapport-building, or client psychology, and support the training objectives. Brief greetings/closings are professional and short.
+
+Borderline Segments
+
+[BORDERLINE #1 - Requires Review]
+Location: ~16:50-20:40 (within Expectation Management section)
+Content excerpt: “I bartended my way through university… Jackson’s on third… five, 10 people deep… I just yelled… I’m going to start on this side… work my way down…”
+Business relevance argument: Anecdote illustrates the core training principle of managing expectations and sequencing work to reduce client anxiety—central to onboarding philosophy.
+Personal content argument: Multi-minute personal story with venue details and crowd scenes.
+Recommendation: KEEP — It concretely teaches the concept and is referenced to inform client communication style.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~31:40-32:15
+Content excerpt: “I’ve been in the woo communities for so long… people are like, staring into your eyes and making you like do long hugs when they first meet you…”
+Business relevance argument: Used to normalize clients’ discomfort with personal questions and explain techniques to build rapport on Call 1.
+Personal content argument: Cultural aside that could be seen as off-topic.
+Recommendation: KEEP — Provides context for handling client openness and rapport-building, which is directly tied to onboarding outcomes.
+
+Speaker Attribution Validation
+- 0:54 block likely misattributed; facilitator (Athena) asks if hiding non-video participants worked; participant (Charis/Cash) confirms. See Error #8.
+
+Cross-Reference/Consistency Checks
+- “SBA pre-qualification with Live Oak” consistently referenced; ensure “pre-qual” terms and letter references remain consistent.
+- “Buy Then Build” and “Never Split the Difference” should be consistently titled for training materials.
+
+Context Preservation Notes
+- No removals proposed; flow remains intact. If any cleanup is done on garbled lines (Errors #3, #6, #7), ensure minimal edit notes are added so future readers understand brief corrections.

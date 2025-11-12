@@ -1,0 +1,195 @@
+[Error #1 - Category: Business terminology distortion]
+Location: ~[00:00:30] / Speaker: Athena
+Transcript excerpt: "few of our normal virus clubs, attenders are on vacation this week"
+Issue: "virus clubs, attenders" is semantically off in this context
+Likely intended: "Buyers Club attendees"
+Confidence: High
+Reasoning: The meeting is titled “AcquiMatch Buyers Club,” and “attenders” is an uncommon substitute for “attendees.” “Virus” is a typical ASR confusion for “buyers.”
+Impact: Medium - affects clarity about the group being discussed
+
+---
+[Error #2 - Category: Entity name]
+Location: ~[00:00:55] / Speaker: Athena
+Transcript excerpt: "with Eric Voice last week"
+Issue: Last name “Voice” likely misheard
+Likely intended: “Eric Boyce” (or another similar surname)
+Confidence: Medium
+Reasoning: Later references use “Eric” as an appraiser/finance professional; “Voice” is a common ASR substitution for similar-sounding surnames.
+Impact: Medium - proper identification of invited expert
+
+---
+[Error #3 - Category: Business terminology distortion]
+Location: ~[00:01:55] / Speaker: Justin
+Transcript excerpt: "psychological elements almost that go into. What evaluation can be"
+Issue: "evaluation" used where “valuation” is expected
+Likely intended: "what valuation can be"
+Confidence: High
+Reasoning: The entire segment is about business valuation. “Evaluation” shifts meaning and conflicts with the topic.
+Impact: Medium - technical precision in valuation discussion
+
+---
+[Error #4 - Category: Omission/Truncation + Business terminology distortion]
+Location: ~[00:04:55] / Speaker: Athena (overlap with Justin’s idea)
+Transcript excerpt: "Getting them to, to, you know, kind of weight that with a performance now, you know, it's like I've been doing a lot... I love them too 'cause it's a great... risk mitigator"
+Issue: “performance now” is unclear and likely missing a key term
+Likely intended: “performance-based earnout” (weighting price with an earnout tied to performance)
+Confidence: Medium
+Reasoning: The follow-up “I love them too” and “risk mitigator” strongly suggest earnouts.
+Impact: High - affects understanding of deal structure being discussed
+
+---
+[Error #5 - Category: Omission/Truncation]
+Location: ~[00:08:45] / Speaker: Michael
+Transcript excerpt: "start through the date J Curve, get it to normalized"
+Issue: “date J Curve” is awkward and likely misrendered
+Likely intended: "start through the J-curve, get it to normalized"
+Confidence: High
+Reasoning: “J-curve” is a standard term describing post-acquisition performance dip; “date” adds no sense.
+Impact: Medium
+
+---
+[Error #6 - Category: Semantic inconsistency]
+Location: ~[00:10:55] / Speaker: Athena
+Transcript excerpt: "only 30% exceed a handover"
+Issue: “exceed a handover” doesn’t fit idiomatically
+Likely intended: "only 30% succeed at handover"
+Confidence: High
+Reasoning: In context she’s referencing transition success rates; “succeed at handover” is standard phrasing.
+Impact: Medium
+
+---
+[Error #7 - Category: Homophone]
+Location: ~[00:12:05] / Speaker: Athena; followed by Michael
+Transcript excerpt: "by your umbrella" … "when the sun was shining"
+Issue: “by” vs “buy”
+Likely intended: "buy your umbrella when the sun is shining"
+Confidence: High
+Reasoning: Common proverb used in lending/credit context; ASR confusion of “buy/by.”
+Impact: Low
+
+---
+[Error #8 - Category: Entity name inconsistency]
+Location: ~[00:12:55]-[00:14:20] / Speaker: Athena
+Transcript excerpt: "I don't know if, um, you've caught Nan's story... Renan got, a hundred percent seller financing..."
+Issue: Person referenced first as “Nan” then “Renan”
+Likely intended: Consistent use of the same name, likely “Renan”
+Confidence: Medium
+Reasoning: Same story and details indicate one person; inconsistent transcription of name.
+Impact: Medium
+
+---
+[Error #9 - Category: Semantic inconsistency/Omission]
+Location: ~[00:13:20] / Speaker: Athena
+Transcript excerpt: "it's a, one of those Netflix special buyers club replaced to watch"
+Issue: Phrase is garbled and references don’t cohere
+Likely intended: "one of those Buyers Club replays to watch"
+Confidence: Medium
+Reasoning: Context: she’s directing Michael to a Buyers Club replay; “replaced” likely “replays.”
+Impact: Medium
+
+---
+[Error #10 - Category: Entity name]
+Location: ~[00:21:50] / Speaker: Athena
+Transcript excerpt: "Harris, what, what, uh, you were on sell side for a long time"
+Issue: Addressing “Harris” while later speaker label is “Charis”
+Likely intended: “Charis”
+Confidence: High
+Reasoning: The speaker tag shows “Charis.” ASR often mishears initial consonants in names.
+Impact: Medium
+
+---
+[Error #11 - Category: Homophone]
+Location: ~[00:25:05] / Speaker: Athena
+Transcript excerpt: "and, and like to car's point, it's seller's market right now"
+Issue: “car’s point” mishears the colleague’s name
+Likely intended: "to Charis’s point"
+Confidence: High
+Reasoning: Direct reference back to Charis’s remarks on valuation methodology.
+Impact: Low
+
+---
+[Error #12 - Category: Omission/Truncation]
+Location: ~[00:17:00] / Speaker: Justin
+Transcript excerpt: "The sim and, and, and material says like, yeah, you can run this remotely"
+Issue: “sim” likely an acronym misheard; “material” incomplete phrase
+Likely intended: "the CIM and marketing materials say..."
+Confidence: Medium
+Reasoning: “CIM” (Confidential Information Memorandum) is standard; “materials” plural fits.
+Impact: Medium
+
+---
+[Error #13 - Category: Omission/Truncation]
+Location: ~[00:22:55] / Speaker: Charis
+Transcript excerpt: "they are, uh, apprais appraisers"
+Issue: Repetition/truncation mid-word
+Likely intended: "they are appraisers"
+Confidence: High
+Reasoning: Disfluency likely amplified by ASR; redundancy not intended.
+Impact: Low
+
+---
+[Error #14 - Category: Homophone]
+Location: ~[00:24:50] / Speaker: Charis
+Transcript excerpt: "putting those three methods together and waiting them"
+Issue: “waiting” vs “weighting”
+Likely intended: "weighting them"
+Confidence: High
+Reasoning: In valuation, methods are weighted; “waiting” changes meaning.
+Impact: Medium
+
+---
+[Error #15 - Category: Speaker attribution/Dialogue continuity]
+Location: ~[00:00:10]-[00:00:25]
+Transcript excerpt: "Hey Justin. How's it going? Good, how are you? Amazing. Good. Thank you."
+Issue: Responses lack speaker attribution, creating ambiguity
+Likely intended: Quick back-and-forth between Athena and Justin with proper tags
+Confidence: High
+Reasoning: Multiple short replies without tags can confuse who is speaking.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Technical Off-Topic]
+Location: Approx. [00:07:05]-[00:08:10]
+Speakers involved: Michael
+Content excerpt:
+"Michael: Yeah, I, yeah, and I was, I, I think I've broken the code on what's happening. I'll have to troubleshoot it later, but if I connect to the docking station, my, uh, screen goes black and that happened. Oh yeah. And not only goes back, but it turns the computer off, which, um. Anyway, um, not to share the details, but when I noticed that on the call at the end, I think we were just getting into the question and answer session. And it kind of took me a minute to figure out what had happened. Um, I haven't, haven't reproduced it until I just connected my, uh, docking station to get to the other screen here and I dropped twice. So I think I've figured out what's causing it, just don't know how to solve it. Um, but I did like, um, to answer your question, um."
+Reasoning:
+Extended discussion of a personal computer/docking station issue unrelated to business acquisition, valuation, or deal topics.
+Context impact: None—conversation returns directly to valuation takeaways immediately after.
+Recommended action: REMOVE [~00:07:05]-[~00:08:10] (keep the transition "but I did like, to answer your question" and subsequent business content)
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~[00:00:00]-[00:00:20]
+Content excerpt: "Welcome, welcome. Hey Michael. How are you? ... Hey Justin. How's it going? Good, how are you? Amazing. Good. Thank you."
+Business relevance argument: Brief professional greetings set the tone and identify participants.
+Personal content argument: Pure pleasantries with no business detail.
+Recommendation: KEEP—brief and standard; removing may create an abrupt start.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~[00:26:15]-[00:27:20]
+Content excerpt: "Tom... is anyone in Austin?... there is a market premium on Austin... local lender meetup... I'll send it to you."
+Business relevance argument: Discusses geographic market premiums and networking with local lenders/appraisers; relevant to deal sourcing and pricing.
+Personal content argument: Lightly social (“I’ll send it to you”) and locality-based logistics.
+Recommendation: KEEP—Directly tied to market dynamics and buyer networking strategy.
+
+---
+
+Additional Notes and Patterns:
+- Recurrent ASR confusion with names and acronyms: “Eric Voice” (likely Boyce/other), “Harris/Charis,” “sim” (CIM), “buyers/virus,” and “waiting/weighting.”
+- Several key valuation and financing terms appear consistently correct (EBITDA not explicitly mentioned here, but “working capital,” “line of credit,” “earnouts” implied).
+- No high-risk numerical mishearing detected in prices or percentages except idiomatic phrasing (“30% succeed at handover” misrendered).
+- The phrase “SB angle” does not clearly appear here; if elsewhere in source, watch for “SBA deal” being mis-transcribed as “SB angle.”
+
+Speaker Attribution Validation:
+- With the exception of the early greetings and the untagged back-and-forth acknowledgments, speaker roles align logically (Athena facilitating, Justin and Michael sharing buyer perspectives, Charis providing sell-side/valuation insights).
+
+Cross-Reference Consistency:
+- Names “Eric” and “Tom” are used consistently; the surname for Eric is uncertain. The person referenced as “Nan/Renan” should be standardized (likely “Renan”).
+- The market/valuation narrative is consistent: discussion of appraisers, methods, SBA valuation requirements, and market premiums.
+
+Summary of Recommended Removals:
+- Only the docking-station technical detour (~[00:07:05]-[00:08:10]). Everything else is business-relevant or contextual and should be retained.

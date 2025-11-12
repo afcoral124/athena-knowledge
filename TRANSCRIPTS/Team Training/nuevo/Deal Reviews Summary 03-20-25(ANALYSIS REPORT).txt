@@ -1,0 +1,375 @@
+Below is an error and relevance analysis of the provided Deal Reviews transcript. Overall, the call is highly business-relevant (deal flow, client minimums, prioritization, lender strategy, IOIs, SDE/multiples, QofE, licensing, industry checks). Non-business small talk is minimal.
+
+Segment mapping (KEEP/MIXED/REMOVE)
+- 0:00–3:36: Team ops chatter about people/process (Anka/Ops manager, broker coordination) – KEEP
+- 3:37–8:22: Process improvements (prioritization high/medium/low, throughput bottlenecks, booking broker calls) – KEEP
+- 8:48–18:59: Client DL and CM updates, IOIs, broker calls, deal slate – KEEP
+- 19:00–21:11: Med spa fit for Chris; price/multiple discussion – KEEP
+- 21:12–25:10: GL/Gil pipeline; broker history; diligence call setup – KEEP
+- 25:11–27:15: Printing industry macro-trend caution and diligence approach – KEEP
+- 27:16–35:00: Additional deal reviews (medical supply, electronics mfgr, licensing issues) – KEEP
+- 35:01–40:06: Restoration business strategy for Joe; relationship channels; broker relationship – KEEP
+- 40:06–41:21: Other Joe leads, duplications, licensing – KEEP
+- 41:33–44:26: SPA? scheduling, BH contract term check; client minimums – KEEP
+- 44:26–46:30: Priority-client vs. “the one” deal prioritization policy – KEEP
+- 46:30–53:44: Client updates, “education” calls, CM strategy – KEEP
+- 53:44–58:43: JB lender choice; term sheets; Wendy/85-15; underwriting/QofE next steps – KEEP
+- 58:43–1:05:15: Feedback to lender process; competitive positioning – KEEP
+- 1:05:20–1:09:06: Wrap-up, wins, deal flow expectations, scheduling – KEEP
+- MIXED small talk snippets: see Removal/Borderline items below.
+
+High/medium impact transcription errors
+---
+[Error #1 - Category: Business terminology distortion]
+Location: 0:09 / Speaker: Athena Simpson
+Transcript excerpt: "She's a she's a very different vibe from a bias. But I have no filter..."
+Issue: “bias” in this context is likely not correct.
+Likely intended: “buyer” (or “buyers”), or possibly a person’s name; context suggests “buyer(s).”
+Confidence: Medium
+Reasoning: Discussion is about buyer-facing interactions; “bias” is a common ASR mishear for “buyer(s).”
+Impact: Medium
+
+---
+[Error #2 - Category: Entity name variation (consistency)]
+Location: 0:32 / Speaker: Athena Simpson
+Transcript excerpt: "...she's the onka over there, right? the ops manager..."
+Issue: “onka/oka/onca” occurs multiple times; later “Anka” appears.
+Likely intended: “Anka” (Ops manager)
+Confidence: High
+Reasoning: Later references settle on “Anka;” common ASR variance on proper names.
+Impact: Medium (consistency for tasking and ownership)
+
+---
+[Error #3 - Category: Misheard phrase]
+Location: 2:22 / Speaker: Luke Gillespie
+Transcript excerpt: "...understanding the process of this loan broke ribs is interesting."
+Issue: “loan broke ribs” nonsensical.
+Likely intended: “loan brokers”
+Confidence: High
+Reasoning: Context is lender shopping via brokers.
+Impact: High
+
+---
+[Error #4 - Category: Misheard count/word]
+Location: 3:37–4:39 / Speaker: AcquiMatch Team
+Transcript excerpt: "She got how many calls for you yesterday? Five years."
+Issue: “years” is wrong unit.
+Likely intended: “five, yeah” (acknowledging “five calls”)
+Confidence: High
+Reasoning: Immediately confirmed by Luke: “I had five calls yesterday.”
+Impact: Low
+
+---
+[Error #5 - Category: Misheard term]
+Location: 4:44 / Speaker: AcquiMatch Team
+Transcript excerpt: "...already that is like doubling our broken calls."
+Issue: “broken calls” in broker context.
+Likely intended: “broker calls”
+Confidence: High
+Reasoning: Conversation is about broker outreach and calls.
+Impact: Medium
+
+---
+[Error #6 - Category: Name mishearing]
+Location: 4:44 / Speaker: AcquiMatch Team
+Transcript excerpt: "me and Look, looking at some of the deals..."
+Issue: “Look” instead of Luke.
+Likely intended: “Luke”
+Confidence: High
+Reasoning: Known speaker name is Luke.
+Impact: Low
+
+---
+[Error #7 - Category: Misheard call type]
+Location: 8:56 / Speaker: Luke Gillespie
+Transcript excerpt: "...update just since last, last zero view call, last deal review call..."
+Issue: “zero view call” is a mishear.
+Likely intended: “deal review call”
+Confidence: High
+Reasoning: The meeting itself is “Deal Reviews - March 20.”
+Impact: Low
+
+---
+[Error #8 - Category: Misheard acronym]
+Location: 9:40–10:20 / Speaker: Luke Gillespie
+Transcript excerpt: "...waiting for a Q and V report... big areas of clarification... 2024 actual numbers."
+Issue: “Q and V report” likely incorrect.
+Likely intended: “Q of E” (Quality of Earnings) report
+Confidence: High
+Reasoning: In M&A diligence, Quality of Earnings is the standard.
+Impact: High
+
+---
+[Error #9 - Category: Business terminology distortion]
+Location: 10:20–10:40 / Speaker: Luke Gillespie
+Transcript excerpt: "...CM just revived an old deal... paint stripes... parking lot, painting company..."
+Issue: “paint stripes” off; description indicates striping company.
+Likely intended: “parking lot striping company”
+Confidence: High
+Reasoning: Industry term is “striping” not “stripes” (verb/noun confusion).
+Impact: Low
+
+---
+[Error #10 - Category: Misheard word/phrase]
+Location: 10:55–11:10 / Speaker: Luke Gillespie
+Transcript excerpt: "...we want to meet his middle of two by the end of the month..."
+Issue: “middle of two” is nonsensical.
+Likely intended: “minimum of two”
+Confidence: High
+Reasoning: Repeated references to monthly write-up minimums.
+Impact: Medium
+
+---
+[Error #11 - Category: Financial/terminology distortion]
+Location: 12:07 / Speaker: AcquiMatch Team
+Transcript excerpt: "...he drafted up, sending it 20% seller note and 10% under offer... send a full listing offer..."
+Issue: “10% under offer” ambiguous; likely “10% under asking.”
+Likely intended: “10% under asking” (price)
+Confidence: Medium
+Reasoning: Offer positioning vs. asking price is typical; “under offer” is UK real-estate term; context is price delta.
+Impact: Medium
+
+---
+[Error #12 - Category: Omission/Truncation]
+Location: 12:07 / Speaker: AcquiMatch Team
+Transcript excerpt: "...he didn't make it to the next get fit. They're trying to determine who's going to make the next call..."
+Issue: “next get fit” seems truncated.
+Likely intended: “next ‘gate/fit’” or “get to the next fit/gate”
+Confidence: Medium
+Reasoning: Gate/fit review steps common in broker screens.
+Impact: Medium
+
+---
+[Error #13 - Category: Misheard phrase]
+Location: 17:50–18:10 / Speaker: AcquiMatch Team
+Transcript excerpt: "...we're just waiting on these, this new clear earnings going through."
+Issue: “new clear earnings” is likely misheard.
+Likely intended: “the new Q of E” (Quality of Earnings)
+Confidence: High
+Reasoning: Consistent with earlier QofE references.
+Impact: High
+
+---
+[Error #14 - Category: Misheard client name]
+Location: 19:45 / Speaker: Luke Gillespie
+Transcript excerpt: "I have a call for a guild tomorrow. This is the business he specifically requested."
+Issue: “guild” likely a mishear of client “Gil/GL.”
+Likely intended: “Gil” (client)
+Confidence: High
+Reasoning: GL/Gil/“guild” variations appear repeatedly.
+Impact: Medium
+
+---
+[Error #15 - Category: Misheard verb]
+Location: 19:45 / Speaker: Luke Gillespie
+Transcript excerpt: "...I just soft him and found his link and book to call tomorrow."
+Issue: “soft him” is incorrect.
+Likely intended: “saw him” or “found him” (found the broker’s link) and “booked a call”
+Confidence: Medium
+Reasoning: Booking a call via a calendar link.
+Impact: Low
+
+---
+[Error #16 - Category: Misheard word]
+Location: 20:10 / Speaker: Luke Gillespie
+Transcript excerpt: "And then I also have a. Paul tomorrow for a screen printing company..."
+Issue: “Paul tomorrow” should be “call tomorrow.”
+Likely intended: “call tomorrow”
+Confidence: High
+Reasoning: Prior sentence also about booking calls.
+Impact: Low
+
+---
+[Error #17 - Category: Misheard acronym]
+Location: 23:31 / Speaker: Luke Gillespie
+Transcript excerpt: "So it's a million dollars SD and the broker was pretty firm..."
+Issue: “SD” likely intended SDE.
+Likely intended: “SDE” (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: SDE used throughout.
+Impact: Medium
+
+---
+[Error #18 - Category: Business terminology distortion]
+Location: 24:32 / Speaker: Luke Gillespie
+Transcript excerpt: "Green printing fly company. When we pull up this and."
+Issue: Nonsensical phrase.
+Likely intended: “Screen printing supply company...”
+Confidence: High
+Reasoning: Immediately before/after discussion references manufacturing screen printing products.
+Impact: Medium
+
+---
+[Error #19 - Category: Business terminology distortions (technical terms)]
+Location: 24:43 / Speaker: Luke Gillespie
+Transcript excerpt: "photo emosions, cytosoline, screen chemicals, soaps and adhesives."
+Issue: Technical product names mis-transcribed.
+Likely intended: “photo emulsions, [CITO/Solv or similar brand], screen chemicals...”
+Confidence: Medium
+Reasoning: Common screen-printing chemicals; ASR struggles with brand names.
+Impact: Low
+
+---
+[Error #20 - Category: Financial/terminology confusion]
+Location: 27:43 / Speaker: Luke Gillespie
+Transcript excerpt: "I have a medical supply company... 425k is the E1.6 mil asking price."
+Issue: “E1.6” malformed; likely two separate items.
+Likely intended: “425k SDE; 1.6M asking price”
+Confidence: High
+Reasoning: Standard valuation framing.
+Impact: High
+
+---
+[Error #21 - Category: Misheard acronym]
+Location: 29:00 / Speaker: Athena Simpson
+Transcript excerpt: "But you pull down the SC, like we, we would have..."
+Issue: “SC” likely misheard.
+Likely intended: “SDE”
+Confidence: High
+Reasoning: Same discussion about adjusting for owner replacement in SDE.
+Impact: Medium
+
+---
+[Error #22 - Category: Misheard phrase]
+Location: 29:21 / Speaker: Luke Gillespie
+Transcript excerpt: "And I do mention red ops."
+Issue: “red ops” unclear.
+Likely intended: “write-ups” (or “red flags,” but context favors write-ups)
+Confidence: Medium
+Reasoning: He’s discussing what he includes in write-ups/notes to client.
+Impact: Low
+
+---
+[Error #23 - Category: Misheard acronym]
+Location: 31:21 / Speaker: Luke Gillespie
+Transcript excerpt: "We'll drop an SDU here."
+Issue: “SDU” incorrect.
+Likely intended: “SDE”
+Confidence: High
+Reasoning: SDE is the metric used.
+Impact: Medium
+
+---
+[Error #24 - Category: Semantic inconsistency]
+Location: 31:57 / Speaker: Athena Simpson
+Transcript excerpt: "Sounds like you have a lot of good stuff for GL. Well, is there anything in particular you wanted to talk about with his steel's laughter?"
+Issue: “steel's laughter” nonsensical.
+Likely intended: “deals after” or “deal status”
+Confidence: High
+Reasoning: Asking about his deals/status.
+Impact: Medium
+
+---
+[Error #25 - Category: Homophone error]
+Location: 37:19 / Speaker: Luke Gillespie
+Transcript excerpt: "this owner, like, hurt his back or something. And so he's being forced to sail."
+Issue: “sail” vs. “sell”
+Likely intended: “sell”
+Confidence: High
+Reasoning: Owner exit due to injury.
+Impact: Medium
+
+---
+[Error #26 - Category: Misheard phrase]
+Location: 41:14 / Speaker: Athena Simpson
+Transcript excerpt: "How, who did he lose it to again? I'll cash."
+Issue: “I'll cash” incorrect.
+Likely intended: “All cash”
+Confidence: High
+Reasoning: Standard explanation for losing to an all-cash buyer.
+Impact: Low
+
+---
+[Error #27 - Category: Speaker/role attribution ambiguity]
+Location: 45:51–46:25 / Speakers: Athena vs. Luke vs. AcquiMatch Team
+Transcript excerpt: 
+- Athena: "...stop this priority client thing."
+- Luke: "So that's why I'm asking that and why I want us to stop this priority client thing."
+Issue: Statement advocating policy appears repeated by a different speaker, causing role ambiguity.
+Likely intended: The policy rationale belongs to Athena/lead; Luke acknowledging, not restating as his own.
+Confidence: Medium
+Reasoning: Flow suggests Athena presses the policy; Luke acknowledging could be mis-attributed/misaligned.
+Impact: Medium
+
+Patterns to flag for ASR improvement
+- QofE consistently misheard (“Q and V,” “Q and E,” “new clear earnings”)
+- “Broker” → “broken”; “write-up” → “right up/red ops”; “Luke” → “Look”
+- Client name GL/Gil → “guild”
+- Proper names: “Anka” appears as “Oka/Onka/Anka”
+- Technical product terms in screen printing misrendered
+
+Removals (Personal/Off-topic/Small talk)
+Note: The call is overwhelmingly business-focused. The items below are short, optional trims; removing them will not affect comprehension.
+
+---
+[REMOVAL #1 - Type: Small Talk/Personal Aside]
+Location: 14:20–14:31
+Speakers involved: Athena, Luke
+Content excerpt:
+"Athena: Oh, nice. Oh, this feels like... that gives me the little, little tingle...
+Luke: Yeah, I'm excited for this one."
+Reasoning:
+Expressive reactions; no added business substance beyond prior point (they like the deal).
+Context impact: None
+Recommended action: REMOVE 14:20–14:31
+
+---
+[REMOVAL #2 - Type: Small Talk/Personal Aside]
+Location: 58:04–58:16
+Speakers involved: Athena
+Content excerpt:
+"I'll turn up in my Chuck Taylor's and jeans and try to tone down the brake colors..."
+Reasoning:
+Personal clothing/style aside unrelated to deal strategy.
+Context impact: None
+Recommended action: REMOVE 58:04–58:16
+
+---
+[REMOVAL #3 - Type: Small Talk]
+Location: 13:52–14:06
+Speakers involved: Athena, Luke
+Content excerpt:
+"Athena: Cool. That's a really cute name. Smarty plants.
+Luke: Oh, I know. This is for a destined. And Lindsey..."
+Reasoning:
+“Cute name” aside; minimal business value. The rest of the discussion about the business should be kept.
+Context impact: Low
+Recommended action: REMOVE 13:52–13:57 (keep subsequent explanation about the business)
+
+Borderline segments (Requires Review)
+---
+[BORDERLINE #1 - Requires Review]
+Location: 39:49–40:06
+Content excerpt:
+"Athena: ...I'm getting tingly about restoration. I don't know why... It can be absolutely phenomenal... added storage... increased revenue by 25%..."
+Business relevance argument: Provides strategic rationale and a concrete growth lever (storage upsell); supports recommending restoration for Joe.
+Personal content argument: Starts with a personal/emotional aside (“tingly”), and anecdotal tone.
+Recommendation: KEEP — The substantive strategic content outweighs the brief personal lead-in.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 1:05:20–1:06:06
+Content excerpt:
+"Athena: I need to go in like two minutes... Dave Collins in list... Anka's going to follow up... hundreds of deals..."
+Business relevance argument: Operational handoff and process for large list review (directly impacts pipeline).
+Personal content argument: Some logistical chatter.
+Recommendation: KEEP — Process/tactical content is relevant to deal flow.
+
+Speaker attribution and context preservation notes
+- “AcquiMatch Team” is used for multiple voices (likely Ryan and possibly others). Where policy decisions or client feedback are given, consider confirming which team member to avoid confusion in refinement.
+- The “priority client vs. priority deal” section (45:20–46:30) is important policy guidance; ensure continuity if trimming unrelated asides.
+- “Anka” name consistency will help preserve clarity on accountability (ops manager, follow-ups).
+
+Additional checks recommended for human refiner
+- Confirm whether “SIM/CIM” usage is consistent with team terminology; if standard is “CIM,” ensure initial occurrence expands acronym and usage is consistent.
+- Verify whether “SPA” at 41:33 is a client initial set or misheard “SBA.”
+- Confirm “GPB” entity reference and “Dave Collins” spelling.
+- Where SDE and owner-replacement salary are discussed (27:43–29:56), ensure financial calculations and adjustments are clearly tied to SDE after replacing two owners.
+
+Success-impacting items to prioritize for correction
+- All QofE references (Errors #8, #13): High impact to diligence stage clarity.
+- Loan brokers mishear (Error #3) and broker/broken (Error #5): Impacts meaning of sourcing strategy.
+- Financial framing (Error #20: “425k SDE; 1.6M asking”): Critical for valuation understanding.
+- Client initials/names consistency (GL/Gil; Anka): Affects action items and assignments.
+
+End of analysis.

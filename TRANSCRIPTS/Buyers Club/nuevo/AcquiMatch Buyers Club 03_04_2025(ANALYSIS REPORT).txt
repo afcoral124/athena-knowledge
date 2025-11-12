@@ -1,0 +1,218 @@
+[Error #1 - Category: Business Terminology Distortion]
+Location: 00:00:40 / Speaker: Athena
+Transcript excerpt: "guilt team was telling me that you recently had a burger call on a business that you're interested in."
+Issue: “burger call” in a brokerage context is likely misheard
+Likely intended: "broker call"
+Confidence: High
+Reasoning: “Broker call” is standard in acquisition discussions. “Burger call” is a common ASR phonetic error.
+Impact: High - changes business meaning
+
+[Error #2 - Category: Entity Name / Semantic]
+Location: 00:00:36 / Speaker: Athena
+Transcript excerpt: "guilt team was telling me..."
+Issue: “guilt team” is nonsensical in context
+Likely intended: "Gil, the team was telling me..." or "the team was telling me..."
+Confidence: High
+Reasoning: Addressing Gil directly fits the flow; “guilt team” is a phonetic mash-up of “Gil” and “the team.”
+Impact: Medium - causes brief confusion about addressee
+
+[Error #3 - Category: Entity Name]
+Location: 00:00:57 / Speaker: Athena
+Transcript excerpt: "Bill, I'm so sorry. I, I, it's, I'm having a hard time hearing you."
+Issue: Addressed as “Bill” while the participant is “Gil”
+Likely intended: "Gil, I'm so sorry..."
+Confidence: High
+Reasoning: Speaker is interacting with Gil throughout; “Bill” is a homophone error.
+Impact: Medium - misidentifies participant
+
+[Error #4 - Category: Misheard Acronym]
+Location: 00:02:04 / Speaker: Gil
+Transcript excerpt: "they had almost doubled their ST in 24."
+Issue: “ST” in valuation context is likely wrong
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: SDE is the standard metric whose doubling would justify questions; “ST” is not a relevant metric here.
+Impact: High - affects financial interpretation
+
+[Error #5 - Category: Misheard Acronym]
+Location: 00:05:08 / Speaker: Athena
+Transcript excerpt: "as long as they're not adding back both owner salaries and the SCE..."
+Issue: “SCE” in this context is incorrect
+Likely intended: "SDE"
+Confidence: High
+Reasoning: Discussion revolves around SDE adjustments; “SCE” is a common ASR slip.
+Impact: High - affects evaluation logic
+
+[Error #6 - Category: Misheard Acronym]
+Location: 00:11:03 / Speaker: Jason
+Transcript excerpt: "it's just SDS just not enough."
+Issue: “SDS” appears in place of standard financial metric
+Likely intended: "SDE"
+Confidence: High
+Reasoning: He’s discussing cash flow adequacy; SDE is the relevant metric.
+Impact: High - impacts cash flow discussion
+
+[Error #7 - Category: Entity Name]
+Location: 00:06:33 / Speaker: Gil
+Transcript excerpt: "I did have a conversation with Brian, with, with Ryan about this."
+Issue: Extra/misattributed name “Brian”
+Likely intended: "I did have a conversation with Ryan about this."
+Confidence: High
+Reasoning: The coach/teammate referenced throughout is Ryan; “Brian” introduces an unintended person.
+Impact: Low - momentary confusion
+
+[Error #8 - Category: Business Terminology Distortion]
+Location: 00:14:38–00:17:18 / Speaker: Athena
+Transcript excerpt: "the sale is back technique... the sale days back... sale is back..."
+Issue: Repeated misrendering of “sale-leaseback”
+Likely intended: "sale-leaseback"
+Confidence: High
+Reasoning: The topic is clearly sale-leaseback financing; variants are ASR artifacts.
+Impact: Medium - could confuse listeners about the technique
+
+[Error #9 - Category: Misheard Acronym]
+Location: 00:16:58–00:17:45 / Speaker: Athena
+Transcript excerpt: "buy back the QV... that QV report..."
+Issue: “QV” likely misheard
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: In diligence, QoE reports are standard; “QV” is a common ASR simplification.
+Impact: High - key diligence concept
+
+[Error #10 - Category: Misheard Acronym]
+Location: 00:13:47 / Speaker: Jason
+Transcript excerpt: "I've already got 18 months of his bank statements and his credit card. So we can do 3 years, but, uh, we can do 18 months. Um, I talked, I talked to Chris and he said, you know, he's done Q of these..."
+Issue: “Q of these” is malformed
+Likely intended: "a few of these"
+Confidence: High
+Reasoning: Phrase structure suggests “a few of these”; “Q” is an ASR truncation.
+Impact: Low - minor clarity issue
+
+[Error #11 - Category: Semantic Inconsistency]
+Location: 00:13:25 / Speaker: Jason
+Transcript excerpt: "reconcile his books from November 2024 till February. And then he can get his money..."
+Issue: “get his money” is unclear in context of reconciling books/taxes
+Likely intended: "get his taxes filed" or "get his numbers finalized"
+Confidence: Medium
+Reasoning: Reconciling books leads to finalized financials/tax filings, not a payment event.
+Impact: Medium - could mislead about process
+
+[Error #12 - Category: Business Terminology / Homophone]
+Location: 00:21:43 / Speaker: Jason
+Transcript excerpt: "he's pretty adamant about not modernizing big county."
+Issue: “big county” is nonsensical
+Likely intended: "accounting"
+Confidence: High
+Reasoning: The topic is modernizing bookkeeping/accounting; phonetic error.
+Impact: Medium - disrupts meaning
+
+[Error #13 - Category: Misheard Acronym]
+Location: 00:36:27 / Speaker: Athena
+Transcript excerpt: "term sheets yet or you need the Arap to be able to get some term sheets."
+Issue: “Arap” malformed
+Likely intended: "AR/AP" (Accounts Receivable/Accounts Payable)
+Confidence: High
+Reasoning: Immediately following discussion was about AR and AP aging; ASR fused them.
+Impact: Medium - jargon clarity
+
+[Error #14 - Category: Entity Name (Lender/Person)]
+Location: 00:40:23 / Speaker: Joe
+Transcript excerpt: "Ryan Tancy recommended a couple others..."
+Issue: Last name likely misheard
+Likely intended: "Ryan Tansom"
+Confidence: Medium
+Reasoning: In SMB/M&A, Ryan Tansom is a known figure; “Tancy” is likely ASR error.
+Impact: Low - name accuracy
+
+[Error #15 - Category: Business Terminology Nuance]
+Location: 00:46:06 / Speaker: Joe
+Transcript excerpt: "playground and safety surface..."
+Issue: Industry term slightly off
+Likely intended: "safety surfacing"
+Confidence: Medium
+Reasoning: Standard term in playground industry is “safety surfacing”; “surface” is less precise.
+Impact: Low - minor nuance
+
+[Error #16 - Category: Business Terminology Nuance]
+Location: 00:48:54 / Speaker: Joe
+Transcript excerpt: "the fast food chain, um, business, which is the safety floor."
+Issue: “safety floor” off standard term
+Likely intended: "safety flooring" or "safety surfacing"
+Confidence: Medium
+Reasoning: Industry typically uses “safety surfacing/flooring.”
+Impact: Low
+
+[Error #17 - Category: Entity Names (Unclear/Misattributed)]
+Location: 00:09:56 / Speaker: Athena
+Transcript excerpt: "Right. Bill and James David, when they came on and talked about it..."
+Issue: Names potentially misheard/misattributed
+Likely intended: Different names (uncertain which)
+Confidence: Low
+Reasoning: Unclear who these are; could be internal members with different names. Flagging due to phonetic oddity.
+Impact: Low
+
+[Error #18 - Category: Entity Name Inconsistency]
+Location: 00:38:23 and 01:00:49 / Speaker: Athena
+Transcript excerpt: "with Ranaan's story..." and later "I want to get Renan back..."
+Issue: Inconsistent spelling of the same person’s name
+Likely intended: Consistent single spelling (either "Ranaan" or "Renan")
+Confidence: Medium
+Reasoning: Refers to the same member/story; inconsistent rendering suggests ASR variability.
+Impact: Low - consistency issue
+
+[Error #19 - Category: Semantic/Omission Garble]
+Location: 00:15:25 / Speaker: Athena
+Transcript excerpt: "I don't know if it would like, that necessarily would work in tweaks and since is the real estate involved in still and no,"
+Issue: Sentence is garbled and hard to parse
+Likely intended: "I don't know if that would work in Tariq's instance. Is the real estate involved in that deal?" 
+Confidence: Medium
+Reasoning: Jason later says “he rents,” matching a real estate involvement question; “Tariq’s instance” appears elsewhere.
+Impact: Medium - clarity of applicability
+
+[Error #20 - Category: Misheard Term]
+Location: 00:58:59 / Speaker: Gil
+Transcript excerpt: "Acquiring minds had a webinar about selling spec as well."
+Issue: “selling spec” is incorrect
+Likely intended: "sale-leaseback"
+Confidence: High
+Reasoning: Matches earlier conversation thread about sale-leaseback; “selling spec” is phonetic error.
+Impact: Medium - topic clarity
+
+
+Segment Mapping and Removal Recommendations
+
+After reviewing the full transcript, the conversation is overwhelmingly business-relevant: deal strategy, broker/seller calls, SDE/multiples, SBA rules, lenders, QoE, AR/AP, licensing, earnouts, sale-leaseback, supplier tariffs, and negotiation tactics. There are brief pleasantries and meeting housekeeping, but these are minimal and serve transitions.
+
+No HIGH or MEDIUM priority removal segments identified.
+
+[BORDERLINE #1 - Requires Review]
+Location: 00:00:00–00:00:10
+Content excerpt: "Hello. Hello. Welcome. Welcome. Thank you. How's it going? Amazing. Cool."
+Business relevance argument: Brief professional greetings establishing the call; transitions into the agenda immediately.
+Personal content argument: Non-substantive social pleasantries.
+Recommendation: KEEP — Very brief and maintains conversational flow.
+
+[BORDERLINE #2 - Requires Review]
+Location: 00:58:00–01:01:20
+Content excerpt: Discussion about upcoming Buyers Club sessions (commercial real estate, sale-leaseback resources, future speakers, learning topics)
+Business relevance argument: Educational content directly related to deal structuring and financing; provides resources and strategies applicable to active deals.
+Personal content argument: Not directly tied to a single participant’s deal.
+Recommendation: KEEP — Adds relevant educational and strategic value for buyers; consistent with meeting purpose.
+
+Speaker Attribution Validation
+
+- Overall, Q&A patterns align with roles: Athena facilitating/coaching; members (Gil, Jason, Joe) reporting on deals and asking process questions.
+- No strong evidence of speaker swap; the main attribution confusion arises from name mishears (“Bill” vs “Gil,” “Ryan Tancy,” inconsistent “Renan/Ranaan”).
+
+Cross-Reference Checks
+
+- SDE referenced inconsistently as ST/SCE/SDS in multiple places — pattern suggests systematic ASR confusion with SDE.
+- Sale-leaseback repeatedly misrendered (sale is back/sale days back/selling spec) — consistent ASR pattern.
+- QoE repeatedly as QV — consistent ASR pattern.
+- Names: “Gil” occasionally heard as “Bill”; “Renan/Ranaan” inconsistent; “Ryan Tancy” likely “Ryan Tansom.”
+
+
+Context Preservation Notes
+
+- No removals recommended; minimal pleasantries do not disrupt flow and serve as transitions.
+- Errors flagged above should be reviewed/corrected to maintain clarity on key financial/structural terms (SDE, QoE, sale-leaseback), which are critical for accurate understanding and downstream decision-making.

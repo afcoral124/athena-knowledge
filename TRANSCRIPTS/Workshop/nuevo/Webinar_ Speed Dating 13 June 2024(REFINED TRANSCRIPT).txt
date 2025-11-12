@@ -1,0 +1,314 @@
+TRANSCRIPT - CORRECTED VERSION
+Call Date: 13 June 2024
+Participants:
+- Athena Simpson (Host) - AcquiMatch
+- Ryan (Vetting Director) - AcquiMatch
+- Anca (Operations) - AcquiMatch
+Purpose: Deal review “speed dating” session on high-volume deal screening, SIM review, DSCR checks, and broker/owner call prep
+---
+
+[00:02:20]
+Athena (AcquiMatch): So let's talk about who this is for. So you are in a deal review, speed dating session. This is going to be interactive. We're going to give you a lot of tips and tools on how to review a lot of deals very quickly. So this is designed as a kind of intermediate 2-0-2 session.
+
+For those of you that are already aware of the opportunity around entrepreneurship through acquisition. You've hopefully been searching for a little bit or learning about the process. So we're not going to talk about the process today, but if you are new to this and you do want an intro session, go ahead and drop one on one in the chat. The team's going to take note of that. We do plan on doing a one-on-one session soon.
+
+So this is designed specifically for self-funded searchers—so you're planning on doing the acquisition yourself, maybe a tiny bit of investment, but you're wanting to operate and kind of lead the business yourself—or maybe you're a business owner and you're looking to make some strategic acquisitions, but you wouldn't consider yourself at the private equity stage or traditional search fund that might have some more resources. So I'm kind of coming at this from somebody that doesn't necessarily have the resources and the team behind them to do the search. This is if you're doing the search on your own to find a business to buy.
+
+[00:05:00]
+Athena (AcquiMatch): So let's talk really quickly about the opportunity though. The reason why most of us are here is because there's this huge opportunity in buying businesses that we don't necessarily get from other investment classes. And the thing I love the most about entrepreneurship through acquisition is: Why start a business when you can buy a profitable one? So I love startups. There's a lot to starting a business, but the reality of starting a business is 96 percent of the businesses that start will not make it to year five. And of those only 5 percent will make it over a million dollars in revenue.
+
+So if we're looking at businesses to buy that have been in existence for over five years, that have over a million dollars in revenue, we're looking at the kind of like top of the top because the statistics are pretty grim for starting a business. And I can go into why that is in another session, but this gave me an existential crisis when I heard it the first time after starting multiple businesses.
+
+So it's a really great opportunity to be an entrepreneur without having to go through the pain of figuring out product market fit, who your customers are, how you sell to them, et cetera, et cetera. Great job. 10,000 people are hitting the age of 65 every day. So we have a bunch of folks that are hitting retirement age. It's going to continue this way for the next two decades. And of those, 19 to 40 percent of them, depending on the statistics, are small business owners. Of those, three quarters of them are profitable. So that's a pretty exciting opportunity for us to look at all these businesses that could potentially change hands that are going to be profitable.
+
+[00:07:00]
+Athena (AcquiMatch): Of those businesses, we're hearing that only nine to 50 percent of them will sell. So that leaves like 50 to 91 percent of these businesses unsold. There's a whole number of reasons why that might happen. But, you know, what the internet might be telling you is that these people don't know that they can sell their businesses. We have different data on that, but there's a lot of factors in terms of why businesses won't sell. And a lot of it actually comes down to the buyer and the buyer being prepared and being able to fund the business.
+
+So, speaking of funding the business, what's so cool about small businesses is that you can use government-backed money in order to buy the business. So, you can get 100 percent of the business for as little as 2.5 percent—sometimes zero money into the deal—to be able to buy 100 percent of the business. And with this SBA funding, even if you do put 10 percent in to get 100 percent of the business, you're usually making your money back within a year.
+
+So the returns that we're seeing on buying businesses is astronomical compared to all the other investment vehicles that might be out there. So I know a lot of you are probably coming to us from real estate investments. They don't cash flow the way that we want them to, right? That's a long play. So what I usually joke about buying small businesses is you get, you know, VC-like returns with the risk profile of real estate, assuming you buy a good business and you are the right person to buy that business.
+
+[00:08:30]
+Athena (AcquiMatch): So businesses are living, breathing organisms and you can run them into the ground. We'll do another session another day on whether you should buy a business. So we're just going to assume that everybody here is going to be an amazing business owner. And if you're new to me, then do know that I love to manage expectations. I'm not trying to get likes and clicks. I want to make sure that you are in the right place and that you understand the reality of what you're up against if you're going to start playing in this world.
+
+So the reality check of buying businesses is there are more buyers than sellers. So there are more of you looking for businesses than there are businesses for sale right now. And what that means is it's a seller's market. So there's a lot of competition. Not only are you competing with each other, but you're also competing with search funds, which are MBA grads that spent two years learning about this process, and then they raise the money to pay for their salary and their search team for two full years to look for a business, and private equity and strategics. So these are well-capitalized people that have their whole deal sourcing, analysis, and negotiation team to go through this process, right?
+
+So it's not just you and others like you, it's all these other folks too. So you're up against people who have the resources and team to actually be able to do their deal search. Most of you don't have a system or consistency and in this world, discipline wins, volume wins. So that's what we're going to be talking about today: How do you get the volume, but how do you create the systems and the discipline in order to find that business?
+
+[00:10:00]
+Athena (AcquiMatch): So most of you are not getting enough volume. And by volume, I mean, you're not looking at enough deals. So we on average are looking at like thousands of listings a month, but I—the team and I—did the numbers: okay, well, how many listings do you have to look at in order to get an LOI? So on average, we're looking at 379 on-market deal listings, we're scanning those to click on 121 of those and read the listing and look at it more deeply. Of those 121, we're only requesting info from 10 of them. And of those 10 that we request, we're only getting SIMs, the confidential information memorandums, from 6 of them and reviewing those. And of those 6 that we review, we only move forward on three of them that we want to have a conversation on with the broker.
+
+After those three conversations, there's usually only one that we will move forward to submitting to a client and saying like, Hey, there's a match here. And of those that move forward, only 12 percent of those make it to LOI submitted. So if you're doing this on your own—and, you know, bear in mind, we have a really good tight system for how we do this and how we vet this—your numbers are probably going to have to be even higher if you're doing it on your own.
+
+So that means 3,100 listings—you need to look at 3,100 deal titles on the listing sites (and we're talking on-market here) in order to submit one LOI. So if you're not looking at that kind of volume, the likelihood of you finding the right business for you—there are plenty of businesses for sale, but you want to make sure that the right one for you—is not going to happen. So what we're going to talk about today is volume.
+
+[00:11:45]
+Athena (AcquiMatch): But first of all, who am I? Some of you might not know who I am. My name is Athena Simpson. I am an acquisition matchmaker. I'm the founder of Unrestricted Ventures, which is our investment company. And through that, we run a service called Acquimatch. I'm a fellow searcher. I've been through it myself, but a little bit about my background: I actually started as an entrepreneur in corporate world. So I was within corporations, within businesses, and creating new business products and new business functions.
+
+So I did this at two award-winning marketing agencies in Los Angeles and London. I also created event licensing products that we licensed out all over the world for Guinness World Records, as well as creating their internal agency function to be able to do things that were not just assessing whether something was a record or not. And then I became an entrepreneur in 2013 in food, in media. I started a business consultancy that I've been running for 10 years, started a high-performance business. And I also was a lecturer at the McCombs School of Business here in Austin, Texas, at the University of Texas, one of the top business schools in the country. And I taught entrepreneurship.
+
+Through my career, through the communities that I've run, through the consulting that I've done, I've seen inside thousands of businesses. So I know when I look inside a business whether it's working well, what it needs to scale. And I've been on the other side of the M&A perspective—advising governments, advising large corporates, working with the investment community on how to invest in startups for growth and how to support the startups in terms of investment. So these are some of the folks that I've worked with over my career. I do all this so that you hopefully believe a little bit about what I'm saying today.
+
+[00:13:30]
+Athena (AcquiMatch): So how did I get here? How did Acquimatch start? Well, I discovered this world of ETA and it made so much sense to me because I've seen on the front lines myself and helping thousands of other startups how hard it is to start a business. So when I discovered this, I started going hard at doing my own search.
+
+I was doing everything to source businesses. I was doing direct mail. I was going and speaking at other people's events. I was partnering with the alumni association. I was getting things listed in the paper. So I went hard and loved it, and it was all I wanted to spend my time on.
+
+Well, I ended up finding a deal that was an absolute game changer for me. And I saw myself in that business. And it was an $8 million offer that I was making. And it was so competitive because it was such a good business. It was all these strategics and private equity involved. And the broker wanted me to prove that I'd be able to finance a deal.
+
+Well, in order to do that, I actually had to raise $3 million from private investors in five days over Labor Day weekend in order to stay in the running on this deal. And I did it. I raised $3 million in five days and submitted my offer, was absolutely sure I was gonna get it, and I ended up losing it to a strategic that offered $2 million more in enterprise value. And they were able to structure it that way because I didn't know enough about structuring at the time and I was trying to structure it with SBA financing.
+
+Two things happened as a result of the highest point—maybe the lowest point—in my career and experience to date all happening within a week of each other. I don't like losing. So I ended up going out and learning everything I could about financial structuring, the different finance tools that are available, all the different ways that we as individual buyers, strategics, and with private equity in these types of deals, use the finance tools that are available to us.
+
+And then I also had a bunch of investors who still wanted businesses to buy. And all I wanted to do was search. I did not want to go back into business consulting. So I offered to run their search and now fast forward nine months later—oops—we've got Acquimatch, which is a personalized search and match service to help folks acquire “the one.”
+
+[00:16:00]
+Athena (AcquiMatch): So we are particularly good with people that are industry-agnostic, who have, you know, really great background and skill sets that they want to apply into running a business, or maybe they're already a business owner and they want to do some strategic acquisitions, but they wouldn't be at that strategic investor level with the whole team and having been through this before.
+
+So, you know, the particular specialty is first-time buyers or folks that don't have a particular exact industry that they're looking for. And we go through this whole process of refining their deal box with them. What are the parameters? And we go beyond just like, what industry do you want? What location? How much money? We're looking at your skill set. We're looking at your aspirations, your goals, the types of environments that you like working in, what you would be a good fit for. You know, what kind of customers you like. We spend a whole month going through this process with our clients so that we have a deal box that we're able to go out and search and cast a really wide net that is also refined.
+
+So when we're looking at businesses, we're looking both on-market through brokers, and we also do off-market proprietary sourcing of businesses. And all of these businesses that we're looking at, we're looking at not only are they a good deal, do we think that this is a good solid business, but can we see our client in this business? Is it a good fit for them? So we do an analysis and vetting of every single business before we hand it over to clients.
+
+And then built into this search service is consultancy and support. So we're helping our clients with getting to LOI, structuring the finance so it will be able to pass through financing, introductions to lenders, deal teams, negotiation tactics. Anca built out the most insane DD tracking system. So we're giving them all the support and tools in order to be successful. So we're not a broker—’cause we're not on the front lines negotiating these deals for clients. We're a search and match service with consultancy built in.
+
+[00:18:00]
+Athena (AcquiMatch): And it's not just me. I have an amazing team behind me. Two of them are on the call today. So Anca runs operations. She's built all of these amazing tools and automations and just crazy systems in order for us to process the volume of deals that we're able to do. So the thing I'm taking you through today, the template we're going to share with you on how to process your own deals—she built all of that. And we wouldn't be able to process the amount of deals that we did without her.
+
+And then Ryan, who is our vetting director, he comes to us from Empire Flippers. So he has years of working with owners, vetting businesses. In ’22 he listed $80 million worth of businesses himself. So he's the one that's heading up all of our vetting, both on and off market, and has incredible not only online business experience, but real brick and mortar experience too.
+
+And then we also have the SOM who heads up our data and lead gen team. So when you're doing these processes, when you want to have volume, you need to have really clean data and good data to start with. Otherwise you're ending up wasting a bunch of time on stuff that's not a good fit for you. So all of our incoming stuff is actually cleaned and filtered by a team before it gets to us. And then all of our outbound leads are actually leads that we've vetted—you know, these businesses are open, we have the owner details. Unfortunately, all the AI tools there are just falling short with this. So then we're working from really clean data and able to get the volume there.
+
+[00:19:45]
+Athena (AcquiMatch): Okay, so what are we going to cover today? I'm going to show you our deal review process and hopefully break it down in a way that you're able to implement this yourself. So we're going to talk through the process and the different stages and how you can do this in a way so that you can scan and review a high volume of deals to be able to get to the point that you find deals that you wanna move on. We're gonna be talking about how you prep for that broker call too, which is the kind of final step before you decide if you want to move onto LOI or speaking with the owner. We're gonna talk about some ways that you can get going faster and do this faster, and then at the end I want you to take action, right?
+
+So the way that we learn, the way that we find deals is by taking action. So if you just come on this webinar and you do nothing, you're not going to find your deal. So we're going to set some goals and then we'll have plenty of time for Q&A at the end too. So we'll be running probably an hour for the workshop part, but we're happy to stay on for another half hour. Ryan's watching your questions as we go through and he'll note those down and we'll get to those at the end.
+
+[00:21:00]
+Athena (AcquiMatch): Okay, we're gonna deal review speed date. We're gonna review a lot of deals. We're gonna get a process in place. Like, what do we actually need in order to review a lot of deals? Well, first, we need a clear deal box. And if you don't know what deal box means, that is the starting point. If you do not have a clear destination, it's going to take you forever to get there.
+
+So I use the analogy: If you get in your car and you haven't programmed your GPS, you're going to get lost, right? And it's going to be inefficient and it's going to take forever. And you're probably going to break down on the side of the road and be frustrated. So we need to have a very clear destination in mind, even if we're open on certain areas, right? We can create constraints in some areas of our deal box so that we can be open on, say, industry if we're not sure what industry, or if we're open on location—where can we create other restraints?
+
+But it's really important for you to have clear criteria that you are starting your search with so that you are making decisions from that point of being able to eliminate very quickly anything that falls outside of your deal box.
+
+[00:22:15]
+Athena (AcquiMatch): The other thing that you need in order to do high volume and do a lot of deal reviews is a clear step-by-step process. So, we're going to show you ours. You can take it or you can build your own, but what will help you get volume and do these quickly is by making sure you have a set process that you follow the same way every time. And that's how we start getting highly productive.
+
+And remember, I ran a high performance company for several years. It's something I'm an absolute nerd about. You know, I feel like the female version of Tim Ferriss—we can tell stories another day—but having a process to follow will get you quicker and quicker and quicker.
+
+And then the last thing that you need is you need to make time to actually do this process, right? So if you're doing this in and around your W-2 or around the other things that you have going on in your life, if you do not allocate the time to do this process, it will never get done. And you may have heard: Time kills all deals. So you have to act quickly, consistently to be able to find deals and stay on top of them. If you're coming to a listing three, four weeks after it was listed, chances are that business is already under offer and you won't get a chance at it.
+
+[00:23:30]
+Athena (AcquiMatch): So let's talk process. I'm going to show you our process. Now, some of these steps are not going to make sense for you specifically, but you can see how we do things and how we filter through at each of those stages.
+
+So Anca built this process for us and it makes a lot of sense. So we start with our deal inbox. And if you don't have a separate email for your listings notifications, I highly recommend that you get a separate email. So we have a deal inbox that our data team is going through and pulling all of the ones that are within the parameters that we're looking at for clients. And they're preparing those deals and putting them into our Notion database for us to do our first review. So they're cleaning it out. They're removing anything that's like an absolute no for us so that we're only looking at like clean data—listings that are available, you know, we've got the links and everything—so that we can go in and we can just blast through the first review of all of the listings.
+
+So the first review is where we're looking at just a few parameters. I'm going to show you how I actually do that. Anca's set up a little dummy that's not our actual active one that I'm going to show you how I do that. And then we're going to share the template with you. So you can actually use our exact same template to do the same.
+
+[00:25:00]
+Athena (AcquiMatch): So when we're doing that first review, we're looking at things that are potential matches for us that make it through the first parameters. So it's just a few parameters that are automatic eliminators. Then we get to second review where we're like, okay, we like the look of these from the title and a few parameters like the amount of money, the location—it's all within a fit—so now we're going to click into these and actually review them a little bit deeper.
+
+Once we click into them and review them, then we decide whether we want to request information on them or not. So we call that RFI. So RFI-ing is requesting information. It's where you filled out the little blurb on the listing sites, and that is RFI-ing a step in itself. So we actually do that separately, and we'll click all of the things that we want to request information on. But we stay in that zone of just reviewing: yes, we want to RFI; yes, we want to RFI; yes, we want to RFI. And then we do a separate RFI stage where we go through all of those that made it to request RFI, and we go through the process of filling out all of those forms.
+
+Now, after that, then we move from Notion over to HubSpot. So again, Anca's made some magic happen, where these things happen automatically. And when we request information, now we're in a CRM system that allows us to track every stage of where these deals are at—all the conversations, all of the contacts, like, you know, the brokers and the owners and everybody that's related to that. We can see when the last time we heard from them was. And they then have split out our pipeline for the RFI chase.
+
+[00:26:45]
+Athena (AcquiMatch): Because just because you request information from the brokers doesn't mean you're going to get it from them. And I don't like to bash brokers, right? Because they're in a really uncomfortable situation right now. Like all of a sudden, a bunch of people that have never bought businesses before want to buy businesses and they're inundated with like hundreds of inquiries. They themselves don't have a CRM system or a process for how to vet these people or how to respond to everybody. So they're just like getting a whole influx of like hundreds of inquiries.
+
+So in this case, what we found is the squeaky wheel gets the grease. So my team are chasing up to six times, stalking them on their website, finding their emails, going to social media, filling out the form multiple times—like multiple people on the team hitting them up—in order to get the NDA.
+
+So when you sign the NDA, that is a process in itself. And then typically once you sign the NDA, you will get the confidential information memorandum, which is the marketing document for you to be able to review hopefully a lot of information about the business and decide if there's enough there, if it looks good enough for you to move to having a call with the broker.
+
+So we prefer to review the SIM first, because there will probably be things in there that will eliminate it for us. So then we're not wasting the broker's time or ours with a phone call. Now, a lot of these brokers are old-school. And because there are so many first-time buyers now entering the market that are not able to financially get a deal done and they've lost deals and they might not be good owners, a lot of the brokers aren't even signing or sending NDAs without a phone call. So my team's like having to facilitate that. But let's assume in a perfect world that the broker is sending you the SIM after you've signed the NDA, and then you can decide if you have a phone call after that.
+
+[00:28:30]
+Athena (AcquiMatch): So in our process, we only submit options to clients after we've gone through all of that. And we vetted a deal and analyzed it. We got our questions answered from the broker. Then we do a write-up, we get the clients to sign an NDA, and we submit it to the client. And then they take it from there and we kind of fall back and advise them, but we continue to search as we go through there.
+
+You won't necessarily need to do a write-up. After a broker call is where you would typically then decide to speak to the owner and schedule an owner call. And if you like the owner and you've gotten enough information, you'll want to submit an LOI as quickly as possible so you can get that under offer. That's our top-line process.
+
+[00:29:30]
+Athena (AcquiMatch): I highly recommend time blocking—and by time blocking, there's also task blocking that you want to do in that. So this is just a suggestion based on what we found works really well. But if you're somebody that's a W-2, you have a couple hours a week, or maybe an hour a day, then doing things on specific days and doing the same things on those specific days is probably going to help you continue to push things through this funnel.
+
+So you might want to spend your time reviewing all the listings on Friday and deciding which ones you want to submit RFIs for. And then you do it on Monday. So we find that if you submit on Friday, it gets lost in the weekend, you're not going to get a response. So you can go through, review all your listings, get it ready so that Monday morning you come in and start submitting those RFIs and then start chasing on Tuesday. And probably Wednesday, Thursday, and Friday too. But let's say in a perfect world we only need to chase once. And then hopefully you've gotten some SIMs that you can start reviewing.
+
+So I like doing task blocking. So you just do the same thing in that hour of time or two hours of time that you're giving yourself, so you stay in that energy, stay in that mindset—because it's a very different energy to review listings as it is to review SIMs, as it is to chase people, as it is to fill out those little forms—and then scheduling a block of time that you always have there to have broker calls.
+
+[00:31:00]
+Athena (AcquiMatch): So, okay, we talked about the deal box. When we start the very first step of looking at all those listings, we are looking at a few things, right, that we can see. At this moment, we only typically have the asking price, the profit, the revenue, the location—but a lot of brokers aren't putting a specific location on there, right? It might be like “Texas,” but Texas is huge. And then, you know, sometimes you will be able to see what the industry is in that listing title.
+
+So we're looking for deal breakers. Like, are there any industries that we're like, absolutely not? Or franchises. So currently none of our clients are looking at franchises. It's not to say that you can't, but they're getting more and more clever on how they're hiding that they're a franchise in these listings too. So there's some things you can look out for, which I'll show you when we get into the deal box, that it might be a franchise. But we're, you know, if it says franchise in the title, we're going to automatically eliminate it.
+
+So it's really important when you are talking about SDE—Seller’s Discretionary Earnings. So it's the amount that the owner themselves is able to take out of the business, and that's how we value businesses. We'll drop this in the one-on-one discussion if you're not familiar, but let's assume everybody knows what SDE is here.
+
+When you're looking at your deals, you want to make sure that you understand what you want to take after debt service. So I see a bunch of people say, I want $400,000. And then they look at deals that have $400,000 in profit, but after debt service, you're probably going to be looking like the 250–300 range. So you want to make sure that your number is what you want after debt service, and then you need to increase the number that you're looking at in order to make that happen, right? Because it's unlikely that you're going to be paying 100 percent for the business.
+
+I'm not a financial advisor. So all of this is just my opinion, right? I should have probably said that disclaimer at the beginning. I don't think I'm paying 100 percent for a business unless certain circumstances make sense because you're able to, you know, get this money that you're, you're leveraged—highly leveraged. So it's exciting.
+
+[00:33:00]
+Athena (AcquiMatch): Okay. So we're going to take you into the deal inbox sort and kind of show you how we do this deeper review process. So hopefully the tech will allow me to do this eloquently.
+
+So Anca has created this dummy inbox for us to review. So this is similar to what we do. Ours is a little bit more—has a little bit more firepower—but you all are going to get this template on Notion so you can do it yourself. And there's all these clicky, amazing buttons to make it really easy as you're going through and doing this quickly.
+
+So what you ideally want, right, is like, let's say you have that email set up so all the listings are coming in there and you've created some Zapier magic to get it into this, or you've hired somebody to do the data entry so that when you go in and you're like, okay, today I'm reviewing listings, I'm reviewing my deal inbox, you're going through something like this. And then you're only looking at the important parameters at this point.
+
+So what we're looking at is the profits, the sales or revenue, and the asking price and location. And then we have a spot for us to make some review notes. And this Notion template also assigns a number to it every time we make an entry, which is really helpful when you start looking at like multiple deals, you're able to be like, Oh yeah, deal 13 or whatever.
+
+[00:34:45]
+Athena (AcquiMatch): So when we're going through here, what I like to do is first just eliminate anything that's like completely out of range. So I typically start with profit and I will sort it so I can see. So let's say you have a client that wants 300 after debt service, then I would probably be looking north of like 400.
+
+So I like looking at the ones that are kind of on the edge because let's not forget you can negotiate the asking price. And also one of my favorite things is how you negotiate terms to make it work for you. So I'm going to eliminate anything that's like below $300,000. I'm actually going to leave this $295 up so I can show you a franchise thing.
+
+When you have it sorted by profit, then you're just able to go on and select all of these that you don't want. I choose an archive reason—profit too low—so I select a reason so then when I archive it, I know why I archived it. And then you can archive all of these just by clicking the buttons, right? So it automatically goes down into the bottom here into these different stages. So we have all these stages. So when you click the buttons, that's where it goes. So then you're just working off this list of like, okay, this is the list that I want to go through and look at and see if any of these are potential deals for me.
+
+[00:36:00]
+Athena (AcquiMatch): Now you might want to sort in descending order and see if any of these are too big. If the profit actually is $10 million—questionable why the asking price is $3 million. But some of these might be a little bit outside, right? So like an asking price of $20 million—some of you aren't going to be looking at that.
+
+A lot of the listings don't actually have the profit numbers on there. So you can also sort by asking price. If you decided that you want to stay within like normal SBA parameters without doing a pari passu or raising money, or maybe you only have a certain amount to put down as 10 percent—so you're like, okay, I have $300,000, so I'm not going to really look at deals above like $4 million. Although again, with terms, you can double your equity investment—but we're not talking about that today. It is something I love talking about though, obviously.
+
+Then the next thing I'm looking at is location and seeing if there's any locations that automatically are like not a fit for us. So we don't look at businesses outside of the U.S. because they don't qualify for SBA financing. So like this Israel one, I would be changing that to out of range geography-wise, and then I'd archive that. There's Canada, so we're not going to do that—out of range—and we'll archive that.
+
+[00:37:45]
+Athena (AcquiMatch): Then you have a list that you're working off of. Okay, now I'm going to go through and I'm actually going to click through all of these. So this is my first review stage right now. Second review is going to be like when I click into all of these.
+
+I can tell you right now that this is probably a franchise. And the reason is when the profit is substantially more than the asking price, this is typically them trying to get you—rope you—into a franchise. And they're pretty good about hiding it. If they talk about “efficient systems and processes in place,” those sorts of things usually indicate that it's a franchise for me. And the fact that it can be moved—sometimes it says “relocatable” in some of these. Franchises are pretty good at hiding the fact that they're a franchise. That's usually a top indicator that you're looking at a franchise: when the profit is significantly higher and they're saying relocatable.
+
+[00:38:45]
+Athena (AcquiMatch): Now I highlighted a few others that when we're looking at the listing, we're looking for a few things. So cashflow is $400,000. The asking price is $2 million. That's about a 5X. So that's unlikely to be able to work with SBA funding. So then I see if there's enough information in here for me to be like, maybe we might be able to structure it in a way that works. But look, they've got pretty much very little information in here.
+
+So if I'm really excited about a furniture business and that's an industry that I'm like, yes, I would love a furniture business, then I might request some information. But, you know, the “showroom” indicates to me that you have to have office hours. It's retail. So some people don't want retail. You know, it's a product-based business. Some people don't want that. So you're just kind of looking at what they have.
+
+Something I like is that there's 10 employees already, right? So the owner is the operator, but if they have 10 employees, then that means that it's not reliant on one person. It's been around for 25 years. That's awesome. So you're kind of limited here. So let's say I was really interested in retail and furniture, and this might preclude me being able to do this deal because it's a 5X here. There might be other ways around it with, you know, terms and setting some seller finance. So I'm going to go ahead and say that I want to look at that one. This is the New Jersey one. So we're gonna say ready for RFI. Now you can, if you're not sure, click potential match and go back and look at it again. If you want to hold it for later, you're like, not right now, but maybe I'll hold it. And like, it's those ones that you're on the fence about. And I can tell you right now, most of the holds, you'll never go back to, but it feels a little bit better to just like, instead of completely archiving them, you can just put them on hold.
+
+[00:40:30]
+Athena (AcquiMatch): One thing that we also do when we're looking at these businesses is make sure that financially it's going to make sense, right? So what the banks are frustrated with is that a lot of people come to them with deals and offer prices that won't actually be able to be financed. So if you follow me on Twitter you will hear me talking about this: debt service coverage ratio is king.
+
+Multiples make more sense when we’re in the private equity world. And from our perspective, we can look at multiples and be like, well, typically anything over a four isn't going to paper—is the term. It's not going to work for financing for the purposes of individual buyers that are utilizing SBA financing and putting in the 10 percent.
+
+So you're going to get this template at the end too. It's really easy to use. You just input the amount of revenue, the profit that they're showing on the listing, what the asking price is. And then that's going to show you what the margin is on the business, what the multiple is. This automatically calculates working capital as one month of revenue. Now, if you don't know how to calculate working capital, or you don't even know what I mean when I say working capital, you must, must, must learn about this. It can bankrupt your business if you don't do it right. So we've put in just a buffer, right? But when you're looking at a deal more deeply, you want to make sure that you're actually assessing working capital and asking for it in the purchase price.
+
+[00:42:30]
+Athena (AcquiMatch): And then the other thing most people miss off is the costs to actually get the deal done. So the SBA is going to charge you some money in order to do some things. You're also going to have your legal and financial due diligence. Maybe you're going to use a service or a consultant like myself. So on average, you're looking at 5 percent of the purchase price as your deal costs.
+
+So then you get a total project cost, which is: this is the amount that you're actually going to take out as a loan. Well, most people are just looking at the asking price, and then that changes the number significantly depending on the deal. We're seeing on average, 11.25 is like the top end. I like estimating these at the top end so I know whether it works or not, over 10 years, if there's no real estate, and then let's assume you put a 10 percent down payment on.
+
+This deal calculator is going to show you—if there's no working capital or deal costs—so you can see what the annual net profit is after debt service. You can see the all-important debt service coverage ratio. We want more than 1.5. More than 1.5, you will be comfortably able to get this financed if it is a good business if they want to finance it. But also the debt service coverage ratio is how much money you have left after debt to run the business and make sure that you can weather the storm.
+
+It is unlikely you are going to have an increase in revenue in the first year you take over the business. You're either going to be flat or more likely what happens is you will have a decline in revenue because you are putting a big transition in the business and chances are it's the first time you bought a business and transitioned into the ownership role. So you want to make sure that you're comfortable there. So we love seeing a two, right? Like if you have a two as a debt service coverage ratio, it means you have double the amount of the loan payment left over as a buffer.
+
+[00:44:45]
+Athena (AcquiMatch): So when you're looking at these listings, as you're learning—we do this so many times, we can look at the amount and know whether it's going to paper or not, or know whether it's on the edge—but as you're doing this and doing your analysis, you can save yourself a ton of time by doing this upfront before you actually go through the process of requesting information and reviewing the SIM by seeing whether it works or not. Right?
+
+So let's just say they're asking for—so let's say that they're asking $1.5 million on something that was netting $250 SDE. Well, that's a six multiple with those deal costs and everything. We're looking at a debt service coverage ratio of 1.1 to one. That's not going to work. You're not going to be able to finance that deal.
+
+So you can use this as a gut check when you're going through this process. Before you make an offer, you want a much more sophisticated projection and financial modeling that you're doing. We actually provide that to clients so that they can do—if they're bringing in investor capital, if they want to do different types of notes, use the seller note as equity injection, performance-based notes, which is one of my favorite things—you want to project out and model out for different scenarios. So this is more your gut check in those initial stages.
+
+[00:46:30]
+Athena (AcquiMatch): Cool. Okay. So where are we at—deal calculator, chasing RFIs. The chasing the RFIs, that's a pretty involved process and just know that you're in for a better outcome if you are willing to chase and chase and chase and chase because they are unlikely to get you what you need the first time that you ask, especially if they don't know who you are. The more you develop a relationship with the brokers—we have so many relationships with brokers—we skip the RFI and NDA process with a lot of them. We're able to just go directly to the broker and say like, Hey, we like this deal. Can you send it to us? Some of them have even set up processes for us to be able to request on a lot of them at the same time. So when they know you and they know that you're a legit buyer, you're likely to get more expediency there, but in the initial stages, do know that you're going to have to chase and maybe on multiple platforms in order to get that information.
+
+[00:47:45]
+Athena (AcquiMatch): So reviewing the SIMs. Now we've gone through the stage of: we've reviewed the listings, we've made sure it's within the general parameters, we looked at the listing description and we know that there's enough there for us to move forward. We've requested information. We've signed an NDA at this point, and the broker has sent us back a SIM. What do we do now?
+
+When we're looking at the SIM, we're looking for things in a particular way to indicate whether we want to continue to move forward. So here's—if you're looking at the SIM—here's some things that you can do as you're looking through it. And again, I recommend just having a SIM review session. Like, don't do this in between other things because you're switching mental capacities and thought processes. So when you do a SIM review session, set yourself a deep work hour with a couple of SIMs, have this list of questions so you can just—every deal—look at that and get into that habit of scanning and making sure that you're looking for all the things you need to know at this point.
+
+So the first thing that we're doing is we're looking for and noting any questions that we might have. And all questions are valid. So as you're going through something and you're like, huh, why do they run the business like that? Or why did they have the dip in that year and then the uptick in the next year? All of your questions are valid and should be asked when you get on the broker call. So when you're reviewing the SIM, you should be noting down and taking notes on all of the questions that you have, because the next step, if you like this, is going to be getting on a call with a broker.
+
+[00:49:30]
+Athena (AcquiMatch): We're also looking for eliminators. So a lot of times you don't get enough in the description of the listing to be able to know whether you can eliminate it or not. So, is there insane customer concentration? Did they have really bad years and go into the negatives? Are there anything that would disqualify it from SBA financing—and if you don't have other financing options? Or if the owner is not open to seller finance. So just looking for things that would immediately eliminate the business. Is it a franchise? Sometimes you don't find out until very late. Sometimes they don't even tell you in the SIM.
+
+So if there's enough there—and I'm going to give you some specific questions to ask in the next slide—if there's enough there and there's not any immediate eliminators, then what we're asking ourselves: if I'm looking for myself, I'm asking myself, can I see myself in this business? Can I actually see myself operating this business? Let me visualize a day in the life of being this business owner. Or if I'm looking at it for clients, then I can think of, is this a good business for my clients? And because we've gone through that extensive kind of deal box setting phase, then it's very easy for me to visualize whether this is going to be a good business. And my team do this as well.
+
+So if there are no major red flags, then we move to a broker call. And we try to do this all very quickly, right? Because deals move quick. If they're under offer, you lose the opportunity. And if I didn't already look at the deal calculator in those initial phases, that's where I'm pulling out the deal calculator and looking at it when I'm going through the SIM.
+
+[00:51:00]
+Athena (AcquiMatch): Great. So questions you should be asking yourself when you're reviewing the SIM:
+- What do I like about this business?
+- What do I dislike—things that are, I really don't like that—and that is different than what am I concerned about. So something you might not like is, “Oh, I don't really like managing a bunch of people and there's like 30 unskilled laborers as part of this business. I don't really like that.” “I am concerned about the fact that it seems like the owner is heavily involved in the day to day, and that is a concern for me.” So there is a difference between a dislike and a concern because then you can do— and I love matchmaking, speed dating, all of those things—there's so many crossovers between dating and looking at deals.
+
+So when you're doing your pluses and minuses list on a partner, you can also do that on a business, right? So hopefully the likes are adding up to be more than the dislikes because you're going to be the one running this business.
+
+I'm also asking: What are the opportunities that I see for growth in this business? Now we only buy businesses based on past performance, but it doesn't hurt to also have some opportunities for growth that you see, especially if you're somebody that's like, I'm happy to get in there and roll my sleeves up and be the operator for the first two years, but I want to get an operator in eventually. Are you buying a business that even has the capacity to do that? Right? So things like laundromats are constrained—often you can't get an operator unless you're buying multiple locations, those sorts of things.
+
+What areas of clarification do I have? And then what you really should be asking yourself before you move forward on it is: Why am I the right person for this business? Just because you've heard that plumbing is a good industry and makes a lot of money, why are you the right person to buy that plumbing business? Businesses are living, breathing machines. And if it's not going to get you out of bed every day, or you're not a good skillset match for it, then highly question whether that's the right business for you.
+
+By this point, you'll have a whole list of questions now to jump on the call with the broker. And then the next call would be getting on a call with the broker and then deciding if you want to move forward from there.
+
+[00:53:00]
+Athena (AcquiMatch): So let's talk about getting faster. Using a CRM system—I love HubSpot. I think HubSpot's amazing. You're able to do all sorts of tracking and automations and stuff—but using a CRM system to actually keep track of all of your conversations will make things a lot quicker.
+
+Implementing some sort of tech or AI. So we use a lot of automation and Zapier and that sort of thing to connect everything and automate tasks that a human doesn't necessarily need to do. I know some folks use AI tools to be able to scrape listings and add it in and that sort of thing. As far as finding leads for owners and off-market, AI is kind of falling short.
+
+You can hire someone to input deals and chase brokers for you, right? So go on Upwork, post a listing, find somebody that's able to do it for not a lot of money. And then you're spending your time just reviewing the deals that have made it through that point.
+
+I cannot emphasize enough time blocking and leaving yourself time for deep work. So when I say deep work, if we're doing a SIM review session, you turn off all notifications, all the things that might be distracting you, and you focus on that for an hour and you're going to get through so much more when you do that, as opposed to leaving all the dingy things on and allowing yourself to get distracted. And making sure that you're putting that time in your calendar every day, every week to get through those things.
+
+And I mentioned at the beginning, having a separate email for your listings is also going to help you too. So then it's not coming into your life at random times. You can just go into the listing inbox when you're ready to do that part of work. Or if you're like, what the hell, Athena, like this is way too much. I don't have time for any of this. I just want someone to do it for me. Well, you can hire someone like us, or you can hire us specifically.
+
+[00:55:00]
+Athena (AcquiMatch): I mentioned, I want to goal set. So we've just given you a ton of information. We're going to drop the templates in two seconds after you set your goals. So that's the reward now for setting your goals.
+
+What are you going to do as a result of today's workshop that will help you achieve your goal to buy a business? And I want you to make sure that it's specific, measurable, achievable, realistic, and time bound. So you might say, I am going to download the Notion template, and I'm going to input and review 10 deals into that by the end of the week, right? It's measurable. We know how many deals. We know what time that we're going to do it by. It's specific on exactly what the action is that you're going to do. It's achievable—everybody here can do that. And it's realistic—so, you know, achievable is within your skillsets, within your ability to do something. And realistic is with everything else that you have going on in your life and your world—is it realistic?
+
+[00:57:30]
+Athena (AcquiMatch): Cool. So you've just spent an hour with us. Don't let this hour go to waste. What goal, what action are you going to take as a result of today's workshop that will help you achieve your goal in buying a business? Now to add to that, how can you hold yourself accountable for this goal? Can you tell someone that you're going to do it? Who's going to hold you accountable?
+
+Also, as a reward for staying with us till the end, Anca is going to start dropping those template links in the chat now. Also, we've got time for questions. We're going to hang out for another half hour. So anything that I covered today or additional questions that you have, just in general about deals or structuring or whatever, feel free. Start dropping that in the chat and Ryan's going to come on and help facilitate the questions in a moment while I wrap up.
+
+[01:00:50]
+Ryan (AcquiMatch): We have one from Sarah. She says, Do you automate deals into Notion or manually add them one by one?
+
+Athena (AcquiMatch): Yeah. So Anca, actually, do you want to take that question?
+
+[01:01:20]
+Anca (Operations, AcquiMatch): We, we add manually the deals. So that's part of the data entry team that we have. So we have a bunch of different people on our team doing different tasks. And so we manually add them. I did try to use AI. Like Athena said, AI is falling a bit short with the different stuff that we're doing. So AI didn't work for me to automate the deals into Notion. That's a manual task.
+
+Athena (AcquiMatch): Yeah.
+
+[01:01:55]
+Ryan (AcquiMatch): Next we have Jeff. Jeff says, Hi, please share top three websites where you enjoy hunting.
+
+Athena (AcquiMatch): We have over 100 different sources right now, right Anca? Yeah. So we get deals from a lot of different places. So it's going to be dependent on what you're looking for. Like, if you want online-only businesses, then I would be looking at something like Quiet Light, Flippa, and Empire Flippers and, you know, places that specialize in online businesses.
+
+So it's going to be particular to you. Obviously BizBuySell, BizQuest, and BusinessesForSale are kind of the main ones. They're a little archaic in the search processes and that sort of thing, but you can usually get a pretty good spread in your area. And then depending on geographically where you're looking, you might have brokers that are pretty good at keeping their stuff up to date too. Website Closers is another one for online businesses. But for brick-and-mortar businesses, it's going to be a little bit more specific to the industry you're looking at in your geography. But BusinessesForSale, BizQuest, and BizBuySell are the main ones that seem to get the most general listings.
+
+[01:03:00]
+Ryan (AcquiMatch): Mahesh asks, Are there any good videos that teach how to automate link email to Notion?
+
+Athena (AcquiMatch): Yeah, unfortunately, as Anca said, we haven't been able to nail that one ourselves. So that's why we hired a team to do it. They're highly efficient though. So you can get really good quality data entry resources on Upwork—pay them between $5 and $8 an hour—and it might take them a couple hours a week to be able to input all of that stuff for you. So you now have the template that we use, so you can hire somebody for, you know, not much money and train them on what your parameters are and say, I want you to go through this inbox every day and input it, or I want you to do it by Friday for when I review my listings.
+
+We find there's a reason for tech in a lot of instances, but sometimes tech can be the thing that holds you up and feels like you're being productive, but it ends up being a distraction. So sometimes humans—at least for our processes—seem to be better. And then there's a level of discernment and quality control also. So our team is so highly trained on our parameters that anything that they're not sure about, they're able to flag and we have a regular review meeting with them to answer questions when they're not sure on how to input those things.
+
+[01:04:55]
+Ryan (AcquiMatch): Sarah asked, What are the types of things you will look for in the listing that might indicate you can structure the deal in a way that works? Thanks.
+
+Athena (AcquiMatch): Yeah, I'm gonna assume that you mean financially structuring the deal. So if the multiple—and again I don't like multiples as far as valuation is concerned because your debt service coverage ratio is going to be king—but anything above four times earnings as an asking price is unlikely to be able to work for debt service coverage ratio. That's assuming there's no real estate in the deal.
+
+So if there is real estate, then you can get different loan terms. So if we're just doing SBA 7(a)—and again, this is assuming that you are utilizing SBA financing and you're like, I only have up to 10 percent to put into the deal—if you're wanting to do a play where you’re bringing investment or use other types of financing, then the multiple can be a little bit higher.
+
+The structuring and the way you do the deal can also be significantly impactful. So for example, we have a deal right now that we just got a term sheet on—hooray—that had an up year in ’22, a down year in ’23. But the owner is convinced that they're going to have an up year in ’24 and wanted the business to be valued accordingly. Well, SBA will only finance based on what's on the tax returns in the most recent year. So you can factor in forgivable performance-based notes. So you say, okay, I'll give you this much cash at close, but if you perform—if the business performs in the way that you're saying it's going to perform—then we can structure in an additional performance-based note that we will pay to you over time if those metrics are met.
+
+So in that instance, I think we were able to offer a six multiple on their most recent year, but the debt service coverage ratio is still above a 1.5 because we're only on the hook for the cash at close amount and anything above that is going to be based on the business performing that way.
+
+So, anything over a four multiple is usually—if you're just looking at straight up normal SBA 10 percent injection—over a four is going to be difficult. But that's where you can use that deal calculator that we gave you, and just mess around with the numbers every time you're looking at a listing and seeing what happens there. Because your down payment can automatically be double the amount if you get the seller to agree to a 5 percent seller note. So there's all sorts of things you can do with the terms to structure it in a way that works. I hope that answered your question.
+
+[01:07:50]
+Ryan (AcquiMatch): Nirav asks, what interest rate do you use for DSCR calculation in the template?
+
+Athena (AcquiMatch): Yeah. So if we're talking about 7(a), which is only the business, then you're likely looking at 11.25 percent right now. So most SBA loans are going to be floating, but like we're at the top end. Hopefully they haven't gone up in a while. So if anything, they're likely to go down. You can do 11.25 to see kind of worst case scenario over a 10-year period. So SBA 7(a) are 10-year amortizations. You can do 10.5—some of the SBA lenders will do 10.5 depending on who you go to. So my advice is when you get a deal under offer is to try to get at least two to three term sheets from different banks, because they'll have different ways that they review the risk and underwrite, and they might be able to offer you better terms there.
+
+[01:08:45]
+Athena (AcquiMatch): 504 green loan—yes, that's for real estate. So most folks are not going to be having real estate as part of their deals. But if you are looking at real estate, then there are 504 loans which are specific to real estate and you can get a 25-year amortization. Also, if you're utilizing SBA 7(a) and there's a real estate component in the deal that you're looking at—if the real estate is more than 51 percent—then you can get a 25-year amortization.
+
+There's a really great episode on Acquiring Minds—Nick and I were just talking about this yesterday—about auto repair roll-ups. So it's like one of the last two or three episodes, and these guys have figured out a way—because auto repair shops always have real estate component—so by utilizing the SBA 504 green, they're able to do a 25-year am on the real estate and then seller finance the business portion and not rack up the, you know, max $5 million cap on the businesses. So, yeah, good questions.
+
+[01:10:00]
+Athena (AcquiMatch): Yes. Thanks, Nick. Yeah. We're obsessed with business buying, you know, we're searchers ourselves. We're still looking. We've got some interesting acquisition conversations happening on our end. But we just live and breathe this stuff. So always looking for resources and more ways to learn.
+
+And what I love about this is there's endless creativity for how you can structure a deal, how you can get a deal done, the agreements that you can make with owners. For a lot of people, that's a little bit overwhelming, right? Like there's so many things that you could potentially do in terms of the structuring. But if you learn what the limits and the parameters are, then you can get really creative within that.
+
+So I can't draw or sing to save my life, but I've been called a savage when it comes to structuring because there's like endless ways that you can structure and make things work. And I like being competitive, right? Like something that drives me is like, I want to beat out strategics and I want to beat out private equity because they're tearing up businesses. And our—you know, if you're in America—our country is like built on small business and entrepreneurship. So for us to be able to take on small businesses from somebody that built it off of, you know, their blood, sweat, and tears for 20 years—and they care about their customers and their community and their team—and you're able to steward that and like not destroy it (which a lot of these investor groups might do), that's hugely rewarding, right? So we can be competitive with these guys if we get creative with how we structure these things. It's my little rant.
+
+[01:11:45]
+Ryan (AcquiMatch): Nice. Looks like that's all the questions for today. Is that right?
+
+Athena (AcquiMatch): That's it. Amazing. Well, thank you all for spending your time with us. We love doing these. We have a lot of fun showing you kind of under the hood of how we do things, but hopefully leaving you with some processes and tools and templates for you to be able to go at. I want everybody who would be a good owner to be a business owner. And one of the hardest parts about this whole process is the search, is finding the business. So if we can alleviate some of that pain, you know, we're happy to do that. Big mission for us is just help as many people as we can.
+
+Cool. Have a great rest of your day all, and we'll talk to you soon.

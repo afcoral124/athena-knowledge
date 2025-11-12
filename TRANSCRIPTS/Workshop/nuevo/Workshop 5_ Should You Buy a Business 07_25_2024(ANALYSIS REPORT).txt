@@ -1,0 +1,266 @@
+Below is a focused analysis of likely ASR issues and a mapping of which transcript sections are business-relevant vs. removable, plus a few borderline areas to review.
+
+ERRORS AND INCONSISTENCIES
+
+[Error #1 - Category: Misheard Acronym/Entity]
+Location: ~00:06:50 / Speaker: Presenter
+Transcript excerpt: "I know quite a few of you are probably coming to https: otter. ai To me from the real estate investment world..."
+Issue: Nonsensical insertion of “https: otter.ai” mid-sentence.
+Likely intended: “I know quite a few of you are probably coming to me from the real estate investment world…”
+Confidence: High
+Reasoning: URL-like fragment is out of place; likely ASR artifact.
+Impact: High – interrupts meaning.
+
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:16:45-00:17:15 / Speaker: Presenter
+Transcript excerpt: "What the fuck is F M B E T A... SMB stands for small medium business… ETA stands for entrepreneurship through acquisition."
+Issue: “F M B E T A” is garbled; context indicates SMB/ETA.
+Likely intended: “What the fuck is SMB/ETA?”
+Confidence: High
+Reasoning: Topic is SMB and ETA; “FMBETA” is not a known term.
+Impact: High – creates confusion at a key definitional moment.
+
+[Error #3 - Category: Misheard Financial Term/Acronym]
+Location: ~00:06:20-00:07:00 / Speaker: Presenter
+Transcript excerpt: "...your multiple uninvested capital can reach five to 10 acts when you're investing in profitable businesses."
+Issue: “multiple uninvested capital” and “acts” are incorrect phrasings.
+Likely intended: “multiple on invested capital (MOIC) can reach 5 to 10x…”
+Confidence: High
+Reasoning: MOIC and “x” (times) are standard finance terms.
+Impact: High – distorts a core financial concept.
+
+[Error #4 - Category: Numerical Error]
+Location: ~00:04:45-00:05:15 / Speaker: Presenter
+Transcript excerpt: "in the U S 99. 99 percent of businesses are small businesses."
+Issue: 99.99% is likely overstated; common statistic is ~99.9%.
+Likely intended: “99.9 percent of businesses are small businesses.”
+Confidence: Medium
+Reasoning: Known SBA/US Census stat is ~99.9%; extra “9” is common ASR slip.
+Impact: Medium – may mislead on scale.
+
+[Error #5 - Category: Omission/Homophone]
+Location: ~00:04:00-00:04:10 / Speaker: Presenter
+Transcript excerpt: "And night, 19 percent of these folks are small business owners."
+Issue: “night” doesn’t fit context.
+Likely intended: “And 19 percent of these folks are small business owners.”
+Confidence: High
+Reasoning: “Night” is a typical misrecognition for “and.”
+Impact: Low
+
+[Error #6 - Category: Misheard Word]
+Location: ~00:00:45-00:01:15 / Speaker: Presenter
+Transcript excerpt: "Two or two might be you've tabbled, you've looked at some listings."
+Issue: “tabbled” is not a word in this context.
+Likely intended: “202 might be you’ve dabbled…”
+Confidence: High
+Reasoning: “Dabbled” fits context; “202” used as attendee self-rating.
+Impact: Low
+
+[Error #7 - Category: Truncation/Omission]
+Location: ~00:00:55-00:01:15 / Speaker: Presenter
+Transcript excerpt: "The advanced would be I've made an offer, I've gotten into due diligence, bought a business, own. You're a current business owner."
+Issue: Sentence is truncated (“own.”) and awkwardly splits the thought.
+Likely intended: “…bought a business, own one. You’re a current business owner.”
+Confidence: Medium
+Reasoning: Natural completion of list item; likely minor ASR truncation.
+Impact: Low
+
+[Error #8 - Category: Misheard Proper Noun]
+Location: ~00:10:40-00:11:05 / Speaker: Presenter
+Transcript excerpt: "Alex Hermosi had spoken there before…"
+Issue: Misspelling of a well-known name.
+Likely intended: “Alex Hormozi…”
+Confidence: High
+Reasoning: Common entrepreneurial figure; “Hormozi” is correct spelling.
+Impact: Low
+
+[Error #9 - Category: Misheard Proper Noun]
+Location: ~00:25:15-00:25:45 / Speaker: Presenter
+Transcript excerpt: "this guy, Ben little, like I love his, uh, stuff on Twitter…"
+Issue: Likely misrendered surname.
+Likely intended: “Ben Liddle” (or similar variant)
+Confidence: Medium
+Reasoning: Known SMB/HoldCo commentator; “Little” vs “Liddle” is a common ASR swap.
+Impact: Low
+
+[Error #10 - Category: Misheard Entity Name]
+Location: ~01:12:30-01:12:50 / Speaker: Presenter (Q&A)
+Transcript excerpt: "Is by cell is obviously the biggest one…"
+Issue: Platform name misheard.
+Likely intended: “BizBuySell is obviously the biggest one…”
+Confidence: High
+Reasoning: BizBuySell is the leading US business-for-sale marketplace.
+Impact: Medium – important for deal sourcing.
+
+[Error #11 - Category: Misheard Book/Title Reference]
+Location: ~01:05:05-01:05:40 / Speaker: Presenter
+Transcript excerpt: "resources who was a game changer for us on the hiring process and how to hire a players"
+Issue: Phrase mangled; refers to a specific book.
+Likely intended: “Resource: ‘Who’ was a game changer… (Who: The A Method for Hiring)”
+Confidence: High
+Reasoning: Matches standard title and phrasing in SMB circles.
+Impact: Low
+
+[Error #12 - Category: Misheard Acronym]
+Location: ~01:00:20-01:01:10 / Speaker: Presenter
+Transcript excerpt: "When you're looking at SCE and the profit… D S D S C R is debt service coverage ratio."
+Issue: “SCE” and “D S D S C R” are wrong.
+Likely intended: “SDE… DSCR (Debt Service Coverage Ratio)”
+Confidence: High
+Reasoning: SDE and DSCR are canonical terms in SMB acquisitions.
+Impact: High – core financial screening concepts.
+
+[Error #13 - Category: Misheard Acronym(s)]
+Location: ~01:08:50-01:09:20 / Speaker: Presenter
+Transcript excerpt: "definitions document that gives you, like, ETA, SMBD, searcher, operator, EBDL, blah, blah, blah."
+Issue: Two acronyms misheard.
+Likely intended: “SMB” and “EBITDA”
+Confidence: High
+Reasoning: Standard deal lexicon; “SMBD/EBDL” are not real acronyms here.
+Impact: Medium
+
+[Error #14 - Category: Semantic Inconsistency/Extraneous Insertion]
+Location: ~01:06:35-01:07:10 / Speaker: Presenter
+Transcript excerpt: "They want us to speak English. They want us to speak Thai. They want us to speak Arabic. They want us to speak Canadians. They want us to speak Nigerian. They want us to speak, a little bit of English, a little bit of Urdu… And we drink chamomile tea…"
+Issue: Content is incoherent, culturally off, and unrelated to the topic.
+Likely intended: This entire passage is an ASR artifact or stray audio insertion.
+Confidence: High
+Reasoning: Abrupt shift, no linkage to surrounding SMB acquisition content.
+Impact: High – confusing and potentially inappropriate.
+
+[Error #15 - Category: Misheard Acronym/Term]
+Location: ~00:51:50-00:52:20 / Speaker: Presenter
+Transcript excerpt: "Do you know the difference between a tax advisor and QV when it comes to the deal…"
+Issue: “QV” is not the standard term.
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: “QoE” is the conventional diligence report; “QV” is not.
+Impact: High – critical diligence concept.
+
+[Error #16 - Category: Truncation/Omission]
+Location: ~00:16:55-00:17:15 / Speaker: Presenter
+Transcript excerpt: "SMB… is now also encapsulating people that are making."
+Issue: Sentence cuts off after “making.”
+Likely intended: “…people that are making acquisitions” (or “…doing this activity”)
+Confidence: Medium
+Reasoning: Context points to describing people engaged in SMB acquisitions.
+Impact: Low
+
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+1) [00:00:00-00:01:45] Welcome, attendee roll call, coding (101/202/303)
+- Classification: MIXED
+- Notes: Keep brief framing (“who you are, where located, 101/202 structure”). Remove extended attendee name/location roll call (see Removal #1).
+
+2) [00:02:00-00:06:30] Who this is for (aspiring entrepreneurs, US vs. international financing), session logistics, acronyms, overview of opportunity and macro stats
+- Classification: KEEP
+- Notes: Core framing, definitions, and market-size grounding.
+
+3) [00:06:30-00:08:00] Returns, cash flow, W-2 “golden handcuffs,” example math
+- Classification: KEEP
+- Notes: Central to investor/searcher education; contains Error #1 and #3 to fix later.
+
+4) [00:08:00-00:15:30] Presenter background, how AcquiMatch formed, team introduction, and brief pitch
+- Classification: KEEP (with small removable lines)
+- Notes: Establishes credibility and context; remove explicit hiring solicitation lines (see Removal #2).
+
+5) [00:16:00-00:24:30] Reality check: competition, PG risk, non-passive reality, small biz risk, holdcos hype
+- Classification: KEEP
+
+6) [00:24:30-00:32:00] Seller financing myths, search timelines, on- vs off-market, volume needed
+- Classification: KEEP
+
+7) [00:32:00-00:41:00] Self-assessment exercise (skills, EQ, resilience, decision-making)
+- Classification: KEEP
+
+8) [00:41:00-00:53:00] Common mistakes (deal fit, broker/owner approach, modeling, debt service, off-market, financial realism, lender structuring, readiness, support)
+- Classification: KEEP
+
+9) [00:53:00-01:06:00] Getting started: resources (book list, Acquiring Minds, definitions doc), effectiveness focus, operator reality
+- Classification: KEEP
+- Note: Contains Error #11 (book “Who”) and #12 (SDE/DSCR).
+
+10) [01:06:35-01:07:10] “They want us to speak [languages]… chamomile tea…”
+- Classification: REMOVE (see Removal #3)
+- Notes: Purely off-topic/incoherent; likely ASR artifact.
+
+11) [01:07:10-01:10:00] Encouragement, “only one deal away,” move to Q&A, resources doc
+- Classification: KEEP
+- Note: Contains Error #13 (SMBD/EBDL).
+
+12) [01:11:00-01:36:00] Q&A (sourcing, capacity/hiring, proximity, seller-finance, fees, macro outlook, evaluation, ETA 3-5 yrs, client fit, hiring values)
+- Classification: KEEP
+- Note: Keep all; it’s substantive and practical. Contains Error #10 (BizBuySell).
+
+
+REMOVAL RECOMMENDATIONS
+
+[REMOVAL #1 - Type: Small Talk/Attendee Roll Call]
+Location: ~00:00:55-00:01:45
+Speakers involved: Presenter
+Content excerpt:
+"…So cool. We've got, Hey Dean from Denver. We've got Tessa from Long Island, Mike from two Oh two. Cool. We got, uh, the OC California Luke brand new to this Michael Cortez in Orlando, Michael. Uh, three Oh three. Okay. So a little bit more advanced. Awesome. Andrew from Canada. Welcome. Welcome. Awesome. Greater Boston area. Got some 202s and 101s…"
+Reasoning:
+Extended attendee name/location listing provides no enduring business value and breaks flow.
+Context impact: Low—removing this won’t affect understanding of the workshop content.
+Recommended action: REMOVE ~00:00:55-00:01:45
+
+[REMOVAL #2 - Type: Off-Topic/Company Recruiting]
+Location: ~00:14:30-00:15:20
+Speakers involved: Presenter
+Content excerpt:
+"…we're growing. We're actually hiring more. We're vetting support and sales support and prospecting. If you know anyone, we would love to have them join our team…"
+Reasoning:
+Recruiting pitch is tangential to the educational purpose of the session.
+Context impact: Low—does not affect comprehension of acquisition content.
+Recommended action: REMOVE ~00:14:30-00:15:20
+
+[REMOVAL #3 - Type: Off-Topic/ASR Artifact]
+Location: ~01:06:35-01:07:10
+Speakers involved: Presenter
+Content excerpt:
+"They want us to speak English. They want us to speak Thai. They want us to speak Arabic. They want us to speak Canadians. They want us to speak Nigerian. They want us to speak, a little bit of English, a little bit of Urdu, a little bit of English to help them get through the day. And we drink chamomile tea, which we all love."
+Reasoning:
+Incoherent, culturally awkward, and unrelated to acquisitions; likely spurious ASR insertion.
+Context impact: None—removing clarifies flow and avoids confusion.
+Recommended action: REMOVE ~01:06:35-01:07:10
+
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:08:00-00:11:30
+Content excerpt: Presenter’s personal career story (intrapreneur roles, Guinness World Records, move to Austin, event leading to ETA interest)
+Business relevance argument: Establishes credibility, contextualizes lessons and later advice, and illustrates the path into ETA.
+Personal content argument: Extended personal background not strictly necessary for acquisition education.
+Recommendation: KEEP—Provides valuable context and credibility that supports later guidance.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~01:14:00-01:15:20 (Q&A on team capacity/hiring)
+Content excerpt: “Why don’t you expand your team capacity?” … presenter's response on growth/hiring.
+Business relevance argument: Gives insight into capacity constraints affecting client timelines; transparency for prospective clients.
+Personal content argument: Drifts into internal operations; less relevant to acquisition education.
+Recommendation: KEEP—Relevant for attendees considering engaging the service.
+
+[BORDERLINE #3 - Requires Review]
+Location: ~01:20:00-01:21:10 (Q&A on fees)
+Content excerpt: “What is your fee?” … presenter's general description of fee structure without specifics.
+Business relevance argument: Directly relevant to those evaluating service providers; clarifies incentive alignment (flat success fee).
+Personal content argument: Service-specific pricing info is not educational per se.
+Recommendation: KEEP—Practical for buyers considering external help.
+
+
+SPEAKER ATTRIBUTION AND FLOW
+
+- Q&A portions feature interleaving of the presenter and “Ryan” reading questions, but the transcript lacks clear speaker labels. Recommend adding speaker tags for clarity (e.g., “Ryan (Moderator):”, “Presenter:”), especially starting at ~01:10:00 onward.
+- No overt content mismatches detected (i.e., answers follow questions logically), but the lack of speaker labeling reduces clarity.
+
+PATTERN NOTE FOR ASR IMPROVEMENT
+
+- The ASR consistently struggles with:
+  - Finance acronyms and terms: SDE, DSCR, EBITDA, MOIC, QoE (rendered as SCE, DSDSCR, EBDL, “uninvested,” QV).
+  - Proper nouns: BizBuySell, Hormozi, possibly “Ben Liddle.”
+  - URL-like artifacts inserted mid-sentence (“https: otter.ai”).
+  - Occasional long, unrelated insertions (the multi-language/chamomile tea passage).
+- These errors are high-impact in acquisition transcripts; prioritizing domain-specific acronym models and proper-noun dictionaries would materially improve accuracy.

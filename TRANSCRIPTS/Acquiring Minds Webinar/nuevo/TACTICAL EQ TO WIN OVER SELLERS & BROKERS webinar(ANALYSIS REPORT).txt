@@ -1,0 +1,338 @@
+[Error #1 - Category: Entity name]
+Location: Line 5 / Speaker: Host
+Transcript excerpt: "Today's speaker is Athena Simpson of Aquabatch."
+Issue: Company name “Aquabatch” appears incorrect given context.
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: The speaker later identifies as founder of AcquiMatch (lines 37-44) and the event topic aligns with AcquiMatch’s domain.
+Impact: High - misidentifies the organization being represented
+
+---
+[Error #2 - Category: Entity name (pattern)]
+Location: Lines 37, 81-84, 132 / Speaker: Athena
+Transcript excerpt: "I'm the founder of Acqui Match." ... "These are our analysts here at a iMatch."
+Issue: Inconsistent and incorrect renderings of the brand name (“Acqui Match,” “a iMatch”).
+Likely intended: "AcquiMatch" (single word, proper capitalization)
+Confidence: High
+Reasoning: Known brand; repeated inconsistent spellings suggest ASR fragmentation.
+Impact: Medium - brand consistency and clarity
+
+---
+[Error #3 - Category: Misheard acronym]
+Location: Lines 476-488 (and repeatedly throughout) / Speaker: Athena
+Transcript excerpt: "Nothing p****s off brokers more than you not reading the sim... asking questions that are already in the sim..."
+Issue: “sim” likely misheard for the commonly used acquisition document acronym.
+Likely intended: "CIM" (Confidential Information Memorandum)
+Confidence: High
+Reasoning: In SMB/M&A contexts, CIM is the standard term; “SIM” is occasionally used in some markets, but usage here (lowercase, US context) strongly suggests CIM.
+Impact: High - key document referenced throughout; mishearing can confuse less experienced listeners
+
+---
+[Error #4 - Category: Business terminology/entity names]
+Location: Lines 51-53 / Speaker: Athena
+Transcript excerpt: "I've advised Fortune 500 Fs, E 100 investors, government clients, all over the Gro globe..."
+Issue: Multiple distortions of well-known entities/terms.
+Likely intended: "Fortune 500, FTSE 100 investors, government clients, all over the globe"
+Confidence: High
+Reasoning: “FTSE 100” is a common index; “Fs, E 100” and “Gro globe” are phonetic/fragment errors.
+Impact: Medium - undermines credibility and clarity
+
+---
+[Error #5 - Category: Repetition/omission]
+Location: Lines 55-56 / Speaker: Athena
+Transcript excerpt: "McCombs School of of Business."
+Issue: Duplicate “of.”
+Likely intended: "McCombs School of Business"
+Confidence: High
+Reasoning: Common ASR duplication.
+Impact: Low - minor readability issue
+
+---
+[Error #6 - Category: Repetition/misattribution]
+Location: Line 66 / Speaker: Athena
+Transcript excerpt: "as will mention, will mentioned."
+Issue: Repetition and improper capitalization of a proper name mid-sentence.
+Likely intended: "as Will mentioned"
+Confidence: High
+Reasoning: Refers to Host Will; duplication is an ASR artifact.
+Impact: Low - minor but noticeable
+
+---
+[Error #7 - Category: Omission]
+Location: Line 139 / Speaker: Athena
+Transcript excerpt: "Texas Association, a business brokers,"
+Issue: Missing preposition; phrase reads awkwardly.
+Likely intended: "Texas Association of Business Brokers"
+Confidence: High
+Reasoning: Matches earlier correct mention (lines 127-132) and known association name.
+Impact: Low - clarity of a proper noun
+
+---
+[Error #8 - Category: Misheard punctuation/word]
+Location: Lines 902-913 / Speaker: Athena
+Transcript excerpt: "we're getting to LOII say all of this because you don't wanna talk about moving to get in together on the first date."
+Issue: “LOII” and “to get in together” are likely misrecognitions.
+Likely intended: "LOI. I say all of this because you don't want to talk about moving in together..."
+Confidence: High
+Reasoning: LOI (Letter of Intent) is standard; “moving in together” is a common dating analogy used here.
+Impact: Medium - disrupts understanding of a key metaphor and stage (LOI)
+
+---
+[Error #9 - Category: Homophone/word choice]
+Location: Line 973 / Speaker: Athena
+Transcript excerpt: "Go stock their social media page..."
+Issue: “stock” used instead of “stalk” (informal term for reviewing social profiles).
+Likely intended: "stalk their social media page"
+Confidence: High
+Reasoning: Context is researching sellers online; “stalk” is the colloquial verb commonly used in this context.
+Impact: Low - meaning is inferable but incorrect word weakens clarity
+
+---
+[Error #10 - Category: Misheard proper noun]
+Location: Line 85 / Speaker: Athena
+Transcript excerpt: "I'm a big Hormo fan."
+Issue: Likely misheard surname.
+Likely intended: "Hormozi" (Alex Hormozi)
+Confidence: Medium
+Reasoning: Within business/entrepreneurship content, Alex Hormozi is a commonly referenced figure; “Hormo” is truncated.
+Impact: Low - name accuracy
+
+---
+[Error #11 - Category: Misheard proper noun]
+Location: Line 1421 / Speaker: Athena
+Transcript excerpt: "It's called Existential Camp,"
+Issue: Book title appears incorrect; later references correct it.
+Likely intended: "Existential Kink"
+Confidence: High
+Reasoning: The later lines (1429-1443) reference “Existential kink”; known book title by Carolyn Elliott.
+Impact: Medium - resource citation accuracy
+
+---
+[Error #12 - Category: Misheard podcast name]
+Location: Lines 1352-1355 / Speaker: Will
+Transcript excerpt: "on our sister podcast, the Mines Capital podcast"
+Issue: Unclear or potentially incorrect podcast title.
+Likely intended: "Acquiring Minds Capital" (or similar brand-consistent title)
+Confidence: Low
+Reasoning: Inconsistent with “Acquiring Minds” brand naming; uncertain without external reference.
+Impact: Low - minor branding clarity
+
+---
+[Error #13 - Category: Numeric/semantic inconsistency]
+Location: Lines 1047 and 1512 / Speakers: Athena (1047), Will (1512)
+Transcript excerpt: 
+- "We're probably not gonna be having new client conversations until 2026."
+- "not until probably early part of next year... will she be available."
+Issue: Contradictory availability timelines (2026 vs early next year).
+Likely intended: One of these dates is wrong; needs verification.
+Confidence: Medium
+Reasoning: Contradiction within same session likely indicates an ASR or speaker slip error; requires source confirmation.
+Impact: High - affects audience expectations and follow-up actions
+
+---
+[Error #14 - Category: Formatting/terminology]
+Location: Line 1359 / Speaker: Will
+Transcript excerpt: "over 10 X-M-O-I-C"
+Issue: Awkward spacing/hyphenation of investment multiple term.
+Likely intended: "10x MOIC"
+Confidence: High
+Reasoning: MOIC is standard; hyphenation/spelling suggests ASR artifact.
+Impact: Low - terminology readability
+
+---
+[Error #15 - Category: Semantic/word choice]
+Location: Lines 769-771 / Speaker: Athena
+Transcript excerpt: "quick coffee seller mindset."
+Issue: Phrase reads nonsensically in context of section transition.
+Likely intended: "Quick: seller mindset." or "Quick—seller mindset."
+Confidence: Medium
+Reasoning: Section transitions elsewhere use “quick recap/shift”; “coffee” likely bled in from “coffee date” analogy.
+Impact: Low - section heading clarity
+
+---
+
+
+SEGMENT MAPPING
+
+Block A: Lines 1-26
+- Content: Webinar intro and housekeeping (recording, slides, Q&A flow), speaker handoff
+- Classification: KEEP
+- Reason: Sets context and logistics relevant to attendees
+
+Block B: Lines 27-44
+- Content: Speaker greeting and screen share set-up
+- Classification: KEEP
+- Reason: Transition into substantive content
+
+Block C: Lines 36-67
+- Content: Topic framing (tactical EQ), company intro (AcquiMatch), role as acquisition matchmaker, service overview
+- Classification: KEEP
+- Reason: Business-relevant intro and positioning
+
+Block D: Lines 68-114
+- Content: Speaker background, searcher experience, losing a deal story, service capacity note, part-one reference
+- Classification: KEEP
+- Reason: Establishes credibility; directly relevant to buyer education
+
+Block E: Lines 115-126
+- Content: Agenda (reality check, brand, broker relationships, seller mindset, strategy)
+- Classification: KEEP
+
+Block F: Lines 127-217
+- Content: Reality check about brokers, market dynamics, perception of “searchers,” being vetted
+- Classification: KEEP
+
+Block G: Lines 218-260
+- Content: Poker tournament analogy, buyer competition, reading the CIM (sim), due diligence fallout stat
+- Classification: KEEP
+
+Block H: Lines 261-314
+- Content: Brand positioning, standout analogy (cars), know-like-trust
+- Classification: KEEP
+
+Block I: Lines 315-343
+- Content: Hero’s journey framework applied to brokers/sellers
+- Classification: KEEP
+
+Block J: Lines 344-371
+- Content: Brokers as bouncers; electronic music/club anecdote illustrating gatekeeping
+- Classification: MIXED (see Borderline #1)
+
+Block K: Lines 372-423
+- Content: “Don’t be an a*****e,” no “pick your brain” asks; engage via deals
+- Classification: KEEP
+
+Block L: Lines 429-434
+- Content: Slide control mishap and reassurance
+- Classification: REMOVE (see Removal #1)
+
+Block M: Lines 435-671
+- Content: How to engage seriously, connect to specific business, do homework, communication cadence, seriousness signals
+- Classification: KEEP
+
+Block N: Lines 672-725
+- Content: Dating/second-date anecdote to illustrate experience shaping; client example of winning over broker
+- Classification: MIXED (see Borderline #2)
+
+Block O: Lines 726-768
+- Content: Broker process questions; “Anything I should have asked?” meta-question
+- Classification: KEEP
+
+Block P: Lines 769-815
+- Content: Transition to seller mindset; emotional aspects; “divorce” analogy
+- Classification: KEEP
+
+Block Q: Lines 816-927
+- Content: Dating stages applied to deal stages; site visit; secret shopping within NDA; proposal (LOI)
+- Classification: KEEP
+
+Block R: Lines 928-1020
+- Content: Move from transactional to relational; trust first; meet/negotiating in person; video cover letters
+- Classification: KEEP
+
+Block S: Lines 1021-1040
+- Content: Gestures, connecting to seller’s “why,” consider therapy under stress
+- Classification: KEEP
+
+Block T: Lines 1041-1164
+- Content: Q&A introduction; handout logistics; 2% succeed question; grit/resilience discussion
+- Classification: KEEP
+
+Block U: Lines 1165-1169
+- Content: Attendee thanks (“this has helped immensely”)
+- Classification: REMOVE (see Removal #2)
+
+Block V: Lines 1170-1234
+- Content: Prioritizing steps when LOIs come quickly
+- Classification: KEEP
+
+Block W: Lines 1235-1410
+- Content: Pessimism vs optimism; grit; using risk focus productively; example of independent sponsor; worst-case modeling approach
+- Classification: KEEP
+
+Block X: Lines 1411-1451
+- Content: Book recommendations; misheard title corrected later
+- Classification: KEEP
+
+Block Y: Lines 1452-1497
+- Content: Business therapist clarification (therapist vs coach); selecting a therapist suited to entrepreneurs
+- Classification: KEEP
+
+Block Z: Lines 1498-1533
+- Content: Closing remarks, delivery timeline, links to part one, waitlist prompt, acknowledgments
+- Classification: KEEP
+
+
+REMOVALS
+
+[REMOVAL #1 - Type: Off-Topic/Technical]
+Location: Lines 429-434
+Speakers involved: Athena, Host
+Content excerpt:
+"Athena: but just on that note, like, um, oh, I keep doing this.
+Athena: I exited out of the slides, my bad, get back into that.
+Athena: There's this button that's like a escape button
+... and it takes me outta the moment.
+Host: Um, we're still with you Athena. Great."
+Reasoning:
+Purely technical interruption about slide controls; no business value.
+Context impact: None—removal does not affect comprehension of surrounding content.
+Recommended action: REMOVE lines 429-434
+
+---
+[REMOVAL #2 - Type: Small Talk/Non-substantive]
+Location: Lines 1165-1169
+Speakers involved: Attendee (via host)
+Content excerpt:
+"Jonathan says very timely. I have a big seller meeting in a couple hours and this has helped immensely. Not a question, just a thank you."
+Reasoning:
+Single attendee gratitude comment; no informational or educational content.
+Context impact: None—Q&A continues with substantive questions afterward.
+Recommended action: REMOVE lines 1165-1169
+
+---
+
+
+BORDERLINE SEGMENTS - Requires Review
+
+[BORDERLINE #1 - Requires Review]
+Location: Lines 344-371
+Content excerpt: "Brokers are the bouncers... story about electronic music clubs, making friends with bouncers to skip long lines..."
+Business relevance argument: Serves as an analogy to broker gatekeeping and the value of building rapport to gain access; ties directly back to deal process behavior.
+Personal content argument: Extended personal anecdote about youth/club culture is tangential and non-business specific.
+Recommendation: KEEP—Despite being personal, it effectively illustrates a core strategic point (treat brokers like gatekeepers; build relationships).
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: Lines 671-725
+Content excerpt: "Dating story about a friend always getting second dates by ensuring the other person had a great time; flipping from red-flag hunting to showing up positively; client example winning in-person meeting."
+Business relevance argument: Communicates the mindset and behaviors that improve broker/seller interactions; includes a direct case where it influenced access.
+Personal content argument: Long dating anecdote could be seen as off-topic.
+Recommendation: KEEP—Strongly supports the “tactical EQ” theme with a concrete behavioral model and a relevant outcome.
+
+---
+
+
+SPEAKER ATTRIBUTION AND CONSISTENCY NOTES
+
+- General: Speaker names are not consistently labeled; however, turn-taking appears logical (Host introduces, Athena presents, Host moderates Q&A).
+- Line 66: “as will mention, will mentioned.” likely should be “as Will mentioned.” Minor capitalization and duplication artifact.
+- Availability contradiction (Lines 1047 vs 1512): Needs source verification; might result from ASR error or from a misspeak later in the webinar.
+
+
+PATTERN/ASR INSIGHTS FOR SYSTEM IMPROVEMENT
+
+- Brand/name fragmentation: “AcquiMatch” often rendered as “Acqui Match,” “a iMatch,” “Aquabatch.” Suggest adding domain-specific lexicon entries and biasing language model toward “AcquiMatch.”
+- M&A acronyms: “CIM” consistently transcribed as “sim.” Add CIM and SMB M&A terminology (LOI, CIM, NDA, EBITDA, MOIC) to vocabulary with higher weights.
+- Financial/business indices: “FTSE 100” rendered as “E 100”; add FTSE, S&P, and similar to lexicon.
+- Common surnames in entrepreneurship: “Hormozi” transcribed as “Hormo.” Add high-frequency creator names (e.g., Hormozi).
+- Proper nouns and book titles: “Existential Kink” initially “Existential Camp” then corrected; “E-Squared” should be hyphenated/capitalized; consider boosting recognition for popular business/mindset books.
+- Punctuation around acronyms: “LOII say” vs “LOI. I say” indicates missing sentence boundary detection; improve prosody-based segmentation to reduce acronym+period confusion.
+- Homophones: “stalk their social media” heard as “stock.” Increase disambiguation using semantic context for verbs around “social media.”
+
+
+SUMMARY
+
+- Critical errors identified: Misnaming of AcquiMatch, mishearing of CIM, distorted institutional names (FTSE), contradictory client availability dates, misrendered LOI sentence boundary.
+- Removals: Two short, non-business segments (technical glitch; attendee thanks).
+- Most content is strongly business-relevant, even when presented via personal analogies; recommended to keep for educational value.

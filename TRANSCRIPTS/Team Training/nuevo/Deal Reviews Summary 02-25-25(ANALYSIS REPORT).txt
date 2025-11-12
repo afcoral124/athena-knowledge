@@ -1,0 +1,298 @@
+Below is an error and relevance analysis of the provided transcript. I focus on identifying likely ASR errors and mapping which segments are business-relevant vs. off-topic.
+
+ASR Error Reports
+
+---
+[Error #1 - Category: Entity name + Semantic]
+Location: 05:39 / Speaker: Athena Simpson
+Transcript excerpt: "This weird guild normally takes this video off and he didn't today. That's why I didn't call on him..."
+Issue: “guild” appears to be a mis-transcription of the client’s name “Gil,” and “this video off” is semantically odd.
+Likely intended: “Gil normally keeps his video off and he didn’t today.”
+Confidence: High
+Reasoning: The conversation repeatedly references a client named Gil; “guild” does not fit. “Keeps his video off” aligns with typical meeting/call context.
+Impact: Medium — affects clarity about who is being referenced and why he wasn’t called on.
+
+---
+[Error #2 - Category: Misheard Acronym/Term]
+Location: 06:41 / Speaker: Luke Gillespie
+Transcript excerpt: "...signed on to be the ID provider for the entire school district."
+Issue: “ID provider” in this context likely should be IT provider.
+Likely intended: “IT provider”
+Confidence: High
+Reasoning: The discussion is about IT services/ERP systems for a school district; “ID provider” does not fit the domain.
+Impact: High — changes the business function being discussed.
+
+---
+[Error #3 - Category: Misheard Financial Acronym]
+Location: 06:41 / Speaker: Luke Gillespie
+Transcript excerpt: "...cash flow would look like for Gil at the end of the day, 1.8DSER."
+Issue: “DSER” is likely a mis-transcription of DSCR (Debt Service Coverage Ratio).
+Likely intended: “1.8 DSCR”
+Confidence: High
+Reasoning: DSCR is a standard acquisition financing metric; “DSER” is not standard in this context.
+Impact: High — key financing metric misreported.
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: 08:12 / Speaker: Athena Simpson
+Transcript excerpt: "Have yachts to customer concentration that clients might not understand..."
+Issue: “Have yachts” is nonsensical. Likely “caveats.”
+Likely intended: “There are caveats to customer concentration...”
+Confidence: High
+Reasoning: Fits the intended meaning of nuances and risk gradations.
+Impact: Medium — clarity of a core risk concept.
+
+---
+[Error #5 - Category: Semantic/Terminology]
+Location: 08:58 / Speaker: Luke Gillespie
+Transcript excerpt: "The contract is anticipatorily renewable ensuring long-term stability..."
+Issue: “anticipatorily renewable” is awkward and likely incorrect phrasing.
+Likely intended: “anticipated to be renewable” or “automatically renewable”
+Confidence: Medium
+Reasoning: Renewal mechanics are being discussed; the phrase is nonstandard in contract contexts.
+Impact: Medium — could mislead about renewal certainty/terms.
+
+---
+[Error #6 - Category: Homophone/Word Error]
+Location: 08:58 / Speaker: Luke Gillespie
+Transcript excerpt: "...he also has a private IT company... just started up this country for us to take over..."
+Issue: “country” should be “company.”
+Likely intended: “...started up this company...”
+Confidence: High
+Reasoning: Fits the narrative (entity creation), not geographical reference.
+Impact: Low-Medium — local clarity.
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: 12:45 / Speaker: Luke Gillespie
+Transcript excerpt: "...the numbers are funky because they were combing me with funds."
+Issue: “combing me with funds” likely “commingling funds.”
+Likely intended: “...they were commingling funds.”
+Confidence: High
+Reasoning: Commingling is a common accounting/controls issue in small businesses.
+Impact: High — material to financial clarity and risk.
+
+---
+[Error #8 - Category: Word Choice]
+Location: 16:15 / Speaker: Athena Simpson
+Transcript excerpt: "Did you have a good reporter with a broker at this point?"
+Issue: “reporter” should be “rapport.”
+Likely intended: “Did you have good rapport with the broker at this point?”
+Confidence: High
+Reasoning: Rapport aligns with the relationship-building discussion.
+Impact: Medium — clarity of guidance.
+
+---
+[Error #9 - Category: Semantic Inconsistency]
+Location: 18:06 / Speaker: Luke Gillespie
+Transcript excerpt: "...very important on the why are they selling diamond?"
+Issue: “diamond” at the end of this phrase is nonsensical.
+Likely intended: Emphasis on “Why are they selling?” (possibly “dynamic” or no trailing word)
+Confidence: Low
+Reasoning: Could be verbal filler misheard. The intent is to stress the “why sell” question.
+Impact: Low — minor confusion.
+
+---
+[Error #10 - Category: Misheard Acronym/Process Term]
+Location: 20:14 / Speaker: Luke Gillespie
+Transcript excerpt: "I just control left in the sim and wasn't mentioned."
+Issue: Likely “Ctrl+F in the CIM (Confidential Information Memorandum),” not “sim.”
+Likely intended: “I just Ctrl+F’d the CIM and it wasn’t mentioned.”
+Confidence: High
+Reasoning: CIM is the standard document; “sim” is an ASR artifact. “Control left” = “Ctrl+F.”
+Impact: Medium — documentation reference clarity.
+
+---
+[Error #11 - Category: Entity/Role Misheard]
+Location: 31:15 / Speaker: Luke Gillespie
+Transcript excerpt: "The brother said they have it under the books."
+Issue: “brother” should be “broker.”
+Likely intended: “The broker said...”
+Confidence: High
+Reasoning: Consistent with prior references and role in the deal.
+Impact: Medium — attribution clarity.
+
+---
+[Error #12 - Category: Word Mishearing]
+Location: 32:55 / Speaker: Athena Simpson
+Transcript excerpt: "broker was kg or was keeping his cards close to his chest..."
+Issue: “kg” should be “cagey.”
+Likely intended: “broker was cagey...”
+Confidence: High
+Reasoning: Common descriptor for withholding detail.
+Impact: Low — minor, but clearer.
+
+---
+[Error #13 - Category: Semantic Inconsistency]
+Location: 48:00 / Speaker: AcquiMatch Team
+Transcript excerpt: "Everybody, but we only have one for JB. So we're still buying there."
+Issue: “buying” likely intended “behind.”
+Likely intended: “...we’re still behind there.”
+Confidence: Medium
+Reasoning: Context is pipeline status, not purchasing activity.
+Impact: Low-Medium — status clarity.
+
+---
+[Error #14 - Category: Misheard Phrase]
+Location: 55:29 / Speaker: Luke Gillespie
+Transcript excerpt: "She just got our we just got the pre poll letter yesterday."
+Issue: “pre poll” should be “pre-qual” or “pre-approval.”
+Likely intended: “SBA pre-qual letter” (supported by 55:34 reference)
+Confidence: High
+Reasoning: SBA pre-qualification letter is a standard item.
+Impact: High — financing readiness clarity.
+
+---
+[Error #15 - Category: Word Mishearing]
+Location: 01:25:06 / Speaker: Athena Simpson
+Transcript excerpt: "That's certainly IT guide. I just don't think he's as comfortable..."
+Issue: “IT guide” should be “IT guy.”
+Likely intended: “IT guy”
+Confidence: High
+Reasoning: Colloquial reference to a person’s background.
+Impact: Low
+
+---
+[Error #16 - Category: Closing Phrase Misheard]
+Location: 01:27:32 / Speaker: Athena Simpson
+Transcript excerpt: "Have a good Yesterday, we'll see you guys on Thursday."
+Issue: “Yesterday” is clearly wrong in this context.
+Likely intended: “Have a good rest of your day...”
+Confidence: High
+Reasoning: Standard meeting close phrasing; “yesterday” is temporal nonsense.
+Impact: Low
+
+---
+[Error #17 - Category: Redundant/Misphrased Term]
+Location: 05:39 / Speaker: Athena Simpson
+Transcript excerpt: "...talk about customer concentration, but Luke and I were just briefly talking about that. before you join the call today."
+Issue: Minor truncation and repetition; also earlier “customer conference concentration” (redundant).
+Likely intended: Clean phrase without duplicated “conference/concentration.”
+Confidence: Medium
+Reasoning: Disfluency likely due to ASR; not content-changing.
+Impact: Low
+
+---
+[Error #18 - Category: Truncation/Omission]
+Location: 06:41 / Speaker: Luke Gillespie
+Transcript excerpt: "What exactly their point of contact is on the school."
+Issue: Truncated sentence.
+Likely intended: “...what exactly their point of contact is at the school/district.”
+Confidence: High
+Reasoning: Incomplete, but intent is clear.
+Impact: Low-Medium
+
+Pattern note: The ASR repeatedly mishears core deal terms/acronyms and proper nouns: DSCR→DSER, CIM→sim, caveats→“have yachts,” commingling→“combing,” broker→brother, Gil→guild. This suggests the model struggles with M&A jargon and proper names—worth targeted ASR tuning.
+
+
+Segment Mapping (KEEP/REMOVE/MIXED)
+
+Block 1
+- Time: 00:15–05:02
+- Topic: Pets, travel/house-sitting (TrustedHousesitters), personal travel hacks
+- Classification: REMOVE (Personal/Off-Topic)
+- Notes: Extended personal anecdotes; no business acquisition/financing content.
+
+Block 2
+- Time: 05:02–05:39
+- Topic: Meeting prep cadence, Tuesday summaries
+- Classification: KEEP (Operations/process relevant)
+
+Block 3
+- Time: 05:39–10:45
+- Topic: Customer concentration risk; Nevada school district IT MSP; revenue, lender, DSCR, relationship transfer, deal structure to mitigate risk
+- Classification: KEEP (Core deal analysis/financing)
+
+Block 4
+- Time: 10:45–21:37
+- Topic: Remote ops; owner’s second company; commingling; reason for selling; non-compete; buyer coaching on probing “why sell”
+- Classification: KEEP (Deal risk, structure, negotiation strategy)
+
+Block 5
+- Time: 23:27–26:18
+- Topic: Customer concentration nuance (multiple budget holders vs single payer); vetting questions
+- Classification: KEEP (Educational/strategy)
+
+Block 6
+- Time: 26:21–33:40
+- Topic: Coaching buyer call tactics; ignoring “future upside” until past performance clears; broker incentives; clarification section in write-ups
+- Classification: KEEP (Process/strategy)
+
+Block 7
+- Time: 33:40–37:18
+- Topic: “Falling in love with potential” analogy; buyer psychology
+- Classification: MIXED (Predominantly business education with personal relationship analogies)
+
+Block 8
+- Time: 37:18–48:47
+- Topic: Client pipeline/status; minimums; prioritization; deal sourcing; internal ops
+- Classification: KEEP (Operations/client delivery)
+
+Block 9
+- Time: 48:47–55:18
+- Topic: Deal pipeline (DL/JB/Jason), private jet brokerage suitability (sales vs transactional), discovery questions
+- Classification: KEEP (Deal fit/strategy)
+
+Block 10
+- Time: 55:18–57:14
+- Topic: Client JJ (SBA pre-qual letter), reactivating her search (RFIs), timeline management
+- Classification: KEEP (Client ops/financing)
+
+Block 11
+- Time: 57:21–1:26:31
+- Topic: Off-market deal with Justin; LOI vs APA; missteps; seller trust; salvage plan; coaching expectations; reputational considerations
+- Classification: KEEP (Critical deal execution lessons)
+
+Block 12
+- Time: 1:26:31–1:28:33
+- Topic: Debrief/learning; scheduling; brief closings
+- Classification: KEEP (Ops/closure)
+
+
+Removals
+
+---
+[REMOVAL #1 - Type: Personal/Off-Topic/Small Talk]
+Location: 00:15–05:02
+Speakers involved: Athena Simpson, Luke Gillespie, David R
+Content excerpt:
+"Athena: I love the idea of puppies not the reality of them though.
+Luke: Oh, really? Why not?
+Athena: Because it's a ton of work... like training a dog properly...
+[... extensive discussion about pets, travel, TrustedHousesitters, house-sitting experiences, cleaning houses, premium membership, travel hack ...]
+Luke: Yeah, cool. I definitely wanted to. I do so."
+Reasoning:
+Extended personal conversation about pets, house-sitting, and travel hacks with no connection to M&A, deal analysis, or client engagements.
+Context impact: None — business discussion begins at 05:02 and is self-contained.
+Recommended action: REMOVE 00:15–05:02
+
+
+Borderline (Requires Review)
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: 33:40–37:09
+Content excerpt: "…don’t try to change your partner and be happy with who they are… people fall in love with the potential… that’s a recipe for bankruptcy…"
+Business relevance argument: Serves as a clear educational analogy warning buyers against overvaluing “potential” vs. current-state performance — directly tied to acquisition strategy.
+Personal content argument: Uses relationship/partner analogies and generalized comments (e.g., about women) that are personal in tone.
+Recommendation: KEEP — Despite the personal tone, it communicates a critical due-diligence mindset and aligns with client coaching.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 38:41–41:00
+Content excerpt: "...I was in Bali… scarcity mindset… the adrenaline kicks in when you like a business… dating analogy about fear of losing…"
+Business relevance argument: Personal anecdote used to illustrate buyer psychology (scarcity, anxiety, emotional bias) that can derail deals — practical client coaching.
+Personal content argument: Long personal narrative (vacation/dating).
+Recommendation: KEEP — The anecdote supports strategic guidance about managing emotions during deal processes. If trimming is needed, keep the core insight and reduce the anecdote length in a refinement pass.
+
+
+Speaker Attribution and Flow Notes
+
+- No definitive speaker swaps detected; “AcquiMatch Team” appears to represent Ryan (and occasionally group), which is consistent within this meeting context.
+- Several lines show truncations/omissions (“web set up,” “point of contact is on the school,” stray “her.”), consistent with ASR chopping phrases, but they don’t break the core business logic.
+
+
+Additional Observations (ASR Pattern)
+- Frequent mishearing of core deal/finance acronyms and documents: DSCR→DSER; CIM→sim; R/P terms (RFP fine, but “anticipatorily renewable” is odd); “pre-qual/pre-approval”→“pre poll.”
+- Repeated distortion of business/legal/accounting terms: caveats→“have yachts”; commingling→“combing me.”
+- Proper nouns/roles: broker→brother; Gil→guild. These materially affect clarity in deal contexts and should be prioritized for correction in a refinement pass.

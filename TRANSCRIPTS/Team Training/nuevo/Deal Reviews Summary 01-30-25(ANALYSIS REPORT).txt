@@ -1,0 +1,282 @@
+Segment mapping (by timestamp)
+- 0:00–1:45 KEEP: Internal process and meeting content; LOI timing; directing buyers to resources.
+- 1:45–6:26 KEEP: Equity injection language for lenders; how to position AcquiMatch fees; referral process doc.
+- 6:26–10:53 KEEP (low clarity in parts): Client updates (coach/lender calls, Brian’s business seasonality); JB/JJ deal/offer updates.
+- 10:53–13:43 KEEP: Lender strategy and ranking (Wendy, Tuni, Matthias); broker vs direct-to-lender guidance.
+- 13:43–14:14 KEEP: Meeting logistics; handoff to Luke.
+- 14:09–14:26 REMOVE: Pure small talk (traffic/appointments).
+- 14:26–~15:47 REMOVE: Personal travel/health anecdotes (Miami, antibiotics, boyfriend).
+- ~15:47–~20:00 MIXED: Event/mentorship/leadership discussion; contains transferable business insights (off-market lead gen, company culture/operations) intertwined with personal narrative.
+- ~20:00–~21:00 MIXED: ROI of coaching (business-relevant) mixed with extended praise/thanks (less relevant).
+- ~21:00–~23:09 REMOVE: Extended team-culture praise, sickness feelings, Christmas gift—personal/HR content not tied to deals.
+- 23:09–24:59 KEEP: Market insight about competitor (Acquira) and deal flow quality—relevant context.
+- 25:00–26:10 KEEP: SP commercial fencing deal summary and next steps (NDA/write-ups).
+- 26:19–33:57 KEEP: Andrew’s pipeline (online business SDE change, diesel repair shop), broker behavior, proposed process; strategy on timing/competitiveness.
+- 33:57–34:55 KEEP: Wrap-up/next steps (brief professional closing).
+
+Detected transcription errors
+
+[Error #1 - Category: Misheard Acronym]
+Location: 1:00 / Speaker: AcquiMatch Team
+Transcript excerpt: "you're staring down the barrel of an L.A.I. just signed an L.A.I."
+Issue: “L.A.I.” appears in an M&A context where LOI is standard.
+Likely intended: “LOI”
+Confidence: High
+Reasoning: LOI (Letter of Intent) is the correct term for deals; L.A.I. has no relevant meaning here.
+Impact: High
+
+[Error #2 - Category: Speaker Misattribution]
+Location: 1:17 / Speaker label shows: Luke Gillespie
+Transcript excerpt: "What'd you think of that, Luke? Well, yeah, it was awesome..."
+Issue: The line starts by addressing “Luke,” yet is attributed to Luke.
+Likely intended: First sentence by Athena; then Luke’s response begins at “Well, yeah…”
+Confidence: High
+Reasoning: A speaker would not address themselves in second person; turn-taking suggests mislabel.
+Impact: Medium
+
+[Error #3 - Category: Business Terminology Distortion]
+Location: 2:13 / Speaker: AcquiMatch Team
+Transcript excerpt: "we talked about the cylinder who doesn't work with her"
+Issue: “cylinder” and “with her” don’t fit; this is about lenders.
+Likely intended: “the lender who doesn’t know us/doesn’t work with us”
+Confidence: High
+Reasoning: The surrounding context is about lenders and equity injection positioning.
+Impact: High
+
+[Error #4 - Category: Entity Name]
+Location: 1:17 / Speaker: Luke Gillespie
+Transcript excerpt: "have Uncle Hop in the channel"
+Issue: “Uncle” is likely a mishearing of a team member’s name.
+Likely intended: “have Anka hop in the channel”
+Confidence: High
+Reasoning: “Anka” is referenced multiple times as a teammate handling emails.
+Impact: Medium
+
+[Error #5 - Category: Omission/Truncation]
+Location: 6:26 / Speaker: AcquiMatch Team
+Transcript excerpt: "Um, then just updates, uh, uh, a coach who encourage tomorrow morning."
+Issue: Fragmented and semantically unclear sentence.
+Likely intended: A scheduling update (e.g., “a call with [coach/name] tomorrow morning”).
+Confidence: Medium
+Reasoning: Typical internal update; missing words obscure meaning.
+Impact: Medium
+
+[Error #6 - Category: Omission/Truncation]
+Location: 6:48 / Speaker: AcquiMatch Team
+Transcript excerpt: "Brian in, I got him on the call today. I call with him and just, uh, yeah, it would be discussed just like kind of."
+Issue: Multiple truncations; key meaning is lost.
+Likely intended: “I got Brian on a call today and we discussed [topic].”
+Confidence: Medium
+Reasoning: Pattern suggests ASR dropped words/clauses.
+Impact: Medium
+
+[Error #7 - Category: Misheard Acronym/Term]
+Location: 8:46 / Speaker: AcquiMatch Team
+Transcript excerpt: "JB, let's submit it to the law. I think both doctors look really good."
+Issue: “law” and “doctors” don’t fit deal context.
+Likely intended: “JB submitted two LOIs. I think both structures/offers look really good.”
+Confidence: Medium
+Reasoning: LOI and “structures/offers” are appropriate terms; phonetic confusion likely.
+Impact: High
+
+[Error #8 - Category: Financial/Numerical Term Distortion]
+Location: 8:46–9:10 / Speaker: AcquiMatch Team
+Transcript excerpt: "two offers ... a 2.1 and a 2.5 complete dollar deal ... One is literally 5% no, all cash, SBA. And the other one's 2.5 with a big seller, no"
+Issue: Multiple distortions: “complete dollar deal,” “5% no,” “seller, no.”
+Likely intended: 
+- “2.1 and 2.5 [million]” (offers)
+- “5% note” (seller note) 
+- “big seller note”
+Confidence: 
+- Amounts: High
+- “complete dollar deal”: Low (unclear)
+- “no” vs “note”: High
+Reasoning: “Seller note” is standard; “all cash, SBA” is semantically odd—may indicate additional mishearing.
+Impact: High
+
+[Error #9 - Category: Cross-Reference Inconsistency]
+Location: 8:46 and 9:51 / Speaker: AcquiMatch Team
+Transcript excerpt: "And then JB..." vs. "And yeah, JJ is still working through her."
+Issue: JB vs JJ referents unclear—possibly same client misheard differently.
+Likely intended: One consistent name (JB or JJ).
+Confidence: Medium
+Reasoning: Close proximity, similar context; could cause confusion about which client is being discussed.
+Impact: Medium
+
+[Error #10 - Category: Misheard Acronym]
+Location: 9:51 / Speaker: AcquiMatch Team
+Transcript excerpt: "Talk to me about L.O. by sort of her structure"
+Issue: “L.O. by” is likely LOI.
+Likely intended: “Talked to me about LOI...”
+Confidence: High
+Reasoning: Consistent with deal process discussion.
+Impact: High
+
+[Error #11 - Category: Omission/Truncation]
+Location: 9:51 / Speaker: AcquiMatch Team
+Transcript excerpt: "She's about to follow him in the volume side meeting with them."
+Issue: Phrasing nonsensical.
+Likely intended: Something like “follow up on the buy-side meeting” or “valuation-side.”
+Confidence: Low-Medium
+Reasoning: ASR likely mangled “buy-side/valuation-side.”
+Impact: Medium
+
+[Error #12 - Category: Entity Name]
+Location: 10:53 / Speaker: Athena Simpson
+Transcript excerpt: "Live Oaks Head of Credit has already approved this."
+Issue: Entity capitalization and form likely off.
+Likely intended: “Live Oak’s Head of Credit...”
+Confidence: High
+Reasoning: Live Oak Bank is a well-known SBA lender.
+Impact: Low-Medium
+
+[Error #13 - Category: Homophone/Near-homophone]
+Location: 11:55 / Speaker: AcquiMatch Team
+Transcript excerpt: "rank on the shape that I'll put together"
+Issue: “shape” should be “sheet.”
+Likely intended: “rank on the sheet...”
+Confidence: High
+Reasoning: Refers to a lender ranking sheet mentioned by Athena.
+Impact: Low
+
+[Error #14 - Category: Business Terminology Distortion]
+Location: 12:12 / Speaker: Athena Simpson
+Transcript excerpt: "We get much less of a reference. for Alfie because Matthias works off the lending referral fees."
+Issue: “reference”/“Alfie” don’t fit; likely “referral fee.”
+Likely intended: “We get much less of a referral fee because Matthias works off lending referral fees.”
+Confidence: Medium
+Reasoning: Industry wording is “referral fee;” “Alfie” likely “a referral fee.”
+Impact: Medium
+
+[Error #15 - Category: Omission]
+Location: 14:26 / Speaker: Luke Gillespie
+Transcript excerpt: "How long are going to leave Miami for?"
+Issue: Missing pronoun.
+Likely intended: “How long are you going to leave Miami for?”
+Confidence: High
+Reasoning: Common ASR omission.
+Impact: Low
+
+[Error #16 - Category: Entity Names]
+Location: 16:xx–20:00 / Speaker: Athena Simpson
+Transcript excerpt: "Layla Formosi's podcast... the president who's this guy, Sharon... acquisition.com"
+Issue: Multiple entity/name misspellings.
+Likely intended: “Leila Hormozi,” “Sharran Srivatsaa,” “Acquisition.com”
+Confidence: High
+Reasoning: Public figures/brands; phonetic errors are common.
+Impact: Medium
+
+[Error #17 - Category: Entity Name]
+Location: 23:09–24:30 / Speaker: Athena Simpson
+Transcript excerpt: "guy who worked with Aquira"
+Issue: Company name likely misspelled.
+Likely intended: “Acquira”
+Confidence: High
+Reasoning: Known acquisition program; context matches.
+Impact: Medium
+
+[Error #18 - Category: Financial Terminology]
+Location: 28:16 / Speaker: Luke Gillespie
+Transcript excerpt: "it has like a million dollars adjusted even to SD"
+Issue: Non-standard phrase.
+Likely intended: “adjusted EBITDA” or “adjusted SDE”
+Confidence: High (that it’s wrong), Low (which metric)
+Reasoning: EBITDA/SDE are standard; “even to SD” is not.
+Impact: High
+
+[Error #19 - Category: Misheard Term]
+Location: 29:47 / Speaker: Athena Simpson
+Transcript excerpt: "So it's the five acts."
+Issue: “five acts” in valuation context.
+Likely intended: “5x”
+Confidence: High
+Reasoning: Multiples are expressed as “x.”
+Impact: Medium
+
+[Error #20 - Category: Temporal/Numerical Inconsistency]
+Location: 26:19 / Speaker: Luke Gillespie
+Transcript excerpt: "updated year in financials 24 and it was lower than expected"
+Issue: “year in financials 24” unclear; possibly wrong year or “year-end.”
+Likely intended: “updated year-end financials ’23” (or “2024 YTD” if applicable)
+Confidence: Low-Medium
+Reasoning: It’s January; “year-end 2024” unlikely; could be ‘23 or preliminary ’24.
+Impact: Medium
+
+[Error #21 - Category: Business Terminology Distortion]
+Location: 0:00 / Speaker: Athena Simpson
+Transcript excerpt: "so many buyers cause meetings"
+Issue: “cause” likely misheard.
+Likely intended: “buyers calls meetings” or “Buyers Club meetings”
+Confidence: Medium
+Reasoning: Later references to “buyer’s club meetings.”
+Impact: Low-Medium
+
+[Error #22 - Category: Semantic Inconsistency]
+Location: 1:17–1:45 / Speaker: Luke/Athena
+Transcript excerpt: "clip that two minutes of Andy saying the oil spill is not a contamination"
+Issue: Phrase awkward; could be “not a concern/condemnation/contamination issue.”
+Likely intended: “oil spill is not [a deal-breaker/contamination issue]”
+Confidence: Low
+Reasoning: Environmental diligence context; unclear exact phrase.
+Impact: Low-Medium
+
+Removals
+
+[REMOVAL #1 - Type: Small Talk]
+Location: 14:09–14:26
+Speakers involved: Athena, Luke
+Content excerpt:
+"Athena: ...I got all the time for you. Okay, cool. Yeah, I was thinking max 15 minutes over so I've got to get ready and get down the road. The traffic here is unreal."
+Reasoning:
+Pure scheduling/traffic small talk; no business relevance.
+Context impact: None—conversation proceeds to next topic cleanly.
+Recommended action: REMOVE 14:09–14:26
+
+[REMOVAL #2 - Type: Personal]
+Location: 14:26–~15:47
+Speakers involved: Athena
+Content excerpt:
+"Athena: I'm coming back on Saturday. ... the antibiotics that the doctor gave me caused like burning and rashes from the sun... I stayed with my boyfriend and his son this Christmas... I need sunshine... the day I [got] here, it was like pouring rain and really cold..."
+Reasoning:
+Extended personal travel/health anecdotes; unrelated to deals/financing/operations.
+Context impact: Low—she transitions to business learnings after this.
+Recommended action: REMOVE 14:26–~15:47
+
+[REMOVAL #3 - Type: Personal/Off-Topic]
+Location: ~21:00–23:09
+Speakers involved: Athena, Luke
+Content excerpt:
+"Athena: ...Fridays are my favorite day because [I] get to hang out with all you guys... bootcamp... Christmas present that you deposited into our bank accounts..."
+"[...] it’s awesome to be able to go out and be like I have this amazing team..."
+"...I don't take sickness very well... I'm still sick... sometimes you get sick..."
+Reasoning:
+Extended team-pride/praise and health feelings; HR/rapport content not tied to specific business outcomes.
+Context impact: Low—business discussion resumes with competitor insights immediately after.
+Recommended action: REMOVE ~21:00–23:09
+
+Borderline segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~15:47–~20:00
+Content excerpt: 
+"Athena: ...business-wise, it was really successful... event yesterday was for real estate brokers... marketing, like how to get buyers and get sellers... transferable stuff for how we can get off-market leads... see how he interacts and what the company culture is like... if I were a real estate broker and I implemented everything... earning seven figures..."
+Business relevance argument: Contains strategic/educational insights (lead gen, off-market sourcing, culture/operations) potentially valuable to AcquiMatch processes.
+Personal content argument: Includes personal narrative (confession to presenter; DM offer); not necessary for deal review.
+Recommendation: KEEP core insights; REMOVE personal anecdotes within this block. If trimming, keep sentences specifically about transferable tactics for off-market lead generation and operational culture.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~20:00–~21:00
+Content excerpt:
+"Athena: ...it seems like a big expense on paper, but ROI in your business... sales coaching I got last year... the stuff I'm doing with Alex and Leila... you can see the impact..."
+Business relevance argument: Discusses ROI of coaching/programs affecting team performance and outcomes—can justify internal investments.
+Personal content argument: Followed by extended praise/gratitude exchange, which drifts from actionable business strategy.
+Recommendation: KEEP first 3–4 sentences on ROI of coaching; REMOVE subsequent praise/thanks that do not add operational value.
+
+Additional notes/patterns for ASR improvement
+- Frequent mishearing of LOI as “L.A.I.” and “L.O. by.” 
+- “Seller note” repeatedly rendered as “seller, no” or “no.”
+- Proper nouns consistently distorted: Anka→Uncle; Live Oak; Leila Hormozi; Sharran; Acquira.
+- Financial terms garbled: “adjusted even to SD” (EBITDA/SDE), “five acts” (5x).
+- Multiple truncations/omissions producing incomplete thoughts in status updates.
+
+This analysis prioritizes correcting understanding of deal structures (LOI, seller notes, offer sizes), lender positioning (consulting vs success fee), and client/broker process steps while removing extended personal small talk that doesn’t support business comprehension.

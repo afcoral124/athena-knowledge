@@ -1,0 +1,285 @@
+Below is a structured review of potential ASR/transcription errors, plus segment mapping for business relevance and any recommended removals.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Entity name/Insertion artifact]
+Location: ~00:00:45 / Speaker: Athena
+Transcript excerpt: "Matt Malone from Stone, she, Stonehenge Capital is coming to speak to us on Thursday."
+Issue: Extraneous word “she” inserted within the company name mention.
+Likely intended: "Matt Malone from Stonehenge Capital is coming to speak to us on Thursday."
+Confidence: High
+Reasoning: “she” is out of place between “Stone” and “Stonehenge”; typical ASR filler insertion.
+Impact: Low
+
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:01:20 / Speaker: Athena
+Transcript excerpt: "...do a 1 0 1. About private debt, sbs, all the like..."
+Issue: “sbs” in financing context; likely SBA or SBICs.
+Likely intended: “SBA” (or “SBICs”) depending on her intent.
+Confidence: Medium
+Reasoning: Surrounding context discusses SBA/SBIC; “sbs” is not a standard term here.
+Impact: Medium
+
+[Error #3 - Category: Numerical formatting]
+Location: ~00:01:10 / Speaker: Athena
+Transcript excerpt: "...he's agreed to come on and do a 1 0 1."
+Issue: Spaced-out digits likely ASR formatting of “101.”
+Likely intended: “101”
+Confidence: High
+Reasoning: Common phrasing (“a 101 session”).
+Impact: Low
+
+[Error #4 - Category: Entity name]
+Location: ~00:01:55 / Speaker: Athena
+Transcript excerpt: "But I would love to, um, first check in with Paul."
+Issue: Refers to “Paul” but speaker participant is “Polly.”
+Likely intended: “Polly”
+Confidence: High
+Reasoning: Subsequent turns are by “Polly”; no “Paul” participant is present.
+Impact: Medium
+
+[Error #5 - Category: Repetition artifact]
+Location: ~00:09:50 / Speaker: Polly
+Transcript excerpt: "...some of the biggest SU successes have been..."
+Issue: “SU” duplication within “successes.”
+Likely intended: “some of the biggest successes”
+Confidence: High
+Reasoning: Redundant fragment “SU” is a common ASR hiccup.
+Impact: Low
+
+[Error #6 - Category: Omission/Truncation]
+Location: ~00:11:50 / Speaker: Athena
+Transcript excerpt: "I would want see some protections around..."
+Issue: Missing “to” after “want.”
+Likely intended: “I would want to see some protections...”
+Confidence: High
+Reasoning: Grammatically required for clarity.
+Impact: Low
+
+[Error #7 - Category: Omission/Truncation]
+Location: ~00:15:35 / Speaker: Athena
+Transcript excerpt: "...assign a performance note, um, to the lo the new location one potentially..."
+Issue: Garbled phrase “to the lo the new location.”
+Likely intended: “to the new location” (or “to the location, the new one”)
+Confidence: High
+Reasoning: Natural reading in context of structuring performance-based note per location.
+Impact: Low
+
+[Error #8 - Category: Semantic inconsistency]
+Location: ~00:15:50 / Speaker: Athena
+Transcript excerpt: "...drop all the financial statements into the model. So then we can work around us..."
+Issue: “work around us” does not fit context.
+Likely intended: “work around it”
+Confidence: High
+Reasoning: Discussing working around the model/offer, not people.
+Impact: Low
+
+[Error #9 - Category: Homophone]
+Location: ~00:18:35 / Speaker: Athena
+Transcript excerpt: "...just go do a secret chop and see what it's like."
+Issue: “chop” in place of “shop.”
+Likely intended: “secret shop”
+Confidence: High
+Reasoning: Entire thread is about secret shopping the locations.
+Impact: Medium
+
+[Error #10 - Category: Misheard word]
+Location: ~00:25:05 / Speaker: Athena
+Transcript excerpt: "I think you had a burger call recently too."
+Issue: “burger” in place of “broker.”
+Likely intended: “broker call”
+Confidence: High
+Reasoning: Immediately confirmed as a broker/seller discussion.
+Impact: Medium-High (temporarily confusing)
+
+[Error #11 - Category: Misheard word]
+Location: ~00:25:20 / Speaker: Gil
+Transcript excerpt: "Uh, the protocol went well."
+Issue: “protocol” likely artifact from the earlier “burger/broker” error.
+Likely intended: “the broker call went well”
+Confidence: Medium
+Reasoning: He proceeds to describe a broker call; “protocol” is out of place.
+Impact: Medium
+
+[Error #12 - Category: Misheard Acronym]
+Location: ~00:25:30 / Speaker: Gil
+Transcript excerpt: "...there's this whole fact that's being built out with, with all the questions."
+Issue: “fact” is likely “FAQ.”
+Likely intended: “FAQ”
+Confidence: High
+Reasoning: Broker assembling answers; “FAQ” is standard term.
+Impact: Medium
+
+[Error #13 - Category: Misheard Acronym]
+Location: ~00:25:50 / Speaker: Gil
+Transcript excerpt: "he's collecting iis and then, um, he'll, he'll take it from there."
+Issue: “iis” should be “IOIs” (Indications of Interest).
+Likely intended: “IOIs”
+Confidence: High
+Reasoning: Standard M&A term referenced repeatedly in call.
+Impact: High
+
+[Error #14 - Category: Business terminology distortion]
+Location: ~00:28:05 / Speaker: Gil
+Transcript excerpt: "I don't think that, uh, I can sequence teeth into..."
+Issue: “sequence teeth into” malformation.
+Likely intended: “sink my teeth into”
+Confidence: High
+Reasoning: Common idiom in deal evaluation context.
+Impact: Medium
+
+[Error #15 - Category: Homophone]
+Location: ~00:29:15 / Speaker: Gil
+Transcript excerpt: "...except for one type of small mystery work that they have two employees for."
+Issue: “mystery work” conflicts with later “masonry work.”
+Likely intended: “masonry work”
+Confidence: High
+Reasoning: Later he clarifies “the only thing they do is masonry work.”
+Impact: High (changes understanding of services)
+
+[Error #16 - Category: Homophone/Name insertion]
+Location: ~00:29:40 / Speaker: Gil
+Transcript excerpt: "I don't think they can, uh, produce p and l Steven."
+Issue: “Steven” erroneously appended; likely “even.”
+Likely intended: “produce P&Ls even”
+Confidence: High
+Reasoning: No person named Steven involved in this sentence; phonetic confusion with “even.”
+Impact: Medium
+
+[Error #17 - Category: Homophone]
+Location: ~00:34:30 / Speaker: Athena
+Transcript excerpt: "if I need my lawn done. I want Milan done regularly..."
+Issue: “Milan” in place of “my lawn.”
+Likely intended: “my lawn”
+Confidence: High
+Reasoning: Fits the landscaping payments discussion.
+Impact: Medium
+
+[Error #18 - Category: Misheard word (service type)]
+Location: ~00:34:50 / Speaker: Gil
+Transcript excerpt: "They don't do store removal."
+Issue: “store removal” does not fit typical landscaping/masonry services.
+Likely intended: “snow removal” or “stump removal”
+Confidence: Low-Medium
+Reasoning: Both “snow” and “stump” are common; “store” is not. Exact intended unknown.
+Impact: Medium
+
+[Error #19 - Category: Homophone]
+Location: ~00:35:20 / Speaker: Gil
+Transcript excerpt: "it sounds like a mop. Like, like, like a m front."
+Issue: “mop”/“m front” in place of “mob”/“mob front.”
+Likely intended: “mob” and “mob front”
+Confidence: High
+Reasoning: Fits colloquial suspicion of illicit “front.”
+Impact: Medium
+
+[Error #20 - Category: Homophone]
+Location: ~00:38:25 / Speaker: Gil
+Transcript excerpt: "...How much does this business actually work to me?"
+Issue: “work to me” instead of “worth to me.”
+Likely intended: “worth to me”
+Confidence: High
+Reasoning: Standard valuation phrasing.
+Impact: Medium
+
+[Error #21 - Category: Misheard words]
+Location: ~00:40:35 / Speaker: Gil
+Transcript excerpt: "that income ebitda."
+Issue: “that income” likely “net income.”
+Likely intended: “net income, EBITDA”
+Confidence: Medium
+Reasoning: He is listing P&L line items.
+Impact: Low-Medium
+
+[Error #22 - Category: Misheard Acronym]
+Location: ~00:43:30 / Speaker: Athena
+Transcript excerpt: "until he gets all the DOIs?"
+Issue: “DOIs” instead of “IOIs.”
+Likely intended: “IOIs”
+Confidence: High
+Reasoning: Consistent with earlier usage.
+Impact: High
+
+[Error #23 - Category: Entity name inconsistency]
+Location: ~00:23:25-00:24:10 / Speaker: Justin
+Transcript excerpt: "...that helped the broker was what Claudia was like, oh, this is good. This is helpful..."
+Issue: “Claudia” appears though broker earlier referred to as “he.”
+Likely intended: “the broker was like, ‘this is good...’” (no name) or a different name.
+Confidence: Medium
+Reasoning: Gender/name mismatch creates confusion about which broker.
+Impact: Low-Medium
+
+PATTERN NOTES
+- IOI frequently mis-transcribed (“iis,” “DOIs”).
+- Broker misheard as “burger,” leading to downstream confusion (“protocol”).
+- Secret “shop” misheard as “chop.”
+- FAQ misheard as “fact.”
+- Multiple homophones around “masonry,” “my lawn,” “mob front,” and stray name insertion (“Steven”).
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+Segment A: 00:00:00-00:00:20
+Content: Greetings (“Hello. Hello. Welcome... Hey Justin, how’s it going?”)
+Classification: KEEP
+Reasoning: Brief professional greeting. Does not derail conversation.
+
+Segment B: 00:00:20-00:02:10
+Content: Announcement about Matt Malone/Stonehenge Capital, SBIC/SBA alternatives, Thursday session.
+Classification: KEEP
+Reasoning: Educational, financing options—core to buyer audience.
+
+Segment C: 00:02:10-00:18:50
+Content: Polly’s franchise opportunity debrief (kitchen/cabinetry), systems, AI, social media, relocation risk, secret shop advice, modeling next steps and performance note.
+Classification: KEEP
+Reasoning: Direct deal analysis, diligence approach, structuring/financing—business-critical.
+
+Segment D: 00:17:05-00:18:20
+Content: Light banter about secret shopping, Steve’s dislike of shopping, Amazon kitchen quip, prior remodel experience as benchmark.
+Classification: MIXED (mostly KEEP)
+Line-level notes:
+- KEEP: Prior remodel experience and benchmarking (relevant to secret shop assessment).
+- BORDERLINE: “If Amazon could deliver me a kitchen in two days, I’d take it.” (humor; see Borderline #1 below)
+Context impact: Low if removed, but it adds rapport and keeps flow natural.
+
+Segment E: 00:19:00-00:25:10
+Content: Justin’s updates (Hometown Roofing LOI pushback, other opportunities, negotiation approach).
+Classification: KEEP
+Reasoning: Live deal status, negotiation strategy—core content.
+
+Segment F: 00:25:10-00:46:50
+Content: Gil’s broker/seller call updates (IT services IOI gate; landscaping/masonry cash business concerns), valuation/modeling discussion, IOI vs LOI strategy, sim-to-model mapping.
+Classification: KEEP
+Reasoning: Deal screening, diligence doc requests, structuring tactics—business critical.
+
+Segment G: 00:46:50-00:49:10
+Content: Justin quick callback recap; meeting reminders; Matt’s session plug and Q&A invitation.
+Classification: KEEP
+Reasoning: Deal progress + educational resource scheduling.
+
+No HIGH PRIORITY REMOVAL segments detected. Conversation remained business-focused with only brief, context-linked banter.
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:17:45
+Content excerpt: “If Amazon could deliver me a kitchen in two days, I’d take it.”
+Business relevance argument: Light humor within a discussion about “secret shopping” a kitchen/cabinetry franchise; humanizes buyer behavior and keeps engagement.
+Personal content argument: Joke not strictly necessary for business substance.
+Recommendation: KEEP—It’s brief and contextually tied to the secret shop discussion; removing offers minimal gain and could make the flow feel abrupt.
+
+SPEAKER ATTRIBUTION VALIDATION
+- No firm evidence of swapped speakers. However:
+  - “check in with Paul” appears to misname “Polly” (Error #4).
+  - Errant “Steven” within Gil’s P&L sentence could be misrecognized speech (Error #16), not an actual speaker switch.
+  - “Claudia” name insertion conflicts with earlier male broker reference (Error #23).
+
+CROSS-REFERENCE CHECKS
+- IOI vs LOI used correctly conceptually, but IOI is repeatedly mis-transcribed (Errors #13, #22).
+- Consistent context on SBA/SBIC/private debt. One misheard acronym (“sbs,” Error #2).
+- Service type clarified as “masonry work” later; earlier “mystery work” should be treated as an ASR error (Error #15).
+
+TECHNICAL/CONFIDENCE NOTES
+- Several homophone errors and acronym slips suggest ASR confusion on industry terms (IOI/LOI/FAQ) and domain vocabulary (masonry, broker/shop).
+- Some minor truncations (“want see,” “lo the new”) likely due to overlaps or false starts.
+
+No REMOVALS recommended beyond possible trimming of the single humorous line (Borderline #1), which we advise keeping to preserve flow.

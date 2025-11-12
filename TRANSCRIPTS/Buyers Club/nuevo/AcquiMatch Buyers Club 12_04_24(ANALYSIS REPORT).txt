@@ -1,0 +1,261 @@
+[Error #1 - Category: Business Terminology Distortion]
+Location: ~00:01:00 / Speaker: Athena
+Transcript excerpt: "Hey, Polly. Cool. I'm going to share my uncle. Can you give me share requests? I took myself off from being the host..."
+Issue: Nonsensical phrase "share my uncle" and awkward "share requests" in a screen-sharing context
+Likely intended: "I'm going to share my screen. Can you give me screen-sharing rights/permission?"
+Confidence: High
+Reasoning: Immediately after, Athena asks, "Can everyone see my screen?" indicating she meant screen sharing. "Share requests" reads like an ASR substitution for "sharing rights/permissions."
+Impact: Medium - could confuse readers about actions being taken
+
+---
+[Error #2 - Category: Entity Name (Brand Spelling Inconsistency)]
+Location: ~00:01:10 / Speaker: Athena
+Transcript excerpt: "welcome to the very first Acquimatch Buyers Club."
+Issue: Inconsistent brand spelling/capitalization (“Acquimatch”)
+Likely intended: "AcquiMatch Buyers Club"
+Confidence: High
+Reasoning: Company name appears elsewhere as AcquiMatch; consistent branding matters in official materials.
+Impact: Low
+
+---
+[Error #3 - Category: Misheard Acronym/Term]
+Location: ~00:06:00-00:07:00 / Speaker: Athena
+Transcript excerpt: "...circumvention is strictly perfect prohibited."
+Issue: Extra word “perfect” renders the phrase ungrammatical
+Likely intended: "circumvention is strictly prohibited."
+Confidence: High
+Reasoning: Standard legal/housekeeping phrasing would be “strictly prohibited.”
+Impact: Medium - clarity of policy language
+
+---
+[Error #4 - Category: Homophone/Word Choice]
+Location: ~00:06:15 / Speaker: Athena
+Transcript excerpt: "Like band for life kind of material, so we don't do that."
+Issue: "band" used instead of "banned"
+Likely intended: "banned for life"
+Confidence: High
+Reasoning: Context is prohibition, not music; standard idiom is “banned for life.”
+Impact: Low
+
+---
+[Error #5 - Category: Speaker Misattribution]
+Location: ~00:03:30-00:04:15
+Transcript excerpt: "And Ana is our newest member of the team. So she is going to be my support and right hand on. I do want to say. Hi.
+Ida: Hi, guys, it's really nice to meet you. I'm located in Columbia. I hope that I will be able to help you. Give a full patina more often if you ever need it."
+Issue: Ana’s introduction appears to be labeled as “Ida,” and the preceding sentence is fragmented ("I do want to say. Hi.")
+Likely intended: Athena: "Ana is our newest member... Ana, do you want to say hi?"
+Ana: greets and shares location.
+Confidence: High
+Reasoning: Athena said Ana is the newest member and asked her to say hi, but the response is attributed to “Ida.” The fragment suggests an ASR split.
+Impact: Medium - creates confusion about who is speaking
+
+---
+[Error #6 - Category: Entity Name (Location Spelling)]
+Location: ~00:03:50-00:04:10 / Speaker: (mislabeled Ida; likely Ana)
+Transcript excerpt: "I'm located in Columbia."
+Issue: Country name misspelling
+Likely intended: "Colombia"
+Confidence: High
+Reasoning: Common ASR/spelling confusion; “Colombia” is the country; “Columbia” generally refers to other entities.
+Impact: Low
+
+---
+[Error #7 - Category: Semantic Inconsistency]
+Location: ~00:04:00 / Speaker: (mislabeled Ida; likely Ana)
+Transcript excerpt: "I hope that I will be able to help you. Give a full patina more often if you ever need it."
+Issue: Phrase “Give a full patina” is nonsensical in context
+Likely intended: Possibly “give you full support” or “give Athena support”/“give you full attention”
+Confidence: Low
+Reasoning: “Patina” does not fit; likely ASR mangled a common support phrase. Exact intended words unclear.
+Impact: Low-Medium
+
+---
+[Error #8 - Category: Misheard Name]
+Location: ~00:03:15 / Speaker: Athena
+Transcript excerpt: "Uh, you know, is the one that is making sure that things get expedited."
+Issue: “you know” used where a person’s name is intended
+Likely intended: “Ida is the one that is making sure that things get expedited.”
+Confidence: High
+Reasoning: This sentence is describing Ida’s role; “you know” likely misheard for “Ida.”
+Impact: Medium
+
+---
+[Error #9 - Category: Misheard Acronym/Term (Pattern)]
+Location: Multiple occurrences ~00:10:05; ~00:36:40; ~00:48:00+
+Transcript excerpt: 
+- "...walking through a QV report. What's in it?" 
+- "Have you gotten your you've gotten the QV report from your second one?"
+- "walk through a Q and a report... what goes into a Q report"
+Issue: “QV/Q and a/Q report” used variably and inconsistently for a due diligence document
+Likely intended: "QoE report" (Quality of Earnings report)
+Confidence: High
+Reasoning: In acquisition diligence, the standard term is Quality of Earnings (QoE). The surrounding context confirms a QoE provider and activities (tying out cash, SDE adjustments).
+Impact: High - core due diligence concept; incorrect acronym can mislead readers
+
+---
+[Error #10 - Category: Speaker Misattribution]
+Location: ~00:20:00-00:21:05 / Speaker label shows “Anke”
+Transcript excerpt: 
+"Anke: that would be my, my, my learnings."
+Issue: Speaker label appears incorrect; content continues Lindsay’s train of thought
+Likely intended: Speaker is Lindsay (continuation), not Anke
+Confidence: Medium
+Reasoning: Immediately before/after, the discussion is clearly from Lindsay; Anke is not otherwise participating in this exchange.
+Impact: Medium - confuses attributions in a testimonial/experience segment
+
+---
+[Error #11 - Category: Speaker Misattribution]
+Location: Multiple occurrences beginning ~00:17:40 and later ~00:30:00, ~00:38:20 / Label: “Jennie”
+Transcript excerpt:
+- "Jennie: Yeah. Um, so Lindsay, I'm in Austin, Texas..."
+- "Jennie: Fast. Man. I guess my other learning is like, accept the chaos."
+- "Jennie: Yeah. I was just going to say, like, I don't think I will ever do another deal without one of these."
+Issue: Speaker labeled as “Jennie” while repeatedly referring to self as Lindsay and being addressed as Lindsay by Athena
+Likely intended: Speaker is “Lindsay,” not Jennie
+Confidence: High
+Reasoning: Self-identification as Lindsay; Athena repeatedly addresses Lindsay; content continuity across segments.
+Impact: High - misleads reader about which client is speaking
+
+---
+[Error #12 - Category: Misheard Name/Entity Inconsistency]
+Location: ~00:09:25 and several later lines
+Transcript excerpt: "and then Anca, who, uh, is moving full times into operations and support."
+Issue: “Anca” vs later speaker labels “Anke” used inconsistently
+Likely intended: Consistent name (likely “Anca”)
+Confidence: Medium
+Reasoning: Initial team intro names Anca; later “Anke:” appears. Could be a different person, but no intro for “Anke.” Likely inconsistent labeling.
+Impact: Medium
+
+---
+[Error #13 - Category: Business Terminology Distortion]
+Location: ~00:26:05 / Speaker: Athena
+Transcript excerpt: "post coded adjustments so they can mimic. Drops in revenue..."
+Issue: “coded” used in context clearly about pandemic-related changes
+Likely intended: “post-COVID adjustments”
+Confidence: High
+Reasoning: Entire discussion is about pandemic spike/normalization.
+Impact: Medium
+
+---
+[Error #14 - Category: Misheard Term (Homophone) in Deal Docs]
+Location: ~00:41:05 / Speaker: Athena
+Transcript excerpt: "...bringing your modeling or bringing an ally or bringing a Q and a report..."
+Issue: “ally” in a document context is odd
+Likely intended: “LOI” (Letter of Intent)
+Confidence: High
+Reasoning: She mentions “LOIs” repeatedly elsewhere and earlier in the meeting agenda.
+Impact: Medium
+
+---
+[Error #15 - Category: Business Terminology Distortion]
+Location: ~00:46:00-00:47:00 / Speaker: Athena
+Transcript excerpt: "...they would have had to come up with an extra 400, right, rather than agreeing at the LOI stage that, you know, we're making an estimate right now and it's going to be networking capital included in the deal."
+Issue: “networking capital” used repeatedly where “(net) working capital” is intended
+Likely intended: “net working capital” (or “working capital”)
+Confidence: High
+Reasoning: The entire segment is a deep dive on working capital; “networking capital” is a common ASR confusion.
+Impact: High - key finance term during negotiations
+
+---
+[Error #16 - Category: Omission/Truncation]
+Location: ~00:22:40-00:23:05 / Speaker: Ida and Athena
+Transcript excerpt: "Ida: Maybe I tried a Polly says that it's a new computer. So she's,
+Athena: ...I think there's a call in for, for, uh, voice. Number on code, maybe with the zoom."
+Issue: Sentences cut off or missing connecting words; “Number on code” is awkward
+Likely intended: "Maybe I can try... Polly says it's a new computer..." and "There's a call-in number and code with Zoom"
+Confidence: Medium
+Reasoning: Typical ASR truncation and word-order errors during live troubleshooting.
+Impact: Low
+
+---
+[Error #17 - Category: Entity Name (Email/Org)]
+Location: ~00:55:10 / Speaker: Ida
+Transcript excerpt: "Acquimatch, um, at Undistributed Adventures..."
+Issue: Company/email domain reference appears incorrect (“Undistributed Adventures”)
+Likely intended: “Undisputed Ventures” (affiliated with Contrarian Thinking) or another official AcquiMatch domain
+Confidence: Medium
+Reasoning: “Undistributed Adventures” is not a known entity in this context; Contrarian ecosystem uses “Undisputed Ventures.” Exact intended entity should be verified.
+Impact: Medium-High - potential misdirection for contact
+
+---
+[REMOVAL #1 - Type: Off-Topic/Tech Troubleshooting]
+Location: ~00:12:05-00:12:25
+Speakers involved: Athena
+Content excerpt:
+"Athena: Oh, Polly, I don't think your microphone's working. It looks like you're talking, but we don't hear anything.
+Anyone else want to go first while Polly's, uh, Hopefully, getting her microphone sorted."
+Reasoning:
+Brief internal AV troubleshooting not relevant to acquisitions or deal content.
+Context impact: None—conversation proceeds to substantive introductions immediately after.
+Recommended action: REMOVE this short exchange
+
+---
+[REMOVAL #2 - Type: Off-Topic/Tech Troubleshooting]
+Location: ~00:22:35-00:23:10
+Speakers involved: Athena, Ida
+Content excerpt:
+"Athena: ...I think Anka might be able to help you troubleshoot.
+Ida: Maybe I tried a Polly says that it's a new computer. So she's,
+Athena: well, you can always try from your phone too. I think there's a call in for, for, uh, voice. Number on code, maybe with the zoom.
+Ida: I'll send it to you. Cool.
+Athena: Okay. Polly, you might be able to call in from your phone for audio. So I'll go, we'll start that out with you. Jason."
+Reasoning:
+Zoom audio troubleshooting and logistics; no business or educational value for acquisitions.
+Context impact: Low—removal does not affect understanding of surrounding content.
+Recommended action: REMOVE this segment
+
+---
+[REMOVAL #3 - Type: Small Talk/Off-Topic]
+Location: ~00:56:00-00:56:35
+Speakers involved: Athena, Andrew
+Content excerpt:
+"Athena: ...Are you excited? First meeting of Buyers Club? I'm, I'm, I'm pumped.
+... Andrew. Yeah. Do you get the like balloons? I never figured out how to do that again.
+Andrew: it didn't work this time. I don't know.
+Athena: It was just the peace sign. They did. I don't remember what it was, but It's not happening again."
+Reasoning:
+Discussion of Zoom reactions/emojis unrelated to business content.
+Context impact: None—this is post-wrap banter.
+Recommended action: REMOVE this segment
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: ~00:23:35-00:25:40 (Jason’s intro)
+Content excerpt: "I actually tracked down Athena through the contrarian thinking... I am one of those people that says affirmations to himself in the mirror..."
+Business relevance argument: Provides context for the client’s motivation, persistence, and expectations—useful for understanding buyer mindset; segues into deal-structuring and modeling insights.
+Personal content argument: Includes personal routines and mindset anecdotes that are not strictly technical.
+Recommendation: KEEP—The personal remarks are brief and lead directly into substantive deal approach and learning.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:00:05-00:04:30 (Team introductions)
+Content excerpt: "Luke... Ida... Ana... Anca... roles in vetting/operations..."
+Business relevance argument: Establishes the roles and support structure for clients; relevant for understanding processes and who does what.
+Personal content argument: Contains greetings and where they’re calling from, which are light pleasantries.
+Recommendation: KEEP—Introductions are directly relevant to how the service supports acquisitions.
+
+---
+Pattern/Consistency Notes
+- Repeated mishearing of “QoE” as “QV”/“Q and a” suggests a systemic ASR issue with this acronym. Consider adding a custom vocabulary to ASR for “QoE,” “Quality of Earnings,” and related terms.
+- Names/labels: Consistent issues with “Ana/Ida,” “Anca/Anke,” and “Lindsay/Jennie.” Review the entire call against video or participant list to correct speaker attributions globally.
+- Working capital terminology: “Networking capital” appears multiple times. Add “net working capital,” “NWC,” and “working capital” to ASR custom terms.
+
+Segment Mapping Summary
+- KEEP: The bulk of the meeting—agenda/housekeeping, confidentiality/NDA policies, cadence, use of templates, modeling/DSCR discussion, post-COVID normalization and performance-based seller note strategy, lender interactions, QoE education plans, working capital deep dive and AR definitions, Slack channel for client collaboration, future topic brainstorm.
+- REMOVE: Two brief Zoom audio troubleshooting segments (~00:12:05-00:12:25 and ~00:22:35-00:23:10) and the final Zoom emoji/balloons banter (~00:56:00-00:56:35).
+- MIXED: Team intros contain brief pleasantries but are largely business-relevant; recommend KEEP.
+
+Speaker Attribution Validation
+- Multiple points where responses clearly belong to Lindsay are labeled as “Jennie.” Athena and others address “Lindsay” by name; suggest reassigning those lines from “Jennie” to “Lindsay.”
+- The introduction and greeting for Ana appears under “Ida;” adjust to “Ana.”
+- “Anke” labels appear where “Lindsay” or “Athena” likely spoke; verify and correct.
+
+Cross-Reference Checks
+- Ensure “AcquiMatch” brand spelling is consistent throughout.
+- Standardize “Quality of Earnings (QoE)” on first mention, then “QoE.”
+- Replace “networking capital” with “net working capital”/“working capital” where appropriate after verification.
+
+Confidence calibration
+- High confidence: “uncle” → screen; “QV/Q and a” → QoE; “banned for life”; “post-COVID”; “networking capital”; Ana/Ida greeting misattribution; Lindsay/Jennie mislabel; “Colombia.”
+- Medium confidence: “Undistributed Adventures” domain; “Anca/Anke” vs speaker; fragmented sentences in Zoom troubleshooting.
+- Low confidence: “full patina” exact intended wording.

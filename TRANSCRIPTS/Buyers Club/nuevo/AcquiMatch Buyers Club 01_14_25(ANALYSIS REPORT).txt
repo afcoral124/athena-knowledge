@@ -1,0 +1,203 @@
+---
+[Error #1 - Category: Financial/Numerical Error]
+Location: ~[00:07:45] / Speaker: Ryan
+Transcript excerpt: "he now wanted 30M dollars instead of 2."
+Issue: 30M is inconsistent with the rest of the discussion (all figures are 2–3 million).
+Likely intended: "3M dollars instead of 2" or "2 to 3 million"
+Confidence: High
+Reasoning: All subsequent references discuss 2.5–3.0M; 30M would be implausible given size (6 FTEs, small fleet) and the valuation context.
+Impact: High
+
+---
+[Error #2 - Category: Omission/Truncation]
+Location: ~[00:07:55] / Speaker: Ryan
+Transcript excerpt: "hey, you did tell me to 3M is a pretty big push there."
+Issue: Garbled phrase; missing words around “2 to 3M.”
+Likely intended: "you did tell me 2; 3M is a pretty big push" or "you did tell me 2; 2 to 3M is a big push"
+Confidence: Medium
+Reasoning: Follows directly from the prior price shift; syntax is broken in a way typical of ASR truncation.
+Impact: Medium
+
+---
+[Error #3 - Category: Misheard Acronym]
+Location: ~[00:09:05] / Speaker: Joe
+Transcript excerpt: "we only have numbers based on three years of PNLs."
+Issue: "PNLs" should be "P&Ls" (Profit and Loss statements).
+Likely intended: "P&Ls"
+Confidence: High
+Reasoning: Standard finance acronym; “PNL” is a frequent ASR substitution.
+Impact: Medium
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~[00:13:05] / Speaker: Joe
+Transcript excerpt: "again, 5 percent of the asking price it's given me..."
+Issue: Preceded by "seller. No," suggesting truncation.
+Likely intended: "seller note" (not “seller no”)
+Confidence: High
+Reasoning: Context is financing terms and seller note percentage; the clipped “No” is prototypical ASR cut-off.
+Impact: Medium
+
+---
+[Error #5 - Category: Misheard Term (Industry/Technical)]
+Location: ~[00:23:05] / Speaker: Joe
+Transcript excerpt: "putting a 3 on in or whatever it is to service your AC unit."
+Issue: "3 on" is nonsensical in HVAC context.
+Likely intended: "Freon" (colloquial for refrigerant) or "R-410A"
+Confidence: High
+Reasoning: HVAC servicing often references refrigerant; phonetic similarity to "Freon."
+Impact: Medium
+
+---
+[Error #6 - Category: Misheard Acronym/Term]
+Location: ~[00:38:15] / Speaker: Athena
+Transcript excerpt: "they use the U. S. System and implemented, and so the business just started taking off."
+Issue: "U.S. System" is likely misheard for EOS (Entrepreneurial Operating System).
+Likely intended: "EOS system"
+Confidence: High
+Reasoning: EOS is widely used in SMB; “U.S.” vs “E-O-S” is a common ASR confusion.
+Impact: Medium
+
+---
+[Error #7 - Category: Homophone/Near-homophone]
+Location: ~[00:50:35] / Speaker: Athena
+Transcript excerpt: "which, in this case might be proofing, you know, like, I just want to go out to jobs..."
+Issue: "proofing" is wrong for the discussed industry.
+Likely intended: "roofing"
+Confidence: High
+Reasoning: The business discussed is a roofing company; “proofing” is contextually incorrect.
+Impact: Medium
+
+---
+[Error #8 - Category: Entity Name (Speaker Name Inconsistency)]
+Location: Multiple (e.g., ~[00:03:55], ~[00:10:10]) / Speakers: “Anke” vs “Anca”
+Transcript excerpt: "Anka will be able to explain..." and later speaker tag "**Anke:**"
+Issue: Speaker’s name appears as “Anka/Anke,” while others refer to “Anca.”
+Likely intended: “Anca”
+Confidence: High
+Reasoning: Repeated references by Athena to “Anca”; inconsistent spellings point to ASR variance.
+Impact: Low
+
+---
+[Error #9 - Category: Speaker Misattribution]
+Location: ~[00:00:55-00:01:05]
+Transcript excerpt:
+  Gil: "...never actually met Luke personally."
+  Chris: "Thank you. Great to meet you. I know you've been watching my videos probably."
+Issue: The response likely came from Luke (not Chris), based on context about “my videos.”
+Likely intended: Speaker should be “Luke”
+Confidence: Medium
+Reasoning: The person being “met” after Luke is named logically would be Luke; Luke is known for videos in this community.
+Impact: Medium
+
+---
+[Error #10 - Category: Misheard Acronym]
+Location: ~[00:37:15] and ~[00:57:40] / Speaker: Athena
+Transcript excerpt: "before you order a QV..." and later "...she's going to talk about Rob's..."
+Issue: "QV" likely "QoE" (Quality of Earnings); "Rob's" should be "ROBS" (Rollovers as Business Startups).
+Likely intended: "QoE"; "ROBS"
+Confidence: High
+Reasoning: Both are standard M&A/financing acronyms; ASR often mis-cases or mishears them.
+Impact: Medium
+
+---
+[Error #11 - Category: Semantic Inconsistency]
+Location: ~[00:02:35-00:03:20] / Speaker: Athena
+Transcript excerpt: "we've got a DBA, so we had to file with the entity. the government here in Texas..."
+Issue: "file with the entity, the government" is awkward and likely misheard.
+Likely intended: "file with the state (Texas Secretary of State)" or similar
+Confidence: Medium
+Reasoning: You file a DBA with the state, not “with the entity”; wording suggests ASR confusion.
+Impact: Low
+
+---
+[Error #12 - Category: Semantic/Omission]
+Location: ~[00:46:15] / Speaker: Athena
+Transcript excerpt: "be okay with the half face still there."
+Issue: Phrase is nonsensical.
+Likely intended: "have his face still there" (i.e., former owner remaining visible)
+Confidence: Medium
+Reasoning: Context is owner staying involved; “half face” is illogical, likely “have his face.”
+Impact: Low
+
+---
+[Error #13 - Category: Consistency (Brand/Proper Noun)]
+Location: Multiple (e.g., ~[00:02:05], ~[00:03:40])
+Transcript excerpt: "AcuMatch update..."; "Acquimatch..."; "Acquimatch..."
+Issue: Inconsistent spelling/capitalization of brand name.
+Likely intended: "AcquiMatch"
+Confidence: Medium
+Reasoning: Company appears as “AcquiMatch” in materials; ASR often varies casing/spelling.
+Impact: Low
+
+---
+[Error #14 - Category: Minor Temporal/Grammar]
+Location: ~[00:20:45] / Speaker: Athena
+Transcript excerpt: "your 3 year 3 is typically when you start bouncing back"
+Issue: Word order likely wrong.
+Likely intended: "by year 3" or "your year 3"
+Confidence: Medium
+Reasoning: Standard phrasing in financial ramp/J-curve discussions.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk (Weather/Greetings)]
+Location: ~[00:00:00-00:00:35]
+Speakers involved: Athena, Gil
+Content excerpt:
+"Athena: Hey, how's it going? Wonderful
+Gil: yourself.
+Athena: So good.
+Gil: Really
+Athena: good. It's it's very cold here, but
+Gil: it's it's it's cold here too.
+Athena: Up in New York."
+Reasoning:
+Pure pleasantries and weather chat without business relevance.
+Context impact: None—business agenda begins immediately after.
+Recommended action: REMOVE ~[00:00:00-00:00:35]
+
+---
+[REMOVAL #2 - Type: Small Talk]
+Location: ~[00:01:35-00:01:45]
+Speakers involved: Athena, Chris
+Content excerpt:
+"Athena: Hey, Chris. Happy New Year
+Chris: everyone happy New Year.
+Athena: Happy New Year."
+Reasoning:
+Seasonal greetings only; no business content.
+Context impact: None—conversation proceeds to updates and deal discussion.
+Recommended action: REMOVE ~[00:01:35-00:01:45]
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~[00:02:05-00:05:10]
+Content excerpt: "AcuMatch update... DBA... file in Texas... Slack URL change; may log you out; reach out to Anca..."
+Business relevance argument: Operationally important for participants (branding, email continuity, Slack access for ongoing collaboration).
+Personal content argument: Administrative detail not directly related to M&A/deal analysis.
+Recommendation: KEEP—Helps maintain continuity/access for clients; low risk to flow.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~[00:57:30-00:59:55]
+Content excerpt: "Thursday we've got Susie on ROBS... next week SMB acquirer Mike... following Thursday insurance due diligence..."
+Business relevance argument: Educational content announcements (ROBS financing, diligence) are directly relevant to buyers’ process.
+Personal content argument: Scheduling/admin announcements could be trimmed for a tighter, deal-focused transcript.
+Recommendation: KEEP—Provides actionable resources and learning opportunities; not personal chatter.
+
+---
+
+Additional notes/patterns for ASR improvement:
+- Frequent confusion on acronyms: P&L → PNL; QoE → QV; ROBS → Rob's; EOS → U.S. System.
+- Proper nouns: “Anca” rendered as “Anke/Anka”; “AcquiMatch” inconsistent spelling/casing.
+- HVAC/roofing terms: “Freon” → “3 on”; “roofing” → “proofing.”
+- Large numeric values: “30M” misheard when context is low millions; recommend numeric consistency checks against prior context.
+
+Speaker attribution validation:
+- Potential misattribution at ~[00:01:00] where “Chris” likely should be “Luke” given the “my videos” remark. Suggest reviewer confirm against attendee list/voices.
+
+Context preservation check:
+- Removing small talk segments at start and New Year greetings will not impact understanding; flow resumes with updates and deal analysis.

@@ -1,0 +1,414 @@
+Segment map (KEEP/REMOVE/MIXED)
+- 0:04–0:08: KEEP (brief professional greeting)
+- 0:08–1:41: REMOVE (extended personal small talk: walking, sunshine, Whoop, dog-walking)
+- 1:41–2:04: MIXED (transition from small talk to business; keep from “Happy start of a new month…” onward)
+- 2:06–50:01: KEEP (business-relevant throughout: deal flow, Austin market, LOIs, broker strategy, off-market sourcing, financing structures, client management, action items; includes analogies used to teach process)
+
+Detailed notes for the MIXED transition (1:41–2:04)
+- Remove: “That is one of the, like, I mean, obviously having a cute old pet around is a great advantage, but like forcing you to go outside multiple times a day. Yeah, that's cool.” (still small talk)
+- Keep: “Nice, welcome. Happy start of a new month, start of the week. speak. How are we feeling about things?” (sets meeting context and pivots to business)
+
+Removals
+[REMOVAL #1 - Type: Personal/Off-Topic Small Talk]
+Location: 0:08–1:41
+Speakers involved: Athena Simpson, Luke Gillespie, David R
+Content excerpt:
+“Athena: Good. Yeah. Outside and walked in the sunshine for 45 minutes at lunch.
+Luke: was amazing. Oh, great. Today?
+Athena: Yeah.
+… 
+David R: …I walk my dog out every three days, three times per day, sorry… it's really refrigeration, you know…”
+Reasoning:
+Extended personal conversation about walking, weather/sunshine, Whoop recovery scores, and dog-walking. No tie-in to business objectives.
+Context impact: None—discussion cleanly transitions to business planning afterwards.
+Recommended action: REMOVE 0:08–1:41
+
+Borderline segments
+[BORDERLINE #1 - Requires Review]
+Location: 1:41–2:04
+Content excerpt: “Nice, welcome. Happy start of a new month, start of the week… How are we feeling about things?”
+Business relevance argument: Provides meeting framing and transitions into business agenda.
+Personal content argument: Contains generic pleasantry.
+Recommendation: KEEP—establishes meeting context before deal discussion.
+
+ASR/transcript error reports
+[Error #1 - Category: Entity/Proper Noun]
+Location: 0:36–0:54 / Speaker: Athena, Luke
+Transcript excerpt: “my recovery score on my, do you know what loop is? … we talk about loop.”
+Issue: “loop/Loop” appears to refer to the fitness wearable “Whoop”
+Likely intended: “Whoop”
+Confidence: High
+Reasoning: Whoop is a common recovery wearable; context = recovery scores and outdoor time
+Impact: Low
+
+[Error #2 - Category: Word Choice/Homophone]
+Location: 1:21 / Speaker: David R
+Transcript excerpt: “it's really refrigeration, you know…”
+Issue: “refrigeration” is semantically wrong
+Likely intended: “refreshing”
+Confidence: High
+Reasoning: Context is walking outside; “refreshing” fits
+Impact: Low
+
+[Error #3 - Category: Word Choice]
+Location: 0:19 / Speaker: Athena
+Transcript excerpt: “get back into like a sustainable group.”
+Issue: “group” likely misheard
+Likely intended: “groove”
+Confidence: High
+Reasoning: Common idiom “back into a sustainable groove”
+Impact: Low
+
+[Error #4 - Category: Business terminology distortion]
+Location: 2:29–2:39 / Speaker: Luke
+Transcript excerpt: “in a lot of my looms… Oh, virus club… That’s why the virus thumbs are so good.”
+Issue: “virus club/virus thumbs” nonsensical in M&A context
+Likely intended: “Buyers Club” (and possibly “buyer summaries” or “buyer thumbs-ups”)
+Confidence: Medium
+Reasoning: Internal program “Buyers Club” is common; “thumbs” likely artifacts
+Impact: Medium (obscures internal references)
+
+[Error #5 - Category: Entity Name]
+Location: 2:39 / Speaker: Athena
+Transcript excerpt: “getting my mind wrapped around the rat.”
+Issue: “the rat” unclear
+Likely intended: “the deck” or “the wrap” (prep materials)
+Confidence: Low
+Reasoning: Fits prep context; exact intended word uncertain
+Impact: Low
+
+[Error #6 - Category: Entity Name]
+Location: 4:00 / Speaker: David R
+Transcript excerpt: “deal flow for justice.”
+Issue: “justice” likely misheard client
+Likely intended: “Justin” (also referenced as JG/Justin later)
+Confidence: High
+Reasoning: Justin/JG referenced multiple times
+Impact: Medium
+
+[Error #7 - Category: Entity Name]
+Location: 4:00 / Speaker: David R
+Transcript excerpt: “pull those leads that we had from Amazon and then push them into Mail Check…”
+Issue: “Amazon” and “Mail Check” unlikely sources/tools for off-market outreach
+Likely intended: “Axial” (deal platform) and “Mailshake” (email outreach)
+Confidence: Medium-High
+Reasoning: Common M&A sourcing via Axial; “Mailshake” is a known outreach tool
+Impact: Medium
+
+[Error #8 - Category: Semantic inconsistency]
+Location: 4:00 / Speaker: David R
+Transcript excerpt: “and the seams.”
+Issue: “seams” is odd in context
+Likely intended: “system” or “teams” (unclear)
+Confidence: Low
+Reasoning: Phrase plausibly “get them to Verified/the system”
+Impact: Low
+
+[Error #9 - Category: Business terminology distortion (Acronym)]
+Location: 6:23 / Speaker: Athena
+Transcript excerpt: “there's already yellow eyes on it that they're accepting…”
+Issue: “yellow eyes” is a mishear
+Likely intended: “LOIs” (Letters of Intent)
+Confidence: High
+Reasoning: Fits deal stage context; recurrent error
+Impact: High (affects core M&A meaning)
+
+[Error #10 - Category: Entity Name]
+Location: 6:23 / Speaker: Athena
+Transcript excerpt: “…you and me and on cut. I know most of the brokers in Austin…”
+Issue: “on cut” misheard name
+Likely intended: “Anka/Anca”
+Confidence: High
+Reasoning: Anka referenced elsewhere as teammate
+Impact: Low
+
+[Error #11 - Category: Business terminology distortion]
+Location: 9:06 / Speaker: Athena
+Transcript excerpt: “people must do on an off-market.”
+Issue: “on an off-market” awkward
+Likely intended: “on- and off-market”
+Confidence: Medium
+Reasoning: Policy change requires both on- and off-market efforts
+Impact: Low
+
+[Error #12 - Category: Acronym/Numeric]
+Location: 9:51–10:13 / Speaker: Luke, Team
+Transcript excerpt: “We already have an L.O.I.… You're going to stop accepting L.O.I.s?”
+Issue: Later instances spelled as “LLLs/otherwise” elsewhere; inconsistency
+Likely intended: “LOIs”
+Confidence: High
+Reasoning: Repeated LOI discussion throughout; sometimes captured as “LLLs/otherwise”
+Impact: High
+
+[Error #13 - Category: Business terminology distortion]
+Location: 10:16 / Speaker: Team
+Transcript excerpt: “How close are these L.O.I.s? Is there a do that?”
+Issue: “do that” incorrect
+Likely intended: “due date”
+Confidence: High
+Reasoning: Standard broker question = LOI timing/due date
+Impact: Medium
+
+[Error #14 - Category: Business terminology distortion]
+Location: 10:29 / Speaker: Team
+Transcript excerpt: “this is where we are in the steel.”
+Issue: “steel” incorrect
+Likely intended: “deal”
+Confidence: High
+Reasoning: Standard deal status wording
+Impact: Low
+
+[Error #15 - Category: Omission/Truncation]
+Location: 11:08–11:20 / Speaker: Team
+Transcript excerpt: “if you feel like maybe we submitted and it goes under all people in…”
+Issue: Truncated/garbled sentence obscures meaning
+Likely intended: “if we submit and it goes under LOI with other people…” or similar
+Confidence: Medium
+Reasoning: Topic = submitting in competitive situations
+Impact: Medium
+
+[Error #16 - Category: Word Choice]
+Location: 11:40 / Speaker: Athena
+Transcript excerpt: “we should put something in front of some…”
+Issue: “some” misheard
+Likely intended: “him” (referring to JG/Justin)
+Confidence: High
+Reasoning: Object is a specific client
+Impact: Low
+
+[Error #17 - Category: Event/Entity]
+Location: 12:26 / Speaker: Athena
+Transcript excerpt: “I was just at a searcher about 90 searchers in Miami…”
+Issue: Phrase garbled
+Likely intended: “a searcher meetup with about 90 searchers in Miami”
+Confidence: Medium
+Reasoning: ETA/searcher meetups common; aligns with context
+Impact: Low
+
+[Error #18 - Category: Word substitution]
+Location: 15:05 / Speaker: Team
+Transcript excerpt: “when you go into these poker calls…”
+Issue: “poker calls” likely wrong (besides the analogy)
+Likely intended: “broker calls”
+Confidence: Medium
+Reasoning: The analogy is poker, but the calls are with brokers; later content is broker-facing
+Impact: Medium
+
+[Error #19 - Category: Business terminology distortion]
+Location: 15:05–15:40 / Speaker: Team
+Transcript excerpt: “…they’re paying us money to ask him in the game…”
+Issue: “ask him in the game”
+Likely intended: “has skin in the game”
+Confidence: High
+Reasoning: Common phrase; context: prequalified, committed buyers
+Impact: Medium
+
+[Error #20 - Category: Business terminology distortion]
+Location: 16:20–16:46 / Speaker: Team
+Transcript excerpt: “consider my car. I have a real body ready to go fire.”
+Issue: Multiple mishears (“car/body/fire”)
+Likely intended: “consider my buyer. I have a real buyer ready to go.”
+Confidence: High
+Reasoning: Sales pitch to broker about presenting buyer
+Impact: Medium
+
+[Error #21 - Category: Entity/Proper Noun]
+Location: 17:31 / Speaker: Athena
+Transcript excerpt: “grab the bathroom transcripts…”
+Issue: “bathroom transcripts” incorrect
+Likely intended: “Fathom transcripts” (fathom.video links present)
+Confidence: High
+Reasoning: Fathom call links are included in action items
+Impact: Medium
+
+[Error #22 - Category: Entity Name]
+Location: 20:12–20:39 / Speaker: Athena
+Transcript excerpt: “Texas Association of Business Workers event.”
+Issue: Misnamed professional group
+Likely intended: “Texas Association of Business Brokers” (TABB)
+Confidence: High
+Reasoning: TABB is the well-known org in Texas for brokers
+Impact: Medium
+
+[Error #23 - Category: Word Choice/Idiom]
+Location: 21:24 / Speaker: Luke
+Transcript excerpt: “We got the ACES on firstly.”
+Issue: Garbled idiom
+Likely intended: “We’ve got the aces” / “We’ve got aces, for sure”
+Confidence: Low-Medium
+Reasoning: Fits the earlier poker/aces metaphor
+Impact: Low
+
+[Error #24 - Category: Entity/Proper Noun]
+Location: 23:19–24:00 / Speaker: Athena
+Transcript excerpt: “on CMDL, C-M's deal…”
+Issue: Garbled client prefix/initials
+Likely intended: Possibly “CM’s deal” or “on CM/DL”
+Confidence: Low
+Reasoning: Multiple client initials used (JG, DL, LK, Chris, Jason); this specific string is unclear
+Impact: Low
+
+[Error #25 - Category: Business terminology distortion]
+Location: 24:00–27:00 / Speaker: Athena
+Transcript excerpt: “doing the sales back…”
+Issue: Sale-leaseback term misrendered
+Likely intended: “sale-leaseback”
+Confidence: High
+Reasoning: She’s explaining sale-leaseback mechanics, cap rates, 20-year lease
+Impact: Medium
+
+[Error #26 - Category: Business terminology distortion]
+Location: 26:23 / Speaker: Athena
+Transcript excerpt: “do diligence process…”
+Issue: “do diligence” instead of “due diligence”
+Likely intended: “due diligence”
+Confidence: High
+Reasoning: Standard M&A term
+Impact: Medium
+
+[Error #27 - Category: Word Choice]
+Location: 28:09 / Speaker: Team
+Transcript excerpt: “I’m actually going to borrow that call…”
+Issue: “borrow that call” awkward
+Likely intended: “join/hop on that call”
+Confidence: Medium
+Reasoning: Standard phrasing; intent = attend the call
+Impact: Low
+
+[Error #28 - Category: Omission/Truncation]
+Location: 28:27–29:00 / Speaker: Team
+Transcript excerpt: “I’ve already read the call and I have some real estate adjacent questions for the Christmas markets.”
+Issue: Garbled phrasing
+Likely intended: “registered for the call… for Chris’s market(s)”
+Confidence: Medium
+Reasoning: They mention a call tomorrow with Live Oak and with Chris
+Impact: Low-Medium
+
+[Error #29 - Category: Word Choice]
+Location: 29:49 / Speaker: Athena
+Transcript excerpt: “realistic people in his back pocket”
+Issue: “realistic people” incorrect
+Likely intended: “real estate people”
+Confidence: High
+Reasoning: Discussion is about real estate investors for sale-leaseback play
+Impact: Medium
+
+[Error #30 - Category: Word Choice]
+Location: 31:44 / Speaker: Athena
+Transcript excerpt: “hopefully he’ll stop screwing the things again.”
+Issue: Garbled/idiomatic failure
+Likely intended: “stop screening/sending things late” (unclear)
+Confidence: Low
+Reasoning: Context: responsiveness to weekend deals
+Impact: Low
+
+[Error #31 - Category: Omission/Truncation]
+Location: 32:14 / Speaker: Athena
+Transcript excerpt: “This one should show on people that just came through my sales coach…”
+Issue: Garbled sentence
+Likely intended: Reference to her sales coach’s client producing the deal/listing
+Confidence: Low
+Reasoning: She later clarifies her sales coach coached the seller
+Impact: Low
+
+[Error #32 - Category: Consistency/Entity]
+Location: 36:05–36:40 / Speaker: Team
+Transcript excerpt: “JJ, what’s going on with JJ?… We just started our search yesterday… Luke found a business…”
+Issue: Client initials inconsistent across call (JG vs JJ)
+Likely intended: Check if JJ is a different client or a mishearing of JG
+Confidence: Medium
+Reasoning: JG used often; JJ appears once
+Impact: Medium (possible client identity confusion)
+
+[Error #33 - Category: Word Choice]
+Location: 38:40–40:12 / Speaker: Athena
+Transcript excerpt: “at least three to up right up per client this month”
+Issue: Garbled phrase
+Likely intended: “three to four write-ups per client”
+Confidence: High
+Reasoning: Quantity target + “write up” appears elsewhere
+Impact: Medium
+
+[Error #34 - Category: Entity/Industry term pattern]
+Location: 40:56–46:30 / Multiple speakers
+Transcript excerpt: Multiple variants: “med spa” transcribed as “meds boss,” “meds buzz,” “meds balls,” “medspar”
+Issue: Repeated mis-transcription of “med spa(s)”
+Likely intended: “med spa(s)”
+Confidence: High
+Reasoning: Entire discussion about medical spas; consistent pattern
+Impact: High (industry focus misrendered)
+
+[Error #35 - Category: Entity/Name]
+Location: 45:28 / Speaker: Athena
+Transcript excerpt: “I literally had to sit, you lie down like a child…”
+Issue: “you lie” misheard
+Likely intended: “Eli” (client name referenced throughout)
+Confidence: High
+Reasoning: Story is about client “Eli”
+Impact: Medium
+
+[Error #36 - Category: Acronym/Abbreviation]
+Location: Multiple (9:51–16:46, etc.)
+Transcript excerpt: LOIs rendered as “LLLs,” “otherwise,” “yellow eyes”
+Issue: Systematic mishearing of LOI
+Likely intended: “LOI(s)”
+Confidence: High
+Reasoning: Repeated in competitive deal context
+Impact: High
+
+[Error #37 - Category: Entity/Proper Noun]
+Location: 22:47 / Speaker: Team
+Transcript excerpt: “…Anka was going to talk to some… she tagged me… said to the song…”
+Issue: Garbled references (“some,” “song”) obscure who was contacted
+Likely intended: “talk to [someone]/Ops” and “sent to [so-and-so]/Slack”
+Confidence: Low-Medium
+Reasoning: Team operations chatter; unclear exact referents
+Impact: Low
+
+[Error #38 - Category: Location name]
+Location: 21:54–22:34 / Speaker: Team
+Transcript excerpt: “…West Palm Beach but Del Rey is not getting included…”
+Issue: Spacing/spelling inconsistency for Delray Beach
+Likely intended: “Delray (Beach)”
+Confidence: Medium
+Reasoning: Common South Florida place names in geo-filters
+Impact: Low
+
+[Error #39 - Category: Word Choice]
+Location: 21:49 / Speaker: Team
+Transcript excerpt: “we were playing on discussing that morning.”
+Issue: “playing” incorrect
+Likely intended: “planning”
+Confidence: High
+Reasoning: Standard usage with “discuss”
+Impact: Low
+
+[Error #40 - Category: Word Choice]
+Location: 24:00 / Speaker: Athena
+Transcript excerpt: “sign up simultaneously, sell the property and lease it back…”
+Issue: “sign up simultaneously” awkward
+Likely intended: “sign and simultaneously sell…”
+Confidence: Medium
+Reasoning: Describing simultaneous close
+Impact: Low
+
+Patterns to note for ASR improvement
+- LOI consistently misheard as “LLLs,” “otherwise,” “yellow eyes”
+- “Fathom” misheard as “bathroom”
+- “Whoop” wearable misheard as “loop”
+- “Sale-leaseback” misheard as “sales back”
+- “Due diligence/due date” misheard as “do diligence/do that”
+- “Has skin in the game” misheard as “ask him in the game”
+- “Mailshake” misheard as “Mail Check”
+- “Axial” misheard as “Amazon”
+- “Texas Association of Business Brokers (TABB)” misheard as “Business Workers”
+- “med spa(s)” repeatedly misrendered as “meds boss/meds buzz/meds balls/medspar”
+- Names/initials confusion (Justin/JG vs “justice”; JG vs JJ; Eli vs “you lie”)
+
+Speaker attribution validation
+- No definitive speaker swaps detected, but “AcquiMatch Team” is used for multiple voices; consider verifying who is speaking around 10:16–11:36 where multi-sentence guidance is given, to attribute quotes to Ryan if needed (Athena references Ryan’s approach).
+
+Context preservation checks
+- Removing 0:08–1:41 will not break the flow; the meeting naturally pivots to business at 2:06.
+- Keep 1:41–2:04 to maintain a clean transition into agenda.
+- Analogies (poker, dating) serve as sales coaching; KEEP for educational value.

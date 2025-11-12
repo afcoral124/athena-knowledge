@@ -1,0 +1,195 @@
+---
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:04:45 / Speaker: Steve
+Transcript excerpt: "Oh, by, by the way, the SPA wants you to be on the hook for the whole loan."
+Issue: "SPA" appears in SBA financing context
+Likely intended: "SBA"
+Confidence: High
+Reasoning: SBA (Small Business Administration) commonly requires a personal guarantee on 7(a) loans; SPA is unrelated in this context. Prior and subsequent discussion is about SBA vs. private credit.
+Impact: High
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:09:20 / Speaker: Justin
+Transcript excerpt: "…still not gonna be FBA qualified on the backside."
+Issue: "FBA" used in a lending qualification context
+Likely intended: "SBA"
+Confidence: High
+Reasoning: The conversation is about SBA eligibility for a coworking business; FBA (Fulfillment by Amazon) is unrelated.
+Impact: High
+
+---
+[Error #3 - Category: Business Terminology Distortion]
+Location: ~00:23:20 / Speaker: Athena
+Transcript excerpt: "…you’re probably gonna have to do monthly reporting and still have to do monthly board readings…"
+Issue: "board readings" in governance context
+Likely intended: "board meetings"
+Confidence: High
+Reasoning: Standard governance involves board meetings; “board readings” is not a standard term in this context.
+Impact: Medium
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:42:05 / Speaker: Justin
+Transcript excerpt: "…I had some follow ups… just from the p and l… some mad back stuff…"
+Issue: "mad back" in P&L adjustment context
+Likely intended: "add-backs"
+Confidence: High
+Reasoning: “Add-backs” are standard in normalized EBITDA calculations; “mad back” appears phonetic.
+Impact: High
+
+---
+[Error #5 - Category: Misheard Acronym]
+Location: ~00:40:40 / Speaker: Justin
+Transcript excerpt: "…looks good barring, you know, we passed the test on QV…"
+Issue: "QV" in diligence context
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: QoE is a common diligence workstream; “QV” does not fit the context.
+Impact: High
+
+---
+[Error #6 - Category: Entity Names]
+Location: ~00:28:30 / Speaker: Justin
+Transcript excerpt: "…then the stone hinges of the world start to like, really, okay…"
+Issue: "stone hinges" inconsistent with prior entity references
+Likely intended: "Stonehenge" (as referenced earlier)
+Confidence: High
+Reasoning: Earlier in the call, “Stonehenge” is cited as the capital provider connected to Matt; “stone hinges” is a phonetic misrendering.
+Impact: Medium
+
+---
+[Error #7 - Category: Entity Names]
+Location: ~00:11:05 / Speaker: Steve
+Transcript excerpt: "…have you ever read the Exit? Exit preneur? From, uh, I haven’t, no."
+Issue: Book title split and possibly misspelled
+Likely intended: "The EXITPreneur’s Playbook" (by Joe Valley, Quiet Light)
+Confidence: Medium
+Reasoning: The title is “The EXITPreneur’s Playbook”. The transcript splits “Exit preneur”; not critical to meaning but is an entity/title error.
+Impact: Low
+
+---
+[Error #8 - Category: Misheard Acronym/Regulatory Term]
+Location: ~00:48:25 / Speaker: Athena
+Transcript excerpt: "…ask him. But like, if you’re going to investors that aren’t necessarily like A-S-B-I-C or whatever…"
+Issue: "A-S-B-I-C" likely misrendered
+Likely intended: "SBIC" (Small Business Investment Company)
+Confidence: High
+Reasoning: SBICs are regulated capital providers; the spelled-out letters suggest ASR confusion.
+Impact: Medium
+
+---
+[Error #9 - Category: Misheard Acronym]
+Location: ~00:35:35 / Speaker: Athena
+Transcript excerpt: "…much more well developed than. S-B-E-T-A, you know, because this is too small for them…"
+Issue: "S-B-E-T-A" is not a known term
+Likely intended: "SBA/ETA" (SBA and/or ETA)
+Confidence: Medium
+Reasoning: She’s contrasting the independent sponsor/private capital world with SBA/ETA (Entrepreneurship Through Acquisition). The current rendering is nonsensical.
+Impact: Medium
+
+---
+[Error #10 - Category: Speaker Misattribution]
+Location: ~00:10:40-00:10:55
+Transcript excerpt:
+"Athena: Have you ever read,
+Steve: oh,
+Justin: I’m
+Steve: sorry. Go ahead, Steve. I was gonna ask Justin, have you ever read the Exit? Exit preneur?"
+Issue: Fragmented “Justin: I’m” interjection and confusing handoff create attribution confusion
+Likely intended: Overlapping crosstalk where Steve continues; “Justin: I’m” likely stray
+Confidence: Medium
+Reasoning: The flow suggests Steve continues to speak; the isolated “I’m” line from Justin appears erroneous.
+Impact: Low
+
+---
+[Error #11 - Category: Entity Names]
+Location: ~00:49:35 / Speaker: Justin
+Transcript excerpt: "…talked with the trans world. Brokers…"
+Issue: Entity name spacing/capitalization
+Likely intended: "Transworld" (business brokerage)
+Confidence: High
+Reasoning: The brokerage brand is Transworld Business Advisors; “trans world” is a common ASR spacing error.
+Impact: Low
+
+---
+[Error #12 - Category: Semantic Inconsistency/Omission]
+Location: ~00:05:30 / Speaker: Steve
+Transcript excerpt: "…it might, uh, be a much smoother transaction. I. With, with actually less pe, less, um, I guess you’re answering to people who are sophisticated…"
+Issue: Broken sentence and “less pe” unclear
+Likely intended: "…smoother transaction with actually less people…"
+Confidence: Medium
+Reasoning: The following phrase resolves to “answering to people”; “pe” likely truncated “people.”
+Impact: Low
+
+---
+[Error #13 - Category: Business Terminology Distortion]
+Location: ~00:05:55 / Speaker: Athena
+Transcript excerpt: "…they don’t understand how returns work or what craft means or any of these terms…"
+Issue: “craft” used as an investment term
+Likely intended: Possibly “pref” (preferred return) or “carry”
+Confidence: Low
+Reasoning: In investor education context, “pref” or “carry” are common; “craft” does not fit known terms.
+Impact: Medium
+
+---
+[Error #14 - Category: Misheard Acronym (Formatting)]
+Location: ~00:06:35 / Speaker: Athena
+Transcript excerpt: "…They don’t understand the K one reporting that they’re gonna have to do."
+Issue: Formatting of K-1
+Likely intended: "K-1"
+Confidence: High
+Reasoning: Schedule K-1 is the standard tax document term; “K one” indicates ASR spelling.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 00:00:00–00:02:05
+Speakers involved: Athena, Steve, Justin
+Content excerpt:
+"Athena: …week before 4th of July tends to be a light one… Are you guys doing anything for the long weekend…?
+Steve: I don’t know, I haven’t been told yet… end of quarter… can’t wait for a few days just to kinda check out…
+Athena: Justin, are you gonna do anything for the fourth?
+Justin: …we’re all gonna get a short term rental in the hill country… fireworks…
+Athena: …I usually go to Lake Austin every year for their fireworks display… I lived outside the US for 12 years… I wanna see fireworks…"
+Reasoning:
+Extended small talk about holiday plans, vacations, fireworks, and personal history with no connection to business topics.
+Context impact: None—business discussion begins cleanly afterward when Athena asks about takeaways from the Matt/private capital conversation.
+Recommended action: REMOVE 00:00:00–00:02:05
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:35:50–00:36:45
+Content excerpt: "…we were the only two vegetarians… we were having our lunch together… he said, yeah, you know, I have a billion dollars to deploy, so me writing a $5 million check…"
+Business relevance argument: The anecdote explains how Athena met a capital provider and illustrates fund deployment thresholds and check sizes—directly relevant to financing strategy.
+Personal content argument: Includes personal dietary detail and lunch context.
+Recommendation: KEEP—Provides useful context on capital provider constraints; the personal detail is minimal.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:21:15–00:22:05
+Content excerpt: "…I’ve got two young kids, I’ve got a family… anything I can do to prevent the cataclysmic downside…"
+Business relevance argument: Explains risk tolerance and rationale for preferring no PG private credit; illuminates buyer’s financing decision criteria.
+Personal content argument: Mentions family circumstances.
+Recommendation: KEEP—Supports financing strategy discussion.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: ~00:50:30–00:51:15
+Content excerpt: "…Polly went to visit a franchise… I haven’t seen Polly in a week… she’s driving back from her mom… she discovered how awesome Acquiring Minds is. On the six and a half hour ride each way she listened…"
+Business relevance argument: Update on diligence (franchise visit) and sourcing resources (podcast) is relevant to the buy-side process.
+Personal content argument: Travel details and family reference are incidental.
+Recommendation: KEEP—Most of the content advances the deal update; the brief personal bits could be trimmed, but removal is not necessary for comprehension.
+
+---
+
+Pattern notes for ASR improvement:
+- SBA was repeatedly misheard as SPA and FBA.
+- QoE was misheard as QV.
+- “Add-backs” rendered as “mad back.”
+- Entity names frequently distorted (Stonehenge → stone hinges; Transworld → trans world; EXITPreneur → Exit preneur; SBIC spelled out incorrectly).
+- Occasional insertion of stray interjections causing speaker confusion.
+
+If you’d like, I can map the full conversation into high-level segments labeled KEEP/REMOVE/MIXED to guide the refiner’s edits.

@@ -1,0 +1,298 @@
+[Error #1 - Category: Misheard Acronym]
+Location: 30:30 / Speaker: Luke Gillespie
+Transcript excerpt: "he doesn't want to use SPA... it's probably not going to work... he doesn't want to use SPA."
+Issue: "SPA" appears where SBA loan is being discussed.
+Likely intended: "SBA"
+Confidence: High
+Reasoning: The conversation is about SBA-backed financing versus seller financing; "SPA" is a common ASR error for "SBA".
+Impact: High - could mislead readers about financing constraints.
+
+[Error #2 - Category: Misheard Acronym]
+Location: 49:43 / Speaker: AcquiMatch Team
+Transcript excerpt: "he's going to put together an hello-eye on this office suite business"
+Issue: "hello-eye" in deal context
+Likely intended: "LOI" (Letter of Intent)
+Confidence: High
+Reasoning: In M&A, LOI is standard; phonetic misrender as "hello-eye" is common in ASR.
+Impact: Medium
+
+[Error #3 - Category: Business Terminology Distortion]
+Location: 10:37 / Speaker: Luke Gillespie
+Transcript excerpt: "requires this contractor's manager's license... seller would be willing to qualify it"
+Issue: "contractor's manager's license" is nonstandard phrasing
+Likely intended: "contractor’s license" or "qualifying manager/qualifying party license"
+Confidence: Medium
+Reasoning: Many states require a "qualifying individual/manager" for contractor licenses; phrasing here suggests ASR distortion.
+Impact: Medium
+
+[Error #4 - Category: Misheard Financial/Tax Term]
+Location: 18:00 / Speaker: Athena Simpson
+Transcript excerpt: "If look at a keynote, it doesn't necessarily take owner distributions into account"
+Issue: "keynote" in financial context is nonsensical
+Likely intended: "K-1" (Schedule K-1) or possibly "P&L"
+Confidence: Medium
+Reasoning: Owner distributions are seen on K-1; "keynote" is a plausible mishear of "K-1".
+Impact: High - affects financial understanding.
+
+[Error #5 - Category: Semantic Inconsistency]
+Location: 13:45 / Speaker: Athena Simpson
+Transcript excerpt: "there are a lot of deals where the license is a deal breaker... So, when we do present it, because the license is an ideal breaker."
+Issue: Contradiction and likely word error ("ideal breaker")
+Likely intended: "isn't a deal breaker" (when we present it)
+Confidence: Medium
+Reasoning: The prior sentence says they avoid presenting license deal-breakers; the follow-up likely meant “not a deal breaker.”
+Impact: Medium
+
+[Error #6 - Category: Entity Name Distortion]
+Location: 9:58 / Speaker: Luke Gillespie
+Transcript excerpt: "I finished that, uh, the SP gradient excavation right up"
+Issue: Company name likely misheard
+Likely intended: "SP Grading & Excavation" (or similar)
+Confidence: Medium
+Reasoning: "gradient excavation" is unlikely; “grading & excavation” is a standard service/company naming convention.
+Impact: Medium
+
+[Error #7 - Category: Misheard/Nonstandard Term]
+Location: 14:47 / Speaker: AcquiMatch Team
+Transcript excerpt: "It's just the most broke grade broker. They're like, don't like almost anything..."
+Issue: "broke grade broker" nonsensical
+Likely intended: "brokerage broker" or "low-grade broker" or “brokery broker”
+Confidence: Low
+Reasoning: The speaker is criticizing a broker; wording garbled.
+Impact: Low
+
+[Error #8 - Category: Homophone/Word Choice]
+Location: 15:11 / Speaker: AcquiMatch Team
+Transcript excerpt: "acknowledge the problems that they're trying to we're trying to sweep under the road."
+Issue: Idiom incorrect
+Likely intended: "sweep under the rug"
+Confidence: High
+Reasoning: Standard idiom; "road" is a mishear.
+Impact: Low
+
+[Error #9 - Category: Misheard/Brand Name]
+Location: 1:06 / Speaker: Athena Simpson
+Transcript excerpt: "the only thing you like about Austin is on it, my gym."
+Issue: Brand/gym name misheard
+Likely intended: "Onnit" (gym/brand)
+Confidence: High
+Reasoning: Onnit Gym is a known brand in Austin.
+Impact: Low
+
+[Error #10 - Category: Entity Name Distortion]
+Location: 7:15 / Speaker: AcquiMatch Team
+Transcript excerpt: "goes to the local like... it's not America's club to the cathode... Go to the cathode south America."
+Issue: "the cathode" as a retailer is nonsensical
+Likely intended: "Decathlon" (sporting goods retailer)
+Confidence: Medium
+Reasoning: Decathlon sells inexpensive shoes globally; phonetic similarity.
+Impact: Low
+
+[Error #11 - Category: Misheard Platform/Tool Name]
+Location: 34:47 / Speaker: Luke Gillespie
+Transcript excerpt: "I will test myself on Hubs about weeks later."
+Issue: "Hubs about" in CRM context
+Likely intended: "HubSpot"
+Confidence: High
+Reasoning: Earlier mentions “HubSpot task”; consistent mishear.
+Impact: Low
+
+[Error #12 - Category: Misheard Acronym/Term]
+Location: 26:56 / Speaker: Luke Gillespie
+Transcript excerpt: "when I say evaluations really gets in between three and five."
+Issue: "evaluations" likely wrong term in valuation context
+Likely intended: "valuations"
+Confidence: High
+Reasoning: Discussing pricing ranges; “valuations” is correct M&A term.
+Impact: Medium
+
+[Error #13 - Category: Omission/Truncation]
+Location: 29:00 / Speaker: Luke Gillespie
+Transcript excerpt: "it'll be canceling you know an absent. T like 50k a year for Jason"
+Issue: Sentence is truncated/garbled; meaning unclear
+Likely intended: Statement about absentee cash flow or net income
+Confidence: Low
+Reasoning: Context is gas station cash flow with 7(a) loan and real estate; ASR dropped/merged words.
+Impact: Medium
+
+[Error #14 - Category: Misheard Acronym]
+Location: 30:15 / Speaker: Luke Gillespie
+Transcript excerpt: "it's not going to qualify for SB, but they don't want to use SBA"
+Issue: "SB" appears instead of SBA
+Likely intended: "SBA"
+Confidence: High
+Reasoning: Financing context; consistent with SBA throughout.
+Impact: Low
+
+[Error #15 - Category: Misheard Phrase]
+Location: 4:32 / Speaker: Luke Gillespie
+Transcript excerpt: "I got the high path backpack? put me on outside and I'm living on it."
+Issue: Garbled brand and phrase; unclear meaning
+Likely intended: Reference to a specific backpack brand and minimalist packing
+Confidence: Low
+Reasoning: ASR likely mangled brand name and sentence.
+Impact: Low
+
+[Error #16 - Category: Misheard Number/Term]
+Location: 29:00 / Speaker: Luke Gillespie
+Transcript excerpt: "25 year and more with the 7 a loan"
+Issue: Spacing/term off; missing “amortization”
+Likely intended: "25-year amortization with a 7(a) loan"
+Confidence: Medium
+Reasoning: Standard SBA 7(a) real estate amortization term; ASR dropped word boundaries.
+Impact: Medium
+
+[Error #17 - Category: Misheard Tool Name]
+Location: 50:22 / Speaker: Athena Simpson
+Transcript excerpt: "check in with the SMB logger because they're actually going to be at the event"
+Issue: "logger" in legal counsel context
+Likely intended: "SMB Lawyer"
+Confidence: High
+Reasoning: The rest of the section discusses lawyers and legal referrals.
+Impact: Medium
+
+[Error #18 - Category: Omission/Truncation]
+Location: 1:52 / Speaker: Luke Gillespie
+Transcript excerpt: "Awesome. So we're know that into after you lease ones out."
+Issue: Severely garbled sentence
+Likely intended: A question about plans after lease runs out
+Confidence: Medium
+Reasoning: Fits the topic; ASR dropped words.
+Impact: Low
+
+
+Segment Mapping and Removals
+
+Segment 0:00-0:50
+- Content: On/Off-market search for Lindsey and Kevin; Austin is competitive with many searchers.
+- Classification: KEEP (Business market context)
+
+Segment 1:00-4:25
+- Content: Personal relocation plans, gym, circus training, Costa Rica/Tulum, apartment lease terms, Hello Landing membership.
+- Classification: REMOVE
+- Details below.
+
+Segment 4:32-6:31
+- Content: Backpacks, shoes, barefoot preferences, minimal fashion.
+- Classification: REMOVE
+
+Segment 6:31-8:21
+- Content: Friend/relative’s first plane trip, book recs, travel anxiety.
+- Classification: REMOVE
+
+Segment 8:55-24:21
+- Content: Deal updates, licensing/SBA coaching, off-market call tactics, NDA/trust building.
+- Classification: KEEP
+
+Segment 24:35-25:04
+- Content: Politics (Trump, Elon auditing government).
+- Classification: REMOVE
+
+Segment 25:04-45:44
+- Content: Seller expectations management, valuation ranges, Utah lead fit, gas station with RE, pipeline follow-ups, broker pushback strategies, action items (pet grooming shop).
+- Classification: KEEP
+
+Segment 45:44-46:31
+- Content: Personal internship story; AI tool for job applications; deep-seek model; webinar face-swap joke.
+- Classification: REMOVE
+
+Segment 46:31-56:33
+- Content: Client check-ins (JJ/Jenny urgent care), JB meetings, Jason LOI, lawyer referrals in Tampa, Baton deal source, prior client (JY) fit/refund debrief.
+- Classification: KEEP (with a brief borderline aside flagged below)
+
+Removals
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 1:00-4:25
+Speakers involved: Athena, Luke, AcquiMatch Team
+Content excerpt:
+"Athena: Yeah. Um, well, I'm looking to get out.
+Luke: So really, you don't love Austin.
+Athena: ...the only thing you like about Austin is Onnit, my gym. [...] I'd like to try out different cities... be close to the ocean or just go back down to Tulum or Costa Rica... existential crisis... lease... Hello Landing... $1,500 a month membership..."
+Reasoning:
+Extended personal discussion about living preferences, gym, travel, and apartment leasing; no tie-in to client deals or M&A work.
+Context impact: None—business topics resume at 8:55.
+Recommended action: REMOVE 1:00-4:25
+
+[REMOVAL #2 - Type: Personal/Small Talk]
+Location: 4:32-6:31
+Speakers involved: Luke, Athena, AcquiMatch Team
+Content excerpt:
+"Luke: I got the high path backpack... just bring like two pairs of shoes...
+Athena: Oh my god, I feel like one pair of shoes... [...] I told my boyfriend... if you have any shoe that separates your toes... we're done."
+Reasoning:
+Casual talk about backpacks and shoes; not relevant to business acquisitions.
+Context impact: None
+Recommended action: REMOVE 4:32-6:31
+
+[REMOVAL #3 - Type: Personal/Off-Topic]
+Location: 6:31-8:21
+Speakers involved: Athena, AcquiMatch Team, Luke
+Content excerpt:
+"Athena: So, you know, what's happening tomorrow... she's getting on a plane for the first time... I sent her a book recommendation... within South Africa..."
+Reasoning:
+Personal story about someone’s first flight; unrelated to business content.
+Context impact: None
+Recommended action: REMOVE 6:31-8:21
+
+[REMOVAL #4 - Type: Off-Topic (Politics)]
+Location: 24:35-25:04
+Speakers involved: Athena, Luke
+Content excerpt:
+"Athena: It'll be interesting to see what Trump... Like sounds like he's just in there I need to look into it.
+Luke: Have y'all heard... Elon going in and like auditing the government..."
+Reasoning:
+Political discussion not connected to business/market insights for the deals at hand.
+Context impact: None—conversation returns to seller conversations and valuation coaching after.
+Recommended action: REMOVE 24:35-25:04
+
+[REMOVAL #5 - Type: Personal/Off-Topic]
+Location: 45:44-46:31
+Speakers involved: Luke, Athena
+Content excerpt:
+"Luke: My internship... senior business guys... knowledge bombs... There's an AI... will apply to jobs automatically... unreleased deep-seek model from China... webinar..."
+Reasoning:
+Career story and AI job application tool; unrelated to client work or M&A process.
+Context impact: Low—removal does not affect subsequent client updates.
+Recommended action: REMOVE 45:44-46:31
+
+
+Borderline Segments
+
+[BORDERLINE #1 - Requires Review]
+Location: 54:43-55:04
+Content excerpt: 
+"Luke: What kind of name is Yelly?
+Athena: Spanish, I didn't think her.
+AcquiMatch Team: He was Chinese... Chinese Venezuelan."
+Business relevance argument: References a former client (JY) in context of Baton deals; could provide context on past client fit and cultural background.
+Personal content argument: Brief aside about a person’s name and ethnicity without direct business impact.
+Recommendation: KEEP with discretion—it's very brief and adjacent to a client fit discussion; acceptable as minimal rapport/recall.
+
+
+Additional Notes and Patterns
+
+- Repeated acronym errors: SBA appears as SPA/SB in several places (High priority pattern).
+- LOI repeatedly rendered as “hello-eye” (Medium priority pattern).
+- Tool name: HubSpot rendered as “Hubs about” (Low/Medium pattern).
+- Valuation term: “valuations” rendered as “evaluations” (Medium pattern).
+- Several “AcquiMatch Team” utterances are heavily garbled, suggesting audio quality or crosstalk issues; may indicate need for manual review in those stretches.
+- Entity names: “Decathlon” misheard as “the cathode”; “Tulum” as “to loom”; “Onnit” as “on it”.
+- Business name likely “SP Grading & Excavation” vs “SP gradient excavation” (Medium priority—affects entity searchability).
+
+Speaker Attribution Validation
+
+- General roles are coherent (Luke provides updates; Athena coaches; “AcquiMatch Team” provides guidance). However, “AcquiMatch Team” is a generic label, and several lines are garbled. No specific swap detected, but note that the generic label might obscure who’s speaking in action items.
+
+Cross-Reference Checks
+
+- Financing references are consistent: SBA 7(a) for gas station with real estate; 25-year amortization implied.
+- NDA/process references align across the call.
+- Action Items embedded (pet grooming shop follow-up; HubSpot task; Tampa lawyer referrals) are business-critical—ensure retained.
+
+Context Preservation
+
+- The removed personal segments are self-contained and occur before or between business sections; cutting them will not disrupt understanding of deal updates or action items.
+- The short political and AI tangent removals do not break the flow of the surrounding business content.
+
+End of report.

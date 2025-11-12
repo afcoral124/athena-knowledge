@@ -1,0 +1,224 @@
+[Error #1 - Category: Entity Name (Company)]
+Location: ~00:00:50 / Speaker: Athena
+Transcript excerpt: "my name's Athena Simpson. I am the founder of AC iMatch."
+Issue: Company name rendered inconsistently as "AC iMatch"
+Likely intended: "AcquiMatch" (also appears later as “Acqui Match”/“Acme Match”/“Asset Match”)
+Confidence: High
+Reasoning: Multiple inconsistent renderings of the same company across the transcript indicate ASR confusion.
+Impact: Medium – brand clarity and searchability
+
+[Error #2 - Category: Misheard Acronym/Term]
+Location: ~00:07:40 / Speaker: Athena
+Transcript excerpt: "who's a good, trusted, QV provider or lawyer"
+Issue: "QV provider" is nonstandard in M&A due diligence context
+Likely intended: "QoE provider" (Quality of Earnings)
+Confidence: High
+Reasoning: In ETA/SBA deals, “QoE” is standard; later mentions show inconsistent forms (“QVs,” “Q of E”).
+Impact: High – key due diligence function
+
+[Error #3 - Category: Business Terminology Distortion]
+Location: ~00:11:20 / Speaker: Athena
+Transcript excerpt: "because it was para pursue and he wanted to cover his own risk"
+Issue: “para pursue” is a misrendering of a common finance term
+Likely intended: “pari passu”
+Confidence: High
+Reasoning: Pari passu is standard in capital stack structuring; later repeated as “Perry Passio.”
+Impact: High – affects understanding of loan/equity structure
+
+[Error #4 - Category: Entity Name (Company)]
+Location: ~00:16:50 / Speaker: Athena
+Transcript excerpt: "that's actually how Acme Match was born"
+Issue: Misnaming of the company
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Company is elsewhere called AcquiMatch; “Acme Match” is phonetically similar but incorrect.
+Impact: Medium
+
+[Error #5 - Category: Financial/Terminology Error]
+Location: ~00:27:10 / Speaker: Athena
+Transcript excerpt: "figuring out their add-backs, what their SCE is"
+Issue: "SCE" is incorrect in this context
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: SDE is a core metric in sub-$5M acquisitions; “SCE” is nonstandard.
+Impact: High – financial metric misidentification
+
+[Error #6 - Category: Semantic Inconsistency / Terminology]
+Location: ~00:27:40 / Speaker: Athena
+Transcript excerpt: "There's a lot of reverse care kickers out there"
+Issue: Phrase is nonsensical in context
+Likely intended: "tire kickers"
+Confidence: High
+Reasoning: “Tire kickers” is common slang for unserious buyers/sellers.
+Impact: Medium
+
+[Error #7 - Category: Entity Name (Lender)]
+Location: ~00:40:30 / Speaker: Athena
+Transcript excerpt: "live vote rates all our buyers as, a's"
+Issue: Misrendering of lender name and phrase
+Likely intended: "Live Oak rates all our buyers as A’s" (Live Oak Bank)
+Confidence: High
+Reasoning: Live Oak Bank is a major SBA lender; “live vote” is phonetic ASR error.
+Impact: High – lender credibility/reference
+
+[Error #8 - Category: Misheard Acronym]
+Location: ~01:10:10 / Speaker: Athena
+Transcript excerpt: "she remembers every NBA she signs"
+Issue: “NBA” in contract context is incorrect
+Likely intended: “NDA” (Non-Disclosure Agreement)
+Confidence: High
+Reasoning: NDAs are standard with brokers/sellers; “NBA” is a common ASR slip.
+Impact: High
+
+[Error #9 - Category: Misheard Acronym]
+Location: ~00:27:00 and ~01:10:15 / Speakers: Athena
+Transcript excerpt: "NDA signed sim reviewed" / "whether she got the sim"
+Issue: “sim” likely incorrect for M&A document
+Likely intended: “CIM” (Confidential Information Memorandum)
+Confidence: High
+Reasoning: CIM is the standard document term in on-market deals.
+Impact: High
+
+[Error #10 - Category: Speaker/Entity Name Inconsistency]
+Location: ~00:06:30 and ~00:29:00 / Speakers: Athena and “Anke”
+Transcript excerpt: "Anka, who is our operations manager" vs. speaker label "**Anke:**"
+Issue: Inconsistent spelling of team member’s name
+Likely intended: One consistent spelling (likely “Anka” given intro)
+Confidence: Medium
+Reasoning: Initial introduction uses “Anka”; later speaker label shows “Anke”.
+Impact: Medium – clarity on who is speaking
+
+[Error #11 - Category: Entity Name (Company)]
+Location: ~00:55:00 / Speaker: Austin
+Transcript excerpt: "here at Asset Match"
+Issue: Misnaming the company
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Consistent with brand name used elsewhere.
+Impact: Medium
+
+[Error #12 - Category: Misheard Acronym]
+Location: ~00:54:00 / Speaker: Austin
+Transcript excerpt: "folks that don't qualify for SVA style transactions"
+Issue: “SVA” is incorrect in financing context
+Likely intended: “SBA” (Small Business Administration)
+Confidence: High
+Reasoning: SBA is the relevant program for these deals; “SVA” has no meaning here.
+Impact: High
+
+[Error #13 - Category: Organization Name]
+Location: ~01:07:15 / Speaker: Athena
+Transcript excerpt: "the, uh, Texas Association, a business brokers annual meetup"
+Issue: Organization name garbled
+Likely intended: "Texas Association of Business Brokers (TABB) annual meetup"
+Confidence: High
+Reasoning: TABB is the known state association; phrasing sounds like ASR fragmentation.
+Impact: Medium
+
+[Error #14 - Category: Semantic/Omission]
+Location: ~00:36:00 / Speaker: Athena
+Transcript excerpt: "It was in Dallas, uh, Austin is like. We only take on one client at a time"
+Issue: Ambiguity whether “Austin” is the city or the person; sentence truncated
+Likely intended: Referring to the city of Austin’s competitiveness and their client cap there
+Confidence: Medium
+Reasoning: Context shifts confusingly between city and team member Austin.
+Impact: Medium – potential confusion
+
+[Error #15 - Category: Business Terminology Distortion]
+Location: ~00:58:45 / Speaker: Athena
+Transcript excerpt: "I'm sure there's some flex there in terms of, um, it"
+Issue: Minor truncation/omission of a noun after “in terms of”
+Likely intended: “in terms of [deal specifics/industry/financials]”
+Confidence: Low
+Reasoning: Spoken filler likely clipped; not critical but slightly confusing.
+Impact: Low
+
+[Error #16 - Category: Semantic Nonsense]
+Location: ~01:17:45 / Speaker: Athena
+Transcript excerpt: "show you some of the amazing people we have Aren in the scenes"
+Issue: Phrase is nonsensical
+Likely intended: "behind the scenes"
+Confidence: High
+Reasoning: Common idiom; “Aren” appears to be an ASR artifact.
+Impact: Low
+
+
+[REMOVAL #1 - Type: Small Talk/Personal Aside]
+Location: ~00:55:00
+Speakers involved: Athena, Austin
+Content excerpt:
+"Athena: ... my dogs are going crazy. I think someone's at the door.
+Austin: No, you're good. I'm like, I can't hear it on side."
+Reasoning:
+Purely personal aside about background noise; no business relevance.
+Context impact: None—removing does not affect adjacent content.
+Recommended action: REMOVE these 2 lines around ~00:55:00.
+
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: ~01:00:10
+Speakers involved: Athena
+Content excerpt:
+"…you can't read it, but my necklace says savage. Like, I am sweet, but I'm also mama bear…"
+Reasoning:
+Personal fashion/joke aside; not necessary for business understanding.
+Context impact: Low—the surrounding broker-incentives discussion remains clear.
+Recommended action: REMOVE the “necklace says savage” sentence only.
+
+[REMOVAL #3 - Type: Small Talk/Joke]
+Location: ~01:17:15-01:17:30
+Speakers involved: Athena
+Content excerpt:
+"…Thanks for… expertly guiding us through the questions. That was really helpful. Probably more fun than watching me, like, you know, my forehead read the, the questions as they came through"
+Reasoning:
+Humorous aside about reading questions; no business content.
+Context impact: None—closing still makes sense without this joke.
+Recommended action: REMOVE this sentence.
+
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:38:00
+Content excerpt: "…we had a lot of fun phone calls about being a business owner and tubing, you know, here in Texas…"
+Business relevance argument: Used to illustrate rapport-building approaches in off-market outreach.
+Personal content argument: The “tubing” reference is a casual personal activity unrelated to M&A.
+Recommendation: KEEP—serves as an example of building seller trust.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~01:12:00
+Content excerpt: "…I'm lucky if I get to spend time with my boyfriend in the evening 'cause I'm like working…"
+Business relevance argument: Illustrates time demands and non-passive nature of ownership.
+Personal content argument: References to boyfriend and evening schedule are personal.
+Recommendation: KEEP—supports a key point about lifestyle trade-offs for buyers.
+
+
+Notes on Patterns/ASR Issues
+- QoE consistently misrendered (“QV,” “QVs,” “Q of E”)—watch for QoE normalization.
+- Company name is inconsistent throughout (“AC iMatch,” “Acqui Match,” “Acme Match,” “Asset Match”)—should be standardized to AcquiMatch.
+- Multiple “pari passu” distortions (“para pursue,” “Perry Passio”)—common ASR slip in finance jargon.
+- Core acronyms frequently misheard: NDA→NBA, CIM→sim, SBA→SVA.
+- Lender name misheard: Live Oak→live vote.
+
+Speaker Attribution/Flow
+- Potential confusion where “Austin” could refer to the team member or the city (around ~00:36:00). Recommend review to ensure clarity.
+- Name inconsistency for operations manager (“Anka” vs “Anke”).
+
+Overall Segment Mapping (High-level)
+- 00:00–00:09: Intro and service overview (KEEP)
+- 00:09–00:17: Equity-raise story and lessons (KEEP)
+- 00:17–00:22: Buyer fit characteristics (KEEP)
+- 00:22–00:29: Sourcing approach (KEEP)
+- 00:29–00:33: Seller conversations/coaching (KEEP)
+- 00:33–00:36: Valuations/multiples/SBA realities (KEEP)
+- 00:36–00:39: Competition and broker volume (KEEP)
+- ~00:37:30: Off-market trust-building anecdote (KEEP; includes brief personal aside—borderline)
+- 00:39–00:44: Fees/cost structure and SBA equity injection treatment (KEEP)
+- 00:44–00:52: Success rates, expectations, resilience (KEEP)
+- 00:52–00:55: Business owners buying outside vertical; non-SBA financing (KEEP)
+- ~00:55:00: Dogs barking aside (REMOVE)
+- 00:55–00:58: Rollup/PE strategy fit (KEEP)
+- 00:58–01:03: Broker incentives and buy-side vs sell-side dynamics (KEEP; remove necklace aside)
+- 01:03–01:07: Geography constraints (KEEP)
+- 01:07–01:09: On-market sources and broker relationships (KEEP; fix TABB name)
+- 01:09–01:16: W2 vs full-time search, risk/time tradeoffs (KEEP; boyfriend remark borderline)
+- 01:16–01:18: Closing/admin (KEEP; remove forehead-joke line)
+
+This analysis prioritizes high-impact misheard acronyms/financial terms and preserves business-relevant content while trimming purely personal asides.

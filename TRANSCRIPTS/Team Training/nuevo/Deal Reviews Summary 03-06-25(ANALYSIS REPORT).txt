@@ -1,0 +1,363 @@
+[Error #1 - Category: Business Terminology Distortion]
+Location: 1:12 / Speaker: David R
+Transcript excerpt: "…real estate included. And I know it's a benefit for the deal, like 25 years of monetization…"
+Issue: "monetization" used in a financing context is incorrect
+Likely intended: "25 years of amortization"
+Confidence: High
+Reasoning: In CRE/SBA contexts, the loan term is described by amortization, not monetization. 25-year amortization is standard for real estate.
+Impact: High - changes the financial meaning
+
+---
+[Error #2 - Category: Entity Name]
+Location: 3:53 / Speaker: Athena Simpson
+Transcript excerpt: "…we tripled in Z and Kevin's buying power with creative structuring."
+Issue: "in Z" appears to be a misheard name
+Likely intended: "Lindsey and Kevin's"
+Confidence: High
+Reasoning: Later references are to "Lindsey and Kevin." "in Z" is phonetically close to "Lindsey."
+Impact: Medium - confuses which client is referenced
+
+---
+[Error #3 - Category: Misheard Acronym/Term]
+Location: 5:00 / Speaker: Luke Gillespie
+Transcript excerpt: "…double whatever that number is that they got as a prequel."
+Issue: "prequel" in lending context is wrong
+Likely intended: "pre-qual" or "prequalification"
+Confidence: High
+Reasoning: "Pre-qual" is common shorthand for lender prequalification; "prequel" is unrelated.
+Impact: Medium - clarity around financing readiness
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: 13:22 / Speaker: Luke Gillespie
+Transcript excerpt: "It was cool to learn about triple and that and kind of how the negotiations can work…"
+Issue: "triple and that" is incorrect for lease structure
+Likely intended: "triple net"
+Confidence: High
+Reasoning: Triple net (NNN) is the standard term in CRE leases.
+Impact: High - core concept in the segment
+
+---
+[Error #5 - Category: Business Terminology Distortion]
+Location: 13:50 / Speaker: Athena Simpson
+Transcript excerpt: "…were they charging themselves triple net or are they saying the new person is gonna pay triple that…"
+Issue: "triple that" appears to be a mis-transcription of "triple net"
+Likely intended: "triple net"
+Confidence: High
+Reasoning: Context is about NNN expenses (taxes, insurance, maintenance).
+Impact: High
+
+---
+[Error #6 - Category: Business Terminology Distortion]
+Location: 15:24 / Speaker: AcquiMatch Team
+Transcript excerpt: "I love that he referenced the sale at least back…"
+Issue: "sale at least back" is incorrect
+Likely intended: "sale leaseback"
+Confidence: High
+Reasoning: The conversation consistently discusses sale leasebacks.
+Impact: High
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: 15:24 / Speaker: AcquiMatch Team
+Transcript excerpt: "…he really did a good job of going go shame the multiple at the beginning…"
+Issue: "go shame the multiple" is nonsensical
+Likely intended: "go shave the multiple" or "go change the multiple"
+Confidence: Medium
+Reasoning: In valuation/negotiation, buyers aim to lower ("shave") the multiple to reduce debt service.
+Impact: Medium
+
+---
+[Error #8 - Category: Semantic Inconsistency]
+Location: 3:20 / Speaker: Luke Gillespie
+Transcript excerpt: "That's a good point, Athena. I never taught you that, David..."
+Issue: Unnatural phrasing for the context
+Likely intended: "I never thought of that, David…" or "I never told you that, David…"
+Confidence: Medium
+Reasoning: He is acknowledging the idea; “taught you” doesn’t fit the admission context.
+Impact: Low
+
+---
+[Error #9 - Category: Omission/Truncation]
+Location: 6:43 / Speaker: Luke Gillespie
+Transcript excerpt: "We should share real estate involved like that off market ryan's working."
+Issue: Fragmented sentence; missing words
+Likely intended: "We should share real estate-involved deals like that off-market Ryan's working on."
+Confidence: Medium
+Reasoning: Syntax indicates dropped words; meaning is unclear as-is.
+Impact: Medium
+
+---
+[Error #10 - Category: Business Terminology Distortion]
+Location: 17:06 / Speaker: Athena Simpson
+Transcript excerpt: "…if they want to try to do the sale lease back technique, I might not leave them a lot of like legal room…"
+Issue: "legal room" is likely a mishearing
+Likely intended: "wiggle room"
+Confidence: High
+Reasoning: She’s discussing pricing flexibility, not legal capacity.
+Impact: Low
+
+---
+[Error #11 - Category: Business Terminology Distortion]
+Location: 17:36 / Speaker: David R
+Transcript excerpt: "…opportunity songs… identify these songs…"
+Issue: "opportunity songs" is wrong term
+Likely intended: "opportunity zones"
+Confidence: High
+Reasoning: They later discuss OZ maps and benefits consistent with Opportunity Zones.
+Impact: High
+
+---
+[Error #12 - Category: Entity Names (Company/Acronym)]
+Location: 22:27–26:08 / Speakers: Multiple
+Transcript excerpt: "…Derek polly CGK business sales…" / "…CDK…" / "…CJK…" / "CGAK business…"
+Issue: Inconsistent/incorrect brokerage acronym and name usage
+Likely intended: "Derek Polly, CGK Business Sales"
+Confidence: High
+Reasoning: The action item spells "Derek Polly (CGK Business Sales)"; transcript alternates between CGK/CDK/CJK/CGAK and "Eric/Derek".
+Impact: High - confuses relationship history and CRM linking
+
+---
+[Error #13 - Category: Proper Noun Mishearing]
+Location: 28:51 / Speaker: Luke Gillespie
+Transcript excerpt: "I have a package of five Coldstone Primaries for DL."
+Issue: Franchise name misheard
+Likely intended: "Cold Stone Creamery"
+Confidence: High
+Reasoning: The franchise is Cold Stone Creamery; "Primaries" is nonsensical.
+Impact: High - misidentifies the asset
+
+---
+[Error #14 - Category: Proper Noun Mishearing]
+Location: 29:16–30:23 / Speakers: Athena, Luke
+Transcript excerpt: "Sun deep, Gil." / "Sundief's last name."
+Issue: Client name appears misheard and inconsistent
+Likely intended: "Sundeep Gill" (client full name)
+Confidence: Medium
+Reasoning: Common Indian given name/surname pairing; multiple variants appear.
+Impact: Medium
+
+---
+[Error #15 - Category: Misheard Acronym]
+Location: 33:00–33:10 / Speaker: Athena Simpson
+Transcript excerpt: "…gotten a few clients to ly… sitting in past ly… post ly…"
+Issue: "ly" used repeatedly in place of the M&A acronym
+Likely intended: "LOI" (Letter of Intent)
+Confidence: High
+Reasoning: Entire section is about post-LOI process/renegotiation.
+Impact: High
+
+---
+[Error #16 - Category: Misheard Acronym]
+Location: 34:00–35:10 / Speaker: AcquiMatch Team
+Transcript excerpt: "…qualifying the deal on following the fight from November till now, from a P and out."
+Issue: "P and out" incorrect in finance context
+Likely intended: "P&L" (Profit and Loss)
+Confidence: High
+Reasoning: Banks review P&L statements; phrasing aligns with that.
+Impact: High
+
+---
+[Error #17 - Category: Misheard Term]
+Location: 35:10 / Speaker: Athena Simpson
+Transcript excerpt: "…I bet that's the first term eat David in the magazine."
+Issue: "term eat" and "in the magazine" are garbled
+Likely intended: "term sheet, David" and possibly "in the [doc]" (not magazine)
+Confidence: Medium
+Reasoning: Context is reviewing a lender document (term sheet/commitment letter).
+Impact: Medium
+
+---
+[Error #18 - Category: Misheard Term]
+Location: 37:42–38:20 / Speaker: Athena Simpson
+Transcript excerpt: "…count towards his equity objection…"
+Issue: "equity objection" is incorrect in lending context
+Likely intended: "equity injection"
+Confidence: High
+Reasoning: SBA requires an equity injection; “objection” flips the meaning.
+Impact: High
+
+---
+[Error #19 - Category: Omission/Truncation]
+Location: 39:37 / Speaker: AcquiMatch Team
+Transcript excerpt: "I mean, yeah, he won't be able to sell us the lab."
+Issue: Nonsensical fragment
+Likely intended: Something like "cover the slack" / "operate post-close" / "survive the lag"
+Confidence: Low
+Reasoning: Discussing consequences of no working capital; phrase as transcribed is incoherent.
+Impact: Medium
+
+---
+[Error #20 - Category: Misheard Acronym]
+Location: 42:56 / Speaker: Athena Simpson
+Transcript excerpt: "…I think automotive is one that live okay."
+Issue: "live okay" appears to be a mishearing
+Likely intended: "Live Oak" (bank)
+Confidence: High
+Reasoning: Live Oak Bank is an SBA PLP lender; fits context.
+Impact: Medium
+
+---
+[Error #21 - Category: Misheard Acronym]
+Location: 45:04 / Speaker: Athena Simpson
+Transcript excerpt: "So the SPA is going to charge the borrower for legal fees…"
+Issue: "SPA" should be SBA in this context
+Likely intended: "SBA"
+Confidence: High
+Reasoning: She’s describing SBA guarantee/legal/closing fees.
+Impact: High
+
+---
+[Error #22 - Category: Idiom Mishearing]
+Location: 15:08 / Speaker: Athena Simpson
+Transcript excerpt: "…took me months to have my stuff around."
+Issue: Idiom misheard
+Likely intended: "wrap my head around"
+Confidence: Medium
+Reasoning: Common expression when describing learning curve.
+Impact: Low
+
+---
+[Error #23 - Category: Business Term/Acronym Mishearing]
+Location: 1:07:28 / Speaker: AcquiMatch Team
+Transcript excerpt: "…we're going to get a Q of B… we're going to get a Q B, going to get a Q A and L…"
+Issue: Multiple quality-of-… acronyms misheard
+Likely intended: "QoE (Quality of Earnings)… QoE… Q of A/L (Quality of Assets/Liabilities)"
+Confidence: Medium
+Reasoning: Post-LOI diligence typically includes QoE; “Q A and L” suggests A/L.
+Impact: Medium
+
+---
+[Error #24 - Category: Proper Noun Mishearing]
+Location: 1:02:00 / Speaker: AcquiMatch Team
+Transcript excerpt: "…for instance the chill metal right…"
+Issue: "chill metal" is likely incorrect
+Likely intended: "sheet metal"
+Confidence: Medium
+Reasoning: Earlier Luke mentioned “aluminum metal and steel manufacturing,” which often includes sheet metal work.
+Impact: Low
+
+---
+[Error #25 - Category: Omission/Truncation]
+Location: 20:07–20:15 / Speaker: AcquiMatch Team
+Transcript excerpt: "…I was appeared into one or five, five, I grew up… review the juice."
+Issue: Multiple truncated/garbled phrases
+Likely intended: Discussion of reviewing materials (deck/call recording/diligence) and next steps
+Confidence: Low
+Reasoning: Sentence structure breaks; hard to parse.
+Impact: Medium
+
+---
+[Error #26 - Category: Misheard Name]
+Location: 22:27 / Speaker: Luke Gillespie
+Transcript excerpt: "Uh, Eric, let me Eric Let's see Eric Eric, Eric actually it was Derek polly…"
+Issue: "Eric" vs "Derek" fluctuation
+Likely intended: "Derek"
+Confidence: High
+Reasoning: Later clarified and matched to CRM entry "Derek Polly (CGK Business Sales)."
+Impact: Medium
+
+---
+[Error #27 - Category: Misheard Acronym/Brand]
+Location: 1:03:19 / Speaker: Athena Simpson
+Transcript excerpt: "…That's CGAK, CGAK business."
+Issue: "CGAK" mishears the brokerage acronym
+Likely intended: "CGK [Business Sales]"
+Confidence: High
+Reasoning: Pattern of CGK misheard throughout.
+Impact: Medium
+
+---
+[Error #28 - Category: Name Inconsistency]
+Location: 1:14:20 / Speaker: Athena Simpson
+Transcript excerpt: "…that work that Eda did…"
+Issue: "Eda" vs later "Ida"
+Likely intended: "Ida"
+Confidence: Medium
+Reasoning: Later section references "Ida and Anka" as team members; “Eda” likely ASR error.
+Impact: Low
+
+---
+[Error #29 - Category: Misheard Phrase]
+Location: 8:22 / Speaker: Athena Simpson
+Transcript excerpt: "…I have to scan this thing. Okay, apologies. I have a very timely thing I have to do every day…"
+Issue: Abrupt aside likely fine, but "scan this thing" may be literal; no correction needed
+Likely intended: N/A
+Confidence: —
+Reasoning: Not material, but note it interrupts flow.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk]
+Location: 0:12–0:18
+Speakers involved: Athena Simpson, AcquiMatch Team
+Content excerpt:
+"Athena: Why do you say that that I seem like I was dragon?
+AcquiMatch Team: Oh, I thought you had a lot of energy. was like, I'll be surprised if I think they can keep this going for another hour."
+Reasoning:
+Pure small talk about energy/impressions; no business content or guidance.
+Context impact: None—discussion shifts into session takeaways immediately after.
+Recommended action: REMOVE lines 0:12–0:18
+
+---
+[REMOVAL #2 - Type: Small Talk/Personal Aside]
+Location: 1:15:03–1:15:20
+Speakers involved: Athena Simpson
+Content excerpt:
+"I'm like, okay, normally I was working through lunch every single day and it's like 12 o'clock. I'm like, go the outside now, you know what I'm like retraining my nervous system to be like back on a normal work schedule."
+Reasoning:
+Personal work-habit anecdote; not related to deals, clients, or process guidance.
+Context impact: None—returns to deal processing/prioritization right after.
+Recommended action: REMOVE lines 1:15:03–1:15:20
+
+---
+[REMOVAL #3 - Type: Off-Topic/Operational Logistics]
+Location: 1:19:00–1:20:54
+Speakers involved: Athena Simpson, David R
+Content excerpt:
+"…daylight savings is on Sunday… the entire world does not use daylight savings like the US does… Luke… international travel… CST/CDT… do some learning on daylight saving… adjust schedules…"
+Reasoning:
+Extended scheduling/time zone discussion with travel anecdotes; not related to M&A, financing, or client deal strategy.
+Context impact: Low—removal does not affect understanding of business topics covered.
+Recommended action: REMOVE lines 1:19:00–1:20:54
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: 8:22
+Content excerpt: "…sorry, I just had a timer go off and I have to scan this thing. Okay, apologies. I have a very timely thing I have to do every day at a certain time."
+Business relevance argument: Brief interruption; maintains speaker continuity and quickly returns to business examples (deal sizes, valuation).
+Personal content argument: Purely personal aside unrelated to the topic.
+Recommendation: KEEP—very brief; removing could create a jarring cut mid-thought.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 21:39–21:44
+Content excerpt: "Athena: Wow, cool. Luke: I just didn't like that."
+Business relevance argument: Minimal; but serves as a conversational acknowledgment before continuing deal details.
+Personal content argument: Adds little value.
+Recommendation: KEEP—very short phatic expressions that preserve flow.
+
+---
+
+Additional Notes and Patterns
+- Repeated mishearing of key acronyms/terms: LOI→"ly", SBA→"SPA", P&L→"P and out", sale leaseback→"sale at least back"/"sale these back", triple net→"triple and that"/"triple that".
+- Brokerage name confusion: CGK Business Sales repeatedly appears as CDK/CJK/CGAK; broker name "Derek" momentarily misheard as "Eric."
+- Client initials inconsistency: "JG" appears elsewhere; later a "JB" is referenced in a context likely referring to the same person. Review initials across the transcript/CRM.
+- Several truncated/garbled sentences suggest ASR difficulties (background noise/overlap). Examples at 6:43, 20:07–20:15, 22:11, 27:00. These should be re-checked against the recording for clarity.
+
+Speaker Attribution
+- No strong evidence of speaker-role reversal; some back-to-back “Yeah, exactly” style agreements could be from adjacent speakers, but do not materially affect comprehension.
+
+Segment Mapping (High-level)
+- 0:12–0:18: REMOVE (small talk)
+- 0:25–18:51: KEEP (deal screening strategy; real estate/sale leaseback; opportunity zones)
+- 19:38–33:00: KEEP (deal updates; broker outreach; CRM hygiene)
+- 33:00–48:49: KEEP (post-LOI process; lender term sheet/commitment letter review; working capital; DSCR; SBA mechanics)
+- 48:49–1:18:33: KEEP (team learning/scaling; diligence/renegotiation strategy; client management; sourcing/prioritization)
+- 1:18:33–1:19:00: KEEP (off-market sourcing status)
+- 1:19:00–1:20:54: REMOVE (daylight savings/time zone logistics and travel aside)
+- 1:20:54–end: KEEP (closing pleasantries are brief and acceptable)
+
+This mapping preserves all deal, financing, valuation, and strategy content while removing time-wasting tangents.

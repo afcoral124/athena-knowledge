@@ -1,0 +1,244 @@
+Below is a focused analysis of likely ASR/transcription issues and non-business segments to remove, plus a brief segment map. I’ve prioritized high-impact acronym/finance/terminology errors and clear small-talk/admin segments.
+
+Segment map (high level)
+- 00:00:00–00:01:20: Greetings/roll call/admin logistics — MIXED (brief pleasantries + meeting setup)
+- 00:01:20–01:23:30: Core content on accounting/bookkeeping/QoE/taxes/payroll/working capital/roles — KEEP
+- 01:23:30–01:24:30: Closing/admin/networking invite — MIXED (closing + event tickets)
+
+Detected transcription errors
+
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:02:00 / Speaker: Athena
+Transcript excerpt: "...last year we had him talk about. About, uh, quality of earnings. ... they’re on the receiving end of that, um, QV..."
+Issue: “QV” appears in place of “QoE” (Quality of Earnings)
+Likely intended: “QoE”
+Confidence: High
+Reasoning: The topic is explicitly “quality of earnings,” commonly abbreviated QoE in M&A contexts. “QV” is not a standard term.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym]
+Location: ~01:11:40 / Speaker: Federico
+Transcript excerpt: "And another question for the QEB..."
+Issue: “QEB” appears instead of “QoE”
+Likely intended: “QoE”
+Confidence: High
+Reasoning: The ongoing discussion concerns quality of earnings; “QEB” is a common ASR slip from “Q of E.”
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: ~01:16:10–01:18:40 / Speaker: Athena and Chris
+Transcript excerpt: "pre LOI... you might have a sim... We have like a pre LOI networking capital calculator..."
+Issue: Two items:
+- “sim” in M&A context is likely “CIM” (Confidential Information Memorandum)
+- “networking capital” should be “net working capital”
+Likely intended: “CIM”; “net working capital”
+Confidence: High
+Reasoning: Standard M&A terminology is CIM and net working capital. “sim” and “networking capital” are typical ASR errors.
+Impact: High
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:08:45–00:09:15 / Speaker: Chris
+Transcript excerpt: "I think the most important thing... The thing goes, the bodies are buried in the balance sheet..."
+Issue: “The thing goes” is likely “the saying goes”
+Likely intended: “the saying goes, ‘the bodies are buried in the balance sheet’”
+Confidence: High
+Reasoning: Common expression used in accounting diligence. “Thing” for “saying” is a typical ASR slip.
+Impact: Medium
+
+[Error #5 - Category: Omission/Truncation]
+Location: ~00:09:15 / Speaker: Chris
+Transcript excerpt: "...there's no possible way that your income statement is ac inac is, is accurate..."
+Issue: Garbled/duplicative words obscure meaning
+Likely intended: “…income statement is accurate”
+Confidence: High
+Reasoning: Repetition appears to be ASR stutter artifact.
+Impact: Medium
+
+[Error #6 - Category: Business Terminology Distortion]
+Location: ~00:09:40 / Speaker: Chris
+Transcript excerpt: "You might see negative 50 grand a check account."
+Issue: “check account” likely “checking account”
+Likely intended: “checking account”
+Confidence: High
+Reasoning: Standard term is “checking account.”
+Impact: Low
+
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:10:40 / Speaker: Chris
+Transcript excerpt: "...they're doing their sales I properly and that they're maybe doubling..."
+Issue: “sales I properly” likely “sales improperly”
+Likely intended: “sales improperly”
+Confidence: High
+Reasoning: Context is warning of errors; “improperly” fits logically.
+Impact: Medium
+
+[Error #8 - Category: Misheard Acronym/Brand]
+Location: ~00:14:05 / Speaker: Chris
+Transcript excerpt: "There's also Zero and Wave..."
+Issue: “Zero” should be “Xero” (accounting software)
+Likely intended: “Xero”
+Confidence: High
+Reasoning: Xero is a known platform; “Zero” is a common ASR mishearing.
+Impact: Medium
+
+[Error #9 - Category: Misheard Brand/Term]
+Location: ~00:22:35 / Speaker: Chris
+Transcript excerpt: "like you have a Canvas subscription..."
+Issue: Likely “Canva” (design tool) not “Canvas”
+Likely intended: “Canva”
+Confidence: High
+Reasoning: Canva is common in SMB contexts; “Canvas” would be atypical here.
+Impact: Low
+
+[Error #10 - Category: Misheard Acronym]
+Location: ~00:17:05 / Speaker: Chris
+Transcript excerpt: "keeping w nines on file for your vendors"
+Issue: “w nines” should be “W-9s”
+Likely intended: “W-9s”
+Confidence: High
+Reasoning: IRS form W-9; hyphen omitted by ASR.
+Impact: Low
+
+[Error #11 - Category: Omission/Word Substitution]
+Location: ~00:18:15 / Speaker: Chris
+Transcript excerpt: "we'll do this with our business by our clients..."
+Issue: “business by our clients” appears garbled
+Likely intended: “business buyer clients” or “business-buyer clients”
+Confidence: Medium
+Reasoning: He’s discussing acquisition entrepreneurs; “buyer clients” fits context.
+Impact: Medium
+
+[Error #12 - Category: Misheard Phrase]
+Location: ~00:21:00 / Speaker: Chris
+Transcript excerpt: "The issue there with cashew accrual..."
+Issue: “cashew accrual” is garbled pronunciation
+Likely intended: “cash vs accrual” or “cash and accrual”
+Confidence: High
+Reasoning: The section is explaining cash vs accrual accounting; “cashew” is a phonetic error.
+Impact: Medium
+
+[Error #13 - Category: Speaker Misattribution/Entity Name]
+Location: ~00:00:35–00:00:50
+Transcript excerpt:
+"Jenny: I'm good. Jenny's
+Athena: here.
+Jenny: Welcome, Jenny. I'm here. I’m here..."
+Issue: “Welcome, Jenny” likely spoken by Athena; the break between “Jenny’s / here” also looks split across speakers
+Likely intended: Athena welcoming Jenny; Jenny stating she’ll be off video
+Confidence: High
+Reasoning: People typically don’t welcome themselves. Also, the line split suggests ASR diarization error.
+Impact: Medium
+
+[Error #14 - Category: Entity Name (Person)]
+Location: ~00:00:20 / Speaker: Athena
+Transcript excerpt: "Hey, poll. Hey Michael, how are you?"
+Issue: “poll” likely a misheard name; later there is a speaker “Polly”
+Likely intended: “Polly” (or possibly “Paul”)
+Confidence: Medium
+Reasoning: The later participant named “Polly” indicates likely reference.
+Impact: Low
+
+[Error #15 - Category: Misheard Acronym]
+Location: ~01:20:50 / Speaker: Polly
+Transcript excerpt: "...the previous owner has been using A-A-C-P-A firm..."
+Issue: “A-A-C-P-A firm” likely should be “a CPA firm”
+Likely intended: “a CPA firm”
+Confidence: High
+Reasoning: Redundant letters are typical ASR duplication; “CPA firm” is standard.
+Impact: Low
+
+[Error #16 - Category: Omission/Word Choice]
+Location: ~00:02:45 / Speaker: Athena
+Transcript excerpt: "we’re recording... We’ll be grabbing the slides from Chris in his contact..."
+Issue: “in his contact” likely “and his contact”
+Likely intended: “and his contact”
+Confidence: High
+Reasoning: Conjunction fits housekeeping sentence.
+Impact: Low
+
+[Error #17 - Category: Omission/Miswording]
+Location: ~00:03:15 / Speaker: Athena
+Transcript excerpt: "once Chris gets through his pre presentation..."
+Issue: “pre presentation” awkward; likely meant “prepared presentation” or simply “presentation”
+Likely intended: “presentation”
+Confidence: Medium
+Reasoning: The phrase is redundant/awkward; most likely ASR artifact.
+Impact: Low
+
+Small talk/off-topic segments to remove
+
+[REMOVAL #1 - Type: Small Talk/Admin Roll Call]
+Location: ~00:00:00–00:00:55
+Speakers involved: Athena, Federico, Jenny
+Content excerpt:
+"Athena: How are you?
+Federico: Good, thank you.
+Athena: Amazing. Hey, poll. Hey Michael, how are you?
+Federico: Hey Athena. How are you?
+Jenny: I'm good. Jenny's
+Athena: here.
+Jenny: Welcome, Jenny. I'm here. I'm here. I'm gonna have to be off video..."
+Reasoning:
+Extended greetings/roll call and video-status logistics add no business value.
+Context impact: Low—discussion of agenda and content follows immediately after.
+Recommended action: REMOVE ~00:00:00–00:00:55
+
+[REMOVAL #2 - Type: Admin Logistics]
+Location: ~00:02:35–00:03:25
+Speakers involved: Athena
+Content excerpt:
+"...as always, we're recording the session. We'll be grabbing the slides from Chris and his contact... We'll be posting that as soon as humanly possible... once Chris gets through his pre presentation, we do want to have discussion Q and A..."
+Reasoning:
+Pure meeting logistics; not substantive to accounting/finance content.
+Context impact: Low—removal won’t affect comprehension of the technical discussion.
+Recommended action: REMOVE ~00:02:35–00:03:25
+
+[REMOVAL #3 - Type: Closing/Admin/Networking Invite]
+Location: ~01:23:30–01:24:20
+Speakers involved: Athena, Chris
+Content excerpt:
+"...we'll post Chris's contact details... Chris, hopefully see you next month at the Rice Conference... I got some extra tickets too. If anyone wants a free ticket..."
+Reasoning:
+Event logistics and ticket offers; off-topic to the technical content.
+Context impact: Low—this is post-content closing chatter.
+Recommended action: REMOVE ~01:23:30–01:24:20
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:01:00–00:01:20
+Content excerpt: "Big deal. Y'all, Jenny can join the club... Josh is here... so great to see everybody. This conversation is gonna be so fire..."
+Business relevance argument: Brief community-building and transition into agenda; sets session context.
+Personal content argument: Partly social/celebratory; minimal substantive content.
+Recommendation: KEEP (brief and helps transition; not long enough to distract)
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:59:00–01:00:30
+Content excerpt: Discussion of Profit First tooling and Relay Bank automation
+Business relevance argument: Directly tied to cash management/budgeting systems for SMBs; practical implementation details.
+Personal content argument: Mentions personal workflow preferences; could be seen as anecdotal.
+Recommendation: KEEP (materially relevant to financial operations)
+
+[BORDERLINE #3 - Requires Review]
+Location: ~00:47:40–00:48:55
+Content excerpt: Augusta Rule discussion including personal geography reference (Austin comps)
+Business relevance argument: Tax planning technique relevant to owner-operators; example supports understanding.
+Personal content argument: Minor personal anecdote about where the speaker lived.
+Recommendation: KEEP (substantive tax topic; anecdote is brief context)
+
+Speaker attribution validation notes
+- Early section misattributes “Welcome, Jenny” to Jenny; likely Athena. Also the split “Jenny’s / here” across speakers looks like diarization error. Consider review of 00:00:35–00:00:55.
+- “Hey, poll” likely refers to “Polly” (who speaks later) or “Paul.” Consider normalizing the name per participant list.
+
+Cross-reference/pattern flags for ASR improvement
+- QoE repeatedly transcribed as “QV/QEB” (Quality of Earnings topic recurs throughout)
+- CIM repeatedly transcribed as “sim”
+- Xero rendered as “Zero”
+- Canva rendered as “Canvas”
+- “Net working capital” rendered as “networking capital”
+These are high-value targets for ASR custom vocabulary in M&A/accounting contexts.
+
+Summary of impact/priorities
+- High-impact errors: Misheard acronyms (QoE/CIM), financial terminology (net working capital), and garbled phrases that obscure meaning around the balance sheet/income statement connection.
+- Medium/low-impact errors: Brand names (Xero/Canva), minor word substitutions, and grammatical stutters.
+- Removals: Initial greetings block, mid-early admin (recording/slides), and closing event ticket plug—removing these will streamline the transcript without losing substantive content.

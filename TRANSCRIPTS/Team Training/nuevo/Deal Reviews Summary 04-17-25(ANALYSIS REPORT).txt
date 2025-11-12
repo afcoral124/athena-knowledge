@@ -1,0 +1,398 @@
+Below is a structured review of potential ASR/transcription errors and a content map indicating what to keep vs. remove. I focused on high-impact business terms, acronyms, numbers, and any content that might be off-topic.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Misheard Acronym/Term]
+Location: 24:24 / Speaker: AcquiMatch Team
+Transcript excerpt: “...set up call for him next week, sorry, for Tuesday, submit the LMI, do a video...”
+Issue: “LMI” appears in the M&A offer context.
+Likely intended: “LOI” (Letter of Intent)
+Confidence: High
+Reasoning: “LOI” is standard terminology for offers. “LMI” is not relevant here.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym/Term]
+Location: 22:00-22:34 / Speaker: AcquiMatch Team
+Transcript excerpt: “...it’s doing $1.3 million even though... it has no asking price... pushing the ds dr to about one point... at $5.5 million asking price.”
+Issue: “even though” and “ds dr” do not fit; numbers garbled.
+Likely intended: “$1.3 million EBITDA… DSCR… to about 1.x at a $5.5 million asking price.”
+Confidence: High
+Reasoning: EBITDA and DSCR are standard; “even though/ds dr” are classic ASR confusions.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: 33:43-36:08 / Speaker: AcquiMatch Team
+Transcript excerpt: “...about a million dollars EBITDA, but you wanted... 10 million dollars, so you wanted 10 X...”
+Issue: Minor clarity issues elsewhere in this section, but EBITDA use is correct here; flagging pattern instead: elsewhere EBITDA is misheard (see Error #2 and Error #10).
+Likely intended: N/A (note pattern)
+Confidence: High
+Reasoning: Consistent mishearing of EBITDA in other places; documenting pattern for ASR improvement.
+Impact: Medium
+
+[Error #4 - Category: Financial/Numerical Error]
+Location: 29:18-29:47 / Speaker: Luke Gillespie
+Transcript excerpt: “...did like 350k revenue... before that he said he was doing more like $1 billion of revenue.”
+Issue: “$1 billion” for a tree service is implausible and contradicts context.
+Likely intended: “$1 million”
+Confidence: High
+Reasoning: Scale mismatch; tree service doing $1B is not credible in this context.
+Impact: High
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: 14:03-14:29 / Speaker: Luke Gillespie
+Transcript excerpt: “...Sims that are sitting in the Simbang... these really low-quality internet online companies... those online Sims...”
+Issue: “Sims / Simbang” likely intended to be “CIMs / CIM bank.”
+Likely intended: “CIMs” (Confidential Information Memoranda) and “CIM bank/repository”
+Confidence: High
+Reasoning: In buy-side workflows, “CIMs” is standard; “Sims/Simbang” is ASR artifact.
+Impact: High
+
+[Error #6 - Category: Homophone/Near-homophone]
+Location: 10:24 / Speaker: David R
+Transcript excerpt: “Because that’s where the throwing company is.”
+Issue: “throwing company” in context of Florida markets and earlier towing/catering references.
+Likely intended: “towing company”
+Confidence: High
+Reasoning: Earlier references mention towing; “throwing” is nonsensical here.
+Impact: Medium
+
+[Error #7 - Category: Homophone/Near-homophone]
+Location: 19:47-20:03 / Speakers: Athena / Luke
+Transcript excerpt: “He used to run a cheap rental company out of Hawaii... There was like those RVs, those spritter vans...”
+Issue: “cheap rental” and “spritter vans.”
+Likely intended: “Jeep rental” and “Sprinter vans”
+Confidence: High
+Reasoning: Common market terms; context of vehicle rentals fits Jeep/Sprinter.
+Impact: Medium
+
+[Error #8 - Category: Idiom Misheard]
+Location: 21:50 / Speaker: Athena Simpson
+Transcript excerpt: “Well, we know, we know he shoots from the head.”
+Issue: Idiom incorrect.
+Likely intended: “shoots from the hip”
+Confidence: High
+Reasoning: Standard idiom; “head” is a mishearing.
+Impact: Low
+
+[Error #9 - Category: Misheard Acronym/Term]
+Location: 39:58-41:05 / Speakers: Luke / AcquiMatch Team
+Transcript excerpt: “Double digit, even the multiple valuation price... Double digit, even the dot.”
+Issue: “even the”/“even the dot” in discussion of earnings and multiples.
+Likely intended: “double-digit EBITDA... double-digit multiple”
+Confidence: High
+Reasoning: M&A valuation context uses EBITDA and multiples; phrasing is garbled.
+Impact: High
+
+[Error #10 - Category: Business Terminology/Proper Noun]
+Location: 40:40-42:00 / Speakers: AcquiMatch Team / Athena
+Transcript excerpt: “...legally avoid capital gains tax, it refers to Lehman Formula Agency... reverse laymen issues...”
+Issue: “Laymen” misspelling and phrase confusion.
+Likely intended: “Lehman Formula” and “reverse Lehman”
+Confidence: High
+Reasoning: Standard industry term is Lehman Formula.
+Impact: Medium
+
+[Error #11 - Category: Omission/Truncation]
+Location: 1:07:16-1:08:07 / Speakers: AcquiMatch Team / Athena
+Transcript excerpt: “...he asked for no explicitly. 70.” Followed by “We agreed on 60 days and 70 90...”
+Issue: Missing words create confusion around exclusivity duration.
+Likely intended: “no exclusivity” and “60–90 days”
+Confidence: High
+Reasoning: Subsequent discussion clarifies exclusivity; dangling “70.”
+Impact: Medium
+
+[Error #12 - Category: Semantic Inconsistency]
+Location: 26:08-26:29 / Speakers: Athena / AcquiMatch Team
+Transcript excerpt: “...forgive it will not go if he really likes that.”
+Issue: Phrase is not coherent with surrounding discussion about customer concentration and doctor’s office.
+Likely intended: Something like “forgive it” is off; likely “figure it will not go” or “if he really likes it.”
+Confidence: Low
+Reasoning: Hard to reconstruct exact phrase; meaning unclear.
+Impact: Medium
+
+[Error #13 - Category: Misheard Term]
+Location: 38:51-39:15 / Speaker: Athena Simpson
+Transcript excerpt: “...Diogation consideration wasn’t in line...”
+Issue: “Diogation” is not a relevant term in context.
+Likely intended: “valuation consideration”
+Confidence: High
+Reasoning: Fits the valuation alignment context.
+Impact: Medium
+
+[Error #14 - Category: Homophone/Near-homophone]
+Location: 43:24-43:47 / Speakers: David / Athena
+Transcript excerpt: “Oh, that’s the only response we got... It might take a more thoughtful response...”
+Issue: This section is fine; pattern note instead: Earlier “emails in the Congo.”
+Likely intended: “emails in the convo”
+Confidence: Medium
+Reasoning: “Congo” likely “convo” (conversation) per context.
+Impact: Low
+
+[Error #15 - Category: Misheard Acronym]
+Location: 1:08:39-1:10:18 / Speaker: Athena Simpson
+Transcript excerpt: “...Q V reports... you’re going to pay a QV...”
+Issue: “QV/QV reports”
+Likely intended: “QoE (Quality of Earnings) report”
+Confidence: High
+Reasoning: Due diligence context; QoE is standard.
+Impact: High
+
+[Error #16 - Category: Business Terminology Distortion]
+Location: 55:00-56:14 / Speaker: AcquiMatch Team
+Transcript excerpt: “...model, stock recycling equity, a stock versus asset sale...”
+Issue: Phrase “stock recycling equity” is nonstandard/garbled.
+Likely intended: Something like “stock (share) vs. asset sale; equity rollover” (uncertain)
+Confidence: Medium
+Reasoning: Discussion is about stock vs. asset deals; “recycling equity” is unusual phrasing in this context.
+Impact: Medium
+
+[Error #17 - Category: Misheard Acronym]
+Location: 1:01:33-1:02:04 / Speaker: Athena Simpson
+Transcript excerpt: “...going under yellow I... they do a document review for yellow I...”
+Issue: “yellow I” is not a term.
+Likely intended: “LOI”
+Confidence: High
+Reasoning: Consistent LOI context; recurring ASR pattern.
+Impact: High
+
+[Error #18 - Category: Inconsistent Entity Name]
+Location: Multiple (e.g., 32:17; 49:55; 50:48) / Speakers: Various
+Transcript excerpt: “Eda’s off tomorrow...” vs. “Ida had in her report...” vs. “when Eda’s back on Tuesday...”
+Issue: “Eda/Ida” used inconsistently for the same person.
+Likely intended: One consistent name (likely “Eda”)
+Confidence: Medium
+Reasoning: Role context implies the same team member; mixed spelling suggests ASR variance.
+Impact: Medium
+
+[Error #19 - Category: Homophone/Near-homophone]
+Location: 13:47 / Speaker: Athena Simpson
+Transcript excerpt: “Okay, so Paul’s in his court on that last one?”
+Issue: “Paul’s” vs. idiom “ball’s in his court”
+Likely intended: “Ball’s in his court”
+Confidence: High
+Reasoning: Standard idiom; no person named Paul referenced in this context.
+Impact: Low
+
+[Error #20 - Category: Minor Mishearing/Idiom]
+Location: 35:54-36:39 / Speaker: Athena Simpson
+Transcript excerpt: “...I have it equity is not going to be 10 extra million and even either.”
+Issue: Garbled phrase during valuation discussion.
+Likely intended: “Private equity is not going to pay 10x for $1 million EBITDA either.”
+Confidence: Medium
+Reasoning: Matches context about unrealistic 10x ask.
+Impact: Medium
+
+[Error #21 - Category: Misheard Acronym/Term]
+Location: 1:20:35-1:20:51 / Speakers: Kate / Athena
+Transcript excerpt: “...what your wins are for the week... lots of Eloise flying.”
+Issue: “Eloise” in deal context.
+Likely intended: “LOIs” (plural of LOI)
+Confidence: High
+Reasoning: Frequent LOI discussion; “Eloise” is a person’s name, off here.
+Impact: Low
+
+[Error #22 - Category: Truncation/Omission]
+Location: 31:19-31:34 / Speaker: AcquiMatch Team
+Transcript excerpt: “...I also I had emailed him before and says there are you available the first thing called tomorrow called up with them and responded...”
+Issue: Sentence broken/truncated, hard to follow.
+Likely intended: Scheduling outreach with seller; responses unclear.
+Confidence: Medium
+Reasoning: Multiple missing words; meaning obscured.
+Impact: Medium
+
+[Error #23 - Category: Misheard Acronym]
+Location: 19:12-19:42 / Speaker: Luke Gillespie
+Transcript excerpt: “...anything with landscaping, construction, HV, plumbing...”
+Issue: “HV” truncated.
+Likely intended: “HVAC”
+Confidence: High
+Reasoning: Standard services category; HVAC commonly paired with plumbing.
+Impact: Low
+
+[Error #24 - Category: Inconsistent Location Name]
+Location: 12:22-13:47 / Speaker: Luke Gillespie
+Transcript excerpt: “...low deal flow and Jackson...”
+Issue: “Jackson” vs. “Jacksonville”
+Likely intended: “Jacksonville”
+Confidence: High
+Reasoning: Later clarified; client BH is in Jacksonville.
+Impact: Low
+
+[Error #25 - Category: Misheard Word]
+Location: 29:53-30:27 / Speaker: Athena Simpson
+Transcript excerpt: “...health powers is like they want to get out...”
+Issue: “health powers”
+Likely intended: “health problems”
+Confidence: High
+Reasoning: Aligns with previous seller health discussion.
+Impact: Low
+
+[Error #26 - Category: Misheard Word]
+Location: 30:37-30:45 / Speaker: Luke Gillespie
+Transcript excerpt: “...I don’t remember the emails in the Congo.”
+Issue: “Congo”
+Likely intended: “convo” (conversation) or “thread”
+Confidence: Medium
+Reasoning: Internal discussion context; “Congo” is nonsensical here.
+Impact: Low
+
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+Segment A
+- Location: 0:05-0:18
+- Mark: REMOVE (Small Talk/Tech setup)
+- Reason: Microphone/speaker checks only; no business content.
+
+Segment B
+- Location: 0:18-6:41
+- Mark: KEEP
+- Content: Agenda setup; write-up counts; HubSpot vs. spreadsheet reconciliation; cloning deals for accurate reporting.
+
+Segment C
+- Location: 6:41-8:09
+- Mark: KEEP
+- Content: On-market counts by client; data status and duplicates.
+
+Segment D
+- Location: 8:09-12:18
+- Mark: KEEP
+- Content: Low deal flow for certain clients; geography (SP/JB), market constraints; planned hunting.
+
+Segment E
+- Location: 12:18-15:24
+- Mark: KEEP
+- Content: BH status, responsiveness, geography; month count; next steps.
+
+Segment F
+- Location: 15:24-21:50
+- Mark: KEEP
+- Content: BH’s buying profile, cash constraints; industry preferences; coaching approach; volume strategy.
+
+Segment G
+- Location: 21:50-25:52
+- Mark: KEEP
+- Content: Jason’s large deal; modeling; IOIs; LOI strategy (multiple, video); follow-up plan and retention.
+
+Segment H
+- Location: 25:52-28:29
+- Mark: KEEP
+- Content: JB deal (medical office), seller health, negotiation approach.
+
+Segment I
+- Location: 28:29-33:27
+- Mark: KEEP
+- Content: Jenny off-market (tree service), revenue dip due to health, potential structure (forgivable note); data updates for submissions/calls.
+
+Segment J
+- Location: 33:27-39:58
+- Mark: KEEP
+- Content: Off-market pipeline quality; dumpster business at 10x ask; drip/warm outreach for overpriced sellers; internal SOPs when deals are “too big.”
+
+Segment K
+- Location: 39:58-48:14
+- Mark: KEEP
+- Content: Review “double-digit EBITDA/multiple” seller; strategy to move to phone call; objection handling; don’t reject “too big” deals; North Carolina manufacturing lead.
+
+Segment L
+- Location: 48:14-52:40
+- Mark: KEEP
+- Content: Action items—Athena-voice email, templates, training; off-market performance monitoring.
+
+Segment M
+- Location: 52:40-54:20
+- Mark: KEEP
+- Content: Coverage plan while Eda is off; responsibilities handover.
+
+Segment N
+- Location: 54:20-1:14:49
+- Mark: KEEP (with one Borderline excerpt)
+- Content: AH Canadian deal—stock vs. asset sale; legal counsel; exclusivity period; negotiation points; QoE; modeling implications; investor confidence.
+- Borderline excerpt: 1:02:47-1:05:06 (see Borderline #1)
+
+Segment O
+- Location: 1:14:49-1:18:16
+- Mark: KEEP
+- Content: Gill modeling assistance; request for screen share; internal process improvements.
+
+Segment P
+- Location: 1:18:16-1:20:21
+- Mark: KEEP
+- Content: Positive momentum, next steps, meeting use, reminders.
+
+Segment Q
+- Location: 1:20:21-1:20:29
+- Mark: REMOVE (Small Talk)
+- Content: “Tomorrow is my favorite day.” Non-business pleasantry.
+
+Segment R
+- Location: 1:20:29-1:20:52
+- Mark: KEEP
+- Content: Team meeting logistics, wins, LOIs—light but business-related closing.
+
+
+REMOVALS
+
+[REMOVAL #1 - Type: Small Talk/Tech Setup]
+Location: 0:05-0:18
+Speakers involved: Athena, Luke, Anke
+Content excerpt:
+“Athena: Okay, and someone talks so I can hear if my sounds working.
+Luke: Yeah, you’re good. Sounds good.
+Athena: It’s not connecting to my speaker though.
+Anke: So let’s see. Test days one, two, Yeah, yeah, yeah.”
+Reasoning:
+Purely technical sound check and setup; no business relevance.
+Context impact: None
+Recommended action: REMOVE 0:05-0:18
+
+[REMOVAL #2 - Type: Small Talk/Personal Aside]
+Location: 7:04
+Speakers involved: Athena
+Content excerpt:
+“Oh, one sec guys. forgot to close my door while you pull it up. Okay.”
+Reasoning:
+Brief personal aside; not adding business value.
+Context impact: None
+Recommended action: REMOVE 7:04 line only
+
+[REMOVAL #3 - Type: Small Talk/Closing Pleasantry]
+Location: 1:20:21-1:20:29
+Speakers involved: Athena, Anke
+Content excerpt:
+“Anke: All right, that’s…
+Athena: Tomorrow is my favorite day.”
+Reasoning:
+Non-business pleasantry; can be removed without affecting comprehension.
+Context impact: None
+Recommended action: REMOVE 1:20:21-1:20:29 (only the pleasantry line if line-level edit is preferred)
+
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 1:02:47-1:05:06
+Content excerpt: Athena’s anecdote about a yoga/dance teacher in Tulum with a broken bicycle to illustrate self-imposed obstacles.
+Business relevance argument: Provides a useful analogy on buyer/seller psychology (self-sabotage) relevant to managing client behavior and deal momentum.
+Personal content argument: Extended personal anecdote; not directly tied to a specific deal or client.
+Recommendation: KEEP—It supports coaching/strategy on client management, aligning with educational/strategic guidance.
+
+[BORDERLINE #2 - Requires Review]
+Location: 27:18-27:47
+Content excerpt: “She is in that position. She needs a double lung transplant.”
+Business relevance argument: Explains seller motivation/urgency, materially affecting negotiating leverage and pricing/terms.
+Personal content argument: Sensitive health information about a third party.
+Recommendation: KEEP—Directly relevant to deal strategy and negotiation; provides material context.
+
+
+NOTES ON SPEAKER/CONTEXT COHERENCE AND PATTERNS
+
+- LOI acronym is repeatedly mis-transcribed (“ally,” “LMI,” “L.O.Y.,” “yellow I”). This is a high-priority ASR pattern to fix.
+- EBITDA and DSCR are frequently distorted (“even though,” “ds dr”). High priority as these affect core financial meaning.
+- CIM/CIM bank consistently misheard as “Sim/Simbang.” High priority terminology correction for M&A context.
+- QoE consistently mis-transcribed as “QV.” High priority.
+- Several homophones degrade clarity but are recoverable by context (“towing/throwing,” “Jeep/cheap,” “Sprinter/spritter,” “ball’s/Paul’s,” “convo/Congo”).
+- Minor closing/greeting pleasantries are brief and mostly business-adjacent; minimal removals recommended to preserve natural flow.
+- No clear speaker misattribution identified that would invert roles; “AcquiMatch Team” is used as a composite label for one participant (likely Ryan). Content flow is coherent.
+
+If you’d like, I can cluster these error patterns (e.g., LOI/EBITDA/DSCR/CIM/QoE) into a cheat sheet for ASR engine tuning and provide a quick reference for reviewers.

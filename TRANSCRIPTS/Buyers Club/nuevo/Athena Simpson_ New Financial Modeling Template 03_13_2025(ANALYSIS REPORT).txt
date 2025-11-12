@@ -1,0 +1,217 @@
+Segment mapping (approximate time ranges)
+- 00:00:00–00:01:05: Opening greetings and excitement about starting. MIXED (mostly small talk; business context begins near 00:01:03)
+- 00:01:05–00:03:05: Overview of new modeling template and intent for feedback. KEEP
+- 00:03:05–00:06:20: Input tab conventions (color coding, dates, cash vs accrual, tax treatment). KEEP
+- 00:06:20–00:09:40: Financials tab: P&L inputs, negatives for expenses, add-backs, SDE/EBITDA, pro forma salary. KEEP
+- 00:09:40–00:14:50: Deal structure tab: scenarios A/B, equity injection, working capital, reinvestment %, investor inputs. KEEP
+- 00:14:50–00:17:40: Seller rollover equity, real estate (7(a) vs 504), line of credit behavior. KEEP
+- 00:17:40–00:21:10: Seller notes (3 types), performance-based note mechanics, deal cost inputs. KEEP
+- 00:21:10–00:24:30: Sources/uses, cap table view, operating assumptions by scenario. KEEP
+- 00:24:30–00:29:30: Forecast outputs, DSCR, LOC auto-draw, monthly/annual cash flows, hide/show detail. KEEP
+- 00:29:30–00:30:50: Q from Andrew on sharing “no change” only; seller-friendly tab idea. KEEP
+- 00:30:50–00:41:10: Scenario discussion, homework to populate model for Tuesday, use cases (4.5x), missing data approach. KEEP
+- 00:41:10–00:42:30: Light small talk (weather, excitement), time returned to attendees. REMOVE
+- 00:42:30–end (~00:43:10): Closing thanks and encouragement to copy/use template. KEEP
+
+Detailed transcription error reports
+
+[Error #1 - Category: Misheard Acronym/Loan Program]
+Location: ~00:01:20 / Speaker: Athena
+Transcript excerpt: “...do you want the real estate in your 7 a, or do you want it in a 5 or 4 separately?”
+Issue: “5 or 4” appears instead of “504” (CDC/504 loan); “7 a” spacing inconsistent.
+Likely intended: “...in your 7(a), or do you want it in a 504 separately?”
+Confidence: High
+Reasoning: In SBA financing, the 504 loan is standard for real estate; ASR commonly splits “504” into “5 or 4.”
+Impact: High – could confuse which financing program is referenced.
+
+[Error #2 - Category: Omission/Business terminology]
+Location: ~00:03:45–00:04:10 / Speaker: Athena
+Transcript excerpt: “...you’re able to select. If it was cash or accounting, so then you can start comparing the tax returns...”
+Issue: Phrase is incomplete; should specify accounting basis.
+Likely intended: “...select whether it was cash or accrual accounting...”
+Confidence: High
+Reasoning: Standard comparison is cash vs accrual basis; “cash or accounting” is semantically incomplete.
+Impact: Medium – affects clarity on a key input.
+
+[Error #3 - Category: Business terminology distortion]
+Location: ~00:08:05 / Speaker: Athena
+Transcript excerpt: “...then your adjustments, which are the things that typically come, you know, your ad box from the, uh, broker or the seller...”
+Issue: “ad box” likely misheard.
+Likely intended: “add-backs”
+Confidence: High
+Reasoning: In SMB/M&A financials, “add-backs” is the standard term.
+Impact: Medium-High – important for correct financial normalization.
+
+[Error #4 - Category: Omission/Truncation + Misheard term]
+Location: ~00:14:15–00:14:35 / Speaker: Athena
+Transcript excerpt: “...what step up that you want to give them, what PREF, and what PREF. You correct. You want to start repaying the principal.”
+Issue: Garbled phrase; “You correct.” out of place; missing word indicating timing.
+Likely intended: “...what step-up you want to give them, what pref, and what period you want to start repaying the principal.”
+Confidence: Medium
+Reasoning: Investor terms typically include “pref” and when principal repayment begins; ASR often drops “period.”
+Impact: Medium – obscures investor cash flow mechanics.
+
+[Error #5 - Category: Misheard word (semantic)]
+Location: ~00:15:30–00:15:55 / Speaker: Athena
+Transcript excerpt: “...they’ll hold it for a certain number of deals and you can preset the multiple...”
+Issue: “number of deals” mismatches the context of a buyout timeline.
+Likely intended: “number of years”
+Confidence: High
+Reasoning: Rollover equity buyouts are time-based, not “number of deals.”
+Impact: Medium
+
+[Error #6 - Category: Homophone/misrecognition]
+Location: ~00:16:55–00:17:15 / Speaker: Athena
+Transcript excerpt: “...if things get a little bit hairier, Harry, you have it available.”
+Issue: “Harry” appears instead of “hairy.”
+Likely intended: “hairy”
+Confidence: High
+Reasoning: Common idiom “get hairy”; person name “Harry” is nonsensical.
+Impact: Low
+
+[Error #7 - Category: Misheard acronym]
+Location: ~00:26:05–00:26:20 / Speaker: Athena
+Transcript excerpt: “...it just looks like a straight up kind of simple P and O...”
+Issue: “P and O” in financial context is likely wrong.
+Likely intended: “P&L”
+Confidence: High
+Reasoning: She consistently references P&L elsewhere; “P and O” is not standard.
+Impact: Medium
+
+[Error #8 - Category: Misheard Acronym]
+Location: ~00:20:15–00:20:35 / Speaker: Athena
+Transcript excerpt: “...deal costs, your deal expenses... lawyers, QB, et cetera.”
+Issue: “QB” is likely misheard for “QoE.”
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: Medium-High
+Reasoning: In acquisition deal costs, QoE is common; “QB” (QuickBooks) does not fit usual due diligence cost line items.
+Impact: Medium
+
+[Error #9 - Category: Misheard word (acronym)]
+Location: ~00:32:00–00:32:25 / Speaker: Andrew
+Transcript excerpt: “...here’s my desk service coverage. I have to be a 1 above 1, 1 and a half...”
+Issue: “desk” instead of “debt.”
+Likely intended: “debt service coverage”
+Confidence: High
+Reasoning: Industry standard term is “debt service coverage (ratio).”
+Impact: Medium
+
+[Error #10 - Category: Omission/garble]
+Location: ~00:41:05–00:41:20 / Speaker: Athena
+Transcript excerpt: “...we were able to and virus a little bit early.”
+Issue: Garbled phrase.
+Likely intended: “...we were able to end this a little bit early.” (or “end five or so minutes early”)
+Confidence: Medium
+Reasoning: Context is early wrap-up; “and virus” is nonsensical.
+Impact: Low
+
+[Error #11 - Category: Omission/Truncation]
+Location: ~00:41:45–00:42:05 / Speaker: Athena
+Transcript excerpt: “I can’t believe what a nerd I that this is literally the most exciting thing of my month.”
+Issue: Missing verb.
+Likely intended: “what a nerd I am — this is literally...”
+Confidence: High
+Reasoning: Common phrase; ASR often drops “am.”
+Impact: Low
+
+[Error #12 - Category: Semantic inconsistency]
+Location: ~00:41:15 and ~00:43:00 / Speaker: Athena
+Transcript excerpt: “...give you 14 minutes back...” then later “...enjoy the 12 minutes back.”
+Issue: Conflicting time amounts.
+Likely intended: Single consistent time returned (either 12 or 14 minutes).
+Confidence: High
+Reasoning: Two different values within ~2 minutes suggests ASR or ad-lib inconsistency.
+Impact: Low
+
+[Error #13 - Category: Misheard acronym (Borderline)]
+Location: ~00:07:05–00:07:20 / Speaker: Athena
+Transcript excerpt: “...pull out the P&Ls and you’re going to want it, or the SIM, depending on what financial statements that you have...”
+Issue: “SIM” vs “CIM” (Confidential Information Memorandum).
+Likely intended: “CIM” (or “SIM” if they standardize on Sales/Seller Info Memorandum)
+Confidence: Medium
+Reasoning: US M&A typically uses “CIM”; some brokers do say “SIM.” Needs context from org standards.
+Impact: Low-Medium
+
+Segments to remove
+
+[REMOVAL #1 - Type: Small Talk/Opening pleasantries]
+Location: 00:00:00–00:01:05
+Speakers involved: Athena, Steve
+Content excerpt:
+“Athena: Hey Gil. Hello, I think people are rolling and I'm so excited. Hey, Steve.
+Steve: Hey, I'm going to go on mute... I want to watch this because I'm so excited about it.
+Athena: Yeah, me too. Oh Amazing cool Well, it's been a long time coming...”
+Reasoning:
+Pure greetings and expressions of excitement prior to substantive content; no business information yet.
+Context impact: None—business overview begins immediately after.
+Recommended action: REMOVE 00:00:00–00:01:05
+
+[REMOVAL #2 - Type: Small Talk (Weather/Personal excitement)]
+Location: ~00:41:15–00:41:35
+Speakers involved: Athena
+Content excerpt:
+“I don’t know about where you all are. The sun is shining here. I’m so excited. So give you 14 minutes back.”
+Reasoning:
+Weather and personal excitement; not related to business or the model’s use.
+Context impact: None—removal doesn’t affect instructions or Q&A.
+Recommended action: REMOVE ~00:41:15–00:41:35
+
+[REMOVAL #3 - Type: Small Talk/Personal aside]
+Location: ~00:41:55–00:42:30
+Speakers involved: Athena
+Content excerpt:
+“Oh, I saw Dustin said, this is awesome. Yay. I'm so excited. You guys are excited. I can't believe what a nerd I that this is literally the most exciting thing of my month. Maybe.”
+Reasoning:
+Compliments and self-deprecating humor; no business content.
+Context impact: Low—does not affect understanding of the model or action items.
+Recommended action: REMOVE ~00:41:55–00:42:30
+
+[REMOVAL #4 - Type: Redundant closing pleasantries]
+Location: ~00:42:55–00:43:10
+Speakers involved: Athena, Justin
+Content excerpt:
+“Athena: Awesome. Great. Well, enjoy the 12 minutes back. We'll see you all next week. Bye.”
+Reasoning:
+Closing salutations only; purely social courtesy.
+Context impact: None—meeting action item (use template) is already conveyed earlier.
+Recommended action: REMOVE ~00:42:55–00:43:10
+
+Borderline segments requiring review
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:01:05–00:01:20
+Content excerpt: “Well, it's been a long time coming. This is a vision I've had for... How long have I been talking about this?...”
+Business relevance argument: Brief context for the initiative’s importance and timeline; helps frame why the tool exists.
+Personal content argument: Expressive, non-technical; could be considered hype rather than content.
+Recommendation: KEEP — short and frames the rollout; not an extended tangent.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:07:05–00:07:20
+Content excerpt: “...pull out the P&Ls and... or the SIM, depending on what financial statements that you have...”
+Business relevance argument: Directly about source docs to populate the model.
+Personal content argument: Potential transcription error (“SIM” vs “CIM”); not small talk.
+Recommendation: KEEP (but flag as potential acronym error — see Error #13)
+
+[BORDERLINE #3 - Requires Review]
+Location: ~00:29:55–00:30:10
+Content excerpt: “Silence. Oh, um, so... does someone want to be a guinea pig...”
+Business relevance argument: Transition to live modeling; sets up a practical exercise.
+Personal content argument: The “Silence/um/guinea pig” phrasing is filler.
+Recommendation: KEEP — functional meeting facilitation; removing could disrupt flow.
+
+Speaker attribution validation
+- Q&A dynamics appear consistent: Andrew asks about sharing outputs; Athena responds with solution ideas. Justin responds appropriately about readiness; Athena assigns homework. No strong evidence of speaker misattribution.
+
+Cross-reference checks
+- “7 a” vs “7A” vs “7(a)” usage is inconsistent but understandable; main mis-transcription is “5 or 4” (flagged).
+- “P&L(s)” referenced consistently elsewhere; only “P and O” seems erroneous (flagged).
+- Seller notes, equity injection, DSCR, SDE/EBITDA usage consistent with context.
+- Time returned inconsistency (14 vs 12 minutes) flagged.
+
+Patterns to note for ASR improvement
+- Numerals and SBA programs: “504” misheard as “5 or 4”; “7(a)” spacing/casing inconsistent.
+- Financial terms: “add-backs”→“ad box”; “debt”→“desk”; “P&L”→“P and O”.
+- Common domain terms omitted: “accrual” after “cash or...”.
+- Investor terms: “pref” and “period” garbled.
+- Casual idioms: “hairy” misrecognized as “Harry”.
+These suggest targeted language model tuning around SBA/M&A lexicon and numbers.

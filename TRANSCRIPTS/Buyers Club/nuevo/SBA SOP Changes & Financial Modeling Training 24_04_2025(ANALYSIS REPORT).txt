@@ -1,0 +1,164 @@
+Segment mapping (KEEP/REMOVE/MIXED)
+
+- 00:00:00–00:00:40: Greetings and call kickoff – KEEP (brief, professional)
+- ~00:00:40–00:07:20: SBA SOP changes overview (equity injection, guarantee fees, defaults, effective date) – KEEP
+- ~00:07:20–00:08:05: Licensing/rollover point with off-topic interjection – MIXED (see Removal #1)
+- ~00:08:05–00:11:00: Licenses, seller PG if retaining equity, alternatives (key employee/MSO) – KEEP
+- ~00:11:00–00:12:00: Ownership/immigration status eligibility – KEEP
+- ~00:12:00–00:14:15: Q&A (Steve) on rollover via holding company/look-back – KEEP
+- ~00:14:15–00:20:00: Investor equity, <20% PG interpretations, timing (June 1), deal competitiveness – KEEP
+- ~00:20:00–00:23:30: Transition to financial modeling session – KEEP
+- 00:24:00–00:25:10: Screen-share/tech-check chatter – REMOVE (see Removal #2)
+- ~00:25:10–00:53:00: Financial modeling walkthrough (COGS, add-backs, depreciation/CapEx, TTM vs YTD, SDE, real estate handling), Q&A (Gil) – KEEP
+- ~00:53:00–00:55:00: Upcoming SBA guests, lender AMA, program logistics, closing – KEEP
+
+Detected transcription errors
+
+[Error #1 - Category: Business terminology distortion]
+Location: ~00:02:00 / Speaker: Athena
+Transcript excerpt: "...what, you know, equity I objection, needed to be and that sort of thing."
+Issue: “equity I objection” in SBA financing context
+Likely intended: “equity injection”
+Confidence: High
+Reasoning: “Equity injection” is the standard SBA term; phrase as transcribed is nonsensical in context.
+Impact: High – Key to understanding SBA requirements
+
+[Error #2 - Category: Homophone/near-substitution]
+Location: ~00:01:35 / Speaker: Athena
+Transcript excerpt: "...the SBA guarantee fee plot that everybody pays, pays for, you know, the lender..."
+Issue: “plot” conflicts with prior “pot” reference
+Likely intended: “pot”
+Confidence: High
+Reasoning: Earlier sentence correctly described fees going “into a pot.” “Plot” is an ASR slip.
+Impact: Low – Minor clarity issue
+
+[Error #3 - Category: Omission/Truncation]
+Location: ~00:07:00 / Speaker: Athena
+Transcript excerpt: “...seller must personally guarantee the SBA loan for two years post-closing and be listed as a co. Hey, doing Jason. Oh, Anka. Can we,”
+Issue: The phrase ends abruptly at “co.”, then crosstalk interrupts
+Likely intended: “co-borrower” (or “co-signer”)
+Confidence: Medium
+Reasoning: Context is lender requirements when seller retains equity; “co-borrower” fits common SBA phrasing used elsewhere in the call.
+Impact: Medium – Leaves requirement incomplete
+
+[Error #4 - Category: Financial/Numerical inconsistency]
+Location: ~00:12:40 / Speaker: Athena
+Transcript excerpt: “...they’re gonna do what’s called a look back... Sometimes it’s six months, sometimes it’s six two years. So I’ll clarify...”
+Issue: “six two years” is malformed
+Likely intended: “six to twelve months” or “six to two years (up to two years)”
+Confidence: Medium
+Reasoning: She immediately notes uncertainty; ASR likely dropped “to” or “twelve.”
+Impact: Medium – Affects understanding of look-back window
+
+[Error #5 - Category: Semantic inconsistency]
+Location: ~00:11:55 / Speaker: Athena
+Transcript excerpt: “No. Steve, I see I have a question.”
+Issue: The phrase reads as Athena asserting she has a question
+Likely intended: “Steve, I see you have a question.”
+Confidence: High
+Reasoning: Fits the flow (she then yields to Steve’s question).
+Impact: Low – Minor, but confusing attribution
+
+[Error #6 - Category: Business terminology distortion]
+Location: ~00:27:45 / Speaker: Athena
+Transcript excerpt: “...which is how they’re arriving at their overall STE.”
+Issue: “STE” in valuation context
+Likely intended: “SDE” (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: She is calculating add-backs toward SDE; “STE” is a common ASR swap.
+Impact: Medium – Important financial metric label
+
+[Error #7 - Category: Misheard acronym/term]
+Location: ~00:47:40 / Speaker: Athena
+Transcript excerpt: “This SDI can’t remember. It’s 4 6 6 something...”
+Issue: “SDI” used where SDE is being discussed
+Likely intended: “SDE”
+Confidence: High
+Reasoning: Consistent with prior references to SDE and multiples.
+Impact: Low – Minor label slip, but could confuse readers
+
+[Error #8 - Category: Business terminology + numerical expression]
+Location: ~00:19:00 / Speaker: Athena
+Transcript excerpt: “...you could potentially split the equity injection with an investor and you know, even if you were doing a two x step up. Or even a three at 5% equity, they would only be getting 15% ownership...”
+Issue: “three at 5%” likely intended to be “3x step-up”
+Likely intended: “...2x step-up... or even a 3x step-up...”
+Confidence: Medium
+Reasoning: Math described (5% cash with 3x step-up = 15% equity) supports “x” multiplier terminology; “at” is an ASR substitution.
+Impact: Medium – Clarifies investor equity math
+
+[Error #9 - Category: Omission/Truncation]
+Location: ~00:10:25 / Speaker: Athena
+Transcript excerpt: “...or if there’s ways to make sure that there’s a license folder in the business that’s not the seller, so that they don’t have to pg.”
+Issue: Lowercased/verbified “pg” without expansion
+Likely intended: “PG” = “personally guarantee”
+Confidence: Medium
+Reasoning: Consistent usage throughout; here it reads as an incomplete acronym.
+Impact: Low – Domain readers will infer, but expansion improves clarity
+
+[Error #10 - Category: Semantic/label inconsistency (not content)]
+Location: ~00:25:35 / Speaker: Athena
+Transcript excerpt: “This looks like this is just a TTM January to April.”
+Issue: TTM (trailing twelve months) cannot be “January to April”; she later corrects as YTD
+Likely intended: “This looks like it’s just YTD (Jan–Apr), not TTM.”
+Confidence: Medium
+Reasoning: She explicitly distinguishes YTD vs TTM shortly after.
+Impact: Low – Self-corrected; minor labeling confusion
+
+Removals
+
+[REMOVAL #1 - Type: Off-Topic/Small Talk]
+Location: ~00:07:40–00:08:05
+Speakers involved: Athena, Steve
+Content excerpt:
+“Athena: ...the seller must personally guarantee the SBA loan for two years post-closing and be listed as a co. Hey, doing Jason. Oh, Anka. Can we,
+Steve: uh, can I get a number one deluxe with no pickle?
+Athena: Got it. Okay, thanks. Um, somebody’s hungry.”
+Reasoning:
+Fast-food aside and banter are unrelated to business content and interrupt an important point about seller guarantees.
+Context impact: Low – Remove only the off-topic lines; the surrounding business point stands.
+Recommended action: REMOVE the interjection lines starting from “Hey, doing Jason...” through “somebody’s hungry.”
+
+[REMOVAL #2 - Type: Off-Topic/Technical Housekeeping]
+Location: 00:24:00–00:25:10
+Speakers involved: Athena, Unidentified participant
+Content excerpt:
+“Athena: I’m gonna actually pull this out separately so I don’t accidentally click into random things... Okie dokey, right?
+Application windows. That’s what I need, isn’t it? Okay, so let me, no, where is that?
+...Share. Okay, share. Now let me check with y’all. Can you see me clicking in between the financial modeling in the sim or did I just grab the. Tab, like when I switch?
+Participant: No, you’re good, Athena. We can see the switch.”
+Reasoning:
+Screen-share setup and visual confirmation are administrative/technical and add no substantive value to the financial modeling instruction.
+Context impact: None – Removing this does not affect the modeling walkthrough.
+Recommended action: REMOVE 00:24:00–00:25:10
+
+Borderline segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 00:53:00–00:55:00
+Content excerpt:
+Scheduling/announcements about upcoming SBA broker AMA, Live Oak lender AMA, future guest speakers, and closing remarks.
+Business relevance argument: Previews expert sessions directly related to SBA lending interpretations and deal execution; useful for participants’ acquisition process.
+Personal content argument: Administrative program logistics and general closing pleasantries; not technical content.
+Recommendation: KEEP – While administrative, it guides participants to resources critical to current SBA SOP changes.
+
+Patterns and notes for ASR system improvement
+
+- “SDE” frequently misrecognized as “STE”/“SDI”
+- “Equity injection” misrecognized as “equity I objection”
+- Truncation around compound words with “co-” (e.g., “co-borrower”) when interrupted
+- Occasional homophone swaps (“pot”→“plot”)
+- Numerical ranges (“six to [x]”) prone to dropping the “to” or the second number
+
+Speaker attribution validation
+
+- One instance of likely misphrased turn-taking (“No. Steve, I see I have a question.”) suggesting ASR confusion; content flow indicates Athena recognized Steve’s question. No other systematic attribution reversals detected.
+
+Context preservation check
+
+- Proposed removals are limited to clear off-topic/technical chatter and will not create gaps in the business discussion. The first removal trims a humorous aside embedded between two related sentences; retain the preceding and following business lines for continuity. The second removal precedes the modeling content and excludes only tech-setup chatter.
+
+Confidence summary
+
+- High confidence for clear terminology/acronym mishears (equity injection, SDE, pot)
+- Medium confidence for the look-back range (“six two years”) and “co-” truncation due to interruption
+- Low-to-medium for minor label slips self-corrected in context (TTM vs YTD)

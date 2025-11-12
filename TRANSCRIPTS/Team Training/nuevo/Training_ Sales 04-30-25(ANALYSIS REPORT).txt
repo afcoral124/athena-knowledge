@@ -1,0 +1,361 @@
+Below is a focused error analysis and relevance mapping of the provided transcript. I’ve prioritized high‑impact ASR issues (acronyms, finance/terms, and proper nouns) and clearly marked potentially removable non-business content. Where content is borderline, I’ve provided a KEEP/REMOVE recommendation with rationale.
+
+ERRORS
+
+[Error #1 - Category: Entity Name (Company/Brand)]
+Location: 8:33 / Speaker: Austin
+Transcript excerpt: “...working with Acromash back in February after seeing some of our content on LinkedIn…”
+Issue: “Acromash” appears to be a mis-transcription of the company’s name.
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: The company throughout is AcquiMatch; multiple variants appear due to ASR.
+Impact: High – brand name accuracy matters in client communications and internal training content.
+
+[Error #2 - Category: Entity Name (Company/Brand)]
+Location: Multiple instances (31:02, 31:xx, 56:14, 1:08:55, 1:09:19) / Speaker: Austin
+Transcript excerpt: “AquaMatch… Accomatch… Aquamatch’s Buyer’s Club…”
+Issue: Multiple inconsistent spellings of AcquiMatch.
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Repeated variant spellings for the same brand; clear ASR variation.
+Impact: Medium – consistency and professionalism; potential confusion in documentation.
+
+[Error #3 - Category: Misheard Acronym/Business Term]
+Location: 5:26 / 1:02:06 / 1:03:08 / 1:03:31 / Speaker: Austin, Athena
+Transcript excerpt: “QV provider… QOV… QOB provider… QOV prior to having a lender do a first pass…”
+Issue: “QV/QOV/QOB” inconsistent; appears to refer to Quality of Earnings.
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: In M&A, QoE is the standard acronym; repeated inconsistent forms indicate ASR confusion.
+Impact: High – core due diligence concept; mislabeling can confuse process steps.
+
+[Error #4 - Category: Entity Name (Media)]
+Location: ~31:xx / Speaker: Austin
+Transcript excerpt: “I don’t know if you heard about us on Acquiring Mines…”
+Issue: Podcast name appears misspelled.
+Likely intended: “Acquiring Minds”
+Confidence: High
+Reasoning: “Acquiring Minds” is the well-known podcast in ETA/M&A.
+Impact: Medium – credibility/detail accuracy.
+
+[Error #5 - Category: Entity Name (Institution)]
+Location: ~31:xx / Speaker: Austin
+Transcript excerpt: “McComb School of Business at UT in Austin”
+Issue: School name missing “s.”
+Likely intended: “McCombs School of Business (UT Austin)”
+Confidence: High
+Reasoning: Official name uses “McCombs.”
+Impact: Medium – institutional accuracy.
+
+[Error #6 - Category: Entity Name (Person/Community)]
+Location: ~31:xx / Speaker: Austin
+Transcript excerpt: “Cody’s Community Contrarian Thinking…”
+Issue: Person’s name likely misheard; well-known figure is Codie Sanchez.
+Likely intended: “Codie Sanchez’s community, Contrarian Thinking”
+Confidence: High
+Reasoning: “Contrarian Thinking” is Codie Sanchez’s brand/community; “Cody” is a common ASR slip.
+Impact: Medium – accuracy of notable affiliations.
+
+[Error #7 - Category: Entity Name (Tool/Extension)]
+Location: 10:45–11:02 / Speaker: Athena, Austin
+Transcript excerpt: “I think we might need to get you on Surf, too, for LinkedIn.”
+Issue: Product name likely misrendered.
+Likely intended: “Surfe” (LinkedIn-to-CRM tool formerly Leadjet)
+Confidence: Medium
+Reasoning: Surfe is a common HubSpot/LinkedIn sync tool; “Surf” is a plausible ASR error.
+Impact: Medium – tool setup/enablement accuracy.
+
+[Error #8 - Category: Entity Name (Person)]
+Location: 10:13 / Speaker: Athena
+Transcript excerpt: “Let me send Honka a message.”
+Issue: Team member’s name inconsistent with earlier usage.
+Likely intended: “Anka”
+Confidence: High
+Reasoning: “Anka” is used consistently throughout; “Honka” is likely ASR noise.
+Impact: Medium – internal coordination clarity.
+
+[Error #9 - Category: Business Terminology Distortion]
+Location: 41:xx / Speaker: Austin
+Transcript excerpt: “...moving deals through our betting funnel quickly…”
+Issue: “betting funnel” is not the correct term in this context.
+Likely intended: “vetting funnel”
+Confidence: High
+Reasoning: Deal screening uses “vetting”; “betting” is an ASR mis-hear.
+Impact: High – changes meaning of the process.
+
+[Error #10 - Category: Omissions/Truncations]
+Location: 41:xx / Speaker: Austin
+Transcript excerpt: “Our team has a problem. We in the of actually moving deals through our betting funnel quickly…”
+Issue: Fragmented sentence; missing words.
+Likely intended: A coherent clause such as “We excel at moving deals through our vetting funnel quickly…”
+Confidence: Medium
+Reasoning: Non-grammatical; likely cut by ASR during overlap or noise.
+Impact: Medium – comprehension of process capability.
+
+[Error #11 - Category: Omissions/Truncations]
+Location: 26:50–27:00 / Speaker: Austin
+Transcript excerpt: “...managing this all by yourself while having a full-time job. searcher searcher for an an individual A child of your own…”
+Issue: Garbled string and duplicated words.
+Likely intended: A reference to being an individual searcher with a child and relationship obligations.
+Confidence: Medium
+Reasoning: Clear ASR artifact with repetitions and word insertions.
+Impact: Medium – reduces clarity.
+
+[Error #12 - Category: Homophone/Word Choice]
+Location: 50:48 / Speaker: Austin
+Transcript excerpt: “...most buyers rough into making offers.”
+Issue: “rough” in place of “rush.”
+Likely intended: “rush into making offers”
+Confidence: High
+Reasoning: Common phrase; “rough” is incorrect in this context.
+Impact: Medium – clarity of risk description.
+
+[Error #13 - Category: Entity Name (Lender)]
+Location: 1:03:05–1:04:00 / Speaker: Austin
+Transcript excerpt: “...most SBA lenders and LIBO specifically, who I know you have that QO or a qualification letter from…”
+Issue: “LIBO” and “QO” are likely mis-heard.
+Likely intended: “Live Oak (Bank)” and “pre-qualification letter” (or “preapproval”)
+Confidence: High
+Reasoning: Live Oak Bank is referenced elsewhere; “QO” mismatches context.
+Impact: High – lender and document accuracy in process guidance.
+
+[Error #14 - Category: Homophone/Idiom]
+Location: 1:07:01–1:07:12 / Speaker: Austin
+Transcript excerpt: “...the brass tax question, the million-dollar question…”
+Issue: Idiom misrendered.
+Likely intended: “brass tacks question”
+Confidence: High
+Reasoning: Standard idiom; “tax” is a common ASR mistake.
+Impact: Low – minor but noticeable.
+
+[Error #15 - Category: Homophone]
+Location: 1:11:19–1:11:30 / Speaker: Austin
+Transcript excerpt: “...include these fees either in the low as working capital...”
+Issue: “low” in place of “loan.”
+Likely intended: “loan”
+Confidence: High
+Reasoning: Fits SBA financing context.
+Impact: High – financial structuring clarity.
+
+[Error #16 - Category: Entity Name (Marketplace)]
+Location: ~35:10–35:40 / Speaker: Austin
+Transcript excerpt: “...struggling to find things on biz by sell…”
+Issue: Marketplace brand name likely misrendered.
+Likely intended: “BizBuySell”
+Confidence: High
+Reasoning: Standard SMB listing marketplace is “BizBuySell.”
+Impact: Medium – brand accuracy.
+
+[Error #17 - Category: Nonsense/Fill]
+Location: 24:11 / Speaker: Austin
+Transcript excerpt: “Feta?”
+Issue: Nonsensical interjection likely ASR error for “Better?” or “That better?”
+Likely intended: “Better?”
+Confidence: Medium
+Reasoning: Said while adjusting screen share; “Feta” is unlikely in context.
+Impact: Low – does not affect business content.
+
+[Error #18 - Category: Omissions/Truncations]
+Location: ~31:xx / Speaker: Austin
+Transcript excerpt: “...Athena might’ve been the best business owner, but she wasn’t the best business buyer at the time. Right. And that’s really where, where Aqua match came from. So do you still have our, our focus is really on helping that 2%…”
+Issue: Fragment “do you still have our” is incoherent.
+Likely intended: Transition such as “So our focus is really on helping that 2%…”
+Confidence: Medium
+Reasoning: Disfluent sequence suggests ASR splice.
+Impact: Medium – flow/clarity.
+
+[Error #19 - Category: Semantic Inconsistency]
+Location: 50:48–54:35 / Speaker: Austin
+Transcript excerpt: “...the final step is obviously making that winning offer… So we’ll move on to step five here. Obviously, we want to close on your ideal business.”
+Issue: Step numbering/labeling inconsistency (calls step four the “final step,” then introduces step five).
+Likely intended: Step four is not final; step five follows.
+Confidence: High
+Reasoning: Internal contradiction in sequencing.
+Impact: Medium – could confuse trainees or clients.
+
+[Error #20 - Category: Minor Grammar/Agreement]
+Location: 52:52–53:10 / Speaker: Austin
+Transcript excerpt: “So, the results, you’ll submit an offer, submit offer. That are fundable, competitive…”
+Issue: Redundant phrase and agreement mismatch.
+Likely intended: “you’ll submit offers that are fundable, competitive…”
+Confidence: High
+Reasoning: Clear duplication/grammar slip likely from ASR.
+Impact: Low – readable but untidy.
+
+[Error #21 - Category: Misheard Acronym/Term (Possible)]
+Location: 43:10–45:00 / Speaker: Austin, Athena
+Transcript excerpt: “[Multiple uses of SIM/Sims for deal packages]”
+Issue: Potential “SIM” vs “CIM” inconsistency (Confidential Information Memorandum).
+Likely intended: “CIM(s)” (industry standard)
+Confidence: Medium
+Reasoning: Many brokers say CIM; some do use SIM. Consistency should be validated against internal lexicon.
+Impact: Medium – may cause confusion if trainees/clients expect “CIM.”
+
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+Segment A: 0:00–3:22
+Content: Greetings; discussion of booking meetings; legacy contacts (Jim Allison), prospect quality; plan for meeting; end-of-day reports; handling personal introductions/“white glove” approach.
+Classification: KEEP
+Reasoning: Directly relevant to lead handling, sales operations, and process decisions.
+
+Segment B: 3:23–7:48
+Content: White-glove intros; minimizing friction for Kate; SLAs/response time expectations; conversion metrics; LinkedIn leads routing.
+Classification: KEEP
+Reasoning: Sales process, client management, ops standards—business-critical.
+
+Segment C: 7:49–10:45
+Content: LinkedIn connection; profile; looping Austin into LinkedIn messages; working through forms; screen share to show outreach messaging; HubSpot/Gmail tracking setup.
+Classification: KEEP
+Reasoning: Lead gen, CRM operations, messaging—business-relevant.
+
+Segment D: 10:45–12:24
+Content: Surfe/LinkedIn-HubSpot tracking; logging LinkedIn convos into HubSpot; ensuring tech stack completeness.
+Classification: KEEP
+Reasoning: CRM instrumentation—business-relevant.
+
+Segment E: 12:24–14:26
+Content: Addressing a prospect’s “surprised I never heard back”; waitlist context; watch onboarding videos; action item to watch client videos.
+Classification: KEEP
+Reasoning: Prospect comms, expectation setting—business-relevant.
+
+Segment F: 14:26–18:47
+Content: Qualifying prospects (budget=0); assessing prospect Shauna; discussion of accelerator value, client readiness and attitude; client prioritization; strategic guidance on a student client’s geography/time constraints.
+Classification: KEEP
+Reasoning: Client qualification, strategy, deal readiness.
+
+Segment G: 18:47–22:26
+Content: Scheduling constraints; pushing to onboarding window; time management and meeting length feedback.
+Classification: KEEP
+Reasoning: Sales execution and internal coordination.
+
+Segment H: 22:26–25:26
+Content: Script timing feedback; roleplay setup; screen-sharing/presentation view, removing tabs/bookmarks; desktop setup.
+Classification: MIXED
+Reasoning: Some technical screen-share housekeeping is not substantive to acquisition content, but it’s part of sales training. See line-level below.
+
+Segment I: 25:26–36:18
+Content: Roleplay discovery/pitch; recap of prior call; pain points; “business matchmaker” positioning; Athena’s $20M lesson; team/partners; client success; search simplified overview; “write 1–5” framework kickoff.
+Classification: KEEP
+Reasoning: Core sales narrative and offering.
+
+Segment J: 36:18–42:26
+Content: Step 1 (right buyer) and Step 2 (deal flow vision) including on-market and off-market sourcing, broker engagement, filtering.
+Classification: KEEP
+Reasoning: Core methodology.
+
+Segment K: 42:26–47:25
+Content: Objection handling on “2–4 per month”; current process review; evaluation practices.
+Classification: KEEP
+Reasoning: Sales objection handling; process calibration.
+
+Segment L: 47:25–50:44
+Content: Step 3 (calibrate search and skills) including broker/owner conversations; negotiation coaching.
+Classification: KEEP
+
+Segment M: 50:44–56:14
+Content: Step 4 (winning offers), pre-lender review, SBA compliance, forgivable notes; Step 5 (close), due diligence guidance, cost management.
+Classification: KEEP
+
+Segment N: 56:14–1:06:59
+Content: Delivery/execution: onboarding, CRM/resources, curated deal flow, analysis, support channels, network; value proposition; prospect fit (1–10 scale); cost dependency; advice vs deal flow need; deal team timing (QoE vs bank first look).
+Classification: KEEP
+
+Segment O: 1:06:59–1:12:48
+Content: Next steps; onboarding flow; Buyer's Club; SBA pre-approval; dashboard; homework; pricing/fee explanation; ACTION ITEM to rewrite pricing explanation.
+Classification: KEEP
+
+Segment P: 1:12:48–1:18:11
+Content: Feedback on pricing narrative vs buy-side advisors; ACTION ITEM voice note feedback; re-adding fit screening earlier; script practice; PowerPoint assets quality; screen-share how-to and follow-ups; closing.
+Classification: KEEP
+
+
+DETAILED LINE-LEVEL ANALYSIS FOR MIXED SEGMENT
+
+[H - 22:26–25:26] MIXED
+- 22:26–23:40: Script timing feedback; plan for dry run; screen share start
+  KEEP: Business-relevant sales training and practice setup.
+- 23:58–25:26: “Uh… are you good... remove all the tabs… bookmarks bar… I might need two minutes…”
+  REMOVE: Screen housekeeping and window management specifics add no business substance.
+  Boundaries to remove: 24:00–25:26
+
+
+REMOVALS
+
+[REMOVAL #1 - Type: Off-Topic/Technical]
+Location: 4:09–4:16
+Speakers involved: Athena, Austin
+Content excerpt:
+“Athena: My speaker is still... Can you say something again?
+Austin: Yes, ma’am. Yes, ma’am.
+Athena: Can you hear me? ... I’ve been having issues with my speaker.”
+Reasoning:
+Purely technical audio troubleshooting. No business content.
+Context impact: None – conversation continues directly into process topics.
+Recommended action: REMOVE 4:09–4:16
+
+[REMOVAL #2 - Type: Off-Topic/Technical]
+Location: 24:00–25:26
+Speakers involved: Austin, Athena
+Content excerpt:
+“Austin: Uh… Uh, I’m sorry. Uh, are you good? Can you see my screen?
+Athena: Is there a way for you to remove all the tabs and everything, though?
+Austin: … Bookmarked bar, I’ll uncheck this… Can you still… I don’t think you can see it… No, I can’t. There we go. Feta?
+Athena: … I’m still seeing your tab, but, um, it’s cool for now.
+Austin: There’s not a way, I don’t know how to do…”
+Reasoning:
+Screen/tab housekeeping; no substantive sales or acquisition content beyond general setup.
+Context impact: Low – removing this reduces noise without harming understanding of the roleplay and training.
+Recommended action: REMOVE 24:00–25:26
+
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 1:00–1:30
+Content excerpt:
+“Athena: ...He has a personal connection from, like, a million years ago in my, like, music production days.”
+Business relevance argument: Provides context on a prospect’s origin/relationship and likely fit (time-waster), which informs lead qualification.
+Personal content argument: Personal history anecdote not directly about acquisitions.
+Recommendation: KEEP – supports understanding of referral quality and sales prioritization.
+
+[BORDERLINE #2 - Requires Review]
+Location: 23:58–24:11 (within the longer technical block)
+Content excerpt: “I’m going to call you, Shauna, though, because I don’t want to insult you.”
+Business relevance argument: Sets up roleplay framing (Athena acting as Shauna prospect).
+Personal content argument: None; it’s a roleplay aside.
+Recommendation: KEEP – necessary to understand the roleplay context immediately following.
+
+[BORDERLINE #3 - Requires Review]
+Location: 16:03–16:53
+Content excerpt:
+“Athena: ...I’ve been very low energy... if you’re not giving me anything... let’s all just energy match then.”
+Business relevance argument: Reflects client-readiness assessment and sales approach adaptation.
+Personal content argument: Mentions personal energy levels; could be seen as off-topic.
+Recommendation: KEEP – tied to client evaluation and sales strategy.
+
+
+SPEAKER ATTRIBUTION VALIDATION
+- Roleplay context: Austin addresses Athena as “Shauna,” which is intentional (roleplay). No action needed.
+- Otherwise, Q&A and responses align with speaker roles (Athena as trainer/lead, Austin as sales trainee). No clear misattribution requiring correction.
+
+CROSS-REFERENCE CHECKING
+- Company name: Multiple inconsistent renderings flagged (Errors #1–2).
+- Lender name: “Live Oak” vs “LIBO” flagged (Error #13).
+- Due diligence acronym: “QoE” inconsistently rendered as “QV/QOV/QOB” (Error #3).
+- Podcast/institution names inconsistent (Errors #4–5).  
+- Step numbering inconsistency flagged (Error #19).
+
+PATTERN NOTES FOR ASR IMPROVEMENT
+- Brand/name drift: “AcquiMatch” frequently misrendered as Acromash/AquaMatch/Accomatch.
+- QoE acronym consistently misheard as QV/QOV/QOB.
+- Live Oak Bank misheard as LIBO.
+- “Vetting” misheard as “betting.”
+- Idioms/homophones: brass tacks→brass tax; rush→rough; loan→low.
+- Proper nouns: Codie Sanchez and Contrarian Thinking; McCombs; BizBuySell; Acquiring Minds.
+
+
+SUMMARY
+- High-impact issues involve misheard acronyms (QoE), critical brands/entities (AcquiMatch, Live Oak, McCombs, Acquiring Minds, Codie Sanchez), and key terminology (“vetting,” “loan”).
+- Most of the transcript is business-relevant (internal sales training, process, client qualification, pricing narrative, CRM/LinkedIn ops). Only brief technical setup moments are recommended for removal.
+- Borderline personal anecdotes serve business context (lead qualification, sales approach) and should be retained.

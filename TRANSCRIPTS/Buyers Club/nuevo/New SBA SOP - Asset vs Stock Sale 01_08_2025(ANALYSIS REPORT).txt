@@ -1,0 +1,220 @@
+[Error #1 - Category: Misheard Acronym/Term (QoE)]
+Location: ~00:57:30–01:00:20 / Speaker: Athena
+Transcript excerpt: "He does amazing QAV reports... order the full QOV report... walk you through a QOV report... being able to see a full Q and B report..."
+Issue: Quality of Earnings is inconsistently rendered as “QAV,” “QOV,” and “Q and B.”
+Likely intended: “QoE (Quality of Earnings) report”
+Confidence: High
+Reasoning: In SMB/M&A, the standard term is QoE. Multiple inconsistent renderings suggest ASR confusion with the sounded-out letters.
+Impact: High - Acronym confusion may mislead listeners/readers about the diligence product being discussed.
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:36:10 / Speaker: Athena
+Transcript excerpt: "You don't necessarily need to get the SBA involved pre LLI if there is nothing in the deal..."
+Issue: “LLI” in acquisition context doesn’t fit.
+Likely intended: “pre-LOI” (Letter of Intent)
+Confidence: High
+Reasoning: LOI is the standard stage checkpoint in M&A processes.
+Impact: High - Process-stage instruction could be misunderstood.
+
+---
+[Error #3 - Category: Entity Name (Company)]
+Location: Title line
+Transcript excerpt: "# AcquiMach Buyers Club 01/08/2025"
+Issue: Company name appears misspelled.
+Likely intended: “AcquiMatch Buyers Club 01/08/2025”
+Confidence: High
+Reasoning: The organization is AcquiMatch; missing the “t” is a common ASR/typing slip.
+Impact: Medium - Branding/record integrity.
+
+---
+[Error #4 - Category: Entity Name (Company)]
+Location: ~01:00:10 / Speaker: Athena
+Transcript excerpt: "...a celebration in the Acme match fam."
+Issue: Company name distorted to “Acme match.”
+Likely intended: “AcquiMatch fam”
+Confidence: High
+Reasoning: Internal reference to the company community; “Acme match” is a likely phonetic mis-transcription.
+Impact: Medium - Branding/record integrity.
+
+---
+[Error #5 - Category: Homophone/Semantic Inconsistency]
+Location: ~00:00:55–00:01:10 / Speaker: Athena
+Transcript excerpt: "...able to go through that sending the destination exercise..."
+Issue: “sending the destination” is semantically off.
+Likely intended: “setting the destination exercise”
+Confidence: Medium
+Reasoning: “Setting your destination” is a common planning/goal-setting phrase; “sending” doesn’t fit context.
+Impact: Medium - Could confuse reference to a specific program exercise.
+
+---
+[Error #6 - Category: Omission/Truncation/Capitalization Artifact]
+Location: ~00:03:00 / Speaker: Luke
+Transcript excerpt: "...retain equity through a [00:03:00] new entity for Formed by the buyer."
+Issue: Errant “for” and capitalized “Formed” mid-sentence.
+Likely intended: “...through a new entity formed by the buyer.”
+Confidence: High
+Reasoning: Clear grammatical break; likely ASR artifact at timestamp boundary.
+Impact: Low - Readability issue.
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:33:05 / Speaker: Athena
+Transcript excerpt: "...oh, you don't have arboring experience, you can't buy this business."
+Issue: “Arboring” is not the correct term in this industry context.
+Likely intended: “arborist experience” (or “experience as an arborist”)
+Confidence: High
+Reasoning: Earlier reference to a “tree arborist business.” “Arboring” is not standard usage.
+Impact: Medium - Could confuse the licensing/experience example.
+
+---
+[Error #8 - Category: Misheard Phrase]
+Location: ~01:00:35 / Speaker: Athena
+Transcript excerpt: "...for your post blows liquidity..."
+Issue: “post blows” is nonsensical in financing context.
+Likely intended: “post-close liquidity”
+Confidence: High
+Reasoning: Common SBA/closing requirement term is “post-close liquidity.”
+Impact: High - Alters meaning of a key financing requirement.
+
+---
+[Error #9 - Category: Misheard Greeting]
+Location: ~00:00:35 / Speaker: Steve
+Transcript excerpt: "Happy new everybody,"
+Issue: Greeting truncated/incorrect.
+Likely intended: “Happy New Year, everybody”
+Confidence: High
+Reasoning: Seasonal greeting context; missing “Year.”
+Impact: Low - Minor but evident ASR error.
+
+---
+[Error #10 - Category: Semantic/Word Choice Inaccuracy (Financial)]
+Location: ~00:48:35–00:49:20 / Speaker: Athena
+Transcript excerpt: "...you are going to be taxed 20 percent at the corporate level and then 21 percent at the, um, distribution level."
+Issue: Corporate and distribution/dividend rates likely reversed.
+Likely intended: Corporate tax ~21% and qualified dividend rate up to ~20% (plus NIIT possible)
+Confidence: Medium
+Reasoning: Standard US C-corp rates are 21% corporate; 20% (max) qualified dividends. Could be either a speaker slip or ASR error.
+Impact: Medium - Could misinform on tax comparisons in stock vs asset sale.
+
+---
+[Error #11 - Category: Repetition/Omission]
+Location: ~00:09:05 / Speaker: Athena
+Transcript excerpt: "...Luke just just filled Luke filled us in regularly."
+Issue: Duplicate phrase/fragment.
+Likely intended: “Luke just filled us in regularly.”
+Confidence: High
+Reasoning: Clear duplicated partial clause indicative of ASR stutter capture.
+Impact: Low - Readability.
+
+---
+[Error #12 - Category: Possible Name Misspelling (Entity/Person)]
+Location: ~00:13:10 / Speaker: Luke
+Transcript excerpt: "We'll have probably Anka include that..."
+Issue: Unclear spelling of team member’s name.
+Likely intended: “Anca” (or another specific name)
+Confidence: Low
+Reasoning: Internal staff name likely known to team; “Anka” may be correct, but could be a mishearing.
+Impact: Low - Internal clarity only.
+
+---
+[Error #13 - Category: Minor Grammar Affecting Meaning]
+Location: ~00:02:35 / Speaker: Athena
+Transcript excerpt: "...how they lent."
+Issue: Past tense “lent” used where present general “lend” fits the guideline explanation.
+Likely intended: “how they lend”
+Confidence: Medium
+Reasoning: Normative rule description typically uses present tense. Could be speaker casualness; logging due to potential confusion.
+Impact: Low
+
+---
+[Error #14 - Category: Misheard Acronym/Pluralization]
+Location: ~00:14:45 / Speaker: Athena
+Transcript excerpt: "reading about the SOP guidelines"
+Issue: Redundant phrasing; however, may be acceptable. Noting primarily for consistency with earlier “SOP” formatting.
+Likely intended: “SOP” (standard operating procedure), sometimes “SOPs”
+Confidence: Low
+Reasoning: Not strictly an error; flagged only if strict consistency is desired.
+Impact: Low
+
+Pattern note: The ASR repeatedly misrenders quality-of-earnings as “QAV/QOV/Q and B,” and intermittently distorts common M&A terms and acronyms (LOI→LLI; post-close→post blows). These merit targeted ASR tuning.
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Personal Pleasantries]
+Location: ~00:00:00–00:00:45
+Speakers involved: Athena, Joe, Steve, Luke, Polly, Gil
+Content excerpt:
+"Athena: Happy New Year! Same
+Joe: to you!
+Athena: Awesome! Hey Polly, Happy New Year! Happy New Year to you! I'm loving that bright blue. It's a good color. Thank you! Awesome. I think I heard Gil too...
+Joe: Yeah, I'm here. Hello. Happy New Year.
+Athena: Hi Gil. Welcome to the Buyer's Club."
+Reasoning:
+Extended greetings and comments on attire/color; no business substance.
+Context impact: Low—removal leaves a clean start at meeting agenda/intros.
+Recommended action: REMOVE ~00:00:00–00:00:45
+
+---
+[REMOVAL #2 - Type: Operational/Housekeeping (Screen share chatter)]
+Location: ~00:43:55–00:44:15
+Speakers involved: Athena
+Content excerpt:
+"Can you all see my screen? Cool. Wait, actually, let me let me do this share. So I can be a little talking head here. There we go. Okay."
+Reasoning:
+Purely logistical screen-share chatter; no business content.
+Context impact: None—removal does not affect understanding of the subsequent modeling explanation.
+Recommended action: REMOVE ~00:43:55–00:44:15
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:06:30
+Content excerpt: "Yeah, this is Joe. I'm trying to think through what that would mean for me or in general. I'm still trying to, and sorry, I just parked. Uh, so I was driving for a minute."
+Business relevance argument: Leads directly into a substantive question on rollover equity implications.
+Personal content argument: Brief personal aside (parking/driving) unrelated to business.
+Recommendation: KEEP—The aside is short and maintains conversational flow into a business question.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:49:45
+Content excerpt: "Thumbs up that help"
+Business relevance argument: Micro check-in confirming understanding; minimally disruptive.
+Personal content argument: Procedural filler that could be removed without content loss.
+Recommendation: REMOVE (optional)—Low-impact deletion if transcript needs tightening.
+
+---
+
+Segment Mapping (high-level)
+
+- 00:00:00–00:00:45 Opening pleasantries and attire comments: REMOVE
+- 00:00:45–00:02:20 Agenda, SBA SOP overview setup: KEEP
+- 00:02:20–00:05:45 Luke’s industry update (rollover equity in asset acquisitions; asset vs. stock): KEEP
+- 00:05:45–00:06:30 Q&A invite on SOP rule: KEEP
+- 00:06:30–00:08:15 Joe’s question; Athena explains SBA’s prior limitation and change: KEEP
+- 00:08:15–00:11:15 Licensing and rollover equity; partnership cautionary tale: KEEP
+- 00:11:15–00:13:40 Equity vs. profit share; partnership pitfalls: KEEP
+- 00:13:40–00:14:40 SOP resources (SMB Law Group, Kevin Henderson), notes to share: KEEP
+- 00:14:40–00:26:15 Investor capital, IRR, PREF, step-up; modeling assumptions: KEEP
+- 00:26:15–00:28:45 Investor vs. bank LOC; admin burden of investors: KEEP
+- 00:28:45–00:33:30 Advisors, equity vs. phantom equity, staff incentives: KEEP
+- 00:33:30–00:38:40 Process guidance: pre-LOI lender involvement; multiple lenders post-LOI: KEEP
+- 00:38:40–00:50:15 Stock vs. asset sale modeling example (with brief screen-share chatter at ~00:43:55–00:44:15): MIXED (remove screen-share chatter only; keep modeling content)
+- 00:50:15–00:56:30 Broker incentive alignment; DSCR and “free cash flow to lenders” explanation: KEEP
+- 00:56:30–01:01:05 Upcoming sessions (QoE/QoE misheard; ROBS), deal flow updates, closing: KEEP
+
+Context preservation notes
+- Removing the opening greetings and the short screen-share housekeeping will not disrupt comprehension; the conversation seamlessly continues into substantive agenda and modeling.
+- Brief personal asides within business questions (e.g., “just parked”) can be retained to preserve flow, but are optional removals if extreme concision is required.
+
+Speaker Attribution Validation
+- Roles align: Athena moderates/advises; Luke provides industry update; clients (Joe, Steve, Jason) ask questions and share examples. No obvious speaker swaps detected.
+
+Cross-Reference Consistency Flags
+- “QoE” referenced with multiple inconsistent forms (QAV/QOV/Q and B) throughout the closing segment—standardize in post if editing.
+- “LOI” appears once as “LLI” earlier; elsewhere, LOI is referenced correctly in process context.
+- “AcquiMatch” appears as “AcquiMach” and “Acme match” in separate places—ensure consistent branding.
+
+Technical Audio/ASR Observations
+- Timestamp boundary artifacts (capitalization mid-sentence; repeated fragments) suggest segmentation-driven ASR errors.
+- Acronym handling (QoE, LOI) and compound words (“post-close”) are frequent failure modes—worth targeted ASR tuning for SMB/M&A vocabulary.

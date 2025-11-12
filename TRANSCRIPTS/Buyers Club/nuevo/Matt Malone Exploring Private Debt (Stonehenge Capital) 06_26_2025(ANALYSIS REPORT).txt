@@ -1,0 +1,207 @@
+[Error #1 - Category: Misheard Acronym/Entity]
+Location: ~00:08:50 / Speaker: Matt
+Transcript excerpt: "you’re dealing with mad. and so it’s, uh, I like to think that’s better, but uh, you know, uh, I guess Tom would tell."
+Issue: “mad” appears to be a mishearing of the speaker’s name “Matt”; “Tom would tell” likely a mishearing of the idiom “time will tell.”
+Likely intended: “you’re dealing with Matt… I like to think that’s better… time will tell.”
+Confidence: High
+Reasoning: Context suggests he is referring to himself; “time will tell” is the common idiom in this context.
+Impact: Medium – introduces confusion about who is being referenced and the idiom used.
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:20:35 / Speaker: Matt
+Transcript excerpt: "there have been a lot of new SBAS bics that have come on"
+Issue: “SBAS bics” is not a standard term.
+Likely intended: “SBICs”
+Confidence: High
+Reasoning: Discussion is about Small Business Investment Companies (SBICs). The plural is often spoken as “SBICs.”
+Impact: Medium – may confuse listeners about the program being referenced.
+
+---
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:21:05 / Speaker: Athena
+Transcript excerpt: "So, is the SB say, I, I think you, you said this, but the SBA is, is supporting this kind of activity..."
+Issue: “SB say” is a mishearing of “SBA.”
+Likely intended: “So, is the SBA…”
+Confidence: High
+Reasoning: The sentence immediately continues with “the SBA,” confirming the intended acronym.
+Impact: Low – momentary confusion; quickly clarified in the next phrase.
+
+---
+[Error #4 - Category: Misheard Acronym/Term]
+Location: ~00:25:40 / Speaker: Matt
+Transcript excerpt: "we might have a, you know, call it an eight cash pay interest rate in a 2% pick, payable and kind."
+Issue: “pick, payable and kind” misrenders the term for payment-in-kind interest.
+Likely intended: “PIK, payable in kind.”
+Confidence: High
+Reasoning: In private credit, PIK (payment-in-kind) is the standard term; “pick” and “and kind” indicate ASR phonetic/word substitution.
+Impact: High – technical financing term; correct interpretation is important.
+
+---
+[Error #5 - Category: Financial/Numerical Rendering]
+Location: ~00:12:15 / Speaker: Matt
+Transcript excerpt: "we’re kind of one and a quarter. Okay. One, three times kind of folks."
+Issue: “One, three times” is a likely ASR rendering of “1.3x.”
+Likely intended: “1.25x–1.3x DSCR”
+Confidence: Medium
+Reasoning: In covenants, DSCR is expressed as a ratio (e.g., 1.25x/1.3x). The comma suggests decimal loss.
+Impact: Medium – readers may misinterpret target DSCR.
+
+---
+[Error #6 - Category: Misheard Acronym]
+Location: ~00:20:55 / Speaker: Matt
+Transcript excerpt: "you can find SBIs where you are."
+Issue: “SBIs” is not the standard acronym in this context.
+Likely intended: “SBICs”
+Confidence: High
+Reasoning: He is directing listeners to find SBICs; “SBIs” appears to drop the “C.”
+Impact: Low – still understandable but imprecise.
+
+---
+[Error #7 - Category: Misheard Acronym]
+Location: ~00:56:45 / Speaker: Matt
+Transcript excerpt: "There are a lot of SBS out there. Again, there’s a list out there."
+Issue: “SBS” is not the correct acronym here.
+Likely intended: “SBICs”
+Confidence: High
+Reasoning: He is referring to SBIC fund managers and public lists of them.
+Impact: Low – minor but recurring pattern.
+
+---
+[Error #8 - Category: Homophone/Near-Homophone]
+Location: ~00:36:00 / Speaker: Athena
+Transcript excerpt: "switching tax a little bit, most of the folks who are first time buyers..."
+Issue: “tax” likely intended as “tack” (as in “change tack”).
+Likely intended: “switching tack a little bit”
+Confidence: High
+Reasoning: Common idiom in conversation; “tax” is contextually odd.
+Impact: Low – doesn’t materially affect meaning.
+
+---
+[Error #9 - Category: Business Terminology Distortion]
+Location: ~00:51:50 / Speaker: Athena
+Transcript excerpt: "it doesn’t qualify for SBA ’cause it’s a office releaser. Am I saying that right Justin?"
+Issue: “office releaser” is not standard terminology for this business model.
+Likely intended: “coworking operator” or “office space sublessor”
+Confidence: Medium
+Reasoning: The subsequent explanation clarifies it’s a coworking model similar to WeWork.
+Impact: Medium – could mislead about the business type at first mention.
+
+---
+[Error #10 - Category: Entity Name (Company Name)]
+Location: ~01:04:40 / Speaker: Andrew
+Transcript excerpt: "Anytime I hear Stone Angel, I can think of, is this a spinal tap?"
+Issue: “Stone Angel” appears to be a mishearing of “Stonehenge” (both the firm’s name and the Spinal Tap reference).
+Likely intended: “Stonehenge”
+Confidence: High
+Reasoning: The firm is “Stonehenge,” and Spinal Tap has a famous “Stonehenge” gag.
+Impact: Low – humorous aside, but wrong company name.
+
+---
+[Error #11 - Category: Business Terminology Distortion]
+Location: ~01:10:40 / Speaker: Matt
+Transcript excerpt: "we’re re uh, since it’s an add-on, we’re restructuring, uh, our, uh, CEO’s, uh, earn a, I mean he had, a big seller note..."
+Issue: “earn a” appears to be a truncated/misheard “earnout.”
+Likely intended: “earnout”
+Confidence: High
+Reasoning: In add-on acquisitions, restructuring earnouts and seller notes is common; “earn a” suggests ASR truncation.
+Impact: Medium – technical term relevant to deal structure.
+
+---
+[Error #12 - Category: Omission/Truncation]
+Location: ~00:44:55 / Speaker: Matt
+Transcript excerpt: "I. Business here in Dallas. We supported, uh, a sponsor buying this business. There was fraud."
+Issue: Initial “I.” suggests a truncated or dropped word/phrase.
+Likely intended: “I have a business here in Dallas” or “In a business here in Dallas…”
+Confidence: Low
+Reasoning: The period after “I” is atypical and reads as an orphaned pronoun.
+Impact: Low – overall meaning remains clear.
+
+---
+[Error #13 - Category: Semantic Inconsistency]
+Location: ~00:04:50 vs ~01:20:30 / Speaker: Matt
+Transcript excerpt: 
+  Early: "we’ve been investing money in Oklahoma, Mississippi, Georgia, Utah, Nevada."
+  Later: "Utah and Nevada… Oklahoma… Missouri… Ohio, Connecticut, Mississippi, Pennsylvania."
+Issue: Georgia is listed in the early “state-specific funds” but not included in the later list of eight active states.
+Likely intended: Georgia may be a prior or inactive program; later list reflects current active states.
+Confidence: Medium
+Reasoning: The later list was explicitly “active today.” Early statement didn’t specify current status. Could be accurate but appears inconsistent without clarification.
+Impact: Low – may cause confusion about whether Georgia is currently active.
+
+---
+[REMOVAL #1 - Type: Small Talk/Personal Roll Call]
+Location: ~00:00:05–00:00:30
+Speakers involved: Athena
+Content excerpt:
+"Hey Gil. Hey to see you. I think Polly might be here too. Yeah. Polly over in Atlanta. Gil is out of New York. Might have a few more trickle in as we go through this, but welcome..."
+Reasoning:
+Attendee name/location shout-outs and roll call have no bearing on the financing content.
+Context impact: None – removal does not affect understanding of the session’s purpose or flow.
+Recommended action: REMOVE ~00:00:05–00:00:30
+
+---
+[REMOVAL #2 - Type: Personal/Off-Topic Humor]
+Location: ~01:04:35–01:05:05
+Speakers involved: Andrew
+Content excerpt:
+"…anytime I hear Stone Angel, I can think of, is this a spinal tap? I’m sure you hear that every… oh yeah, for sure. Yeah."
+Reasoning:
+Pop-culture joke unrelated to dealmaking or financing; includes a misnaming of the firm.
+Context impact: Low – removing these lines leaves the substantive question about approval processes intact.
+Recommended action: REMOVE ~01:04:35–01:05:05
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: ~00:01:50–00:02:20
+Content excerpt: "you should have seen how excited I am when we launched our new financial modeling template. I’m like, is this not the coolest thing you’ve ever seen? People are like,"
+Business relevance argument: Light rapport-building tied to financial modeling; signals the speaker’s enthusiasm and tool adoption relevant to buyers.
+Personal content argument: Informal excitement that does not add technical content; the sentence ends mid-thought.
+Recommendation: KEEP – Brief and thematically connected to business analysis; maintains conversational tone.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~01:04:10–01:04:30
+Content excerpt: "it helps that you’re southern too, for the record. I can, I just inherently trust you maybe a little bit more."
+Business relevance argument: Establishes rapport prior to asking a process question; could be seen as relationship-building.
+Personal content argument: Purely personal/geographic remark; not relevant to financing or process.
+Recommendation: REMOVE – Minor and personal; excising does not affect understanding of the following approval-process discussion.
+
+---
+Segment Mapping (high level)
+
+- 00:00:00–00:00:30: Intro greetings and attendee roll call – REMOVE (small talk)
+- 00:00:30–00:06:40: Intro to topic and Stonehenge overview – KEEP
+- 00:06:40–00:13:10: Banks vs private credit; leverage, DSCR, covenants – KEEP
+- 00:13:10–00:18:10: Equity involvement, operator autonomy – KEEP
+- 00:18:10–00:23:30: SBIC explained; SBA program interaction – KEEP
+- 00:23:30–00:27:10: Terms: amortization, rates, PIK; covenants – KEEP
+- 00:27:10–00:33:30: Equity horizons; add-ons; state funds overview – KEEP
+- 00:33:30–00:36:30: Engagement timing (pre-LOI ok), example mapping (Shreveport) – KEEP
+- 00:36:30–00:44:30: What Stonehenge looks for in first-time buyers; covenants as guardrails – KEEP
+- 00:44:30–00:47:30: Fraud scenario support/resources – KEEP
+- 00:47:30–00:53:30: Reporting cadence; industry scope; SBA-ineligible coworking example – KEEP
+- 00:53:30–01:02:30: When to use bank/SBA vs private debt; common buyer pitfalls (undercapitalization) – KEEP
+- 01:02:30–01:05:05: Andrew Q&A + jokes – MIXED (remove ~01:04:35–01:05:05 joke; keep approval-process question)
+- 01:05:05–01:12:10: Approval process; term sheet; diligence timeline; earnouts and structuring flexibility – KEEP
+- 01:12:10–01:20:30: ETA/independent sponsor discussion; fee alignment/incentives – KEEP
+- 01:20:30–01:24:30: Active state funds list; SBIC fund timing; closing – KEEP
+
+Patterns/Notes for ASR Improvement
+
+- Recurrent mishearing of “SBIC(s)” as “SBAS bics,” “SBIs,” or “SBS.”
+- Financing idioms and acronyms: “PIK (payment-in-kind)” rendered as “pick, payable and kind.”
+- Names/words clipped or substituted: “mad” for “Matt,” “Tom would tell” for “time will tell,” “maquila door” for “maquiladora,” “earn a” for “earnout.”
+- Homophone confusions: “tack” vs “tax,” numeric ratios rendered without decimals (“one, three times”).
+
+Speaker Attribution
+
+- No clear speaker swaps detected; responses align with roles (Athena hosts/moderates, Matt explains structures, Justin/Andrew ask questions). The “I. Business here in Dallas” appears to be a truncation rather than a misattribution.
+
+Confidence summary
+
+- High confidence: Errors #1–4, #6–7, #9–11
+- Medium confidence: Errors #5, #13
+- Low confidence: Error #12
+
+This analysis prioritizes preserving all deal/financing content while removing only minimal small talk. Where jokes or personal remarks occur inside otherwise valuable segments, specific lines are identified to avoid disrupting flow.

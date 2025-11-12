@@ -1,0 +1,157 @@
+[Error #1 - Category: Omissions and truncations]
+Location: ~00:00:25 / Speaker: Athena
+Transcript excerpt: "Like what? If anything would be really helpful to you or would you like to time back... but don't wanna need this that keep you on?"
+Issue: Multiple truncations/gibberish (“time back,” “don’t wanna need this that keep you on”) obscure the meaning of the offer.
+Likely intended: "…would you like your time back… don’t want to keep you on if there’s nothing useful…"
+Confidence: Medium
+Reasoning: Phrase structure is broken and ungrammatical in a way typical of ASR dropping/merging words.
+Impact: Medium
+
+---
+[Error #2 - Category: Financial and numerical errors]
+Location: ~00:01:05 / Speaker: Justin
+Transcript excerpt: "we don't even have, you know, 20, 20 fours are listed at the approximate, which means had been updated."
+Issue: Year and phrasing are garbled (“20, 20 fours,” “had been updated”).
+Likely intended: "2024s are listed as approximate, which means they haven’t been updated."
+Confidence: High
+Reasoning: Discussion is about current-year financials; “2024” and “haven’t” fit context of requesting updated statements.
+Impact: Medium
+
+---
+[Error #3 - Category: Business terminology/semantic distortion]
+Location: ~00:03:00 / Speaker: Justin
+Transcript excerpt: "they'd own the real estate. Um, they're leasing and then subleasing effectively"
+Issue: Contradiction: “they’d own the real estate” conflicts with “leasing and then subleasing” and prior “asset light.”
+Likely intended: "they don’t own the real estate."
+Confidence: High
+Reasoning: Asset-light coworking arbitrage model typically does not include owning real estate; owning would add collateral, contradicting the core issue.
+Impact: High
+
+---
+[Error #4 - Category: Financial and numerical errors]
+Location: ~00:02:10 / Speaker: Justin
+Transcript excerpt: "deal size is, it's around a million s."
+Issue: “million s” is malformed.
+Likely intended: "around a million-ish" (or “around a million”).
+Confidence: Medium
+Reasoning: Common speech “million-ish” often misheard; context is discussing size without a list price.
+Impact: Medium
+
+---
+[Error #5 - Category: Omissions and truncations]
+Location: ~00:03:55-00:04:05 / Speaker: Athena
+Transcript excerpt: "and they're in the um, they're in the SBA range, so unless they find a strategic, it's very unlikely they'll find a."
+Issue: Sentence cuts off before the object (“find a [what]?”).
+Likely intended: "…find a lender" (or “…find a buyer”).
+Confidence: Medium
+Reasoning: She is discussing financing alternatives; “lender” fits the surrounding context.
+Impact: Medium
+
+---
+[Error #6 - Category: Entity names (companies/people)]
+Location: ~00:10:20 / Speaker: Athena
+Transcript excerpt: "thinking Tooney might be an interesting one too. 'cause they seem to be a lot more…"
+Issue: “Tooney” likely mis-transcribed entity (lender name).
+Likely intended: A specific lender’s name (e.g., Truist, Unity, etc.).
+Confidence: Low
+Reasoning: “Tooney” doesn’t align with known SBA lender names; context indicates a lender with particular risk profile.
+Impact: Medium
+
+---
+[Error #7 - Category: Redundant/garbled phrasing]
+Location: ~00:10:00 / Speaker: Athena
+Transcript excerpt: "Live Oak being one of 'em, right? Like all they are is an sba, SBA lender…"
+Issue: Repetition/garble “an sba, SBA.”
+Likely intended: "an SBA lender."
+Confidence: High
+Reasoning: ASR duplication; known lender Live Oak Bank specializes in SBA.
+Impact: Low
+
+---
+[Error #8 - Category: Semantic inconsistencies]
+Location: ~00:11:00 / Speaker: Justin
+Transcript excerpt: "let's just get front. But also, how are you gonna for this, we'll figure it out…"
+Issue: Multiple truncations/missing words make the meaning unclear.
+Likely intended: "…get you in front [of them]… how are you going to pay for this…"
+Confidence: Medium
+Reasoning: Matches earlier discussion about meeting the seller/broker and funding.
+Impact: Medium
+
+---
+[Error #9 - Category: Misheard phrase (business context)]
+Location: ~00:20:35 / Speaker: Athena
+Transcript excerpt: "talk about back against the Walgreens storms."
+Issue: “Walgreens storms” is nonsensical in context.
+Likely intended: "back against the wall brainstorms."
+Confidence: High
+Reasoning: She repeatedly describes a “back-against-the-wall brainstorm” tool earlier.
+Impact: Medium
+
+---
+[Error #10 - Category: Entity names (events/platforms)]
+Location: ~00:22:05 / Speaker: Athena
+Transcript excerpt: "we're gonna be hosting a webinar on acquiring mine on June 5th"
+Issue: “acquiring mine” likely misheard event/platform name.
+Likely intended: "Acquiring Minds" (podcast) or "Acquire.com" or "Acquiring Mindset."
+Confidence: Low-Medium
+Reasoning: Known brand names in this space; phrasing “on acquiring mine” is ungrammatical.
+Impact: Medium
+
+---
+[Error #11 - Category: Business terminology/financial multiple]
+Location: ~00:23:05 / Speaker: Justin
+Transcript excerpt: "the whisper is at, at route a fourex"
+Issue: “route a fourex” is a mis-transcription of a valuation multiple.
+Likely intended: "around a 4x."
+Confidence: High
+Reasoning: “Whisper” commonly refers to price guidance; “4x” multiple is standard phrasing.
+Impact: High
+
+---
+[Error #12 - Category: Misheard acronym/terminology]
+Location: ~00:23:20 / Speaker: Justin
+Transcript excerpt: "what could still be LB business. It's still…"
+Issue: “LB business” unclear; likely misheard acronym.
+Likely intended: "LBO business" (leveraged buyout) or possibly “SBA business.”
+Confidence: Medium
+Reasoning: In acquisition context, “LBO” is common; “LB” is not.
+Impact: Medium
+
+---
+[Error #13 - Category: Omissions/garble]
+Location: ~00:23:30 / Speaker: Justin
+Transcript excerpt: "he is like all over, over social it tribe to be."
+Issue: Garbled ending (“social it tribe to be”) obscures meaning.
+Likely intended: "social [media]; he tries to be [active/prominent]" or similar.
+Confidence: Low-Medium
+Reasoning: Discussing seller’s influencer status; ASR likely mangled “social media.”
+Impact: Low-Medium
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: ~00:11:45-00:12:10
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: Yeah, it's beautiful up there.
+Justin: We, we went the, the Texas Association of Business Brokers Conference was up there last year, so that was my first Woodlands experience, but it was stunning."
+Reasoning:
+Brief location/beauty commentary and personal conference anecdote; does not add to the financing or deal analysis discussion.
+Context impact: Low—removal won’t affect understanding of the surrounding financing conversation.
+Recommended action: REMOVE ~00:11:45-00:12:10
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:21:55-00:22:25
+Content excerpt: "Also we're gonna be hosting a webinar on acquiring mine on June 5th… spread the word if you know anyone that might wanna learn about that."
+Business relevance argument: Administrative/program info for clients about working with a buy-side advisor; relevant to Buyer’s Club operations and client education.
+Personal content argument: Not deal-specific; could be considered peripheral to the immediate call goals.
+Recommendation: KEEP—Useful operational and educational context for participants.
+
+---
+
+Additional notes and patterns:
+- ASR appears to struggle with financial years and multiples (e.g., 2024, “4x” → “four/fourex”). Consider targeted post-processing for year formats and valuation multiple tokens.
+- Service-business collateral context generated several garbles; ensure “don’t own the real estate” vs “do own” distinctions are carefully reviewed due to high impact on lending discussions.
+- Lender/entity names (e.g., “Tooney”) likely mis-captured; cross-verify with call participants for accurate lender references. No speaker-attribution errors detected; dialogue flow is consistent.

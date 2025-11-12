@@ -1,0 +1,244 @@
+[Error #1 - Category: Entity Name]
+Location: Approx 00:02:10 / Speaker: Matthias
+Transcript excerpt: "Thanks for having us here. Atheda, good to be with your group."
+Issue: Speaker mispronounces/mis-transcribed host’s name as “Atheda.”
+Likely intended: "Athena"
+Confidence: High
+Reasoning: The host is consistently identified as “Athena” elsewhere; “Atheda” is a common ASR slip.
+Impact: Low
+
+[Error #2 - Category: Business Terminology Distortion]
+Location: Approx 00:02:20 / Speaker: Matthias
+Transcript excerpt: "pioneer Capital Advisor is a small business, SBA loan brokerage term specialize..."
+Issue: Phrase is garbled (“term specialize”) and company form is inconsistent (“Advisor” vs “Advisory”).
+Likely intended: "Pioneer Capital Advisory is a small-business SBA loan brokerage firm specializing..."
+Confidence: High
+Reasoning: “Firm specializing” is the idiomatic description; company also later referred to as “Pioneer Capital Advisory.”
+Impact: Medium
+
+[Error #3 - Category: Entity Name]
+Location: Approx 00:03:40 / Speaker: Matthias
+Transcript excerpt: "the other's in, uh, Monterey, Mexico..."
+Issue: City name likely mis-rendered.
+Likely intended: "Monterrey, Mexico"
+Confidence: High
+Reasoning: Monterrey (double r, Mexico) is the well-known Mexican city; “Monterey” is in California.
+Impact: Medium
+
+[Error #4 - Category: Omission/Truncation]
+Location: Approx 00:03:55 / Speaker: Matthias
+Transcript excerpt: "Pablo, who's our director of underwriting. So he basically kept oversee credit quality control."
+Issue: “kept oversee” is ungrammatical; truncation obscures meaning.
+Likely intended: "helps oversee credit quality control"
+Confidence: High
+Reasoning: Context indicates ongoing oversight; “kept” is incongruent with the sentence.
+Impact: Low
+
+[Error #5 - Category: Entity Name]
+Location: Approx 00:04:20 / Speaker: Matthias
+Transcript excerpt: "Ramiro actually worked on, um, Argentina's Doge team..."
+Issue: “Doge team” appears to be a mis-transcription of an organization/unit.
+Likely intended: "Argentina’s [anti-fraud/government] team" (e.g., Ministry of Justice/anti-fraud unit)
+Confidence: Low
+Reasoning: Follow-on clause references eliminating fraud and abuse; “Doge” is implausible in this context.
+Impact: Medium
+
+[Error #6 - Category: Misheard Acronym]
+Location: Approx 00:05:50 / Speaker: Valerie
+Transcript excerpt: "what is an SB 1919 and how do you fill it out"
+Issue: “SB 1919” omits “A.”
+Likely intended: "SBA Form 1919"
+Confidence: High
+Reasoning: SBA borrower information form is “Form 1919.”
+Impact: High
+
+[Error #7 - Category: Entity Name]
+Location: Approx 00:07:40 / Speaker: Athena
+Transcript excerpt: "I heard this number at, um, SM Bash like a week ago."
+Issue: Event name transcribed incorrectly.
+Likely intended: "SMBash"
+Confidence: High
+Reasoning: SMBash is a known ETA/SMB conference; “SM Bash” is a common ASR split.
+Impact: Low
+
+[Error #8 - Category: Omission/Truncation]
+Location: Approx 00:08:45 / Speaker: Matthias
+Transcript excerpt: "the guideline changes that go into place due to first Athena"
+Issue: Garbled time reference (“due to first”).
+Likely intended: "go into place June 1st, Athena"
+Confidence: High
+Reasoning: SOP update date discussed repeatedly; “June 1st” is the expected phrasing.
+Impact: Medium
+
+[Error #9 - Category: Omission/Truncation]
+Location: Approx 00:08:55 / Speaker: Matthias
+Transcript excerpt: "for the first years after closing, there would be no payments made on it."
+Issue: Missing the exact number of years.
+Likely intended: "for the first two years after closing..."
+Confidence: Medium
+Reasoning: Partial standby commonly references an initial 24-month period; speaker context supports a defined period.
+Impact: Medium
+
+[Error #10 - Category: Misheard Term]
+Location: Approx 00:26:35 / Speaker: Athena
+Transcript excerpt: "we always go for that first, you know, networking capital being included..."
+Issue: “networking capital” mishears the finance term.
+Likely intended: "net working capital" (or “working capital”)
+Confidence: High
+Reasoning: Deal context is about working capital left in the business; “networking” is a common ASR confusion.
+Impact: High
+
+[Error #11 - Category: Misheard Acronym]
+Location: Approx 00:26:55 / Speaker: Athena
+Transcript excerpt: "and that was validated by a QV."
+Issue: “QV” is not standard in this context.
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: QoE is the standard diligence report validating financials.
+Impact: High
+
+[Error #12 - Category: Business Terminology Distortion]
+Location: Approx 00:05:40 / Speaker: Valerie
+Transcript excerpt: "title companies, bank council, internal reviews..."
+Issue: “council” should be “counsel.”
+Likely intended: "bank counsel"
+Confidence: High
+Reasoning: Legal counsel is standard in closings; “council” is a common homophone error.
+Impact: Medium
+
+[Error #13 - Category: Entity Name]
+Location: Approx 00:29:20 / Speaker: Matthias
+Transcript excerpt: "who's on the acquired Mines podcast"
+Issue: Podcast name mis-transcribed.
+Likely intended: "Acquiring Minds"
+Confidence: High
+Reasoning: “Acquiring Minds” is a well-known SMB/ETA podcast; “acquired Mines” is an ASR slip.
+Impact: Medium
+
+[Error #14 - Category: Entity Name]
+Location: Approx 00:29:35 / Speaker: Matthias
+Transcript excerpt: "his name's Matthew Kin. So he bought towing company and the rally drove North Carolina market"
+Issue: Person and location likely mis-transcribed.
+Likely intended: "Matthew King... in the Raleigh-Durham, North Carolina market"
+Confidence: Medium
+Reasoning: “King” is a common surname; “Raleigh-Durham” fits the region; “rally drove” is a phonetic error.
+Impact: Medium
+
+[Error #15 - Category: Entity Name]
+Location: Approx 00:24:40 and 00:30:45 / Speaker: Matthias
+Transcript excerpt: "UP Penn Board in ETA conference..." and "Bruce Marks at First Bank, bank of the Lake"
+Issue: Event and bank names mis-rendered.
+Likely intended: "UPenn/Wharton ETA Conference" and "First Bank of the Lake"
+Confidence: Medium (UPenn), High (First Bank of the Lake)
+Reasoning: Wharton ETA Conference is standard; FBOTL is the correct bank name.
+Impact: Low-Medium
+
+[Error #16 - Category: Semantic Inconsistency]
+Location: Approx 00:16:55 / Speaker: Matthias
+Transcript excerpt: "the S or the S and bootcamp, s and bash people..."
+Issue: Phrase is garbled and unclear.
+Likely intended: Reference to "SMB Bootcamp and SMBash"
+Confidence: Medium
+Reasoning: Both events commonly cited in ETA; current wording is incoherent.
+Impact: Low
+
+[Error #17 - Category: Homophone/Near-homophone]
+Location: Approx 01:20:35 / Speaker: Valerie
+Transcript excerpt: "SB loans adjust quarterly."
+Issue: Missing “A” in SBA.
+Likely intended: "SBA loans"
+Confidence: High
+Reasoning: SBA 7(a) rates adjust quarterly; “SB loans” is an ASR omission.
+Impact: Medium
+
+[Error #18 - Category: Speaker/Name Inconsistency]
+Location: Multiple (00:00-00:41) / Speakers: Athena/Anka/Anke
+Transcript excerpt: "Anka, if you wanna spotlight..." vs "**Anke:**"
+Issue: Inconsistent spelling of the same participant’s name.
+Likely intended: Consistent spelling (either “Anka” or “Anke”)
+Confidence: Medium
+Reasoning: Both forms appear; context suggests same person (Zoom producer/moderator).
+Impact: Low
+
+
+---
+[REMOVAL #1 - Type: Off-Topic/Humor]
+Location: Approx 01:21:55–01:23:10
+Speakers involved: Matthias, Valerie, Athena
+Content excerpt:
+"Matthias: at some point you might have to trace your, uh, yourself back to the Mayflower... 
+Valerie: Blood te bio, vial of blood, you know, DA testing.
+Athena: Oh, God, we're not far from that. I don't know if y'all watch Black Mirror, but
+Matthias: I, I've now watched that before now."
+Reasoning:
+Light humor/jokes about ancestry/DNA and Black Mirror do not add business value; they are off-topic.
+Context impact: None—conversation resumes to process/patience and buyer mindset.
+Recommended action: REMOVE these lines
+
+[REMOVAL #2 - Type: Off-Topic/Minor]
+Location: Approx 00:20:00–00:20:20
+Speakers involved: Matthias, Valerie
+Content excerpt:
+"Matthias: When we go this conference, um, in two weeks from now, if I see this SBA lady, I might have some questions...
+Valerie: Matt... wants to invite her out to dinner... I should probably let Val do this talking 'cause I don't wanna say anything that could get... Ban."
+Reasoning:
+Brief joking about inviting an SBA staffer to dinner is off-topic and doesn’t inform the SBA financing process.
+Context impact: Low—removing this banter won’t affect surrounding content.
+Recommended action: REMOVE these lines
+
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: Approx 01:03:05–01:04:05
+Content excerpt: "My boyfriend and I are teaching a 17-year-old son... If you do your chores... we're not micromanaging you... When you make the payments... but if you are asking for extensions... they're gonna be all up in your kitchen."
+Business relevance argument: Serves as a clear analogy for lender oversight and the importance of timely payments; reinforces a key post-close governance concept.
+Personal content argument: References family relationships and household chores—personal anecdote unrelated to a specific deal.
+Recommendation: KEEP—Analogy directly clarifies banking relationship dynamics post-close.
+
+[BORDERLINE #2 - Requires Review]
+Location: Approx 01:23:15–01:25:20
+Content excerpt: "I talk about failure training... I actually did stand up comedy for an entire year... to train myself... people heckling me... embrace this part of the process as resilience training..."
+Business relevance argument: Motivational framing for deal resilience; normalizes setbacks and aligns with “deal fatigue” discussion—can help buyers’ mindset.
+Personal content argument: Extended personal anecdote about stand-up comedy; not directly tied to SBA mechanics or a specific transaction.
+Recommendation: KEEP (with discretion)—It supports buyer preparedness and perseverance in the acquisition process; if transcript needs to be tighter, consider trimming but retain the core point.
+
+
+---
+Segment Mapping (Keep/Remove/Mixed)
+
+1) 00:00–00:02 Intro and framing of SOP changes; speaker intros request: KEEP
+2) 00:02–00:06 Matthias intro and team overview (roles, lenders, process): KEEP
+3) 00:06–00:07 Valerie background (closing, post-approval process): KEEP
+4) 00:07–00:11 SOP changes: down payment, standby notes, rollover seller equity: KEEP
+5) 00:11–00:18 Licensing/qualifier discussion and lender vs SBA policy; solutions with key employee equity: KEEP
+6) 00:18–00:21 Lender reactions; buyer profile shift; post-close liquidity: KEEP
+7) 00:21–00:27 Post-close liquidity approaches across lenders; J-curve rationale: KEEP
+8) 00:27–00:32 Working capital left by seller; net working capital/QoE validation: KEEP
+9) 00:32–00:41 Franchise directory, forms, process/timelines: KEEP
+10) 00:41–00:43 Program durability; fees; deficit context: KEEP
+11) 00:44–00:51 Getting deals done; communication; hiccups; deal fatigue: KEEP
+12) 00:52–00:54 Tax transcripts (Form 8821 mention), expired financials risks: KEEP
+13) 00:55–00:58 Impact by deal size; stance on seller notes in offers: KEEP
+14) 00:58–01:03 Performance-based notes; seller involvement after 12 months; bank scrutiny: KEEP
+15) 01:03–01:04 Chores analogy for bank oversight: MIXED (see Borderline #1)
+16) 01:05–01:11 Post-close governance; servicing actions; collateral/ownership changes: KEEP
+17) 01:11–01:12 Growth LOC relationship note: KEEP
+18) 01:12–01:15 Underwriting focus (management, supply chain); valuation rationale; projections: KEEP
+19) 01:15–01:18 Multiples and comps; PureComps tool: KEEP
+20) 01:19–01:23 2025 outlook; equity raises; rate hopes; investor citizenship documentation: KEEP
+21) 01:21:55–01:23:10 Jokes about Mayflower/DNA/Black Mirror: REMOVE (see Removal #1)
+22) 01:23–01:25 Resilience training; stand-up anecdote: MIXED (see Borderline #2)
+23) 01:25–01:26 Wrap-up and thanks: KEEP
+
+Notes/Patterns for ASR Improvement
+- SBA-related acronyms frequently dropped or altered (e.g., “SB 1919”, “SB loans”, “QV”). Pattern suggests ASR should bias “SBA” and common industry acronyms (QoE, LOI, P&L).
+- Proper nouns frequently distorted: events (SMBash), banks (First Bank of the Lake), cities (Monterrey, Raleigh-Durham), podcasts (Acquiring Minds), internal names (Anka/Anke). Recommend tighter proper-noun model for ETA/SMB domain.
+- Temporal phrases often garbled (“due to first” for “June 1st”)—increase robustness for date expressions.
+- Finance terminology confusion: “networking capital” vs “net working capital”; “bank counsel” vs “council.”
+
+Speaker Attribution
+- One minor inconsistency in the name spelling for Anka/Anke; otherwise speaker roles align with content (clients asking practical questions; reps explaining process). No clear speaker swaps detected.
+
+Context Preservation
+- Recommended removals are brief humor tangents; trimming them will not disrupt the flow of the business discussion.
+- Borderline personal anecdotes both support core business points (lender oversight, resilience). Recommend keeping for context and audience value.

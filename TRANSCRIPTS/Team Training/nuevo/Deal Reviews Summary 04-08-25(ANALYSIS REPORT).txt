@@ -1,0 +1,223 @@
+[Error #1 - Category: Misheard Acronym]
+Location: 8:11 / Speaker: Athena Simpson
+Transcript excerpt: "...how is the pipeline going to know if somebody submitted an ally?"
+Issue: "ally" used in deal context
+Likely intended: "LOI" (Letter of Intent)
+Confidence: High
+Reasoning: Within M&A, LOI is the standard term; "ally" has no relevance here.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym]
+Location: 10:22 / Speaker: Athena Simpson
+Transcript excerpt: "...matter of a deal getting done or an all while you're getting submitted..."
+Issue: "all while" in acquisition process context
+Likely intended: "LOI"
+Confidence: High
+Reasoning: LOI submission timing is a frequent gating item; "all while" is nonsensical here.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: 24:01 / Speaker: Luke Gillespie
+Transcript excerpt: "...they're all SDA lenders, they have different types of risk..."
+Issue: "SDA" instead of SBA
+Likely intended: "SBA"
+Confidence: High
+Reasoning: Context is U.S. small business acquisition financing; SBA lenders vary by risk appetite.
+Impact: High
+
+[Error #4 - Category: Misheard Acronym]
+Location: 26:19 / Speaker: Luke Gillespie
+Transcript excerpt: "the broker claimed they already had a couple of LIs in hand..."
+Issue: "LIs" likely intended as LOIs
+Likely intended: "LOIs" (Letters of Intent)
+Confidence: High
+Reasoning: In M&A, LOIs are standard; "LIs" is a common ASR truncation.
+Impact: Medium
+
+[Error #5 - Category: Financial/Numerical Distortion]
+Location: 25:25 / Speaker: Luke Gillespie
+Transcript excerpt: "...in 2024, it was 622 K at that sales commissions... that's a nine in that six hundred twenty degree out of the nine hundred twenty five SDE."
+Issue: Garbled amounts/ratios; unclear relationship to SDE
+Likely intended: "In 2024, $622K in sales commissions; that's $622K of $925K SDE."
+Confidence: Medium
+Reasoning: Prior sentence mentions $622K commissions; SDE of ~$925K fits typical ratios; the phrasing is corrupted.
+Impact: High
+
+[Error #6 - Category: Entity Name]
+Location: 20:15 / Speaker: David R
+Transcript excerpt: "...I do have Georgia in East Coast, be it by sale."
+Issue: "be it by sale" is not a known marketplace
+Likely intended: "BizBuySell"
+Confidence: High
+Reasoning: BizBuySell is the major U.S. small business listing marketplace; phonetic match likely misheard.
+Impact: High
+
+[Error #7 - Category: Entity Name]
+Location: 33:00 / Speaker: Luke Gillespie
+Transcript excerpt: "It was an e-commerce company... It's a website closed with his deal."
+Issue: "website closed with his deal" is nonsensical
+Likely intended: "It's a Website Closers deal."
+Confidence: High
+Reasoning: Website Closers is a known brokerage for e-commerce businesses; context fits.
+Impact: High
+
+[Error #8 - Category: Entity Name]
+Location: 5:55-6:05 / Speaker: Athena Simpson
+Transcript excerpt: "...I know Oka is doing the daily meeting with you..."
+Issue: "Oka" likely misheard colleague name
+Likely intended: "Anka"
+Confidence: High
+Reasoning: The same colleague is repeatedly referenced as "Anka" later; consistent with internal team member.
+Impact: Medium
+
+[Error #9 - Category: Entity Name + Homophone]
+Location: 14:03 / Speaker: Luke Gillespie
+Transcript excerpt: "No, the call knows that Eda does in the client channels for every call."
+Issue: “call knows” vs “call notes”; “Eda” likely wrong name
+Likely intended: "No, the call notes that Anka does in the client channels for every call."
+Confidence: Medium
+Reasoning: They reference Fathom call notes and Anka preparing notes; “knows/notes” is a common ASR homophone error.
+Impact: Medium
+
+[Error #10 - Category: Business Terminology Distortion]
+Location: 37:00 / Speaker: Luke Gillespie (pattern recurs at 41:59)
+Transcript excerpt: "...introduce them to the broker to do a broker call... Should I... get you on a burger call..."
+Issue: "burger call" instead of "broker call"
+Likely intended: "broker call"
+Confidence: High
+Reasoning: Standard next step is a broker call; repeated mishearing appears throughout.
+Impact: Medium
+
+[Error #11 - Category: Misheard Acronym/Term]
+Location: 31:38 / Speaker: Luke Gillespie
+Transcript excerpt: "...he just sent a message in the slide channel..."
+Issue: "slide channel" in messaging context
+Likely intended: "Slack channel"
+Confidence: High
+Reasoning: Team references Slack repeatedly; “slide” is a phonetic error.
+Impact: Low
+
+[Error #12 - Category: Semantic Inconsistency (Year)]
+Location: 27:24 and 28:40 / Speaker: Athena Simpson
+Transcript excerpt: "...have they done their 2024?... they haven't done the 2024 tax returns..."
+Issue: Year likely off; April 08 implies 2023 returns are relevant
+Likely intended: "2023 tax returns"
+Confidence: Medium
+Reasoning: In April, current-year (2024) returns aren’t due; lenders request prior-year (2023) returns for underwriting.
+Impact: Medium
+
+[Error #13 - Category: Entity/Proper Noun]
+Location: 44:30 / Speaker: Athena Simpson
+Transcript excerpt: "There’s something I realized that S and BASH..."
+Issue: Conference name misrendered
+Likely intended: "SMBash"
+Confidence: High
+Reasoning: SMBash is a known SMB/M&A community event; phonetic spacing error.
+Impact: Low
+
+[Error #14 - Category: Entity/Name Consistency]
+Location: 46:12 and 45:57 / Speakers: Luke, Athena
+Transcript excerpt: "Instruct Gill to send questions..."; "gill message back..."
+Issue: Inconsistent spelling/capitalization of name
+Likely intended: "Gil"
+Confidence: Medium
+Reasoning: Proper names should be consistently spelled/capitalized; common ASR variance.
+Impact: Low
+
+[Error #15 - Category: Homophone/Word Error]
+Location: 0:42 / Speaker: Luke Gillespie
+Transcript excerpt: "...he's a pro-tenant. He played a tournament..."
+Issue: "pro-tenant" in sports context
+Likely intended: "pro tennis [player]"
+Confidence: High
+Reasoning: Tournament + watching him play strongly implies tennis; “tenant” is nonsensical here.
+Impact: Low (in small-talk section)
+
+[Error #16 - Category: Homophone]
+Location: 2:48 / Speaker: David R
+Transcript excerpt: "We have a coca spaniel."
+Issue: "coca spaniel"
+Likely intended: "cocker spaniel"
+Confidence: High
+Reasoning: Common dog breed; “coca” is a mishearing.
+Impact: Low (in small-talk section)
+
+[Error #17 - Category: Homophone]
+Location: 3:04 / Speaker: Athena Simpson
+Transcript excerpt: "...little like teacup noodles..."
+Issue: "noodles" in pet context
+Likely intended: "poodles"
+Confidence: High
+Reasoning: Teacup poodles are a common dog; “noodles” is misheard.
+Impact: Low (in small-talk section)
+
+[Error #18 - Category: Omissions/Truncations + Homophones]
+Location: 4:50 / Speaker: Luke Gillespie
+Transcript excerpt: "You want to see my mom? So you get these Clorox wipes. them on the floor. And you step and you just  running around your food..."
+Issue: Multiple garbles ("mom" vs "mop"; missing verbs; "food" vs "foot"; "heartless floor"; "getting a moment")
+Likely intended: Cleaning hack with Clorox wipes used as a “mop” on hardwood floor
+Confidence: Medium
+Reasoning: The entire sentence is corrupted by ASR; context from adjacent lines clarifies.
+Impact: Low (in small-talk section)
+
+[Error #19 - Category: Homophone]
+Location: 5:48 / Speaker: Luke Gillespie
+Transcript excerpt: "I love it, I'm so middle-wollist."
+Issue: "middle-wollist"
+Likely intended: "minimalist"
+Confidence: High
+Reasoning: Phrase “I’m so minimalist” fits context.
+Impact: Low (in small-talk section)
+
+
+Segment Mapping and Removals
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 0:00 - 5:55
+Speakers involved: Athena, Luke, David
+Content excerpt:
+"Athena: ...So where in Mexico are you? You're in Mexico City?
+Luke: Mexico City, yes.
+Athena: When did you get there?
+Luke: Saturday, Saturday night.
+Athena: How does it go in?
+Luke: It's great... getting all the essentials...
+[...]
+David R: ...we have a dog so we just take care of the dog.
+Athena: ...what's your wife's name?
+David R: ...Paola...
+[...]
+Athena: ...my boyfriend... two huge dogs...
+[...]
+Luke: You want to see my mom? So you get these Clorox wipes...
+Athena: Like the college version of a Swiffer a Mop...
+Luke: ...I'm so middle-wollist."
+Reasoning:
+Extended personal small talk about travel, living arrangements, pets, household cleaning, and relationships with no connection to business, clients, deals, or operations.
+Context impact: None—conversation clearly transitions to business at 5:55 (“...wanted to talk about a few things going on with the client...”).
+Recommended action: REMOVE 0:00 - 5:55
+
+
+[BORDERLINE #1 - Requires Review]
+Location: 5:55 - 6:20
+Content excerpt: "Well, cool. So, yeah. wanted to talk about a few things going on with the client... And then, you know, any deals or anything that you guys wanted to talk through today..."
+Business relevance argument: This marks the transition into business agenda, client matters, pipeline tracking, and data cleanliness.
+Personal content argument: Brief mention of “I haven’t had a social catch up” and eating lunch.
+Recommendation: KEEP — The brief personal asides serve as transition; the segment immediately focuses on business operations and client work.
+
+
+Additional Notes and Patterns
+- Repeated LOI mishearing (ally/all while) is a significant pattern; ensure reviewers pay special attention to LOI occurrences across transcripts.
+- “Broker call” repeatedly appears as “burger call”; this recurring distortion can mislead readers unfamiliar with context.
+- Team member name “Anka” appears misheard as “Oka” and possibly “Eda”; confirm correct names for team documentation.
+- Ensure brokerage/marketplace names are standardized: BizBuySell; Website Closers; SMBash.
+- Consider standardizing “HubSpot” capitalization in final deliverables (low priority).
+- One message references “slide channel” instead of Slack; standardize to Slack in internal notes.
+
+Speaker Attribution
+- No clear cases of swapped speakers; the odd line “I was on David.” (0:23, David R) appears to be an ASR corruption rather than misattribution. If needed, reviewers can verify original audio.
+
+Omissions/Truncations
+- Several early small-talk lines (0:37-5:00) show broken phrases and missing words, likely due to audio/noise. These fall within the removal segment and do not affect business content.
+
+This analysis prioritizes errors affecting deal understanding (LOI/SBA, financial figures, entity names) and removes only extended off-topic content while preserving business flow.

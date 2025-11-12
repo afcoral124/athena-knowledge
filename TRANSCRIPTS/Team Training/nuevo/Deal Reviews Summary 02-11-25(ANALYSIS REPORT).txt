@@ -1,0 +1,238 @@
+Segment mapping (by timestamp ranges)
+- 0:01-1:21 — KEEP: Quick team debrief about call approach, specific client behavior (Gil), deal momentum/LOIs
+- 3:00-5:17 — KEEP: Search criteria refinement (IT consulting/MSP), keyword strategy, role alignment (Luke/Ryan/Anka), market segments (cybersecurity)
+- 5:22-6:59 — KEEP: “Glass business” pass; seller follow-up; new buyer fit; location details (Long Island/LIC); SDE and growth
+- 7:09-10:31 — KEEP: Andrew’s criteria (remote/online vs OK), cadence (biweekly), SBA quality/financing considerations, process alignment
+- 10:31-11:40 — KEEP: Team brainstorm planning around Andrew; real estate buyer’s club idea; travel/readiness
+- 11:40-12:12 — MIXED: VH scheduling update with personal health details; follow-up plan
+- 12:17-15:02 — KEEP: VH and Brian follow-up; Chris’s IOI outcome; broker call status
+- 15:02-21:33 — KEEP: Offer strategy (competitive IOIs/LOIs), debrief practice, pattern recognition (competitiveness), team comms between broker- and client-facing roles
+- 23:21-38:12 — KEEP: DL pipeline (nightclub/plumbing); plumbing ad-back analysis (advertising); DSCR/SDE sensitivity; SBA prequal mention; licensing and ops; write-up coaching
+- 38:12-40:18 — KEEP: JJ follow-up status; misc. action items
+- 40:22-51:49 — KEEP: Grading/excavation: 7(a) vs 504 structure; 51% rule; amortization terms; modeling rent vs mortgage; guidance for client-facing write-up
+- 51:55-52:27 — KEEP: Pipeline reminders (LOI buyers still receive deals), prior client behavior (Lindsey/Kevin)
+- 52:27-53:20 — REMOVE: Off-topic “thingies” (awards/acrylic pieces) show-and-tell/brand banter
+- 53:20-54:19 — KEEP: LOI count; next steps scheduling; spreadsheet tooling; Oklahoma brainstorming
+
+Detected transcription errors
+[Error #1 - Category: Business terminology/entity name]
+Location: 3:39 / Speaker: Athena Simpson
+Transcript excerpt: “I was going to tell uncle tends to deal team just to scrape for the letters IT…”
+Issue: “uncle tends to deal team” is incoherent in context.
+Likely intended: “I was going to tell Anka to tell the deal team…” (or “I’m going to tell Anka/the deal team…”)
+Confidence: High
+Reasoning: Anka is mentioned later as a teammate; phrase structure suggests instruction routing via Anka to deal team.
+Impact: Medium — affects who should act.
+
+[Error #2 - Category: Entity name consistency]
+Location: 3:39 / Speaker: Athena Simpson
+Transcript excerpt: “…I would, Ryan, like work with Gail and just be like, can you…”
+Issue: “Gail” likely refers to previously referenced “Gil.”
+Likely intended: “Gil”
+Confidence: High
+Reasoning: Earlier at 1:08 Luke references “Gil’s personality.” Same client context.
+Impact: Medium
+
+[Error #3 - Category: Misheard pronoun]
+Location: 15:25 / Speaker: Athena Simpson
+Transcript excerpt: “Did you run the offer past you before you sent it, Ryan…”
+Issue: Reflexive “you” misapplied; asking if client ran the offer past Ryan.
+Likely intended: “Did he run the offer past you before he sent it, Ryan…”
+Confidence: High
+Reasoning: Ryan later answers as reviewer; subject must be client (Chris).
+Impact: Medium
+
+[Error #4 - Category: Omission/truncation]
+Location: 16:23 / Speaker: Athena Simpson
+Transcript excerpt: “…if they’ve done something meaningful like some in an LOI or an IOI…”
+Issue: Missing verb/object makes phrase nonsensical.
+Likely intended: “…like submitted an LOI or an IOI…”
+Confidence: High
+Reasoning: Standard phrasing in deal reviews.
+Impact: Medium
+
+[Error #5 - Category: Misheard wording]
+Location: 17:37 / Speaker: Athena Simpson
+Transcript excerpt: “And I can’t doing IOIs instead of LOI…”
+Issue: Ungrammatical; singular/plural mismatch.
+Likely intended: “And kind of doing IOIs instead of LOIs…”
+Confidence: Medium
+Reasoning: Fits established point about competitiveness and offer type.
+Impact: Low
+
+[Error #6 - Category: Financial/metric term]
+Location: 19:32 / Speaker: Luke Gillespie
+Transcript excerpt: “…even at asking price, it’s priced super cheaply. And he still has a 2.5 DSCR and almost 600 KSD.”
+Issue: “KSD” is not a standard metric; likely SDE.
+Likely intended: “600k SDE”
+Confidence: High
+Reasoning: SDE is repeatedly used elsewhere; “KSD” is an ASR artifact.
+Impact: High — misstates financial metric.
+
+[Error #7 - Category: Misheard acronym]
+Location: 19:47 / Speaker: Luke Gillespie
+Transcript excerpt: “…the one where he got his eye rejected because he sent it under.”
+Issue: “eye rejected” in deal context.
+Likely intended: “IOI rejected”
+Confidence: High
+Reasoning: Discussion is about indications of interest and competitiveness.
+Impact: High
+
+[Error #8 - Category: Entity/brand name]
+Location: 27:13 / Speaker: Luke Gillespie
+Transcript excerpt: “…from that updating email and the Aquaman branding…”
+Issue: Company name misheard.
+Likely intended: “AcquiMatch branding”
+Confidence: High
+Reasoning: Company is AcquiMatch; “Aquaman” is a common phonetic mishear.
+Impact: Medium
+
+[Error #9 - Category: Semantic inconsistency/truncation]
+Location: 27:09 / Speaker: Athena Simpson
+Transcript excerpt: “We love catching a Marley.”
+Issue: Phrase is nonsensical in context of early lead discovery.
+Likely intended: “We love catching them early.”
+Confidence: Medium
+Reasoning: Conversation is about being first to a new listing.
+Impact: Low
+
+[Error #10 - Category: Misheard term]
+Location: 32:25 / Speaker: Athena Simpson
+Transcript excerpt: “Was this SBA pretty cool?”
+Issue: “pretty cool” is off in lending context.
+Likely intended: “SBA prequal” (pre-qualified)
+Confidence: High
+Reasoning: Immediately followed by Luke: “it’s been SBA pre-qualified…”
+Impact: Medium
+
+[Error #11 - Category: Business terminology]
+Location: 35:28 / Speaker: Athena Simpson
+Transcript excerpt: “…these blue column service businesses…”
+Issue: Phrase should be industry term.
+Likely intended: “blue collar service businesses”
+Confidence: High
+Reasoning: Common term in SMB services.
+Impact: Medium
+
+[Error #12 - Category: Business terminology]
+Location: 37:00 / Speaker: Luke Gillespie
+Transcript excerpt: “…growth opps, areas of concern… and Lord’s concerns.”
+Issue: “and Lord’s” likely “landlord’s.”
+Likely intended: “landlord’s concerns”
+Confidence: High
+Reasoning: Prior sentence: landlord is a stickler; seller experience requirement.
+Impact: High — changes risk source.
+
+[Error #13 - Category: Word substitution]
+Location: 42:55 / Speaker: Athena Simpson
+Transcript excerpt: “504, on the other hand, would be a separate loan. phone in addition to the seven a…”
+Issue: “phone” should be “loan.”
+Likely intended: “…separate loan in addition to the 7(a).”
+Confidence: High
+Reasoning: Explaining SBA 504 structure.
+Impact: Medium
+
+[Error #14 - Category: Word substitution]
+Location: 46:06 / Speaker: Athena Simpson
+Transcript excerpt: “Most of the time we’re actually going to want them to do two separate logs.”
+Issue: “logs” should be “loans.”
+Likely intended: “two separate loans.”
+Confidence: High
+Reasoning: Ongoing 7(a)/504 discussion.
+Impact: Medium
+
+[Error #15 - Category: Semantic inconsistency]
+Location: 37:00 / Speaker: Luke Gillespie
+Transcript excerpt: “…this guy doesn’t want to be in trouble for the new owner just to take it over at that value…”
+Issue: Phrase is awkward/unclear.
+Likely intended: Something like “doesn’t want to be difficult” or “wants an easy transition for new owner.”
+Confidence: Low
+Reasoning: Could reflect speaker’s rough paraphrase; ambiguous.
+Impact: Low
+
+[Error #16 - Category: Misheard acronym]
+Location: 53:32 / Speaker: Athena Simpson
+Transcript excerpt: “We’ve gotten nine signed L.O.5 since we’ve started too.”
+Issue: “L.O.5” not a valid acronym here.
+Likely intended: “LOIs”
+Confidence: High
+Reasoning: Context is signed Letters of Intent; “5” is a common ASR substitution for “I.”
+Impact: Medium
+
+[Error #17 - Category: Financial/numerical term]
+Location: 24:xx (around 25:45-26:05) / Speaker: Luke Gillespie
+Transcript excerpt: “…they’re adding back the 200 out of the 500. DK in advertising…”
+Issue: “DK” likely misheard for “$500k.”
+Likely intended: “$500k in advertising”
+Confidence: High
+Reasoning: Earlier he cites $553k advertising; shorthand “500k” is consistent.
+Impact: Medium
+
+[Error #18 - Category: Misheard term]
+Location: 41:00 / Speaker: Athena Simpson
+Transcript excerpt: “…it won’t be the 25 year mr but it’ll qualify for more like a 20 year amortization…”
+Issue: “mr” is truncated.
+Likely intended: “am[ortization]”
+Confidence: Medium
+Reasoning: She’s clearly explaining amortization terms.
+Impact: Low
+
+[Error #19 - Category: Grammar/possessive (only due to clarity)]
+Location: 38:16 / Speaker: AcquiMatch Team
+Transcript excerpt: “what was the reason for the plumbers selling?”
+Issue: Missing possessive could confuse.
+Likely intended: “plumber’s”
+Confidence: Medium
+Reasoning: Single seller context.
+Impact: Low
+
+Removals (personal/off-topic)
+[REMOVAL #1 - Type: Off-Topic/Small Talk]
+Location: 52:27-53:20
+Speakers involved: Athena, Luke, AcquiMatch Team
+Content excerpt:
+“Athena: Oh my gosh, I didn’t show you guys. Hang on. I’m in swab hands still last. We got some new like thingies.
+Luke: Nice.
+Athena: I think these look a lot better than the original ones.
+AcquiMatch Team: They’re cool. Hold Rick and Nicholas. That’s it. Okay. Wow.
+Athena: …yeah, like we match. …it looked like a piece of paper stuck to a piece of acrylic… I want a lot more of these this year…”
+Reasoning:
+Show-and-tell about acrylic “thingies”/awards and branding aesthetics. No deal, client, or process content; purely internal swag/celebration banter.
+Context impact: Low — subsequent section returns to LOI counts and wrap-up cleanly.
+Recommended action: REMOVE 52:27-53:20
+
+[REMOVAL #2 - Type: Personal]
+Location: 11:40-11:54 (subset of the 11:40-12:12 block)
+Speakers involved: AcquiMatch Team
+Content excerpt:
+“…she had a meeting scheduled with me for yesterday. Yesterday, she canceled and said that she had to be in hospital. So she is in the ER. So that’s unfortunate…”
+Reasoning:
+Personal health information about a client/contact; not necessary to retain beyond noting that the meeting was canceled and follow-up is required.
+Context impact: Low — keep the follow-up/action item notes while removing medical details.
+Recommended action: REMOVE 11:40-11:54; KEEP the subsequent plan to follow up.
+
+Borderline segments (requires review)
+[BORDERLINE #1 - Requires Review]
+Location: 11:40-12:12 (remaining portion after removing 11:40-11:54)
+Content excerpt: “ACTION ITEM: Follow up w/ VH re broker intros made… So… we’re just gonna have to follow up with her in a couple of days to see what the latest is on her.”
+Business relevance argument: Explains status of a client/broker-intro follow-up and sets next steps.
+Personal content argument: Surrounding context references a personal ER visit (recommended removed).
+Recommendation: KEEP the non-health portions (meeting canceled, follow-up planned, action item).
+
+Systematic ASR patterns to note
+- LOI/IOI misheard as “L.O.5”, “eye”, scattered casing/punctuation (LOI/IOI). High priority to train on deal acronyms.
+- SDE misrendered as “SD”/“KSD”. Financial metrics and units (k) need tighter models.
+- Company/brand names: “AcquiMatch” → “Aquaman”.
+- Real estate/lending terms: “loan” misheard as “phone/logs”; “amortization” truncated (“mr”); “landlord” → “and Lord”.
+- Proper names: “Gil” → “Gail”; “Anka” → “uncle”.
+
+Speaker attribution validation
+- No clear turn-level misattributions detected; occasional pronoun/subject confusion (Error #3) appears to be ASR wording rather than speaker swap.
+
+Cross-reference/consistency notes
+- Financial discussion around plumbing business: ensure SDE is treated as ~$448k if advertising add-back is rejected; DSCR/SDE recalcs reference this consistently later (team aligns on this).
+- SBA prequalification: Confirm that “$1.5 million” prequal (32:37-32:40) is clearly below asking; ensure write-up uses buyer’s minimum SDE requirement (200k) consistently.
+
+End result
+- Remove identified off-topic and personal-health details as specified.
+- Review and correct high-impact ASR errors (especially acronyms, metrics, brand/entity names) to preserve financial and deal-structuring clarity.

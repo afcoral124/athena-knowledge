@@ -1,0 +1,262 @@
+[Error #1 - Category: Misheard Acronym(s)]
+Location: ~00:30:10 / Speaker: Justin
+Transcript excerpt: "Hey, thanks for jumping through hoops, being late to the party, um, with all of their, uh, Lois and interest they've received."
+Issue: "Lois" in this context appears to be a mishearing of LOIs; “interest” likely stands for IOIs (Indications of Interest).
+Likely intended: "with all of their LOIs and IOIs they've received."
+Confidence: High
+Reasoning: LOI/IOI are standard M&A terms. "Lois" is a common ASR mis-transcription for LOIs; pairing “interest” makes IOIs plausible.
+Impact: High - misleads on what was received and the stage of the process.
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:04:05 / Speaker: Steve
+Transcript excerpt: "made the decision, let's skip the offer, go right to LO, I put an LOI in front of them."
+Issue: Acronym split as "LO, I" which reads as words rather than the acronym.
+Likely intended: "go right to LOI; I put an LOI in front of them."
+Confidence: Medium-High
+Reasoning: LOI (Letter of Intent) is the standard term; the pause likely caused improper splitting.
+Impact: Medium - could confuse readers unfamiliar with the term.
+
+---
+[Error #3 - Category: Financial and numerical errors]
+Location: ~00:06:40 / Speaker: Steve
+Transcript excerpt: "0.2 points. So number one, Polly had to call herself with, uh, the woman."
+Issue: "0.2 points" is illogical in context.
+Likely intended: "Two points."
+Confidence: High
+Reasoning: Speaker then enumerates “number one,” implying a count of two—not a decimal.
+Impact: Medium - affects clarity of structure.
+
+---
+[Error #4 - Category: Entity names (people)]
+Location: ~00:04:25 / Speaker: Steve
+Transcript excerpt: "my wife and I did a video. Paul and I did a video, short video. It was like two minutes..."
+Issue: "Paul" likely intended to be "Polly" (his wife), used elsewhere consistently.
+Likely intended: "Polly and I did a video..."
+Confidence: High
+Reasoning: Spouse is “Polly” throughout; “Paul” conflicts with all other references.
+Impact: Medium - creates confusion about participants.
+
+---
+[Error #5 - Category: Entity names (people)]
+Location: ~00:02:45 and ~00:04:00 / Speaker: Steve
+Transcript excerpt: 
+- "Work with, uh, Ryan and just kind of hammered it out."
+- "working with Brian and Athena, um, made the decision..."
+Issue: Inconsistent name: “Ryan” vs. “Brian.”
+Likely intended: Consistent use of “Ryan.”
+Confidence: Medium
+Reasoning: Elsewhere the team member is referred to as Ryan; “Brian” likely ASR confusion.
+Impact: Medium - may confuse who advised the deal.
+
+---
+[Error #6 - Category: Entity names (people)]
+Location: ~00:08:20 / Speaker: Athena
+Transcript excerpt: "what would Chris boss from never split the difference, like do in this scenario..."
+Issue: Misnaming the well-known negotiation author.
+Likely intended: "Chris Voss from Never Split the Difference."
+Confidence: High
+Reasoning: Chris Voss is the recognized author; “boss” is a phonetic error.
+Impact: Medium - professional reference accuracy.
+
+---
+[Error #7 - Category: Entity names (people)]
+Location: ~00:23:45 / Speaker: Athena
+Transcript excerpt: "maybe just shoot it over to Gail really quick so he doesn't have to research it..."
+Issue: Misnaming “Gil” as “Gail.”
+Likely intended: "shoot it over to Gil..."
+Confidence: High
+Reasoning: The participant is “Gil” (male); context uses “he.”
+Impact: Medium - confuses who should receive the info.
+
+---
+[Error #8 - Category: Misheard Acronym/Term]
+Location: ~00:54:10 / Speaker: Athena
+Transcript excerpt: "Then after that, you're gonna have a QV, which somebody that really knows their way around this..."
+Issue: "QV" likely stands for QoE (Quality of Earnings).
+Likely intended: "QoE (Quality of Earnings)."
+Confidence: High
+Reasoning: QoE is standard diligence step; QV is not a standard acronym here.
+Impact: High - changes meaning of a key diligence step.
+
+---
+[Error #9 - Category: Business terminology distortions]
+Location: ~00:41:45 / Speaker: Athena
+Transcript excerpt: "this could be a para pursue with SBA and you bring in investor money..."
+Issue: Misstated term "para pursue."
+Likely intended: "pari passu" (equal footing treatment).
+Confidence: High
+Reasoning: Common financing term; pronunciation often misheard by ASR.
+Impact: Medium - important to structure context.
+
+---
+[Error #10 - Category: Misheard Acronym]
+Location: ~00:32:00 / Speakers: Justin, Athena
+Transcript excerpt: 
+Justin: "I had an LOI in front of him, which I submitted to on, well, yesterday..."
+Athena: "allies. It's so exciting."
+Issue: "allies" likely mis-transcribed "LOIs."
+Likely intended: "LOIs."
+Confidence: High
+Reasoning: The topic is LOI submissions; “allies” is nonsensical here.
+Impact: Medium - misleads on the subject.
+
+---
+[Error #11 - Category: Business terminology distortions]
+Location: ~00:33:30 / Speaker: Justin
+Transcript excerpt: "either a, an earnout component or a, or a rollback component or heavily involvement required..."
+Issue: "rollback component" is atypical; likely meant "rollover" (equity).
+Likely intended: "rollover component."
+Confidence: Medium-High
+Reasoning: Rollover equity is standard in M&A; “rollback” is unusual in this context.
+Impact: Medium - affects understanding of terms.
+
+---
+[Error #12 - Category: Homophone/Near-homophone]
+Location: ~00:21:05 / Speaker: Gil
+Transcript excerpt: "I broke my back in enough trade shows myself, um, standing there for 13 hours with batches."
+Issue: "batches" likely “badges.”
+Likely intended: "standing there for 13 hours with badges."
+Confidence: High
+Reasoning: Trade shows commonly involve wearing badges; “batches” is out of context.
+Impact: Low
+
+---
+[Error #13 - Category: Semantic inconsistency]
+Location: ~00:32:20 / Speaker: Athena
+Transcript excerpt: "because from, from the feedback they were giving you, you were kind of the favored error, right?"
+Issue: "favored error" is semantically off.
+Likely intended: "favorite" or "favored there."
+Confidence: High
+Reasoning: Describing a buyer as “favored error” is illogical; likely misheard “favorite.”
+Impact: Low-Medium
+
+---
+[Error #14 - Category: Omission/Truncation]
+Location: ~00:38:25 / Speaker: Athena
+Transcript excerpt: "they just wanna be a, and, and, you know, you can find these, these folks that have like so much wisdom..."
+Issue: Truncated phrase "wanna be a," missing the noun (e.g., “advisor,” “LP”).
+Likely intended: "they just wanna be a [limited partner/advisor]..."
+Confidence: Medium
+Reasoning: Sentence is syntactically incomplete.
+Impact: Low-Medium
+
+---
+[Error #15 - Category: Entity names (people)]
+Location: ~00:24:45 / Speaker: Gil
+Transcript excerpt: "and Juan, I am, uh, chasing the broker."
+Issue: "Juan" likely misheard enumerator "one."
+Likely intended: "and one, I am chasing the broker."
+Confidence: Medium
+Reasoning: Gil was listing two deals (“two other deals... one... and one...”), not naming “Juan.”
+Impact: Low
+
+---
+[Error #16 - Category: Business terminology distortions]
+Location: ~00:15:40 / Speaker: Athena
+Transcript excerpt: "brokers will also put you top of their list if they think they're gonna get an extra bite of the F ball."
+Issue: "F ball" is nonsensical; likely idiom “bite of the apple,” or “fee” context.
+Likely intended: "extra bite of the apple" (idiom) or "fee pool" contextually.
+Confidence: Medium
+Reasoning: Phrase is not a recognized idiom; likely ASR error.
+Impact: Low
+
+---
+[Error #17 - Category: Misheard Acronym]
+Location: ~00:53:05 / Speaker: Athena
+Transcript excerpt: "Just like take the Y is a big deal, but it's still a malleable..."
+Issue: "the Y" likely misheard “the LOI.”
+Likely intended: "the LOI is a big deal..."
+Confidence: High
+Reasoning: Context is about LOIs and offers; “Y” is nonsensical.
+Impact: High - confuses a key concept.
+
+---
+[Error #18 - Category: Semantic inconsistency]
+Location: ~00:41:55 / Speaker: Athena
+Transcript excerpt: "they don't have a pg, but you're under the ones, you know, and they might..."
+Issue: “under the ones” unclear; possibly “under the loans” or “under the SBA ones” or “under the gun.”
+Likely intended: Unclear (likely “under the loans”/“under the SBA ones”).
+Confidence: Low-Medium
+Reasoning: The phrase is incoherent; multiple plausible intended phrases exist.
+Impact: Low
+
+---
+[Error #19 - Category: Business terminology distortions]
+Location: ~00:50:45 / Speaker: Athena
+Transcript excerpt: "what's, what's, what's, where's your mind at, with the furniture one or the design one? Are you gonna keep moving that one along? Duty data?"
+Issue: "Duty data" likely misheard “due diligence data.”
+Likely intended: "due diligence data?"
+Confidence: Medium
+Reasoning: The topic is advancing a deal; “duty data” doesn’t fit; due diligence would.
+Impact: Low
+
+---
+[Error #20 - Category: Minor terminology]
+Location: ~00:08:40 / Speaker: Athena
+Transcript excerpt: "so like, CHATT just takes that load off of me and it's like, here's the thing..."
+Issue: “CHATT” likely “ChatGPT” or “chat.”
+Likely intended: "ChatGPT" (or “chat”).
+Confidence: Medium
+Reasoning: Conversation context is using AI for scripting; “CHATT” is not a product name.
+Impact: Low
+
+Pattern note: The acronym “LOI” is repeatedly mis-transcribed in multiple forms (“LO, I”, “Lois”, “allies”, “the Y”), suggesting a systematic ASR confusion around LOI/LOIs/IOIs.
+
+---
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: ~00:00:00–00:01:10
+Speakers involved: Athena, Gil, Steve
+Content excerpt:
+"Athena: Oh, nice background. You're matching the team... majestic palm in the background.
+Gil: I was told, I seemed as if I was in a dungeon...
+Athena: ...I just moved house yesterday... my mom was an interior designer... I am exceptionally talented at killing succulents... proud of the majestic palm..."
+Reasoning:
+Extended small talk about backgrounds, fake plants, moving house, and family; no business relevance to acquisitions or deals.
+Context impact: None—conversation transitions clearly into business updates after.
+Recommended action: REMOVE ~00:00:00–00:01:10
+
+---
+[REMOVAL #2 - Type: Small Talk]
+Location: ~00:19:35–00:19:55
+Speakers involved: Polly, Athena
+Content excerpt:
+"Polly: I'm gonna turn my audio off so you don't have to listen to my dog barking...
+Athena: Amazing. Cool."
+Reasoning:
+Brief personal aside about a barking dog; no business content.
+Context impact: None—discussion immediately returns to deal strategy with Gil.
+Recommended action: REMOVE ~00:19:35–00:19:55
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:21:00–00:22:20
+Content excerpt: 
+"Gil: ...she wants to retire and travel with her husband. So that's a common point... I broke my back in enough trade shows myself... some things to break the ice...
+Athena: ...small gift... a travel map... bring it along to the coffee..."
+Business relevance argument: Rapport-building tailored to seller’s motivations and industry experience; these are concrete buyer-seller relationship strategies that influence deal success.
+Personal content argument: References travel and personal experiences could be seen as off-topic.
+Recommendation: KEEP—Directly related to buyer strategy for seller engagement in an active deal.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:21:50–00:23:30
+Content excerpt: 
+"Athena: ...get a travel map on Amazon... bring it along to the coffee... little touches like that... creates reciprocity..."
+Business relevance argument: Specific tactic to differentiate in a competitive process; practical sales strategy.
+Personal content argument: Mentions personal gift and travel theme.
+Recommendation: KEEP—Actionable tactic to advance a deal; clearly business-relevant.
+
+---
+
+Additional notes on context preservation:
+- The removed opening small talk is isolated and does not affect understanding of subsequent deal updates.
+- The brief dog-barking aside can be removed without harming the flow; it’s a self-contained interruption.
+
+Speaker attribution validation:
+- No clear speaker-role reversals observed; however, there are multiple name mis-transcriptions (Ryan/Brian; Gil/Gail; Polly/Paul) that should be corrected by the refiner to avoid confusion.
+
+Cross-reference consistency:
+- Consistent discussion around LOIs, seller financing, working capital, SBA loans; but repeated acronym mis-transcriptions (LOI/LOIs/IOIs, QoE) should be standardized during refinement.

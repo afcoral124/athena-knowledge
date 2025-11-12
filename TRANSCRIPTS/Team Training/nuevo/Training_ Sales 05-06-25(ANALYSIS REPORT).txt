@@ -1,0 +1,204 @@
+[Error #1 - Category: Misheard Acronym/Business Term]
+Location: ~1:03 / Speaker: Austin Lortie
+Transcript excerpt: "I met a really good channel partner that's doing like QAV, but he was like..."
+Issue: "QAV" is not a standard M&A term in this context.
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: In acquisition due diligence, service providers commonly offer Quality of Earnings (QoE) work; “QAV” appears to be a phonetic misrecognition.
+Impact: High - Mislabels a core due diligence service.
+
+---
+[Error #2 - Category: Homophone/Near-homophone]
+Location: 4:21 / Speaker: Athena Simpson
+Transcript excerpt: "She was singing your phrases. Oh, that's sweet."
+Issue: "phrases" used where a compliment is being described.
+Likely intended: "praises"
+Confidence: High
+Reasoning: Common idiom is “singing your praises.” Context is positive feedback about Austin.
+Impact: Low-Medium
+
+---
+[Error #3 - Category: Entity Name Inconsistency]
+Location: 10:40 vs earlier references / Speaker: Athena Simpson (and prior mentions)
+Transcript excerpt: "She was at M&A LaunchPod." (earlier repeated as "M&A Launchpad")
+Issue: Inconsistent event naming ("LaunchPod" vs "Launchpad").
+Likely intended: "M&A Launchpad"
+Confidence: High
+Reasoning: Earlier references consistently say “Launchpad.” “LaunchPod” likely ASR confusion.
+Impact: Medium - Could confuse the event being discussed.
+
+---
+[Error #4 - Category: Misheard Entity/Proper Noun]
+Location: 13:14 / Speaker: Athena Simpson
+Transcript excerpt: "people I listen to on Acquiring Wines or the people I hear speaking at events."
+Issue: Podcast name appears incorrect.
+Likely intended: "Acquiring Minds"
+Confidence: High
+Reasoning: “Acquiring Minds” is a known SMB/M&A podcast; “Acquiring Wines” is unlikely.
+Impact: Medium
+
+---
+[Error #5 - Category: Misheard Proper Noun/Acronym]
+Location: 17:06 / Speaker: Austin Lortie
+Transcript excerpt: "I leveraged Shack GPT to give me some ideas..."
+Issue: Tool name misheard.
+Likely intended: "ChatGPT"
+Confidence: High
+Reasoning: Phonetic similarity; “ChatGPT” is a well-known tool often mentioned in work contexts.
+Impact: Medium
+
+---
+[Error #6 - Category: Grammatical Issue Obscuring Meaning]
+Location: ~19:58-20:20 / Speaker: Athena Simpson
+Transcript excerpt: "Our combined experience has saw us about thousands of deals worth hundreds of millions of dollars..."
+Issue: Ungrammatical phrase that obscures meaning.
+Likely intended: "has seen us evaluate thousands of deals worth hundreds of millions of dollars"
+Confidence: High
+Reasoning: Standard way to express cumulative experience in deal review.
+Impact: Medium
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~20:20 / Speaker: Athena Simpson
+Transcript excerpt: "...our team has gotten 100% of clients and designed LOI."
+Issue: “designed LOI” is incorrect usage in this context.
+Likely intended: "to signed LOIs" or "to sign LOIs"
+Confidence: High
+Reasoning: In deal funnels, the milestone is an LOI being “signed,” not “designed.”
+Impact: High - Affects a key performance claim.
+
+---
+[Error #8 - Category: Entity Names (Inconsistency)]
+Location: Multiple
+- 4:24 / Speaker: Austin: "And then I dropped the ball on Arvin..."
+- ~22:00 / Speaker: Athena: "that guy air-voned... he thought we..."
+- ~26:00 / Speaker: Athena: "...we got in the weeds with Erevan when..."
+Issue: Same person appears to be referenced with different spellings.
+Likely intended: A single individual, likely "Arvin" or "Arvind"
+Confidence: Medium
+Reasoning: Conversational context suggests one person; repeated but inconsistent phonetic renderings.
+Impact: Medium - Confusing for follow-up or record-keeping.
+
+---
+[Error #9 - Category: Misheard Event Name]
+Location: 12:14 / Speaker: Athena Simpson
+Transcript excerpt: "it was an S and bash where you really need to have your talking points..."
+Issue: Event name misheard.
+Likely intended: "SMBash"
+Confidence: High
+Reasoning: SMBash is a known SMB acquisition conference; "S and bash" is an ASR artifact.
+Impact: Medium
+
+---
+[Error #10 - Category: Semantic Inconsistency]
+Location: 0:00 / Speaker: Athena Simpson
+Transcript excerpt: "Let me tell my speaker. Going well, thanks."
+Issue: Phrase does not fit context of starting a call.
+Likely intended: "Let me test my speaker."
+Confidence: Medium
+Reasoning: Common pre-call check phrasing; “tell my speaker” is unnatural.
+Impact: Low
+
+---
+[Error #11 - Category: Semantic Inconsistency]
+Location: ~1:03 / Speaker: Austin Lortie
+Transcript excerpt: "...swallowing quotation marks. I think that's the fifth intro call I've ran."
+Issue: “swallowing quotation marks” is odd/unidiomatic.
+Likely intended: Possibly “using ‘quote-unquote’,” or “overusing quotes/air quotes”
+Confidence: Low-Medium
+Reasoning: The phrase is unusual; may be an ASR misrendering of a filler or aside.
+Impact: Low
+
+---
+[Error #12 - Category: Misheard Acronym]
+Location: ~47:00 / Speaker: Athena Simpson
+Transcript excerpt: "of those NDAs, how many did you receive SIMs back for?"
+Issue: “SIMs” vs the more standard “CIMs” in US M&A.
+Likely intended: "CIMs" (Confidential Information Memoranda)
+Confidence: Medium
+Reasoning: In US buy-side processes, “CIM” is standard; some markets use “IM/SIM,” but given context, “CIM” is more likely.
+Impact: Medium
+
+---
+[Error #13 - Category: Misheard Acronym]
+Location: ~49:00 / Speaker: Athena Simpson
+Transcript excerpt: "How many LIs did you submit? How many of those were accepted?"
+Issue: “LIs” likely missing the “O.”
+Likely intended: "LOIs" (Letters of Intent)
+Confidence: High
+Reasoning: Standard terminology is LOI; ASR often drops short vowels.
+Impact: High
+
+---
+[Error #14 - Category: Entity Name (Proper Noun)]
+Location: 9:23 / Speaker: Austin Lortie
+Transcript excerpt: "He and I were both facilitators in Cody's community."
+Issue: Possible misspelling of a known figure’s name in SMB/M&A.
+Likely intended: "Codie" (as in Codie Sanchez)
+Confidence: Medium
+Reasoning: In SMB circles, “Codie Sanchez” runs a well-known community; “Cody” could be wrong or could refer to someone else. Ambiguous but worth a check.
+Impact: Low-Medium
+
+---
+[Error #15 - Category: Semantic Inconsistency]
+Location: 14:06 / Speaker: Austin Lortie
+Transcript excerpt: "what do you think the real? Value in leveraging a search and match for a minute."
+Issue: Fragmented phrasing and “for a minute” seems out of place.
+Likely intended: "Value in leveraging a search-and-match firm (like ours)" (without “for a minute”)
+Confidence: Medium
+Reasoning: The phrase appears clipped, likely due to ASR truncation and filler words.
+Impact: Low
+
+---
+
+REMOVALS (Personal/Off-Topic)
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: ~18:22–~18:40
+Speakers involved: Athena
+Content excerpt:
+"Athena: Oh, my gosh. Gamora came in and sat. She knows how to, did I tell you, she knows how to, like, bulldoze my door. Cole's dog is figured out because it's not anything but, like, a latch. It's, like, just one of those, like, ball things where you, like, push it. And she just, like, slams through the door now to open the door."
+Reasoning:
+Extended anecdote about a dog and home door latch is personal and not related to business, training, or sales process.
+Context impact: None—conversation transitions immediately back to the intro meeting walkthrough (“Cool. Okay. I’m going to pull up the intro meeting…”).
+Recommended action: REMOVE ~18:22–~18:40 (retain the subsequent sentence beginning "Cool. Okay. I'm going to pull up the intro meeting...")
+
+---
+
+BORDERLINE SEGMENTS - Requires Review
+
+[BORDERLINE #1 - Requires Review]
+Location: ~6:40–~7:47
+Content excerpt: Athena’s anecdote about being grilled on credentials at Launchpad, cultural context via her TA, and reactions (“…had me almost up against a wall… grilling me on what made me credentialed…”).
+Business relevance argument: Provides insight into event dynamics, broker/searcher culture, and how to handle credential challenges; relevant to training and sales conversations.
+Personal content argument: Includes personal anecdote, strong language, and cultural commentary that could be seen as tangential.
+Recommendation: KEEP — It supports the training purpose of the call (handling objections/credibility at events).
+
+[BORDERLINE #2 - Requires Review]
+Location: “SCREEN SHARING” meta-lines at 19:22
+Content excerpt: "SCREEN SHARING: Athena started screen sharing - WATCH: [link] ... Can you see this?"
+Business relevance argument: Documents the transition to training walkthrough and materials; helpful for context in a training transcript.
+Personal content argument: Meta/logistical annotations can be considered non-conversational clutter.
+Recommendation: KEEP — Maintains context for the subsequent step-by-step training discussion.
+
+---
+
+Notes on Patterns and Systematic ASR Issues Observed
+- LOI consistently misrendered as “LI” or distorted (“designed LOI”) — high-impact term in this domain.
+- CIM frequently rendered as “SIM” — check across the transcript; consider standardizing based on regional usage.
+- QoE rendered as “QAV” — common ASR confusion; ensure consistent correction to QoE.
+- Proper nouns/podcast/tools: “Acquiring Minds” → “Acquiring Wines,” “ChatGPT” → “Shack GPT.”
+- Event names inconsistently transcribed: “M&A Launchpad” → “LaunchPod”; “SMBash” → “S and bash.”
+- Person names: “Arvin/air-voned/Erevan” — unify to a single, verified spelling.
+- Occasional fragmented phrases (“Let me tell my speaker”; “search and match for a minute”) indicate truncation/omission.
+
+Segment Mapping (High-level)
+- 0:00–1:00: KEEP (brief greetings + performance reflections/training context)
+- 1:00–12:11: KEEP (conference leads, partner referrals caution, broker ecosystem, competitor landscape)
+- 12:11–19:22: KEEP (pricing handling, process framing) except REMOVAL #1 at ~18:22–~18:40 (dog anecdote)
+- 19:22–57:37: KEEP (screen share + full intro meeting training, objection handling, financing/criteria/timeline walkthrough, closing/logistics)
+
+Speaker Attribution
+- No clear cases of swapped speakers; turn-taking and roles appear consistent (Athena training/coaching; Austin reporting, asking).
+
+This analysis prioritizes errors affecting core M&A terminology, metrics, and named entities, and trims only clearly personal small talk while preserving all training and deal-relevant content.

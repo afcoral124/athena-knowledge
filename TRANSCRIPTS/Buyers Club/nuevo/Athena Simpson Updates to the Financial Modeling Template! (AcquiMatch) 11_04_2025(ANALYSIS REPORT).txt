@@ -1,0 +1,205 @@
+Initial overview
+- Purpose of call: Buyers Club session led by Athena covering deal updates (Chris: two active deals + prior offers) and a deep dive/teaching session on the updated financial modeling template (deal structure, DSCR, seller notes, performance notes, 7(a) vs 504, real estate treatment, working capital, add-backs, private lenders).
+- Core topics: LOI vs IOI strategy, seller notes/standby/balloons, performance-based/forgivable notes, DSCR (including look-back), line-of-credit DSCR, equity injection and ROBS, add-backs (owner comp, replacing two owners), SBA rules (10% project cost, 5M cap), NAICS code discussion, real estate allocation (25-year amortization when >51% of 7(a)).
+
+Segment mapping (KEEP/MIXED/REMOVE)
+1) 00:00:00–00:01:20 Greetings + agenda setting for Buyers Club session
+- KEEP (brief greeting then clear business agenda: deals + financial template updates)
+
+2) 00:01:20–00:05:10 Chris: Deal #1 (New England distributor) status, ownership breakdown, site visit plan, rapport plan (break bread, sports), evaluation/real estate appraisal mention
+- MIXED (mostly business; includes brief rapport-building specifics about dinner/sports)
+
+3) 00:05:10–00:09:30 Athena: Strategy to present/tweak LOI in person; scheduling with Ryan before/after; Never Split the Difference framing
+- KEEP (deal strategy content)
+
+4) 00:09:30–00:12:10 Chris: Approach (focus on rapport vs numbers), background used to build rapport
+- KEEP (relationship-building as a tactic tied to business outcome)
+
+5) 00:12:10–00:20:25 Deal #2 (Colorado roofing/restoration), insurance relationships, seasonality, owner dependency, IOI vs LOI strategy, lender comfort, add-backs for replacing two owners
+- KEEP (deal analysis + process guidance)
+
+6) 00:20:25–00:23:10 Past offers (IOI), all-cash buyer fell through, local preference; admin items (Luke to chase, Ryan time blocks)
+- KEEP (deal follow-up + process)
+
+7) 00:23:10–01:21:00 Template walkthrough and Q&A (sources/uses; DSCR incl. look-back; LOC DSCR; seller notes vs equity injection portions; performance notes tied to revenue; balloon/refi; real estate and 7(a)/504; NAICS; ROBS; private lenders; add-backs; forecast scenarios/no change/best/worst)
+- KEEP (educational content central to business)
+
+8) 01:21:00–01:26:00 Wrap-up: template sharing, replays, LOI-video tactic example, Slack voice/video tips, encouragement
+- KEEP (operational/educational support for buyers)
+
+Detailed line-level error reports
+
+[Error #1 - Category: Word/phrase distortion]
+Location: ~00:00:45 / Speaker: Athena
+Transcript excerpt: "…wanted to take a minute to spot like Chris, talk through some of the deals that he is got going on…"
+Issue: “spot like” and “he is got” are malformed.
+Likely intended: "…take a minute to spotlight Chris, talk through some of the deals that he's got going on…"
+Confidence: High
+Reasoning: Common phrase is “spotlight”; “he’s got” fits standard usage.
+Impact: Low
+
+[Error #2 - Category: Semantic inconsistency]
+Location: ~00:00:55 / Speaker: Athena
+Transcript excerpt: "…Chris, are you there? Awesome. Yay. I haven't seen Chris tomorrow."
+Issue: “I haven't seen Chris tomorrow” is illogical.
+Likely intended: "I haven't seen Chris in a while."
+Confidence: Medium
+Reasoning: Time reference “tomorrow” doesn’t fit; typical greeting remark is “in a while.”
+Impact: Low
+
+[Error #3 - Category: Omission/Truncation]
+Location: ~00:01:55 / Speaker: Chris
+Transcript excerpt: "…it's really two. 'cause I think one went under, went on when, uh, under contract really quickly."
+Issue: Fragmented phrase; extra words disrupt meaning.
+Likely intended: "…I think one went under contract really quickly."
+Confidence: High
+Reasoning: Standard phrasing in deal context is “under contract.”
+Impact: Low
+
+[Error #4 - Category: Idiom misheard]
+Location: ~00:02:05 / Speaker: Chris
+Transcript excerpt: "…So it's really two irons in the, you know, that, that are keeping up."
+Issue: Malformed idiom.
+Likely intended: "…two irons in the fire…"
+Confidence: High
+Reasoning: Common idiom in pipeline context is “irons in the fire.”
+Impact: Low
+
+[Error #5 - Category: Redundancy/Repetition]
+Location: ~00:01:55 / Speaker: Chris
+Transcript excerpt: "…94-year-old niche distribute distributor based out of the New England area…"
+Issue: Duplicated word “distribute distributor.”
+Likely intended: "…niche distributor…"
+Confidence: High
+Reasoning: Redundant/garbled duplication.
+Impact: Low
+
+[Error #6 - Category: Business terminology distortion]
+Location: ~00:02:20 / Speaker: Chris
+Transcript excerpt: "…I've been interacting with the president of the controller. They together they own 50%…"
+Issue: “president of the controller” incorrect role relation.
+Likely intended: "…with the president and the controller. Together they own 50%…"
+Confidence: High
+Reasoning: Roles would be separate positions, not “of.”
+Impact: Medium
+
+[Error #7 - Category: Word choice error]
+Location: ~00:02:35 / Speaker: Chris
+Transcript excerpt: "…and then there's Uncle Bobby or some distributed against other family members."
+Issue: “distributed against” is incorrect preposition.
+Likely intended: "…distributed among other family members."
+Confidence: Medium
+Reasoning: Standard phrasing is “among.”
+Impact: Low
+
+[Error #8 - Category: Omission/Truncation]
+Location: ~00:02:50–00:03:10 / Speaker: Chris
+Transcript excerpt: "I am, I book my tickets. I am set to visit to a site visit this Tuesday we've landed."
+Issue: Multiple grammatical breaks and tense mismatch.
+Likely intended: "I’ve booked my tickets. I’m set to do a site visit this Tuesday."
+Confidence: Medium
+Reasoning: Natural scheduling language in context.
+Impact: Low
+
+[Error #9 - Category: Business terminology distortion]
+Location: ~00:03:20 / Speaker: Chris
+Transcript excerpt: "…we're gonna cover it. That out evaluation consultant, something like sort to just to…"
+Issue: Garbled; key term unclear.
+Likely intended: "…cover it with a valuation consultant…"
+Confidence: High
+Reasoning: “Valuation consultant” fits appraisal/real estate discussion.
+Impact: Medium
+
+[Error #10 - Category: Misheard Acronym]
+Location: ~00:04:55–00:05:10 / Speaker: Chris
+Transcript excerpt: "…do some underwriting and… formalize an LOII…"
+Issue: “LOII” in acquisition context.
+Likely intended: "LOI"
+Confidence: High
+Reasoning: Standard term is Letter of Intent (LOI).
+Impact: High
+
+[Error #11 - Category: Omission/Truncation]
+Location: ~00:05:35 / Speaker: Athena
+Transcript excerpt: "…So just timing wise, okay. You land, when do you land? Last"
+Issue: Stray “Last” with no referent.
+Likely intended: No “Last” present.
+Confidence: Medium
+Reasoning: Incomplete word likely ASR artifact.
+Impact: Low
+
+[Error #12 - Category: Entity name (people)]
+Location: ~00:10:05 / Speaker: Athena
+Transcript excerpt: "…and Brian's closer to this, 'cause he built that relationship with them…"
+Issue: “Brian” likely wrong person.
+Likely intended: "Ryan's closer to this…"
+Confidence: High
+Reasoning: Earlier and elsewhere, “Ryan” is the relationship owner; no “Brian” elsewhere.
+Impact: Medium
+
+[Error #13 - Category: Misheard Acronym]
+Location: ~00:08:40–00:09:10 / Speaker: Chris
+Transcript excerpt: "…I’ll be in regular ESD hours…"
+Issue: “ESD” in context of time zones.
+Likely intended: "EST hours"
+Confidence: High
+Reasoning: Time zone reference; EST is standard.
+Impact: Low
+
+[Error #14 - Category: Misheard Acronym]
+Location: ~00:13:05 / Speaker: Chris
+Transcript excerpt: "…not you would expect like an SCORP distribution…"
+Issue: “SCORP” for corporate form.
+Likely intended: "S-Corp distribution"
+Confidence: High
+Reasoning: Standard term in U.S. taxation.
+Impact: Medium
+
+[Error #15 - Category: Misheard Acronym/Redundancy]
+Location: ~00:20:35 / Speaker: Chris
+Transcript excerpt: "…I had submitted an, an offer, the form of IIOI."
+Issue: “IIOI” appears duplicated.
+Likely intended: "IOI"
+Confidence: High
+Reasoning: Indication of Interest (IOI) common; stutter likely mis-transcribed as duplicate I.
+Impact: Low
+
+[Error #16 - Category: Misheard Acronym]
+Location: ~00:50:45–00:51:15 / Speaker: Athena
+Transcript excerpt: "…If you buy it in another Any CIS code, na NACE code…"
+Issue: Misstated industry classification acronym.
+Likely intended: "NAICS code"
+Confidence: High
+Reasoning: U.S. industry codes are NAICS; phonetic confusion is common.
+Impact: Medium
+
+[Error #17 - Category: Entity/Term uncertainty]
+Location: ~01:09:40 / Speaker: Athena
+Transcript excerpt: "…it was one of the things… reiterated time and time again at s and Bash last week…"
+Issue: “s and Bash” unclear entity/event.
+Likely intended: Possibly "SBA" (conference/meeting) or "SBAS" abbreviation.
+Confidence: Low
+Reasoning: No other references to “s and Bash”; likely ASR artifact.
+Impact: Low
+
+Removals
+- None recommended. Personal content present is brief and/or directly tied to business rapport-building, deal scheduling, or process/education (KEEP per guidelines).
+
+Borderline segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:03:35–00:04:20 (Chris)
+Content excerpt: "…let's go to a social setting and hopefully break bread… either grab a beer or do dinner… pizza… or some Italian food… and then having some beverage and talking about sports."
+Business relevance argument: Discusses planned rapport-building approach with sellers to advance negotiations and assess fit—directly tied to deal strategy.
+Personal content argument: Specific food/sports references could be seen as off-topic social detail.
+Recommendation: KEEP — The social specifics serve a strategic business purpose (relationship building before LOI); removing may diminish context of approach.
+
+Patterns to note for ASR improvement
+- Misheard acronyms/names: LOI→LOII, IOI→IIOI, S-Corp→SCORP, EST→ESD, NAICS→“Any CIS/NACE”, Ryan→Brian.
+- Garbled business terms: “valuation consultant” rendered as “That out evaluation consultant…”
+- Idioms/phrases distorted: “irons in the fire” misrendered; repeated words (“distribute distributor”).
+
+Context preservation notes
+- All sections marked KEEP form a coherent flow from deal updates to strategy to educational modeling. Removing the borderline rapport lines would slightly reduce clarity on Chris’s approach; recommend retaining for context.
+
+End of report.

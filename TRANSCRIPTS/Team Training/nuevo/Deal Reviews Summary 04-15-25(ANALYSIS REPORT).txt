@@ -1,0 +1,405 @@
+Segment Mapping (by timestamp)
+
+- 0:01–0:07: KEEP — brief greetings/audio check
+- 0:08–1:11: REMOVE — personal move/Internet/hot water story
+- 1:12–2:06: KEEP — Justin’s LOI; write-up review/cost awareness
+- 2:06–2:23: MIXED — meeting logistics (brief); can KEEP for flow
+- 2:23–2:44: KEEP — admit to room; transition to business
+- 2:44–3:20: REMOVE — personal tech woes (headphones, new computer, coworking Wi-Fi)
+- 3:20–11:15: KEEP — LOIs (Chris/Justin/Andrew), LOI structuring (amounts vs %), legal considerations
+- 11:15–12:23: KEEP — agenda recall (RE calculator, 504, voice notes, tax returns/ad-backs), J/JJ updates
+- 12:23–15:12: KEEP — Slack voice/video notes process with clients (operational)
+- 15:12–21:04: KEEP — real estate modeling gaps, 7(a)/504 blending, standard calculator requirements
+- 21:04–27:30: KEEP — write-up output vs modeling build tradeoffs; cost per write-up/LOI
+- 27:30–34:05: KEEP — profitability, conversion focus, process optimization
+- 34:05–37:31: KEEP — outreach campaigns (Mailshake vs HubSpot A/B), throttling volume
+- 37:31–41:20: KEEP — daily numbers sheet; importance of on-market LOI tracking
+- 41:20–45:21: KEEP — LinkedIn automation (Expandi), Slack integration, re-engagement flows
+- 45:21–46:01: KEEP — internal ops timing (loan docs) affecting tests; move to specific deal feedback
+- 46:01–55:37: KEEP — Chris’s offer strategy; modeling quality; in-person vs Zoom offer dynamics
+- 55:37–57:21: KEEP — general guidance: in-person negotiations; sequencing verbal vs formal LOI
+- 57:21–1:00:05: MIXED — vendor (Collinson) responsiveness plus honeymoon mention; mostly business relevance
+- 1:00:05–1:05:00: KEEP — off-market updates (OK defense, junkyard, Pakistan IT, JJ lead)
+- 1:05:00–end: KEEP — client service/coaching (Gil); AI/Notebook usage; how to guide clients
+
+
+Detailed Line-Level Analysis for MIXED segments
+
+- 2:06–2:23 (MIXED)
+  - 2:06–2:17: “Does that look like Ryan's coming through? … Can you chase him?” — REMOVE (brief logistics, not business content)
+  - 2:17–2:23: “Sure.” / “He’s in here… There he is. Hey, welcome back.” — KEEP (transition into meeting; minimal and smooths flow)
+
+- 57:21–1:00:05 (MIXED)
+  - 57:21–57:41: “Have we heard from Dave Collinson? … It’s so weird. It’s been like weeks.” — KEEP (vendor status impacting pipeline)
+  - 57:41–57:55: “I’m just going to start a new thread… honeymoon.” — BORDERLINE (personal detail explaining delay)
+  - 57:55–1:00:05: “Last convo… states covered… need phone call prior to paying… focus GA/FL…” — KEEP (deal coverage, state fit, process requirements)
+
+Context Preservation
+- Removing the early move/Internet chatter and later personal tech/connection issues will not affect understanding of deals, LOIs, or process discussions. Where brief logistics help maintain flow (admitting a participant), keep the minimal connective lines as noted.
+
+
+ASR Error Reports
+
+[Error #1 - Category: Semantic Inconsistency/Homophone]
+Location: 0:24 / Speaker: Luke Gillespie
+Transcript excerpt: “I just have a hot water internet until like two hours ago.”
+Issue: “hot water internet” is nonsensical in context.
+Likely intended: “I just got hot water and internet until like two hours ago.”
+Confidence: High
+Reasoning: Speaker refers to utilities being set up; “and” dropped and “got” misheard as “have.”
+Impact: Low
+
+[Error #2 - Category: Business/Entity Term Distortion]
+Location: 0:43 / Speaker: Athena Simpson
+Transcript excerpt: “Supposedly a costier service that was hooking everything up...”
+Issue: “costier service” is not a typical term.
+Likely intended: “concierge service” (or similar).
+Confidence: Medium
+Reasoning: Moving/setup context; “concierge service” commonly used.
+Impact: Low
+
+[Error #3 - Category: Homophone]
+Location: 0:43 / Speaker: Athena Simpson
+Transcript excerpt: “they neglected to tell us we needed guests for like hot water.”
+Issue: “guests” in place of “gas.”
+Likely intended: “we needed gas for hot water.”
+Confidence: High
+Reasoning: Hot water requires gas service; “guests” is phonetically similar.
+Impact: Low
+
+[Error #4 - Category: Entity Name]
+Location: 0:43 / Speaker: Athena Simpson
+Transcript excerpt: “See Brian in here, but I don’t see him.”
+Issue: “Brian” likely refers to “Ryan” (team member).
+Likely intended: “See Ryan in here...”
+Confidence: High
+Reasoning: “Ryan” is referenced throughout; no “Brian” elsewhere.
+Impact: Medium
+
+[Error #5 - Category: Homophone/Misheard Verb]
+Location: 3:28 / Speaker: Athena Simpson
+Transcript excerpt: “...Chris admitted one also.”
+Issue: “admitted” in LOI context.
+Likely intended: “submitted.”
+Confidence: High
+Reasoning: They’re counting LOIs submitted; “admitted” is wrong action.
+Impact: Medium
+
+[Error #6 - Category: Business Terminology Distortion]
+Location: 3:45 / Speaker: Athena Simpson
+Transcript excerpt: “...due to dating, but. So it even too early and Chris submitted an alloy.”
+Issue: “due to dating” in deal context.
+Likely intended: “due diligence.”
+Confidence: Medium
+Reasoning: “due diligence” is standard; phrase timing fits.
+Impact: Medium
+
+[Error #7 - Category: Misheard Acronym]
+Location: 3:45 / Speaker: Athena Simpson
+Transcript excerpt: “Chris submitted an alloy.”
+Issue: “alloy” for LOI.
+Likely intended: “LOI.”
+Confidence: High
+Reasoning: Common LOI mishear.
+Impact: High
+
+[Error #8 - Category: Business Terminology Distortion]
+Location: 6:01 / Speaker: AcquiMatch Team
+Transcript excerpt: “...50% dollar note, 50% paid at time it close.”
+Issue: “dollar note” incorrect term.
+Likely intended: “seller note.”
+Confidence: High
+Reasoning: Standard M&A term is “seller note.”
+Impact: High
+
+[Error #9 - Category: Business Terminology Distortion]
+Location: 7:15 / Speaker: AcquiMatch Team
+Transcript excerpt: “even from a legal stamp stamp...”
+Issue: “stamp” repeated; wrong word.
+Likely intended: “legal standpoint.”
+Confidence: High
+Reasoning: Common phrase in legal context.
+Impact: Low
+
+[Error #10 - Category: Omission/Misheard Word]
+Location: 7:15–7:47 / Speaker: AcquiMatch Team
+Transcript excerpt: “Because the seller didn’t have the dollar amount...”
+Issue: “seller” likely meant “seller note.”
+Likely intended: “Because the seller note didn’t have the dollar amount...”
+Confidence: High
+Reasoning: They’re discussing listing amounts for each component.
+Impact: Medium
+
+[Error #11 - Category: Semantic Inconsistency]
+Location: 7:47 / Speaker: Athena Simpson
+Transcript excerpt: “Oh, it should have had an answer.”
+Issue: “answer” doesn’t fit LOI amounts discussion.
+Likely intended: “it should have had an amount.”
+Confidence: Medium-High
+Reasoning: Prior line about missing dollar amounts.
+Impact: Medium
+
+[Error #12 - Category: Entity/Word Confusion]
+Location: 8:06 / Speaker: Athena Simpson
+Transcript excerpt: “...the words were on the calls and had reviewed the documents...”
+Issue: “words” instead of “lawyers.”
+Likely intended: “the lawyers were on the calls...”
+Confidence: High
+Reasoning: Legal review context.
+Impact: Medium
+
+[Error #13 - Category: Semantic Inconsistency]
+Location: 9:08 / Speaker: AcquiMatch Team
+Transcript excerpt: “Yes, he did me well.”
+Issue: Phrase is nonsensical.
+Likely intended: “he did as well.”
+Confidence: Medium
+Reasoning: Responding that the lawyer reviewed as well.
+Impact: Low
+
+[Error #14 - Category: Entity Name]
+Location: 11:15 / Speaker: Luke Gillespie
+Transcript excerpt: “So let’s start with Brian...”
+Issue: “Brian” vs “Ryan.”
+Likely intended: “Ryan.”
+Confidence: High
+Reasoning: Team member is Ryan; no Brian elsewhere.
+Impact: Medium
+
+[Error #15 - Category: Business Terminology Distortion]
+Location: 11:36 / Speaker: Luke Gillespie
+Transcript excerpt: “...tax returns broker slash dealbacks fashion...”
+Issue: “dealbacks fashion” is garbled.
+Likely intended: “deal add-backs” (broker/deal add-backs).
+Confidence: High
+Reasoning: Add-backs are standard in financials/broker packages.
+Impact: Medium
+
+[Error #16 - Category: Brand/Entity Name]
+Location: 16:07 / Speaker: Luke Gillespie
+Transcript excerpt: “...504-loan estimator and you’re on nerd wall item...”
+Issue: Misheard brand.
+Likely intended: “NerdWallet.”
+Confidence: High
+Reasoning: NerdWallet has loan calculators; phonetic similarity.
+Impact: Low
+
+[Error #17 - Category: Business Terminology Distortion]
+Location: 17:02 / Speaker: Luke Gillespie
+Transcript excerpt: “...you don’t get the full 25-year Air Mort...”
+Issue: “Air Mort” incorrect.
+Likely intended: “amort” (amortization).
+Confidence: High
+Reasoning: Loan term context.
+Impact: Medium
+
+[Error #18 - Category: Semantic Inconsistency]
+Location: 17:02 / Speaker: Luke Gillespie
+Transcript excerpt: “...whether there’s a 51% real estate or food or not.”
+Issue: “food” is nonsensical.
+Likely intended: “or not.” (or “owner-occupied” nuance)
+Confidence: Medium
+Reasoning: SBA owner-occupied 51% threshold; “food” unlikely.
+Impact: Low
+
+[Error #19 - Category: Business Terminology Distortion]
+Location: 18:26 / Speaker: Athena Simpson
+Transcript excerpt: “...you’d need to be checking the panels for the rent payment...”
+Issue: “panels” in financial context.
+Likely intended: “P&Ls.”
+Confidence: High
+Reasoning: Rent found on P&L; “panels” is misheard.
+Impact: High
+
+[Error #20 - Category: Semantic Inconsistency]
+Location: 19:37 / Speaker: Athena Simpson
+Transcript excerpt: “...advanced non-formulas to do that.”
+Issue: “non-formulas” doesn’t fit.
+Likely intended: “Excel formulas” or “advanced formulas.”
+Confidence: Medium
+Reasoning: Discussing building a model.
+Impact: Low
+
+[Error #21 - Category: Misheard Acronym]
+Location: 24:10 / Speaker: AcquiMatch Team
+Transcript excerpt: “...getting people under lot than we were in the past...”
+Issue: “under lot” in M&A context.
+Likely intended: “under LOI.”
+Confidence: High
+Reasoning: They are tracking LOIs.
+Impact: High
+
+[Error #22 - Category: Tool/Entity Name]
+Location: 35:47 / Speaker: David R
+Transcript excerpt: “...one in Hubs for another one in Mailchick.”
+Issue: Misnamed email tool.
+Likely intended: “Mailshake.”
+Confidence: High
+Reasoning: Industry-standard tool; earlier also “MailCheck/NoShake” mishears.
+Impact: Medium
+
+[Error #23 - Category: Tool/Entity Name]
+Location: 36:22 / Speaker: Anke Badenhorst
+Transcript excerpt: “...pulled back the volume on NoShake as well...”
+Issue: Misnamed tool again.
+Likely intended: “Mailshake.”
+Confidence: High
+Reasoning: Consistent pattern of mishearing.
+Impact: Medium
+
+[Error #24 - Category: Tool/Entity Name]
+Location: 41:51 / Speaker: Anke Badenhorst
+Transcript excerpt: “...a connection to expanding G Slack so that Luke can get a ping...”
+Issue: Tool/integration naming garbled.
+Likely intended: “Expandi to Slack.”
+Confidence: High
+Reasoning: They are discussing Expandi (LinkedIn automation) and Slack pings.
+Impact: Medium
+
+[Error #25 - Category: Word Misrecognition]
+Location: 42:36 / Speaker: Anke Badenhorst
+Transcript excerpt: “...off-market owner leaped in outreaches...”
+Issue: “leaped in” incorrect.
+Likely intended: “LinkedIn outreaches.”
+Confidence: High
+Reasoning: Conversation is about LinkedIn outreach.
+Impact: Medium
+
+[Error #26 - Category: Entity Name Inconsistency]
+Location: 43:58 / Speaker: Anke Badenhorst
+Transcript excerpt: “...with email seeing Ida and Luke really working hard...”
+Issue: “Ida” inconsistent with later “Eda.”
+Likely intended: “Eda.”
+Confidence: Medium-High
+Reasoning: Later references “Eda” in same context.
+Impact: Low
+
+[Error #27 - Category: Misheard Phrase/Acronym]
+Location: 54:45 / Speaker: AcquiMatch Team
+Transcript excerpt: “...so I can send you guys an official all the way in the next couple of days.”
+Issue: “all the way” in LOI context.
+Likely intended: “official LOI.”
+Confidence: High
+Reasoning: Discussing verbal offer then formal LOI.
+Impact: High
+
+[Error #28 - Category: Word Misrecognition]
+Location: 51:18 / Speaker: AcquiMatch Team
+Transcript excerpt: “...there’s five family numbers, they’re paying themselves a salary...”
+Issue: “numbers” wrong.
+Likely intended: “family members.”
+Confidence: High
+Reasoning: Salary distribution among family; “members” fits.
+Impact: Medium
+
+[Error #29 - Category: Company/Entity Name]
+Location: ~1:04:30–1:05:10 / Speaker: Athena Simpson
+Transcript excerpt: “...shared it about acne match... differences between unrestricted ventures and agriculture... with acne match...”
+Issue: Multiple entity/name errors.
+Likely intended: “AcquiMatch” and “Unrestricted Ventures.”
+Confidence: High
+Reasoning: These are the company/brand names used throughout; “acne match/agriculture” are misrecognitions.
+Impact: Medium
+
+[Error #30 - Category: Acronym/Name Consistency]
+Location: 11:36 and 59:08 / Multiple Speakers
+Transcript excerpt: “...JJJ update...” / “...Ohio or J.J.”
+Issue: Inconsistent client acronym/name (“JJJ” vs “JJ”).
+Likely intended: “JJ.”
+Confidence: Medium
+Reasoning: Client referenced elsewhere as “JJ.”
+Impact: Low
+
+Pattern Note: The ASR repeatedly mishears LOI as “alloy/all the way,” Mailshake as “Mailchick/NoShake,” Expandi as “expanding,” seller note as “dollar note,” and P&L as “panels.” Names “Ryan/Eda/JJ” also suffer misrecognitions.
+
+
+Removals (Personal/Off-Topic/Small Talk)
+
+[REMOVAL #1 - Type: Personal/Small Talk]
+Location: 0:08–1:11
+Speakers involved: Athena, Luke
+Content excerpt:
+“Athena: Are you okay?
+Luke: Yeah, you're good.
+Athena: Awesome. All right.
+Luke: Are you at the new place? I am.
+Athena: Yeah, in yesterday.
+Luke: ...no decorations in the background. I just have a hot water internet...”
+Reasoning:
+Extended personal chat about moving, hot water, and internet setup; no business relevance.
+Context impact: None — conversation shifts to LOIs at 1:12.
+Recommended action: REMOVE 0:08–1:11
+
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: 2:44–3:20
+Speakers involved: AcquiMatch Team
+Content excerpt:
+“...dealing with some issues with the internet... bought new headphones... new computer... disconnected me from the co-working internet...”
+Reasoning:
+Personal tech issues unrelated to deals or process.
+Context impact: Low — removing does not affect business content.
+Recommended action: REMOVE 2:44–3:20
+
+[REMOVAL #3 - Type: Technical Aside]
+Location: 24:05–24:10
+Speakers involved: AcquiMatch Team, Athena
+Content excerpt:
+“AcquiMatch Team: Yeah, I mean, can you hear me?
+Athena: Yeah.
+AcquiMatch Team: I thought everybody froze.”
+Reasoning:
+Brief audio glitch; no business content.
+Context impact: None.
+Recommended action: REMOVE 24:05–24:10
+
+[REMOVAL #4 - Type: Technical Aside]
+Location: 28:19–28:46
+Speakers involved: Athena, Anke
+Content excerpt:
+“Athena: ...you can’t hear you. What did you just say?
+Anke: I was just agreeing with you...”
+Reasoning:
+Audio/connection clarification; no substantive business content.
+Context impact: Low.
+Recommended action: REMOVE 28:19–28:46
+
+
+Borderline Segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 57:41–57:55
+Content excerpt: “...he was like, I'm on my honeymoon in Southeast Asia...”
+Business relevance argument: Explains vendor’s delay in responding; context for pipeline viability and scheduling.
+Personal content argument: Mentions private life (honeymoon) unrelated to deal mechanics.
+Recommendation: KEEP — Minimal reference provides necessary context for responsiveness; do not expand beyond this single mention.
+
+[BORDERLINE #2 - Requires Review]
+Location: 2:06–2:23
+Content excerpt: “Does that look like Ryan's coming through?... I was in the waiting room. There he is. Hey, welcome back.”
+Business relevance argument: Smooths meeting flow; minimal logistics.
+Personal content argument: Not related to deals or process.
+Recommendation: KEEP the last two lines (2:17–2:23) for conversational continuity; REMOVE 2:06–2:17 as noted above.
+
+
+Speaker Attribution Validation
+- No clear role reversals detected, but multiple instances of name confusion (“Brian” vs “Ryan”; “Ida” vs “Eda”; “JJJ” vs “JJ”). These do not change speaker identity but can confuse readers; see Errors #4, #14, #26, #30.
+
+Cross-Reference/Consistency Checks
+- LOI consistently misheard as “alloy/all the way” in multiple places (Errors #7, #27).
+- Email tool “Mailshake” appears as “MailCheck/Mailchick/NoShake” (Errors #22, #23).
+- LinkedIn automation tool is “Expandi,” heard as “expanding” and garbled integration naming (Errors #24, #25).
+- Financial terms: “seller note” misheard as “dollar note” (Error #8); “P&Ls” as “panels” (Error #19); “amort(ization)” as “Air Mort” (Error #17).
+
+Confidence Calibration
+- High confidence on misheard acronyms/terms (LOI, seller note, Mailshake, Expandi, P&L, amortization).
+- Medium on some semantic cleanups where multiple interpretations exist (e.g., “concierge service,” “or not” vs “owner-occupied” for 51%).
+
+Impact Prioritization
+- High impact: Misheard LOI, seller note, P&L vs panels, Mailshake/Expandi tool names when used operationally, “under LOI.”
+- Medium impact: Names (Ryan/Eda/JJ), amount vs percentage guidance (“answer” vs “amount”), legal standpoint phrasing.
+- Low impact: Early personal utility chatter, audio glitches, minor grammar that doesn’t obscure meaning.
+
+Summary
+- Keep all deal/LOI, modeling, outreach, and client-coaching content.
+- Remove the two personal/tech chatter blocks and minor audio asides.
+- Pay special attention to correcting (in refinement stage) systematic ASR errors around LOI, seller note, Mailshake/Expandi, P&L, and names to avoid substantive misunderstanding.

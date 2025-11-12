@@ -1,0 +1,222 @@
+Below is a structured analysis of potential ASR (automatic speech recognition) errors and recommended transcript clean-up (keep/remove/borderline) based on business relevance and context flow.
+
+TRANSCRIPT ERROR REPORT
+
+[Error #1 - Category: Misheard Acronym]
+Location: ~[00:02:00] / Speaker: Justin
+Transcript excerpt: "…pretty interested to see, uh, if there's a, a path to bring him on for QV when I get to that point."
+Issue: “QV” appears in a Quality-of-Earnings context.
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: In M&A, “QoE” is the standard term; “QV” is a common ASR substitution.
+Impact: High - key diligence term
+
+[Error #2 - Category: Misheard Acronym]
+Location: ~[00:02:40-00:03:20] / Speaker: Athena
+Transcript excerpt: "…use the bad guy, like, oh my, you know, QP person or my lender, uh, needs me to get more of a seller note…"
+Issue: “QP person” in diligence context is atypical.
+Likely intended: “QoE person” (Quality-of-Earnings provider)
+Confidence: High
+Reasoning: Matches ongoing conversation about QoE timing and use as a negotiating “bad guy.”
+Impact: High - central to diligence framing
+
+[Error #3 - Category: Financial/Numerical]
+Location: ~[00:03:15-00:03:45] / Speaker: Athena
+Transcript excerpt: "…when every dollar you find an SDE, you get three, four or four four, you know…"
+Issue: “three, four or four four” is numerically unclear for valuation multiples.
+Likely intended: “3x, 4x, or 4.5x” (or “3–4x”)
+Confidence: Medium
+Reasoning: SDE dollars are commonly capitalized into enterprise value using a multiple. The phrasing suggests multiples but is garbled.
+Impact: Medium - affects how listeners interpret valuation math
+
+[Error #4 - Category: Entity Name Distortion]
+Location: ~[00:04:10-00:04:30] / Speaker: Athena
+Transcript excerpt: "Did I, although there's a lot to learn about the Miguel, did you feel like you got a better handle…"
+Issue: “the Miguel” is out of place; likely refers to participant Gil.
+Likely intended: “...though there’s a lot to learn about them, Gil…” or “…about it, Gil…”
+Confidence: Medium
+Reasoning: “Gil” is the participant; “Miguel” is a plausible ASR substitution.
+Impact: Medium - confuses addressee
+
+[Error #5 - Category: Proper Noun (Company/Product) Misheard]
+Location: ~[00:05:05-00:05:30] / Speaker: Gil
+Transcript excerpt: "…either some, uh, udemi course or, or, or something, you know…"
+Issue: Brand name misspelling/mishear.
+Likely intended: “Udemy”
+Confidence: High
+Reasoning: Udemy is a well-known online course platform; “udemi” is a common ASR miss.
+Impact: Low - minor but repeated brand accuracy helps clarity
+
+[Error #6 - Category: Homophone/Near-Homophone]
+Location: ~[00:26:30-00:27:00] / Speaker: Athena
+Transcript excerpt: "…under payroll taxes, it can save federal taxes."
+Issue: “save” likely misheard for “say” (as in “it can say ‘federal taxes’”).
+Likely intended: “…it can say ‘federal taxes’.”
+Confidence: Medium
+Reasoning: Phrase about category labels makes more sense with “say.”
+Impact: Low - small wording issue
+
+[Error #7 - Category: Omission/Truncation]
+Location: ~[00:23:15-00:23:35] / Speaker: Athena
+Transcript excerpt: "…didn't you say you got into offerin like out twice?"
+Issue: Garbled phrase; missing words disrupt meaning.
+Likely intended: “under offer and backed out twice” (or similar)
+Confidence: Medium
+Reasoning: Fits discussion about prior offers falling through.
+Impact: Medium - interrupts comprehension of seller history
+
+[Error #8 - Category: Misheard Phrase]
+Location: ~[00:23:30-00:24:10] / Speaker: Gil
+Transcript excerpt: "…the broker said… he got pulled feet."
+Issue: “pulled feet” is incorrect idiom.
+Likely intended: “cold feet”
+Confidence: High
+Reasoning: “Cold feet” is the standard expression for last-minute buyer hesitation.
+Impact: Medium - clarity of seller’s prior failed deals
+
+[Error #9 - Category: Entity/Term Misheard]
+Location: ~[00:37:10-00:37:35] / Speaker: Justin
+Transcript excerpt: "…the actual listing agent who I had talked with about Holy Other Company, text me…"
+Issue: “Holy Other Company” is nonsensical in context.
+Likely intended: “whole other company” (or “wholly other company”)
+Confidence: High
+Reasoning: Justin described a “wholly/whole other” business he’d discussed with the same broker previously.
+Impact: Low - readability
+
+[Error #10 - Category: Business Term Misheard]
+Location: ~[00:50:25-00:50:40] / Speaker: Athena
+Transcript excerpt: "Like, never have I heard of Burger, like aggressively stalking someone."
+Issue: “Burger” instead of “broker”
+Likely intended: “broker”
+Confidence: High
+Reasoning: Fits the entire discussion about broker behavior.
+Impact: Medium - misleads reader briefly
+
+[Error #11 - Category: Homophone]
+Location: ~[00:33:45-00:34:10] / Speaker: Justin
+Transcript excerpt: "…he texted like a Latin phrase once… the text he says was portion favors the bold…"
+Issue: “portion” instead of “fortune”
+Likely intended: “fortune favors the bold”
+Confidence: High
+Reasoning: Well-known phrase; ASR frequently confuses “fortune/portion.”
+Impact: Low - anecdotal color, not core content
+
+[Error #12 - Category: Minor Time Phrase Confusion]
+Location: ~[00:21:50-00:22:10] / Speaker: Gil
+Transcript excerpt: "…that's tomorrow at one. Uh, I'll be at one 30. I'll be much wiser."
+Issue: “I’ll be at one 30” is awkward; likely “by 1:30”
+Likely intended: “I’ll be, by 1:30, much wiser.”
+Confidence: Medium
+Reasoning: Time phrasing consistent with prior sentence.
+Impact: Low - minor clarity
+
+
+SEGMENT MAPPING AND REMOVALS
+
+Segment Map (approximate by timestamp):
+- 00:00:00–00:00:40: Extended greetings and check-ins (MIXED -> mostly small talk)
+- 00:00:40–00:03:20: Feedback on finance session; QoE; lender “bad guy” (KEEP)
+- ~00:02:45–00:03:05: Meeting housekeeping (“spotlight me”) (REMOVE)
+- 00:03:20–00:14:30: Financial education: P&L vs Balance Sheet, capex, depreciation, Profit First (KEEP)
+- 00:10:00–00:11:30: Polly’s “envelope system” family anecdote (BORDERLINE)
+- 00:14:30–00:21:00: AI and finance tooling; caution on overreliance (KEEP)
+- 00:21:00–00:29:45: Gil’s deal strategy, LOI levers, EBITDA/tax addbacks guidance (KEEP)
+- 00:30:00–00:39:10: Justin’s co-broker chaos, urgency/ultimatums, missing info (KEEP)
+- 00:39:10–00:40:10: Personal: mother’s hospital status (REMOVE)
+- 00:40:10–00:54:50: Deal updates, financing, performance notes, equity asks, broker quality (KEEP)
+- 00:48:55–00:49:15: Jokes about dog wanting equity (REMOVE)
+- 00:54:50–00:57:30: Broker industry standards; taxi analogy (KEEP)
+- 00:57:30–00:58:00: Upcoming legal diligence session (KEEP)
+
+Removals
+
+[REMOVAL #1 - Type: Small Talk]
+Location: ~[00:00:00–00:00:40]
+Speakers involved: Athena, Gil, Justin, Polly
+Content excerpt:
+"Athena: Hey Gil, how's it going?
+Gil: Okay,
+Athena: how are you? Hi Paul. Hi there. How are you? I'm great. How are you? I'm doing fine. I think Justin might be here somewhere too. Yay. Hey Justin, how are you? 
+Justin: Good, how are you?
+Athena: I'm good, thanks."
+Reasoning:
+Extended greetings and pleasantries without business content.
+Context impact: None—discussion immediately transitions to session feedback.
+Recommended action: REMOVE ~[00:00:00–00:00:40]
+
+[REMOVAL #2 - Type: Meeting Housekeeping]
+Location: ~[00:02:45–00:03:05]
+Speakers involved: Athena
+Content excerpt:
+"…Oh, you can leave us all up, you know, since we're having a conversation. You don't need to spotlight me. Thank you."
+Reasoning:
+Housekeeping about call layout; not business-relevant.
+Context impact: None.
+Recommended action: REMOVE ~[00:02:45–00:03:05]
+
+[REMOVAL #3 - Type: Personal Anecdote]
+Location: ~[00:15:00–00:18:10]
+Speakers involved: Athena (student/AI cheating story)
+Content excerpt:
+"…I told all my students, I'm like, you can use it, but on your final paper… 
+…we identified 10 students out of 30 that she thought used AI… 
+…they all absolutely like tried to cancel me on like rate my professor…"
+Reasoning:
+Long personal classroom story; tangential to M&A. Slight link to caution about AI in finance, but extended detail does not add deal value.
+Context impact: Low—discussion before and after remains about AI roles in finance and diligence.
+Recommended action: REMOVE ~[00:15:00–00:18:10]
+
+[REMOVAL #4 - Type: Personal/Off-Topic]
+Location: ~[00:39:10–00:40:10]
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: …How's your mom?
+Justin: she's better, she's still in the hospital, but, um, prognosis is… another three, four days…"
+Reasoning:
+Personal health update; not relevant to deal content.
+Context impact: None—conversation returns to broker conduct and deal process.
+Recommended action: REMOVE ~[00:39:10–00:40:10]
+
+[REMOVAL #5 - Type: Small Talk/Jokes]
+Location: ~[00:48:55–00:49:15]
+Speakers involved: Steve, Justin (brief banter)
+Content excerpt:
+"Steve: I have a dog too that wants some equity.
+Justin: …All the bones the dog can handle."
+Reasoning:
+Humorous aside unrelated to business substance.
+Context impact: None.
+Recommended action: REMOVE ~[00:48:55–00:49:15]
+
+
+Borderline Segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~[00:10:00–00:11:30]
+Content excerpt:
+"Polly: …my in-laws were from Europe… father-in-law owned a car wash… she would put this amount of money in for groceries… all of her little white envelopes…"
+Business relevance argument: Supports and contextualizes Athena’s “Profit First” explanation via a relatable analogue (envelope system), reinforcing a cash management concept relevant to small-business operations.
+Personal content argument: Family background and anecdotal detail not strictly necessary to convey the concept.
+Recommendation: KEEP—Provides practical context to a core financial management concept being taught.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~[00:54:50–00:57:30]
+Content excerpt:
+"Athena: …London black taxis… ‘the knowledge’… refused to take credit cards… then Uber comes along…"
+Business relevance argument: Extended analogy illustrating how outdated broker practices invite disruption—ties directly to industry insights about brokerage standards and buyer experience.
+Personal content argument: Long metaphor; not a transaction detail.
+Recommendation: KEEP—Analogy serves industry-insight purpose, aligns with strategic/educational content.
+
+Mixed Segment Boundary Note (for context preservation)
+- Around ~[00:39:00], the discussion shifts from business (broker behavior) to personal (mother’s hospital status) and back. Remove only from “How’s your mom?” through the conclusion of the health update, then resume at Athena’s perspective-setting comment about sensitivity and broker behavior.
+
+
+Additional Notes and Patterns
+- Systematic ASR pattern: QoE consistently misrecognized as “QV” and “QP.” Consider adding an ASR rule to prefer “QoE” in financial due-diligence contexts.
+- Homophones and idioms (“cold feet,” “fortune favors the bold,” “broker”) repeatedly misheard; recommend boosting idiom and domain-specific language models.
+- Numerical utterances in valuation/multiple contexts are prone to garbling (“three, four or four four”). Encourage double-checking numbers around SDE/EBITDA multiples.
+
+
+Speaker Attribution Validation
+- “Miguel” likely intended to address “Gil” (~[00:04:10–00:04:30]); suggests ASR name distortion rather than true misattribution.
+- Early “Hi Paul” vs. later “Polly” suggests possible name misrecognition in greetings (~[00:00:00]); consider reviewing original audio to confirm correct name in greeting. Confidence: Medium. Impact: Low.

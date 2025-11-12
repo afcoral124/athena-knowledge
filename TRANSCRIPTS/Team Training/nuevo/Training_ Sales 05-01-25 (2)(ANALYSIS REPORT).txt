@@ -1,0 +1,177 @@
+Below is an error analysis and relevance mapping for the provided transcript. Focus is on ASR-induced errors and on identifying off-topic segments for removal while preserving business-relevant content.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Misheard Acronym/Business Term]
+Location: Multiple (e.g., 11:32, 13:57, 48:16) / Speakers: Both
+Transcript excerpt: "...they don't get the Sims back..."; "If you look at 200 Sims..." ; "are you... just getting the sins?"
+Issue: “SIMs/Sims/sins” appears repeatedly where M&A context indicates CIMs (Confidential Information Memoranda).
+Likely intended: “CIMs”
+Confidence: High
+Reasoning: In M&A, the standard term is CIM. “SIM/sins” is a common ASR mishear due to phonetics.
+Impact: High – Affects core deal process terminology and credibility.
+
+[Error #2 - Category: Misheard Acronym]
+Location: 38:47-39:10 / Speaker: Athena Simpson
+Transcript excerpt: "So that's why the ROM strategy only works for 401ks..."
+Issue: “ROM” in retirement rollover context is likely misheard.
+Likely intended: “ROBS strategy” (Rollovers as Business Startups)
+Confidence: High
+Reasoning: ROBS is the standard term for using 401(k) funds in business acquisitions; “ROM” is not used.
+Impact: High – Mislabels a key financing structure.
+
+[Error #3 - Category: Misheard Acronym]
+Location: 1:09:00-1:10:41 and 1:12:31 / Speaker: Athena Simpson
+Transcript excerpt: "say QV or financial due diligence"; "QVPs, too..."
+Issue: “QV/QVPs” in diligence context likely misheard.
+Likely intended: “QoE” (Quality of Earnings) / “QoE provider”
+Confidence: High
+Reasoning: Financial diligence providers are commonly referred to as QoE providers; “QV” is non-standard.
+Impact: High – Core diligence terminology.
+
+[Error #4 - Category: Entity Name (Event and Person)]
+Location: 16:43-17:19 and 41:14 / Speaker: Athena Simpson
+Transcript excerpt: "Sam Rosati and the SM Bash folks..."; "...SM Bash, Sam Rizzotti and that crew..."
+Issue: Event and name inconsistently rendered: “SM Bash” vs “SMBash”; “Sam Rosati” vs “Sam Rizzotti.”
+Likely intended: “SMBash” and “Sam Rosati”
+Confidence: High
+Reasoning: SMBash is a known industry event founded by Sam Rosati; “Rizzotti” is incorrect.
+Impact: Medium – Brand/name accuracy in industry references.
+
+[Error #5 - Category: Entity Name (Marketplace)]
+Location: 18:12-18:49 / Speaker: Austin Lortie
+Transcript excerpt: "Flippa, Empire Flippers, and Acquisition.com..."
+Issue: “Acquisition.com” is not a listings marketplace like Flippa/Empire Flippers.
+Likely intended: “Acquire.com”
+Confidence: High
+Reasoning: Acquire.com (formerly MicroAcquire) fits the context; Acquisition.com is a different company (Hormozi).
+Impact: Medium – Misleads about deal sources.
+
+[Error #6 - Category: Entity Name Inconsistency]
+Location: 4:27 vs 5:28 / Speakers: Austin (4:27), Athena (5:28)
+Transcript excerpt: "prepared for Devin" vs "after the Devon call"
+Issue: Inconsistent spelling of client name (“Devin” vs “Devon”).
+Likely intended: One consistent spelling (likely “Devin”)
+Confidence: Medium
+Reasoning: Same person discussed across adjacent sections.
+Impact: Low-Medium – Clarity in client records.
+
+[Error #7 - Category: Entity Name Inconsistency]
+Location: 16:41 and 28:51 / Speakers: Austin, Athena
+Transcript excerpt: "when you asked Aravind..."; "Arvin, not as much."
+Issue: Same person appears as “Aravind” and “Arvin.”
+Likely intended: One consistent name (either “Aravind” or “Arvin”)
+Confidence: Medium
+Reasoning: Context implies one individual referenced across discussions.
+Impact: Medium – Confusion in follow-ups and notes.
+
+[Error #8 - Category: Entity/Word Mishear]
+Location: 6:25 / Speaker: Athena Simpson
+Transcript excerpt: "And then feedback from the R event. Because that one was a little tough."
+Issue: “R event” likely misheard name.
+Likely intended: “Aravind” (person) or “Arvin” – i.e., “feedback from Aravind/Arvin”
+Confidence: Medium
+Reasoning: Immediately elsewhere they discuss “Aravind/Arvin” as a tough call; “R event” doesn’t fit.
+Impact: Medium – Clarifies subject of feedback.
+
+[Error #9 - Category: Business Terminology Distortion]
+Location: 15:47 / Speaker: Athena Simpson
+Transcript excerpt: "it's because massage team filter it all to them..."
+Issue: “massage team” is nonsensical in context.
+Likely intended: “my search team” or “sourcing team”
+Confidence: Medium
+Reasoning: Fits process description (front-end filtering before team review).
+Impact: Medium – Obscures operational flow.
+
+[Error #10 - Category: Omission/Truncation]
+Location: 9:03-10:00 (approx.) / Speaker: Athena Simpson
+Transcript excerpt: "...before you say two to four, you need to explain what they are. Otherwise, people automatically are like, what the , like two deals?"
+Issue: Redacted/missing profanity creates blank gaps (“what the ,” etc.).
+Likely intended: Full phrase with expletive or a non-redacted equivalent.
+Confidence: High
+Reasoning: Multiple blanked words; pattern suggests profanity filter truncation.
+Impact: Low-Medium – Readability and tone clarity.
+
+[Error #11 - Category: Homophone/Semantic Inconsistency]
+Location: 28:51 / Speaker: Austin Lortie
+Transcript excerpt: "Like, Arvin, not as much. Like, he just was, like, illegal, a little... Egotistical..."
+Issue: “illegal” is out of place; likely misheard filler.
+Likely intended: “a little, a little… egotistical”
+Confidence: High
+Reasoning: Fits the stutter pattern and sentiment used elsewhere.
+Impact: Low – Minor but jarring.
+
+[Error #12 - Category: Semantic Inconsistency/Mishear]
+Location: 31:54-32:30 / Speaker: Austin Lortie
+Transcript excerpt: "...he was like, yeah, bro. Like, he's like, you're being white. And like, I got that, like, consistently..."
+Issue: “you’re being white” is unlikely in this context; probably misheard.
+Likely intended: “you’re being light” (too light), or “you’re being too nice,” or “white-glove”
+Confidence: Medium
+Reasoning: Immediately after, Austin paraphrases feedback as “you’re being too nice.” ASR likely garbled the phrase.
+Impact: Low-Medium – Confusing phrasing in a coaching anecdote.
+
+[Error #13 - Category: UI/Term Mishear]
+Location: 1:47 / Speaker: Austin Lortie
+Transcript excerpt: "Oh, 20 days left and free view. So I'm in the free version."
+Issue: “free view” unlikely; Fathom uses “free trial” or “free plan/preview.”
+Likely intended: “free trial” or “free preview”
+Confidence: Medium
+Reasoning: Common product wording; “free view” reads as ASR slip.
+Impact: Low – Minor, non-deal content.
+
+[Error #14 - Category: Acronym Consistency]
+Location: 57:12-1:00:10 / Speaker: Athena/Austin
+Transcript excerpt: "SOP guideline change gives us that..." ; multiple “SBA guideline changes”
+Issue: “SOP guideline change” is acceptable but could be read as tautology; ensure consistent reference to “SBA SOP changes.”
+Likely intended: “SBA SOP changes”
+Confidence: Medium
+Reasoning: Standard phrasing is “SBA SOP changes.” Current phrasing doesn’t break meaning but is slightly off.
+Impact: Low – Clarity only.
+
+RELEVANCE MAPPING AND REMOVALS
+
+Segment Mapping (high level):
+- 0:00-4:12: Fathom note-taker settings and troubleshooting (off-topic technical)
+- 4:12-1:24:08: Business-relevant training, sales approach, client qualification, deal flow process, financing (SBA, seller notes), QoE, onboarding timelines, pricing/fee structure, industry insights, examples, scripts, and action items (KEEP)
+
+Removals
+
+[REMOVAL #1 - Type: Off-Topic/Technical]
+Location: 0:00-4:12
+Speakers involved: Athena, Austin
+Content excerpt:
+"Athena: Fathom's sending messages now... Did you get set up on the premium version of Fathom?
+Austin: ...it's creating stuff in HubSpot...
+Athena: ...I don't like sharing notes with people... your Fathom's, like, telling people things that it shouldn't...
+[...screen-sharing and settings discussion...]
+Athena: ...click the record notification banner... In-meeting chat interface... Now that should be good."
+Reasoning:
+Extended tool troubleshooting unrelated to acquisitions, clients, deals, or financing. Purely operational tech setup.
+Context impact: Low—removing this block does not affect understanding of subsequent business content.
+Recommended action: REMOVE 0:00-4:12
+
+Borderline/Requires Review
+
+[BORDERLINE #1 - Requires Review]
+Location: 31:54-33:03
+Content excerpt: "my managing director was like the most condescending... 'you’re being white'... consistent feedback... have more teeth..."
+Business relevance argument: Provides context for Austin’s sales style and informs coaching feedback; ties directly to improving client interactions.
+Personal content argument: Anecdotal, includes past boss behavior and slang; not directly about deals or clients.
+Recommendation: KEEP – It supports the training/coaching objective of the call.
+
+[BORDERLINE #2 - Requires Review]
+Location: 1:04:06-1:04:20 (approx.)
+Content excerpt: "So my hair is doing something crazy there."
+Business relevance argument: None directly; brief aside.
+Personal content argument: Purely personal, non-substantive.
+Recommendation: REMOVE (low priority) – Single-line aside; removal has no context impact.
+
+ADDITIONAL NOTES AND PATTERNS
+
+- Pattern: “CIM” consistently misheard as “SIM/sins.” Recommend adding a custom vocabulary to ASR to recognize CIM/Confidential Information Memorandum.
+- Pattern: QoE consistently misheard as QV/QVPs. Add “QoE” and “Quality of Earnings” to ASR custom dictionary.
+- Event/Entity normalization: SMBash (not SM Bash), Sam Rosati (not Rizzotti), Acquire.com (not Acquisition.com). Consistent naming will aid clarity.
+- Name consistency: Standardize on a single spelling for “Devin/Devon” and “Aravind/Arvin” across notes and CRM.
+- Profanity filter gaps leave blanks (“what the ,”). Consider either retaining full words or replacing with a consistent placeholder to avoid broken sentences.
+
+This analysis prioritizes errors that affect M&A understanding, financing nuances, and client communications, and identifies the only clearly off-topic block for removal while preserving the business training content.

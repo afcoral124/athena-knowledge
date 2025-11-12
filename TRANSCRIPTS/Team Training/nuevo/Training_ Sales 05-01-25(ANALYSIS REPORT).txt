@@ -1,0 +1,266 @@
+Below is a structured review of the transcript for (1) likely ASR/transcription errors and (2) segments to keep/remove, with precise boundaries and rationale.
+
+Segment mapping (high-level)
+- 0:00–1:30: Personal fitness/kettlebell/tennis and day scheduling – REMOVE (small talk)
+- 1:30–2:12: Scheduling for Players/Buyers Club with Pioneer Capital; SBA SOP – KEEP (business)
+- 2:12–5:01: SMS channel inquiry, pricing/VA positioning guidance – KEEP (business)
+- 5:01–21:24: Debrief of prospect call (Devon/Devin), objections (experience, SDE, operator), remote vs e-com, tariff risk – KEEP (business)
+- 21:24–24:24: Broker vs AcquiMatch scope, negotiation, coachability – KEEP (business)
+- 24:24–31:13: Fit assessment, prospect pipeline, Morgan prep – KEEP (business)
+- 31:13–44:55: Script prep, GPT summary, delivery sequence, equity injection, SBA structure, slide/LOI/testimonials – KEEP (business; contains some ASR artifacts flagged below)
+- 44:55–50:55: Week-one performance, coaching style, client-fit philosophy – KEEP (business)
+- 50:55–end: Admin scheduling and closing; one personal bathroom mention – KEEP overall (low-value personal line flagged below)
+
+Transcription error reports
+
+[Error #1 - Category: Entity name (company)]
+Location: ~6:45–7:20 / Speaker: Austin
+Transcript excerpt: "...and there's really gone all in on Aquamatch and supporting first time business buyers like yourself..."
+Issue: Company name appears as “Aquamatch.”
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: The organization in context is AcquiMatch; “Aquamatch” is a common phonetic/orthographic slip.
+Impact: High – central entity name.
+
+[Error #2 - Category: Proper noun misheard]
+Location: 13:20–13:40 / Speaker: Austin
+Transcript excerpt: "I think had to do with like Mossad and then Ida's name. Ida and Anka's name specifically."
+Issue: “Mossad” is almost certainly not intended (refers to Israel’s intelligence service).
+Likely intended: A person’s name (e.g., “Masan/Massad/Mosaad/Mossam”) on the team.
+Confidence: High
+Reasoning: Context is staff names; “Mossad” is semantically incongruent.
+Impact: Medium – confuses who is being referenced.
+
+[Error #3 - Category: Proper noun inconsistency (pattern)]
+Location: 14:20–14:40 / Speaker: Athena
+Transcript excerpt: "And then Masam has an... Entire team behind them. So I got an entire team for paying $5 an hour..."
+Issue: “Masam” likely same person referenced as “Mossad” above; inconsistent spelling.
+Likely intended: Same individual (e.g., “Masan/Mossam/Massad”) across both mentions.
+Confidence: Medium
+Reasoning: Same role context; two different transcriptions suggest ASR inconsistency on the same name.
+Impact: Medium – continuity of who/what team is referenced.
+
+[Error #4 - Category: Semantic inconsistency]
+Location: 1:30–1:40 / Speaker: Austin
+Transcript excerpt: "I just need to, like, clean up my net line a little bit and then, like, throw on some slacks..."
+Issue: “net line” is unclear in context (scheduling/getting ready to leave).
+Likely intended: Possibly “LinkedIn,” “inbox,” or “pipeline” (work task) or “neckline” (clothing).
+Confidence: Low
+Reasoning: Phrase is not idiomatic; multiple plausible intents. Context suggests work or getting-ready tasks.
+Impact: Low – minor clarity issue.
+
+[Error #5 - Category: Misheard acronym]
+Location: 32:22–32:44 / Speakers: Athena/Austin
+Transcript excerpt: "Okay, so that's, like, the GVT spit out of, like, the reviewing, like, the past call? ... So, like, are you doing the GPT summary? Yeah, okay."
+Issue: “GVT” appears; later corrected in-dialogue to “GPT.”
+Likely intended: “GPT”
+Confidence: High
+Reasoning: They explicitly reference GPT summary immediately after.
+Impact: Medium – could confuse what tool is being discussed.
+
+[Error #6 - Category: Truncation/Omission]
+Location: 31:06 / Speaker: Austin
+Transcript excerpt: "Explow with Morgan tomorrow, and then my next intro is Monday."
+Issue: “Explow” appears truncated.
+Likely intended: “Exploratory (call)”
+Confidence: High
+Reasoning: Common internal shorthand (“intro vs exploratory”); “explow” is not standard.
+Impact: Low – understandable but sloppy.
+
+[Error #7 - Category: Financial/numerical error]
+Location: 34:45–35:10 / Speaker: Athena
+Transcript excerpt: "when I came to him, I was, I was telling people it was five days a month."
+Issue: Pricing stated in “days” is illogical for fees discussion.
+Likely intended: “$5k a month”
+Confidence: High
+Reasoning: Pricing model context and industry norms (fee per month) strongly indicate “$5k,” not “five days.”
+Impact: High – materially alters pricing meaning.
+
+[Error #8 - Category: Financial/numerical error]
+Location: ~35:10–35:25 / Speaker: Athena
+Transcript excerpt: "he's like, don't they have like three to 500 to invest?"
+Issue: “three to 500” lacks units/context; likely liquidity range.
+Likely intended: “$300k to $500k”
+Confidence: Medium
+Reasoning: ETA/SBA acquisitions typically require ~10–20% equity; liquidity often cited as $300–500k. Nearby discussion is about 6-month paid-in-full pricing, ability to invest.
+Impact: High – important to assess buyer capacity.
+
+[Error #9 - Category: Repetition/Audio artifact]
+Location: 40:47–41:06 / Speaker: Athena
+Transcript excerpt: "And yeah, how... Thank you. Thank you. you. Thank you. Thank you. you. you. Thank you. You How about that?"
+Issue: Nonsensical repeated “Thank you” sequence.
+Likely intended: A single acknowledgment; filler; or brief confirmation.
+Confidence: High
+Reasoning: Clear ASR glitch/loop; not conversationally coherent.
+Impact: Low – just noise.
+
+[Error #10 - Category: Business terminology distortion]
+Location: 39:49 / Speaker: Austin
+Transcript excerpt: "Let's just change this. The title in the slide to, like. Let's be a structure..."
+Issue: “Let’s be a structure” likely misheard slide title.
+Likely intended: “SBA structure”
+Confidence: High
+Reasoning: Ongoing discussion about SBA loan structure/equity injection and “Sources & Uses” slide titles.
+Impact: Medium – affects slide content clarity.
+
+[Error #11 - Category: Terminology inconsistency]
+Location: 41:24–41:58 / Speaker: Austin
+Transcript excerpt: "...then LOI results and testimony."
+Issue: “testimony” vs “testimonials” (later they say “My testimonials is the only one.”).
+Likely intended: “testimonials”
+Confidence: High
+Reasoning: Slide/content type; buyer proof; “testimonials” is standard.
+Impact: Low–Medium – could mislead on slide content.
+
+[Error #12 - Category: Inconsistency (meeting name)]
+Location: 1:46 vs 50:44 / Speaker: Athena
+Transcript excerpts: 
+- "The Players Club today is going to be with Mathias and Valerie from Pioneer Capital."
+- "I got to go to the bathroom before Buyer's Club."
+Issue: Meeting referenced as “Players Club” and later “Buyer's Club.”
+Likely intended: One of these (same meeting) is misheard.
+Confidence: Medium
+Reasoning: Same day/adjacent timing; same context; plausible single event, inconsistent name.
+Impact: Medium – meeting coordination.
+
+[Error #13 - Category: Omission/Truncation]
+Location: 41:31 / Speaker: Austin
+Transcript excerpt: "It is post basic transition. So team you'll review, look at the partner slide..."
+Issue: Phrase is syntactically incomplete (“post basic transition”) and unclear.
+Likely intended: Possibly “post-basics transition” section title and agenda items.
+Confidence: Low–Medium
+Reasoning: Slide sequencing context; phrase seems clipped.
+Impact: Low–Medium – slide review clarity.
+
+[Error #14 - Category: Misheard acronym/name]
+Location: 4:00 / Speaker: Athena
+Transcript excerpt: "SM Bash a couple weeks ago said, you know, if you're doing this on your own..."
+Issue: Conference name likely “SMBash.”
+Likely intended: “SMBash”
+Confidence: High
+Reasoning: SMBash is a known SMB/ETA conference.
+Impact: Low – reference clarity.
+
+[Error #15 - Category: Misheard proper noun]
+Location: 29:22 / Speaker: Athena
+Transcript excerpt: "You're already talking to main shares. They're probably your best bet right now..."
+Issue: “main shares” unclear; likely a firm name misheard.
+Likely intended: Possibly “Main Street” (lender/broker brand) or a specific firm name.
+Confidence: Low–Medium
+Reasoning: ETA ecosystem has “Main Street” lenders/advisors; “main shares” is not recognizable.
+Impact: Medium – could misidentify a third-party.
+
+[Error #16 - Category: Misheard word/Name]
+Location: 45:31 / Speaker: Austin
+Transcript excerpt: "I just feel like I'm your first sales. Sarah, I'm the first salesperson that you're training..."
+Issue: “Sarah” appears abruptly; not a known participant; likely interjection misheard.
+Likely intended: “So yeah,” or “so I’m...”
+Confidence: Medium
+Reasoning: Sequence reads as stammer/filler; “Sarah” is not elsewhere referenced as a person in this context.
+Impact: Low – readability.
+
+[Error #17 - Category: Tool/annotation misattribution]
+Location: 1:30 / Speaker: Austin
+Transcript excerpt: "ACTION ITEM: Attend Players Club call w/ Mathias & Valerie from Pioneer Capital re SBA SOP guidelines - WATCH: https://fathom.video/calls/289532279?timestamp=97.9999"
+Issue: Action-item annotation likely inserted by a meeting assistant tool, not spoken content.
+Likely intended: Tool-generated note separate from Austin’s utterance.
+Confidence: High
+Reasoning: Formatting and link structure typical of automated meeting notes, not speech.
+Impact: Low – but relevant for transcript cleanup/attribution.
+
+Segments to remove
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: 0:00–1:30
+Speakers involved: Austin, Athena
+Content excerpt:
+"Austin: So I'm feeling human... 
+Athena: It's going to be a non-negotiable... I've been letting my schedule creep...
+Austin: I need to get on that grind.
+Athena: ...my business is going to fall apart if I don't take care of myself... 
+Austin: ...we have a heavy bag and like a kettlebell set up in our garage... I played a lot of tennis growing up.
+Athena: I was literally just throwing kettlebells around..."
+Reasoning:
+Extended personal wellness and exercise chat; not connected to business acquisition, sales process, clients, or financing.
+Context impact: None – conversation transitions into meeting logistics and business topics afterward.
+Recommended action: REMOVE 0:00–1:30
+
+[REMOVAL #2 - Type: Off-Topic/Artifact]
+Location: 40:47–41:06
+Speakers involved: Athena
+Content excerpt:
+"And yeah, how... Thank you. Thank you. you. Thank you. Thank you. you. you. Thank you. You How about that?"
+Reasoning:
+Clear ASR glitch resulting in repeated words; provides no business meaning.
+Context impact: None – removal does not affect comprehension of surrounding slide-title discussion.
+Recommended action: REMOVE 40:47–41:06
+
+[REMOVAL #3 - Type: Personal/Small Aside]
+Location: 50:44–50:47 (single line within closing)
+Speakers involved: Athena
+Content excerpt:
+"So, I got to jump. I got to go to the bathroom before Buyer's Club."
+Reasoning:
+Brief personal remark unrelated to business content or logistics.
+Context impact: None – retain surrounding scheduling/closing lines.
+Recommended action: REMOVE 50:44–50:47 (only this sentence)
+
+Mixed segment with line-level guidance
+
+[MIXED Segment - Requires line-level keep/remove]
+Location: 1:30–2:02 / Speaker: Austin
+Content excerpt:
+"At 3? Nothing necessarily. I just need to, like, clean up my net line a little bit and then, like, throw on some slacks before I head into the city.
+ACTION ITEM: Attend Players Club call w/ Mathias & Valerie from Pioneer Capital re SBA SOP guidelines
+- WATCH: https://fathom.video/calls/289532279?timestamp=97.9999
+And then I'm driving during rush hour, so I was trying to leave here at, like, 4 or so to be a little early."
+Keep vs Remove:
+- KEEP: The ACTION ITEM line and link (business-relevant; ties to SBA SOP updates).
+- REMOVE: The surrounding personal scheduling clothing/traffic remarks (no business value).
+Boundary recommendation:
+- REMOVE: “At 3? Nothing necessarily...” through “...before I head into the city.” and “And then I'm driving during rush hour...” through “...to be a little early.”
+- KEEP: The ACTION ITEM line and link only.
+Context impact: Low – preserving the action item maintains business continuity.
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 33:54–36:42
+Content excerpt:
+"...six month PIF... I now I spend money on things that help me save time. Like I paid for meal prep... local PA in Austin... car wash and Amazon returns... focus on the $1,000 an hour instead of the $22 an hour..."
+Business relevance argument:
+Illustrates time-leverage rationale tied to pricing/value framing and buyer mindset; supports sales narrative.
+Personal content argument:
+Contains extended personal lifestyle details (meal prep, car wash) that are not strictly necessary for the business point.
+Recommendation: KEEP with minor tightening if editing is allowed; otherwise keep as-is (adds color to the value framing).
+
+[BORDERLINE #2 - Requires Review]
+Location: 24:24–25:30
+Content excerpt:
+Discussion of a prospect’s resume (20 years at one company, equity from strategic exit), perceived risk tolerance.
+Business relevance argument:
+Client fit assessment is core to qualifying; links to coachability and likelihood of success.
+Personal content argument:
+Tone becomes personal/critical; details may be more than needed.
+Recommendation: KEEP – directly informs client qualification and service alignment.
+
+[BORDERLINE #3 - Requires Review]
+Location: 16:46–17:32
+Content excerpt:
+Observations about competitors’ demeanor and business posture (Acquisition Lab team, “martyrdom,” event anecdotes).
+Business relevance argument:
+Industry context and competitor positioning can inform sales approach and messaging.
+Personal content argument:
+Leans into subjective impressions; could be seen as gossip.
+Recommendation: KEEP – offers market/competitor insight relevant to strategy; avoid heavy redaction unless required by policy.
+
+Additional notes/patterns for ASR improvement
+- Consistent issues with acronyms/initialisms: GPT→GVT; SBA structure garbled to “Let’s be a structure”; SMBash segmented; LOI-related terms fine elsewhere.
+- Proper nouns and names frequently misheard: Company (AcquiMatch), person names (Mossad/Masam?), product/firms (“main shares”). Consider custom vocabulary for frequent names (team members, partners, communities like SMBash).
+- Numerical expressions in pricing/investment contexts are unreliable: “five days a month” (likely $5k/mo); “three to 500” (likely $300–500k). Encourage reviewers to double-check all numbers in pricing/financing discussions.
+- Tool annotations (ACTION ITEM / WATCH) appear inline under a speaker; recommend separating tool-generated notes from spoken content in the transcript.
+
+End result
+- High-impact errors have been flagged with context and likely intended meanings.
+- Non-business small talk and artifacts identified with precise remove boundaries.
+- Borderline segments evaluated conservatively to preserve business-relevant context.

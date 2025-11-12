@@ -1,0 +1,256 @@
+SEGMENT MAPPING (by line ranges)
+- 1-14: Host intro and speaker setup — KEEP
+- 15-26: Housekeeping (recording logistics, Q&A buttons) — REMOVE (admin only)
+- 27-34: Tech check (“Can you see the slides?”) — REMOVE (small talk/tech)
+- 35-93: Speaker intro, background, credentials — KEEP
+- 94-106: Agenda for session — KEEP
+- 107-147: Market context: buyer hype, realities — KEEP
+- 148-231: Athena’s search story, financing hurdle, $3M raise — KEEP
+- 232-280: Lessons learned; “right buyer vs right owner” — KEEP
+- 281-334: Branding psychology: “so what,” mission, trust — KEEP
+- 335-468: StoryBrand guide/hero; value equation framing — KEEP
+- 469-510: Differentiation vs “cookie-cutter” searcher sites — KEEP
+- 511-575: Audience and objections: financing readiness — KEEP
+- 576-669: Will they finish? grit, responsiveness, EQ — KEEP
+- 670-742: Will they be a good owner? values, consistency — KEEP
+- 743-928: Turn weaknesses to strengths; authenticity — KEEP
+- 929-1007: “Not a fund” advantages; be visible — KEEP
+- 1008-1062: Brand toolkit and buyer profile elements — KEEP
+- 1063-1095: Practical tips (Canva, plain language, Google) — KEEP
+- 1096-1133: What AcquiMatch does; Oct 9 part 2 mention — KEEP
+- 1134-1195: Host reactions; branding takeaways — KEEP
+- 1196-1245: Q&A: websites for buyers — KEEP
+- 1248-1267: Q&A: do you only help first-time buyers — KEEP
+- 1268-1334: Q&A: anonymity while employed; anonymized profile — KEEP
+- 1338-1358: Q&A: Zoom overlay feature — BORDERLINE (branding/presentation tactic)
+- 1359-1424: Q&A: website content; stating “what we don’t want” — KEEP
+- 1425-1497: Q&A: fees, model, SBA compliance — KEEP
+- 1498-1500: Admin note about fees; contact — KEEP
+- 1501-1617: Q&A: positioning for women/non-traditional backgrounds — KEEP
+- 1618-1697: Q&A: demonstrate learning; action-orientation — KEEP
+- 1698-1733: Closing + Oct 9 reminder — KEEP
+- 1734-1737: Recording will go out Monday (repeat) — REMOVE
+- 1738-1740: Final close — KEEP
+
+DETAILED LINE-LEVEL (MIXED) BOUNDARIES
+- Segment 1-26 (Mixed): 
+  - KEEP: 1-14 (intro/speaker context)
+  - REMOVE: 15-26 (recording/Q&A admin)
+- Segment 1698-1740 (Mixed):
+  - KEEP: 1698-1733, 1738-1740 (closing/business)
+  - REMOVE: 1734-1737 (recording logistics repeat)
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Misheard Acronym]
+Location: Line 2 / Speaker: Host
+Transcript excerpt: "Building Your Personal Buyer brand in AC of Searchers."
+Issue: “AC of Searchers” is not a known term in ETA context.
+Likely intended: "Building Your Personal Buyer Brand in ETA for Searchers."
+Confidence: High
+Reasoning: “ETA” (Entrepreneurship Through Acquisition) is referenced later and is standard terminology.
+Impact: High
+
+[Error #2 - Category: Entity Name (Brand) + Pattern]
+Location: Multiple: Line 6, Line 68, Line 1348, Line 1731 (and elsewhere)
+Transcript excerpt: 
+- "Athena Simpson of Acqui Match."
+- "founded AC iMatch in 2023."
+- "welcome to a iMatch."
+- "it's Acqui Match."
+Issue: Inconsistent/incorrect brand rendering (spacing/casing, stray “i”).
+Likely intended: "AcquiMatch" (single word; company brand)
+Confidence: High
+Reasoning: Company name referenced throughout; internal materials use “AcquiMatch.”
+Impact: Medium
+
+[Error #3 - Category: Entity Name (Organization)]
+Location: Lines 53-55 / Speaker: Athena
+Transcript excerpt: "…Fortune 500 to fts, E 100 investors, government clients…"
+Issue: “fts, E 100” garbled financial index.
+Likely intended: "FTSE 100 investors"
+Confidence: High
+Reasoning: UK context (Guinness World Records, London); FTSE 100 is standard.
+Impact: Medium
+
+[Error #4 - Category: Entity Name (Institution)]
+Location: Lines 58-59 / Speaker: Athena
+Transcript excerpt: "…lecturer at the McComb School of Business… at ut."
+Issue: Misspelled school and improper institution casing.
+Likely intended: "McCombs School of Business at UT (UT Austin)"
+Confidence: High
+Reasoning: Proper name is “McCombs,” University of Texas uses “UT.”
+Impact: Medium
+
+[Error #5 - Category: Misheard Proper Name]
+Location: Lines 428-431 and 1651-1653 / Speaker: Athena
+Transcript excerpt: 
+- "I stole this from Alex Hermo…"
+- "Alex Hermo defines intelligence…"
+Issue: Surname misheard.
+Likely intended: "Alex Hormozi"
+Confidence: High
+Reasoning: Author of “$100M Offers” and “value equation” is Alex Hormozi.
+Impact: Medium
+
+[Error #6 - Category: Business Terminology/Proper Noun (Pop culture reference)]
+Location: Lines 391-399 / Speaker: Athena
+Transcript excerpt: "…hey, um, so I can bi bobby boo you, I'm gonna put you in this pumpkin…"
+Issue: Mis-transcription of Cinderella reference.
+Likely intended: "Bibbidi-Bobbidi-Boo you…"
+Confidence: High
+Reasoning: Common phrase from Cinderella; supports the “guide” analogy.
+Impact: Low
+
+[Error #7 - Category: Entity Name (Financial Institution)]
+Location: Lines 917-920 / Speaker: Athena
+Transcript excerpt: "…Jared Johnson, right? He's first internet bank, SBA lender…"
+Issue: Improper casing for bank’s name.
+Likely intended: "First Internet Bank"
+Confidence: High
+Reasoning: Proper noun standardization.
+Impact: Low
+
+[Error #8 - Category: Entity Name (Company/Event Host)]
+Location: Lines 1153-1156 / Speaker: Host
+Transcript excerpt: "Your McGuire Woods experience where you attracted people…"
+Issue: Brand spacing.
+Likely intended: "McGuireWoods"
+Confidence: High
+Reasoning: Law firm and Independent Sponsor Conference host stylize as “McGuireWoods.”
+Impact: Low
+
+[Error #9 - Category: Business Terminology Distortion]
+Location: Lines 1082-1085 / Speaker: Athena
+Transcript excerpt: "…run that stuff through GPT on your Briar profile…"
+Issue: “Briar” instead of “buyer.”
+Likely intended: "buyer profile"
+Confidence: High
+Reasoning: Central concept of the talk; repeated elsewhere as “buyer profile.”
+Impact: Medium
+
+[Error #10 - Category: Financial/Numerical Error]
+Location: Lines 1107-1112 / Speaker: Athena
+Transcript excerpt: "…we actually save our clients 30 to 45 days a month, right? You only have 30 days a month…"
+Issue: Unit/quantity unrealistic (days vs hours).
+Likely intended: "30 to 45 hours a month" (or similar)
+Confidence: Medium
+Reasoning: The joke acknowledges impossibility; likely intended hours saved.
+Impact: Medium
+
+[Error #11 - Category: Omission/Truncation]
+Location: Lines 213-215 / Speaker: Athena
+Transcript excerpt: "…they actually deliberated for longer than they should have like on."
+Issue: Incomplete/truncated phrase (“like on.”).
+Likely intended: Ends after “longer than they should have,” or missing words after “like…”
+Confidence: Medium
+Reasoning: Sentence ends abruptly and ungrammatically; disrupts flow.
+Impact: Low
+
+[Error #12 - Category: Homophone/Omission]
+Location: Lines 1204-1206 / Speaker: Athena
+Transcript excerpt: "Oh, did I know you're there? Okay, good."
+Issue: Unnatural phrasing for webinar audio hiccup.
+Likely intended: "Oh, did I lose you there? Okay, good."
+Confidence: Medium
+Reasoning: Common webinar phrase during minor disconnects.
+Impact: Low
+
+[Error #13 - Category: Entity Name (Event)]
+Location: Lines 1564-1566 / Speaker: Athena
+Transcript excerpt: "The SM Bash guys are like always trying to get more women…"
+Issue: Event name spacing.
+Likely intended: "SMBash"
+Confidence: High
+Reasoning: Known SMB conference brand “SMBash.”
+Impact: Low
+
+[Error #14 - Category: Misheard Proper Name]
+Location: Lines 1523-1525 / Speaker: Athena
+Transcript excerpt: "…some really great, uh, work by Barbara Houston. She wrote a book called Rewire for Wealth…"
+Issue: Author surname incorrect.
+Likely intended: "Barbara Huson" (formerly Barbara Stanny)
+Confidence: High
+Reasoning: Author of “Rewire for Wealth.”
+Impact: Medium
+
+[Error #15 - Category: Entity Name Consistency (Capitalization)]
+Location: Multiple (e.g., Lines 58-59, 1428-1431)
+Transcript excerpt: "…the us. We only work with US clients…" and "…Business here in Texas at ut."
+Issue: Inconsistent casing of “US/UT.”
+Likely intended: "US"; "UT"
+Confidence: High
+Reasoning: Standard uppercasing for country/university abbreviations.
+Impact: Low
+
+REMOVALS
+
+[REMOVAL #1 - Type: Small Talk/Tech Check]
+Location: Lines 31-34
+Speakers involved: Athena, Host
+Content excerpt:
+"Athena: Okay. Can you see the slides? All right.
+Host: Looks, yeah, looks great.
+Athena: Amazing. Okay, cool."
+Reasoning:
+Purely technical check and pleasantries; no business content.
+Context impact: None
+Recommended action: REMOVE lines 31-34
+
+[REMOVAL #2 - Type: Admin/Housekeeping]
+Location: Lines 15-26
+Speakers involved: Host
+Content excerpt:
+"…we're recording the session… a link to the recording and a link to Athena Slides on Monday… use the Q and A button… we'll do Q and A at the end…"
+Reasoning:
+Operational webinar logistics; not relevant to acquisition/branding substance.
+Context impact: Low — Removing does not hinder understanding of the business discussion.
+Recommended action: REMOVE lines 15-26
+
+[REMOVAL #3 - Type: Admin/Housekeeping (Duplicate)]
+Location: Lines 1734-1737
+Speakers involved: Host
+Content excerpt:
+"…reminder that this was being recorded. All those great slides and the recording will go out… Watch your inboxes on Monday."
+Reasoning:
+Redundant admin info already covered earlier; no substantive content.
+Context impact: None
+Recommended action: REMOVE lines 1734-1737
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: Lines 1338-1358
+Content excerpt: "Damien wants to know how Athena overlaid herself over the slides… when you hit share… person overlay over the slides… waiting room video… it’s a branding thing for me…"
+Business relevance argument: Demonstrates presentation/branding tactics and on-screen presence strategy; ties to “pattern interrupt” and personal brand.
+Personal content argument: Technical Zoom how-to is tangential to acquisitions and deal-making.
+Recommendation: KEEP — It supports the session’s theme (branding/showing up) and provides actionable branding/presentation tips.
+
+[BORDERLINE #2 - Requires Review]
+Location: Lines 82-90
+Content excerpt: "…scan that QR code… link to October 9th… using EQ to win over sellers and brokers…"
+Business relevance argument: Directly related to the series’ Part 2 on EQ, a relevant acquisition skill.
+Personal content argument: Event promotion is meta/logistical rather than educational content.
+Recommendation: KEEP — It signals the upcoming, relevant deep-dive on EQ in dealmaking.
+
+[BORDERLINE #3 - Requires Review]
+Location: Lines 495-501
+Content excerpt: "I want a Barbie pink Jeep… Not everybody’s going to want a Barbie pink jeep."
+Business relevance argument: Serves as an analogy for targeted positioning/differentiation; supports brand concept memorably.
+Personal content argument: Personal preference anecdote; not directly about deals.
+Recommendation: KEEP — It’s a concise metaphor reinforcing the core branding lesson.
+
+SPEAKER ATTRIBUTION VALIDATION
+- Overall, turns and responses align (Host introduces, Athena presents, Host moderates Q&A). No clear misattributions found.
+- Line 1204-1206 odd phrasing likely ASR error, not speaker swap.
+
+PATTERNS/NOTES FOR ASR IMPROVEMENT
+- Consistent difficulty with brand and proper nouns: AcquiMatch, FTSE 100, McCombs/UT, First Internet Bank, SMBash, McGuireWoods, Barbara Huson, Alex Hormozi.
+- Occasional jargon/proper-name distortions: “buyer” → “Briar,” “Bibbidi-Bobbidi-Boo,” and numerical unit confusion (“days” vs “hours”).
+- Acronym confusion: “ETA” misheard as “AC.”
+- Recommend boosting entity dictionaries for common ETA/M&A ecosystem names and lenders; add post-processing for frequent phrases (ETA, SBA, LOI, buyer profile, FTSE, McCombs/UT Austin, First Internet Bank, SMBash, McGuireWoods, Hormozi, Huson).
+
+CONTEXT PRESERVATION CHECK
+- Removing lines 15-26 and 31-34 eliminates non-substantive webinar logistics/tech checks without creating gaps.
+- Removing lines 1734-1737 avoids redundant admin note at close.
+- All personal anecdotes retained serve clear business/branding purposes and maintain flow.

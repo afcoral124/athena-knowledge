@@ -1,0 +1,148 @@
+[Error #1 - Category: Misheard Entity/Word]
+Location: 00:03:02 / Speaker: Chris
+Transcript excerpt: "Taylor, we're gonna talking about financial statements 1 0 1."
+Issue: "Taylor" appears although no participant named Taylor; phrasing is ungrammatical.
+Likely intended: "Today, we're going to be talking about Financial Statements 101."
+Confidence: High
+Reasoning: Context indicates session topic kickoff; "Today" commonly misheard as a name by ASR.
+Impact: Medium - momentary confusion about addressing a non-existent participant.
+
+---
+[Error #2 - Category: Misheard Acronym/Business Term]
+Location: ~00:04:30 / Speaker: Chris
+Transcript excerpt: "...things that in SNA sim and they should probably jump out to you..."
+Issue: "SNA sim" is not a recognized term in this context.
+Likely intended: "in a CIM" (Confidential Information Memorandum)
+Confidence: High
+Reasoning: When discussing deal review and what should jump out, “CIM” is standard M&A terminology; phonetic confusion likely.
+Impact: High - confuses a core diligence document reference.
+
+---
+[Error #3 - Category: Misheard Acronym (Pattern)]
+Location: Multiple (00:01:00; 00:02:45; 01:06:05; 01:12:05; 01:13:10) / Speakers: Athena, Chris, Lisa
+Transcript excerpt: 
+- "…episodes on QV…" 
+- "…he’s worked on… QV…" 
+- "…during the QQV process…" 
+- "We got a queue of e done…" 
+- "…recordings where you went over QOV…"
+Issue: Multiple inconsistent renderings of Quality of Earnings.
+Likely intended: "QoE" or "Q of E" (Quality of Earnings)
+Confidence: High
+Reasoning: Discussion centers on diligence work; QoE is standard. ASR often mishears the initials.
+Impact: High - incorrect acronym can confuse key diligence concept and searchability across materials.
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:11:35 / Speaker: Chris
+Transcript excerpt: "…below operating profit, you'll see other income expenses, C lll, c interest depreciation, one time items…"
+Issue: Garbled phrase around examples of “other income/expense.”
+Likely intended: "…other income/expenses, e.g., interest, depreciation, and one-time items…"
+Confidence: Medium
+Reasoning: “e.g.” commonly becomes letter soup in ASR; list matches typical items below operating profit.
+Impact: Medium - minor clarity issue on P&L structure.
+
+---
+[Error #5 - Category: Business Terminology Distortion]
+Location: 00:35:15–00:35:55 / Speaker: Chris
+Transcript excerpt: "Now your retainer went up to 2 million 'cause you made two years of a million..."
+Issue: “Retainer” misused; should reference equity account.
+Likely intended: "Now your retained earnings went up to 2 million…"
+Confidence: High
+Reasoning: Discussion is specifically about retained earnings flow from net income; “retainer” is out of context.
+Impact: Medium - could mislead on equity terminology.
+
+---
+[Error #6 - Category: Homophone/Word Substitution]
+Location: ~00:41:55 / Speaker: Chris
+Transcript excerpt: "…maybe including that debt income figure was. $10,000 of depreciation…"
+Issue: “Debt income” appears in place of “net income.”
+Likely intended: "…including that net income figure was $10,000 of depreciation…"
+Confidence: High
+Reasoning: In cash flow reconciliation, depreciation is a non-cash adjustment to net income; “debt income” is nonsensical here.
+Impact: Medium - affects understanding of cash flow reconciliation.
+
+---
+[Error #7 - Category: Semantic/Minor Admin Garble]
+Location: 00:02:55 / Speaker: Athena
+Transcript excerpt: "…we'll record this and put it on your, uh, alls platform so you can review this later."
+Issue: Awkward/garbled possessive.
+Likely intended: "…put it on y’all’s platform…" or "our platform…"
+Confidence: Medium
+Reasoning: Common ASR confusion with “y’all’s”; administrative aside.
+Impact: Low - does not affect business content.
+
+---
+[Error #8 - Category: Minor Grammatical/Truncation]
+Location: 00:03:05 / Speaker: Chris
+Transcript excerpt: "…we're gonna talking about financial statements 1 0 1."
+Issue: Missing word/grammar ("gonna talking").
+Likely intended: "we’re going to be talking about…"
+Confidence: High
+Reasoning: Standard phrasing in presentation intros; ASR often drops auxiliary verbs.
+Impact: Low - readability only.
+
+---
+
+[REMOVAL #1 - Type: Off-Topic/Admin/Tech]
+Location: 00:02:52–00:04:05
+Speakers involved: Athena, Chris
+Content excerpt:
+"Athena: …You should have, uh, sharing access. Um, as always we'll record this and put it on your, uh, alls platform…
+Chris: Let me see if I can share properly. Tell me if that looks right…
+Athena: …It's not full screen, but we can see, it looks like it might be landscape…
+Chris: …It's probably my giant monitor… It's not as pretty, but [it gets] the job done…
+Athena: …that is a little bit bigger…"
+Reasoning:
+Screen-sharing logistics and display size are administrative and do not add business value.
+Context impact: None—content transitions immediately into substantive material.
+Recommended action: REMOVE lines 00:02:52–00:04:05
+
+---
+[REMOVAL #2 - Type: Off-Topic/Admin/Programming Note]
+Location: 00:02:05–00:03:00
+Speakers involved: Athena
+Content excerpt:
+"…Let me do a quick plug for next week. So this is part one of two… next week Chris is gonna come back… once you acquire the business… part one of two today. So Chris will be back here next week also."
+Reasoning:
+Program scheduling and promotion; not part of the financial statement education itself.
+Context impact: Low—removing this does not affect understanding of the technical content.
+Recommended action: REMOVE lines 00:02:05–00:03:00
+
+---
+[REMOVAL #3 - Type: Off-Topic/Promotional/Closing Admin]
+Location: 01:13:05–01:16:00
+Speakers involved: Athena, Chris
+Content excerpt:
+"Athena: …connect with him or follow him on LinkedIn… absolutely recommend a follow… next week… you’re gonna get wowed…
+…we’d love to grab those slides and include it with the replay too… We’ll share your details… see you next week for part two…
+Chris: …I’ll ship those slides over to you.
+Athena: …Thanks everyone for attending. We’ll see you next time. Take care. Bye."
+Reasoning:
+Promotional details, logistics about slides, and general closing pleasantries add no business-analytic value.
+Context impact: None—core educational content is already complete.
+Recommended action: REMOVE lines 01:13:05–01:16:00
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: 00:00:00–00:00:28
+Content excerpt: "Hi, everyone. Welcome. Hey, Lisa. Hey Polly. Nice to see you. Awesome. Justin's here. Steve's here. Super excited to see you all."
+Business relevance argument: Brief rapport-building at the start of a professional session is standard and helps orient attendees.
+Personal content argument: Pure greetings; no substantive information.
+Recommendation: KEEP—brief and unobtrusive; fits “brief professional greetings” allowance.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 01:12:55–01:13:25
+Content excerpt: "…there were some reports in there that we didn't get with ours, and the level of detail was like, wow…"
+Business relevance argument: Endorsement hints at specific analyses that may be valuable for buyers to request in QoE.
+Personal content argument: Mostly praise; minimal technical detail.
+Recommendation: KEEP—serves as a cue to the audience about diligence depth, though not strictly technical.
+
+---
+
+Additional notes and patterns observed:
+- Repeated acronym confusion around QoE suggests an ASR pattern. Consider adding a custom vocabulary/boosted lexicon for “QoE,” “Quality of Earnings,” “CIM,” “EBITDA,” “AR/AP,” “CapEx,” “WIP,” “retained earnings,” and “Entrepreneurship Through Acquisition (ETA).”
+- Occasional filler and self-corrections (e.g., “excuse me,” “I’m going to flip back”) are natural speech; only flagged when creating off-topic admin clutter.
+- Speaker attribution appears consistent; question/answer flow aligns with roles (Athena hosting/moderating, Chris presenting, Lisa asking questions).

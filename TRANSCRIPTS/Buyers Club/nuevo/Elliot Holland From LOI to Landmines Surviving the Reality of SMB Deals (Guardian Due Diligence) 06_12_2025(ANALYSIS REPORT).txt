@@ -1,0 +1,178 @@
+Below is a focused error and relevance analysis of the transcript. Overall, the call is highly business-relevant with minimal small talk; the only clearly removable content is brief screen-sharing/tech logistics chatter.
+
+Detected transcription errors (prioritized)
+
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:01:20-00:01:40 / Speaker: Athena
+Transcript excerpt: “...okay, QVS done. It’s not what you thought. Like now what happens?...”
+Issue: “QVS” appears repeatedly where the topic is quality of earnings.
+Likely intended: “QoE” or “Quality of Earnings”
+Confidence: High
+Reasoning: The session centers on QOE (quality of earnings). Multiple subsequent references confirm QoE context.
+Impact: High – Key topic label misrendered; could confuse readers.
+
+[Error #2 - Category: Business Terminology Distortion]
+Location: ~00:06:00 / Speaker: Elliot
+Transcript excerpt: “...common deal killers, what do you do when the brokers, uh, abandoning the butt, handling big gaps in revenue...”
+Issue: “abandoning the butt” is nonsensical in context.
+Likely intended: “being a pain in the butt” (supported later by “broker’s... pain in the butt”)
+Confidence: High
+Reasoning: Later phrasing explicitly says “being a pain in the butt.” This looks like a phonetic glitch.
+Impact: Medium – Distracts and obscures meaning of a slide/topic list.
+
+[Error #3 - Category: Misheard Acronym (Pattern)]
+Location: Multiple (e.g., ~00:04:45; ~00:07:10; ~00:26:40) / Speakers: Elliot, Athena
+Transcript excerpt: “...different than the sim...”; “...all the correct information’s in the sim.”
+Issue: “sim” used where industry standard is CIM (Confidential Information Memorandum).
+Likely intended: “CIM”
+Confidence: Medium
+Reasoning: In M&A, CIM is standard; speakers may pronounce “C-I-M” as “sim,” which ASR often flattens.
+Impact: Medium – Could mislead non-experts; repeated pattern worth noting.
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:02:40 / Speaker: Elliot
+Transcript excerpt: “...I started, uh, a self-funded cert. So I sat in the same kind of seat...”
+Issue: “self-funded cert” is off.
+Likely intended: “self-funded search”
+Confidence: High
+Reasoning: “Self-funded search” is standard ETA terminology; “cert” is not.
+Impact: Medium – Important role description.
+
+[Error #5 - Category: Omission/Truncation + Semantic Inconsistency]
+Location: ~00:02:55-00:03:05 / Speaker: Elliot
+Transcript excerpt: “I tried to self a certain 2015 before a did acquisition loans. Wow. Yep. OG.”
+Issue: Phrase is garbled and incomplete.
+Likely intended: Something like “I tried to self-funded search in 2015 before [many banks/SBA lenders] did acquisition loans.”
+Confidence: Low-Medium
+Reasoning: ASR dropped words; “self a certain” ≈ “self-funded search,” “a did acquisition loans” likely refers to lenders doing acquisition loans.
+Impact: Medium – Biographical timeline/context obscured.
+
+[Error #6 - Category: Misheard Word]
+Location: ~00:12:55-00:13:15 / Speaker: Elliot
+Transcript excerpt: “...the settlement works 10 hours a week and why it matters.”
+Issue: “settlement” incorrect in this context.
+Likely intended: “seller works 10 hours a week”
+Confidence: High
+Reasoning: The topic is seller time commitment; “seller” matches surrounding lines.
+Impact: Medium – Changes subject meaning.
+
+[Error #7 - Category: Omission/Truncation + Speaker Overlap]
+Location: ~00:05:30-00:05:45 / Speakers: Elliot, Athena
+Transcript excerpt: Elliot: “...you can just go to sleep off” / Athena: “market. It’s an off market one, so...”
+Issue: Cross-talk creates a split phrase.
+Likely intended: Elliot finishes a joke, and Athena interjects “off-market.” The full idea = “off-market one.”
+Confidence: Medium
+Reasoning: Obvious overlap; “off-market” is the intended phrase.
+Impact: Low – Minor readability issue, but not substantive.
+
+[Error #8 - Category: Semantic Inconsistency]
+Location: ~00:16:05-00:16:20 / Speaker: Elliot
+Transcript excerpt: “...they’ve osculated their deal knowledge to this dude.”
+Issue: “osculated” is incorrect in context.
+Likely intended: “outsourced their deal knowledge” (or similar)
+Confidence: Medium-Low
+Reasoning: Discussing how sellers delegate to brokers; “outsourced” fits the logic.
+Impact: Low-Medium – Confusing phrasing.
+
+[Error #9 - Category: Entity Name]
+Location: ~00:39:40-00:41:10 / Speaker: Elliot
+Transcript excerpt: “If Lisa Forres heard that, she might yell at me...”
+Issue: Likely misspelling of a well-known SBA lender’s name.
+Likely intended: “Lisa Forrest” (Live Oak Bank)
+Confidence: Medium
+Reasoning: In ETA/SBA space, “Lisa Forrest” is established; “Forres” likely ASR error.
+Impact: Low – Name accuracy.
+
+[Error #10 - Category: Misheard Acronym]
+Location: ~00:37:10-00:38:10 / Speaker: Athena
+Transcript excerpt: “...add-backs in there that the broker had... inflated the STE e...”
+Issue: “STE e” instead of SDE (Seller’s Discretionary Earnings).
+Likely intended: “SDE”
+Confidence: High
+Reasoning: SDE is standard in SMB deals; “STE e” is a common ASR slip.
+Impact: Medium – Financial metric misrendered.
+
+[Error #11 - Category: Misheard Word]
+Location: ~00:54:30-00:55:10 / Speaker: Elliot
+Transcript excerpt: “...great dude, he’s bionic business from I think some honorable folks...”
+Issue: “bionic business” is incorrect.
+Likely intended: “buying a business”
+Confidence: High
+Reasoning: Context = client buying a business; “bionic” is classic ASR error for “buying a.”
+Impact: Medium – Alters meaning of the scenario.
+
+[Error #12 - Category: Entity Name (Possible)]
+Location: ~01:21:30-01:22:30 / Speaker: Elliot
+Transcript excerpt: “Justin Willis did a podcast on Acquiring Minds... Iron Pony...”
+Issue: Potential misnaming of guest/company from Acquiring Minds episode.
+Likely intended: A different “Justin” and company name (e.g., common guests include Justin Ullom/Ullman; “Iron Pony” may be incorrect).
+Confidence: Low-Medium
+Reasoning: Public records for exact match are unclear; likely ASR substitutions on proper nouns.
+Impact: Low – Not critical to business guidance, but notable for accuracy.
+
+[Error #13 - Category: Omission/Truncation]
+Location: ~00:14:35-00:14:50 / Speaker: Elliot
+Transcript excerpt: “...that’s how you call BS on people who. A week.”
+Issue: Incomplete sentence.
+Likely intended: “...on people who ‘work 10 hours a week.’”
+Confidence: Medium
+Reasoning: Matches surrounding topic.
+Impact: Low – Local readability only.
+
+
+Segments recommended for removal
+
+[REMOVAL #1 - Type: Off-Topic/Technical Logistics]
+Location: ~00:11:35-00:12:15
+Speakers involved: Elliot, Athena
+Content excerpt:
+“...Now I may have gotten screwed up. Is my screen still being shared or did I kill that... No, you’re good... Let me stop and then bring it back up... I know how to do this on Google... All right, is my slide back? Yep, we can see it.”
+Reasoning:
+Screen-sharing/technical troubleshooting; no business substance.
+Context impact: None – Removing does not affect comprehension of deal topics.
+Recommended action: REMOVE ~00:11:35-00:12:15
+
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:02:05-00:03:20 (Elliot’s background)
+Content excerpt: “I’m a kid from Ann Arbor, Michigan... engineering undergrad... Harvard... private equity... independent sponsor... self-funded search... started Guardian Due Diligence...”
+Business relevance argument: Establishes credibility and lens (deal operator who runs a diligence firm), directly relevant to the session’s advisory content.
+Personal content argument: Includes personal origin and school background.
+Recommendation: KEEP – Contextualizes expertise; valuable for audience trust.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:20:20-00:22:10 (Chris’s travel/rapport anecdote)
+Content excerpt: “...I live in Barcelona... I flew to them and spent a whole day... ended the day with beers... built a lot of rapport...”
+Business relevance argument: Demonstrates deal process tactics (patience, in-person visit, rapport-building) and their impact on negotiations.
+Personal content argument: Contains travel and social detail.
+Recommendation: KEEP – Illustrates relationship-building strategy in deals.
+
+[BORDERLINE #3 - Requires Review]
+Location: ~01:24:50-01:26:20 (Follow Elliot on LinkedIn/YouTube)
+Content excerpt: “...follow him on LinkedIn... YouTube... you can never learn enough...”
+Business relevance argument: Points to further educational resources for buyers on diligence and deal pitfalls.
+Personal content argument: Promotional in tone; not specific to the current deal.
+Recommendation: KEEP (Low priority) – Short, and supports ongoing education; remove only if strict runtime trimming is required.
+
+
+Notes on speaker attribution and flow
+
+- One instance of cross-talk likely caused an overlap/truncation (“go to sleep off” / “market. It’s an off market one”) around 00:05:30-00:05:45. Meaning is still clear; no action needed beyond awareness.
+- Overall speaker roles align logically: Athena moderates; Elliot teaches/advises; participants ask operational/negotiation questions.
+
+
+Patterns to flag for ASR improvement
+
+- QoE consistently misheard as “QVS” or “QV.” Recommend boosting custom vocabulary: QoE, QOE, “quality of earnings.”
+- CIM misheard as “sim.” Add “CIM” and “Confidential Information Memorandum.”
+- “Seller” occasionally misheard (e.g., “settlement”); “buying a” → “bionic.” Add “seller,” “buying a,” “seller note,” “SDE.”
+- Proper nouns: “Lisa Forrest” (Live Oak Bank), “SMBash,” “Live Oak,” “Acquiring Minds,” “Will Smith” (podcast host).
+
+
+Segment relevance summary
+
+- KEEP: Substantive content on LOI, QoE, retrades, inventory/WIP/working capital, broker dynamics, lender interactions, CPA/lawyer “last invoice” incentives, credibility, deal heat, and negotiation process. This covers the vast majority of the transcript.
+- REMOVE: Only the brief screen-sharing/tech logistics block (REMOVAL #1).
+- No extended personal small talk detected beyond brief rapport elements that support business context.

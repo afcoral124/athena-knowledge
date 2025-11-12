@@ -1,0 +1,277 @@
+[Error #1 - Category: Misheard Acronym/Financial Metric]
+Location: ~[00:19:45] / Speaker: Henry
+Transcript excerpt: "…the sponsor was suggesting a 6.7 XA 49% IOR, assuming that they grow revenue by 14%…"
+Issue: “XA” and “IOR” appear in place of standard finance metrics
+Likely intended: “6.7x MOIC and a 49% IRR”
+Confidence: High
+Reasoning: MOIC and IRR are the conventional investor return metrics in SMB deals; “IOR” and “XA” are common ASR artifacts near “IRR” and “x”
+Impact: High - mislabels core return metrics
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~[00:24:30] / Speaker: Henry
+Transcript excerpt: “…American IRR are like generally the, the two barometers that investors are gonna look at…”
+Issue: “American IRR” is nonsensical in context
+Likely intended: “MOIC and IRR are generally the two barometers…”
+Confidence: High
+Reasoning: Standard pair is MOIC and IRR; “American IRR” is not a term in this context
+Impact: Medium
+
+---
+[Error #3 - Category: Business Terminology Distortion]
+Location: ~[00:29:40] / Speaker: Henry
+Transcript excerpt: “tagal along, drag along rides. Spacey means that if you sell…”
+Issue: Multiple term distortions: “tagal along/drag along rides”
+Likely intended: “tag-along and drag-along rights”
+Confidence: High
+Reasoning: These are standard investor rights; “rides/Spacey” are clear ASR glitches
+Impact: Medium
+
+---
+[Error #4 - Category: Entity Names]
+Location: ~[00:06:40-00:07:15] / Speaker: Henry
+Transcript excerpt: “Another big one is fruition Mines Capital, which is, uh, will Smith and the Acquired Minds podcast.”
+Issue: Fund and podcast names conflated/misstated
+Likely intended: “Acquiring Minds Capital, which is Will Smith and the Acquiring Minds podcast”
+Confidence: High (podcast), Medium (fund)
+Reasoning: The podcast is “Acquiring Minds” by Will Smith; “fruition Mines Capital/Acquired Minds” appears to be a mashup
+Impact: Medium
+
+---
+[Error #5 - Category: Business Terminology Distortion]
+Location: ~[00:17:45-00:18:05] / Speaker: Henry
+Transcript excerpt: “We’ve identified three of our local businesses that we can buy for five x and we can roll them all up…”
+Issue: The later line says “buy… as flavor and stick them together”
+Likely intended: “buy three additional businesses as add-ons/bolt-ons and roll them up”
+Confidence: Medium
+Reasoning: “as flavor” is nonsensical; “add-ons/bolt-ons” is standard roll-up language
+Impact: Low/Medium
+
+---
+[Error #6 - Category: Misheard Acronym]
+Location: ~[00:47:50] / Speaker: Henry
+Transcript excerpt: “…before you’re on oi, it’s a good opportunity to show investors what you’re looking at…”
+Issue: “oi” in this context
+Likely intended: “before you’re on LOI”
+Confidence: High
+Reasoning: LOI (Letter of Intent) is the expected term; “oi” is a dropped initial consonant
+Impact: Low
+
+---
+[Error #7 - Category: Homophone/Misheard Word]
+Location: ~[00:28:25] / Speaker: Henry
+Transcript excerpt: “pay a dividend gold, the preferred dividend on a preferred return…”
+Issue: “gold” is incorrect in context
+Likely intended: “pay a dividend called the preferred dividend (preferred return)”
+Confidence: High
+Reasoning: “called” commonly misheard as “gold” by ASR
+Impact: Low
+
+---
+[Error #8 - Category: Business Terminology Distortion]
+Location: ~[00:41:50] / Speaker: Henry
+Transcript excerpt: “…we can sell our equity back to the company at the greater of five x trading 12 month ebitda or fair market value.”
+Issue: “trading 12 month EBITDA” phrasing
+Likely intended: “trailing 12-month EBITDA (TTM) or fair market value”
+Confidence: High
+Reasoning: “Trailing-12-month” is the standard construct; “trading” is a likely ASR mishear
+Impact: Medium
+
+---
+[Error #9 - Category: Entity Names]
+Location: ~[01:07:15] / Speaker: Henry
+Transcript excerpt: “…every beneficial earner… 100.0% of your equity ownership needs to be US citizen…”
+Issue: “beneficial earner” is incorrect in regulatory context
+Likely intended: “beneficial owner”
+Confidence: High
+Reasoning: SBA/BOI regulations refer to “beneficial owner”
+Impact: Medium
+
+---
+[Error #10 - Category: Redundancy/Omission]
+Location: ~[01:07:40] / Speaker: Henry
+Transcript excerpt: “…licensed permanent licensed permanent resident.”
+Issue: Duplicated phrase indicates ASR glitch
+Likely intended: “licensed permanent resident” (i.e., green card holder)
+Confidence: High
+Reasoning: Plain duplication; disruptive to clarity
+Impact: Low
+
+---
+[Error #11 - Category: Entity Names]
+Location: ~[00:56:50] / Speaker: Henry
+Transcript excerpt: “James sounds fairly active.”
+Issue: Entity name garbled
+Likely intended: “Jamestown’s fairly active.”
+Confidence: High
+Reasoning: Refers to his fund “Jamestown Capital”; “James sounds” is an ASR artifact
+Impact: Low
+
+---
+[Error #12 - Category: Semantic Inconsistency/Homophone]
+Location: ~[00:54:05] / Speaker: Henry
+Transcript excerpt: “Stacy just share every document that comes along.”
+Issue: Opening word “Stacy” is nonsensical here
+Likely intended: “Basically, just share every document that comes along.”
+Confidence: Medium
+Reasoning: “Basically” frequently misheard as a name; improves coherence
+Impact: Low
+
+---
+[Error #13 - Category: Omission/Truncation]
+Location: ~[00:55:45] / Speaker: Henry
+Transcript excerpt: “…the I is not gonna give it out that easily.”
+Issue: “the I” missing letters
+Likely intended: “the IRS is not gonna give it out that easily.”
+Confidence: High
+Reasoning: QSBS context; IRS grants the exemption
+Impact: Low/Medium
+
+---
+[Error #14 - Category: Omission]
+Location: ~[00:13:40] / Speaker: Henry
+Transcript excerpt: “…unless you buy like the, the iest business ever…”
+Issue: Missing syllables in descriptive adjective
+Likely intended: “the easiest business ever”
+Confidence: Medium
+Reasoning: “iest” appears truncated; “easiest” fits sentence
+Impact: Low
+
+---
+[Error #15 - Category: Business Terminology Distortion]
+Location: ~[00:38:20] / Speaker: Henry
+Transcript excerpt: “…I’m gonna put a 1.75 step up and an eight prep for myself.”
+Issue: “prep” instead of standard term for preferred return
+Likely intended: “8% pref”
+Confidence: High
+Reasoning: “pref” (preferred return) commonly misheard as “prep”
+Impact: Low
+
+---
+[Error #16 - Category: Misheard Acronym]
+Location: ~[00:51:05] / Speaker: Henry
+Transcript excerpt: “Hey, you know, actually the QE didn’t come back that good, but we’re renegotiating with the seller.”
+Issue: “QE” is ambiguous in this context
+Likely intended: “QoE (Quality of Earnings) didn’t come back that good…”
+Confidence: High
+Reasoning: In SMB diligence, “QoE” is standard; “QE” is likely an ASR drop of the “o”
+Impact: Medium
+
+---
+[Error #17 - Category: Entity Names (Ambiguous)]
+Location: ~[00:48:55-00:49:20] / Speaker: Henry
+Transcript excerpt: “Personal Capital, so this is kind of a branch of Sam Rosa’s, uh, SM Bootcamp… built out an investor database…”
+Issue: Entity references appear incorrect/conflated
+Likely intended: Reference to “SMB Bootcamp” (Sam Rosati) and an SMB investor database; “Personal Capital” likely not correct entity in this context
+Confidence: Low/Medium
+Reasoning: Known figures/entities in ETA are “Sam Rosati” and “SMB” (not “SM”); “Personal Capital” is a consumer wealth firm, unlikely to be the SMB investor database referenced
+Impact: Low/Medium
+
+---
+[Error #18 - Category: Omission/Truncation]
+Location: ~[00:01:40] / Speaker: Athena
+Transcript excerpt: “…and Henry’s lived and breathe thought by just, you know. Creating a community…”
+Issue: Broken phrase/ragged clause
+Likely intended: “lived and breathed that by… creating a community…”
+Confidence: Medium
+Reasoning: ASR dropped/garbled words; impairs clarity slightly
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Admin/Small Talk]
+Location: ~[00:03:00-00:03:08]
+Speakers involved: Athena
+Content excerpt:
+“Athena: And Luke, if you don’t mind, keeping your messages open and pinning Henry for me, while he’s talking.”
+Reasoning:
+Meeting admin; no business content.
+Context impact: None
+Recommended action: REMOVE ~[00:03:00-00:03:08]
+
+---
+[REMOVAL #2 - Type: Admin/Small Talk]
+Location: ~[00:03:15-00:03:25]
+Speakers involved: Henry; brief interjection from Athena
+Content excerpt:
+“Henry: Cool. Can everyone see the slides? Yes, can. Okay. So.”
+Reasoning:
+Screen-share logistics; no business content.
+Context impact: None
+Recommended action: REMOVE ~[00:03:15-00:03:25]
+
+---
+[REMOVAL #3 - Type: Small Talk/Housekeeping]
+Location: ~[00:58:10-00:58:20]
+Speakers involved: Athena
+Content excerpt:
+“Athena: Do you mind, uh, taking your slides down and then we can see each other too? Yes. Awesome.”
+Reasoning:
+Display housekeeping; no substantive content.
+Context impact: None
+Recommended action: REMOVE ~[00:58:10-00:58:20]
+
+---
+[REMOVAL #4 - Type: Off-Topic]
+Location: ~[01:06:00-01:06:25]
+Speakers involved: Peter, Henry
+Content excerpt:
+“Peter: …does your physics brain allow you to coach searchers…?
+Henry: I would say absolutely not… building financial models is…”
+Reasoning:
+Personal background question unrelated to acquisitions/investor terms; provides no business insight.
+Context impact: None
+Recommended action: REMOVE ~[01:06:00-01:06:25]
+
+---
+[REMOVAL #5 - Type: Small Talk/Intro]
+Location: ~[00:00:20-00:00:35]
+Speakers involved: Athena
+Content excerpt:
+“…we have a few folks that are on vacation this week, so I imagine they’ll be catching the replays.”
+Reasoning:
+Brief logistics about attendees; no business relevance.
+Context impact: None
+Recommended action: REMOVE ~[00:00:20-00:00:35]
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~[00:01:05-00:01:25]
+Content excerpt: “So Henry is based out of Austin where I was living up until two months ago… building a searcher community in Austin…”
+Business relevance argument: Establishes Henry’s community role and relevance to the ETA ecosystem; explains how they connected.
+Personal content argument: Includes personal relocation detail not strictly necessary.
+Recommendation: KEEP — Provides context for speaker credibility and ecosystem involvement.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~[01:18:05-01:18:15]
+Content excerpt: “I’m English, so apparently I’m bad at pronouncing my name in American…”
+Business relevance argument: None; lighthearted aside.
+Personal content argument: Purely personal aside embedded with contact instructions.
+Recommendation: KEEP core contact info; REMOVE just the accent aside if editing at sentence level. If not practical to surgically remove a single sentence, KEEP.
+
+---
+
+Contextual coherence and flow notes:
+- The session is highly educational on investor types, returns modeling, market vs fund terms, waterfalls, QSBS, SBA SOP changes, and post-close practices; primarily KEEP.
+- The only non-business content is brief housekeeping and the short “physics brain” exchange.
+
+Patterns to flag for ASR improvement:
+- IRR consistently misheard (“IOR”).
+- “x/MOIC” formatting garbled (“XA”, “American IRR”).
+- Legal/terms distortions (“tagal/drag along rides”; “prep” vs “pref”).
+- Acronyms dropped or altered (“LOI”→“oi”, “QoE”→“QE”).
+- Proper nouns/podcasts/funds conflated (“Acquiring Minds”).
+- Common homophones (“called”→“gold”; “trailing”→“trading”; “Basically”→“Stacy”).
+- Truncations (“IRS”→“I”; “easiest”→“iest”).
+
+Speaker attribution:
+- No clear speaker misattributions impacting comprehension detected. The Q&A exchange order is logical.
+
+Cross-reference consistency:
+- Return metrics (IRR/MOIC) discussed consistently, aside from ASR errors.
+- Waterfall order is internally consistent across explanations.
+- SBA/BOI references consistent; one terminology error (“beneficial earner”).
+
+Overall, the transcript is rich in business-relevant content. Removing the brief admin and off-topic asides will streamline it without losing any substantive value.

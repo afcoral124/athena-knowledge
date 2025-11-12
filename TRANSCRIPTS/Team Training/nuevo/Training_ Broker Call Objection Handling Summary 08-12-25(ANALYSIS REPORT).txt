@@ -1,0 +1,261 @@
+[Error #1 - Category: Business terminology distortion]
+Location: 15:32-16:15 / Speaker: Anke Jordaan
+Transcript excerpt: "…after the meeting is booked, I added in here the Indian bar profile call… familiarize yourself with the Indian bar profile for this deal…"
+Issue: “Indian bar profile” is nonsensical in context
+Likely intended: “NDA and buyer profile”
+Confidence: High
+Reasoning: The entire section is about signing NDAs and completing a buyer profile; “Indian/bar” is a common ASR mis-hear of NDA/buyer.
+Impact: High – confuses key process steps for client setup
+
+[Error #2 - Category: Business terminology distortion]
+Location: 6:33-8:50 / Speaker: Anke Jordaan
+Transcript excerpt: “…she actually filled in a buyer profile using Samantha Doe… So um, in, in, in this bar profile.”
+Issue: “bar profile” appears repeatedly instead of the correct term
+Likely intended: “buyer profile”
+Confidence: High
+Reasoning: The section consistently discusses buyer profiles; “bar” is a frequent ASR drop of the “-yer” syllable.
+Impact: Medium – repeated terminology errors reduce clarity
+
+[Error #3 - Category: Misheard word (finance)]
+Location: 27:50-28:20 / Speaker: Athena Simpson
+Transcript excerpt: “…they’ll get in the weeds of like, what’s the working cup? They said inventory is separate. Like Peter’s been spinning himself out on the inventory thing.”
+Issue: “working cup” in a finance context is incorrect
+Likely intended: “working cap” (short for working capital)
+Confidence: High
+Reasoning: Working capital and inventory treatment are frequently discussed together in acquisitions.
+Impact: High – wrong finance term can mislead trainees
+
+[Error #4 - Category: Misheard homophone]
+Location: ~29:30-31:00 / Speaker: Athena Simpson
+Transcript excerpt: “…our legacy clients have gotten in the habit of being able to reject deals before broker falls…”
+Issue: “broker falls” instead of “broker calls”
+Likely intended: “broker calls”
+Confidence: High
+Reasoning: The topic is sequencing broker calls; “falls” is a common ASR mishear of “calls.”
+Impact: Medium – affects procedural clarity
+
+[Error #5 - Category: Misheard word]
+Location: 16:34 / Speaker: Anke Jordaan
+Transcript excerpt: “…book the write-up review poll within 48 hours…”
+Issue: “poll” in scheduling context is incorrect
+Likely intended: “call”
+Confidence: High
+Reasoning: The process involves scheduling a review call, not a poll.
+Impact: Medium – could confuse scheduling actions
+
+[Error #6 - Category: Misheard word]
+Location: 15:45-16:10 / Speaker: Anke Jordaan
+Transcript excerpt: “…and then don’t send them the write-up without booking the school.”
+Issue: “school” is incorrect in this context
+Likely intended: “call”
+Confidence: High
+Reasoning: Matches the process of booking a follow-up call before sending the write-up.
+Impact: Medium – scheduling confusion
+
+[Error #7 - Category: Misheard homophone]
+Location: ~37:10-38:00 / Speaker: Athena Simpson
+Transcript excerpt: “…after a burger call, they can just get on, you know, on their phone, leave a voice note…”
+Issue: “burger call” is nonsensical
+Likely intended: “broker call”
+Confidence: High
+Reasoning: Entire section is about broker calls and feedback workflows.
+Impact: Medium – minor but distracting
+
+[Error #8 - Category: Entity name (company)]
+Location: 3:00 / Speaker: Ryan Cash
+Transcript excerpt: “…looking forward to another amazing day at Aquamatch.”
+Issue: Company name transcribed incorrectly
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Official company name is AcquiMatch; “Aquamatch” is a common ASR error.
+Impact: Medium – branding consistency
+
+[Error #9 - Category: Entity name (company)]
+Location: ~20:05 / Speaker: Athena Simpson
+Transcript excerpt: “…put the link in there to their Acme Match buyer profile. The one that we made for them…”
+Issue: Company name transcribed incorrectly
+Likely intended: “AcquiMatch buyer profile”
+Confidence: High
+Reasoning: Consistent with brand; “Acme” is an ASR substitution.
+Impact: Medium – branding consistency
+
+[Error #10 - Category: Entity name (company)]
+Location: 1:04:24 / Speaker: Anke Jordaan
+Transcript excerpt: “They set up their Zoom accounts with their Acrimatch emails.”
+Issue: Company name transcribed incorrectly
+Likely intended: “AcquiMatch emails”
+Confidence: High
+Reasoning: Brand reference again distorted; “Acri-” is an ASR mistake.
+Impact: Medium – branding consistency
+
+[Error #11 - Category: Omission/Truncation (ASR garble)]
+Location: 12:59 / Speaker: Anke Jordaan
+Transcript excerpt: “Exp Cle докумens. just want we’re have ask I just added in, as part of the template, insert time booking link.”
+Issue: Severe ASR corruption; includes non-English fragments
+Likely intended: Administrative note about adding a booking link to the template
+Confidence: High
+Reasoning: Surrounding context is about using booking links in templates; current text is incoherent.
+Impact: Medium – obscures operational instruction
+
+[Error #12 - Category: Speaker misattribution]
+Location: 2:16-2:22 / Speaker shown as: Luke Gillespie
+Transcript excerpt: “And you, Luke, I know you love the sauna, but what do you do for movement? I like to go hiking.”
+Issue: Speaker appears to address “Luke” while also answering
+Likely intended: First sentence by another speaker (e.g., Anke), reply by Luke: “I like to go hiking.”
+Confidence: High
+Reasoning: A speaker would not address self in second person and then answer.
+Impact: Low/Medium – creates mild confusion about who is speaking
+
+[Error #13 - Category: Speaker misattribution / Truncation]
+Location: 13:05-13:15 / Speakers: Athena Simpson / Anke Jordaan
+Transcript excerpt: 
+“Athena: Okay. So the template you sent Luke yesterday just said, would you be available at insert time?
+Anke: So I’m just guessing why we’re not using booking links and or if these guys know how to set up booking links for themselves. I mean, I can add that…”
+Issue: The question about “why we’re not using booking links” likely belongs to Athena; answer begins with Anke. The line merges question and answer under Anke.
+Likely intended: Athena asks; Anke responds (“I can add that as part of the tech setup…”)
+Confidence: Medium
+Reasoning: Flow of Q&A indicates swap and merge.
+Impact: Medium – confuses operational responsibility
+
+[Error #14 - Category: Semantic inconsistency]
+Location: 9:40-10:10 / Speaker: Athena Simpson
+Transcript excerpt: “So brokers are basically gatekeeping. They get like hundreds of employees on deals right now… And then second of all, they use screen.”
+Issue: “employees on deals” and “they use screen” are semantically wrong/incomplete
+Likely intended: “hundreds of inquiries on deals” and “they use it to screen”
+Confidence: High
+Reasoning: In brokerage context, inquiries volume and screening are standard; “employees” makes no sense; missing “to” breaks meaning.
+Impact: High – alters meaning of broker process
+
+[Error #15 - Category: Semantic inconsistency]
+Location: 19:46-20:05 / Speaker: Athena Simpson
+Transcript excerpt: “I just shouted them for an hour and told them that.”
+Issue: “shouted them” is unlikely in context of training
+Likely intended: “showed them” or “walked them through it”
+Confidence: Medium
+Reasoning: She is describing training clients; “shouted” conflicts with tone and context.
+Impact: Low/Medium – awkward, may confuse tone
+
+[Error #16 - Category: Misheard word]
+Location: 42:20-42:45 / Speaker: Anke Jordaan
+Transcript excerpt: “…they have to prepare for the owner call, post the co-owner call feedback…”
+Issue: “co-owner call feedback” doesn’t fit process
+Likely intended: “owner call feedback”
+Confidence: High
+Reasoning: Process earlier distinguishes broker call, then owner call; “co-owner” is not a term used here.
+Impact: Low/Medium – minor process confusion
+
+[Error #17 - Category: Misheard word]
+Location: 55:20-55:35 / Speaker: Athena Simpson
+Transcript excerpt: “…see you guys at two past that. Power. Okay. Sounds good.”
+Issue: “Power” at end of scheduling sentence is wrong
+Likely intended: “hour”
+Confidence: High
+Reasoning: Refers to time resuming after break; “Power” is a phonetic mishear.
+Impact: Low – trivial
+
+[Error #18 - Category: Entity name (company/service)]
+Location: 1:23:00-1:24:10 / Speaker: Athena Simpson
+Transcript excerpt: “Susie from Guyton did a really great presentation on the Rob’s strategy. It’s on the buyer club’s replays.”
+Issue: ROBS provider name likely mis-transcribed
+Likely intended: “Guidant” (Guidant Financial) and “ROBS” (not “Rob’s”)
+Confidence: High
+Reasoning: Guidant Financial is a well-known ROBS provider; “Guyton” is phonetically similar; ROBS is standard acronym.
+Impact: Medium – proper entity and acronym matter for follow-up
+
+[Error #19 - Category: Grammar/ASR fragment (only because it obscures meaning)]
+Location: 16:00-16:20 / Speaker: Anke Jordaan
+Transcript excerpt: “…having them infindible know, keeping then the next step is the Explaining how to read and use a write-up.”
+Issue: ASR fragment “infindible know, keeping…” garbles the instruction
+Likely intended: Transitional guidance between completing forms and explaining the write-up
+Confidence: High
+Reasoning: The rest of the sentence outlines next procedural step; the fragment is nonsensical.
+Impact: Medium – obscures procedural clarity
+
+
+—
+
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: 0:50-2:36
+Speakers involved: Anke Jordaan, Charis Siau, Ryan Cash, Luke Gillespie
+Content excerpt:
+“Anke: Good morning. Hello.
+Charis: Good morning… Phenomenal on a Tuesday.
+Anke: Cash, I see you in for a run… Morning run or evening run? … How far did you go?
+Ryan: …it’s like 4.5 miles… Discovery Green… 
+Anke: …Charis, what do you do for movement?
+Charis: …running on the treadmill… beach…
+Anke: My hips aren’t made for running. But I love walking.
+… Luke… I know you love the sauna… I like to go hiking… Went to the gym this morning…”
+Reasoning:
+Extended personal chit-chat about exercise routines, routes, sauna/gym. No connection to business processes or client work.
+Context impact: None—business content starts after 3:19 with process discussion.
+Recommended action: REMOVE 0:50-2:36
+
+[REMOVAL #2 - Type: Small Talk/Personal]
+Location: 2:38-3:19
+Speakers involved: Athena Simpson, Ryan Cash, others
+Content excerpt:
+“Athena: …break everybody from saying good… feelings wheel… 
+Ryan: It’s a beautiful Tuesday morning here in Houston… got up on time… make it on Zoom… looking forward to another amazing day at Aquamatch.”
+Reasoning:
+Mood/feelings small talk and non-substantive remarks about the day; no business relevance.
+Context impact: None—process agenda begins immediately after.
+Recommended action: REMOVE 2:38-3:19
+
+[REMOVAL #3 - Type: Off-topic/Personal admin]
+Location: 0:25-0:50
+Speakers involved: Athena Simpson, Anke Jordaan
+Content excerpt:
+“Athena: …my video is off when I join… I’m going to go to the bathroom… you can let them in and just tell them I’ll be right here.”
+Reasoning:
+Housekeeping and personal bathroom note; no training/business value.
+Context impact: None.
+Recommended action: REMOVE 0:25-0:50
+
+[REMOVAL #4 - Type: Personal anecdote]
+Location: 2:05:06-2:05:40
+Speakers involved: Athena Simpson, Anke Jordaan, Charis Siau
+Content excerpt:
+“Athena: …we freak out whenever she takes vacations.
+Charis: Luckily, I’m only having one honeymoon ever…
+Athena: …the website broke literally right after acquiring minds… she’s waiting for me for dinner… first time I meet her in person, she marches in and grabs my computer…”
+Reasoning:
+Personal vacation/honeymoon and dinner anecdote; not connected to training outcomes or client processes.
+Context impact: Low—removing does not affect the surrounding operational guidance.
+Recommended action: REMOVE 2:05:06-2:05:40
+
+
+—
+
+
+[BORDERLINE #1 - Requires Review]
+Location: 1:01:12-1:03:40
+Content excerpt: Discussion about staying in the Zoom room during breaks, waiting room monitoring, “hide non-video participants,” note takers view, hosting etiquette.
+Business relevance argument: Operational guidance for running client-facing calls; improves professionalism and reduces client friction.
+Personal content argument: Casual banter interleaved (“Oh, my gosh, Charis is back.”)
+Recommendation: KEEP — Operationally relevant; any 1-2 line jokes are minimal and don’t justify removal.
+
+[BORDERLINE #2 - Requires Review]
+Location: 2:06:20-2:06:42
+Content excerpt: “Luke, I’ll see you in 23 minutes… You got this, Luke… Woo!...”
+Business relevance argument: Brief closing/encouragement before next training; standard meeting wrap-up.
+Personal content argument: Cheerleading tone adds no substantive information.
+Recommendation: KEEP — Brief professional closing; per guidelines brief closings are acceptable.
+
+
+—
+
+
+Pattern note (for ASR system improvement):
+- “NDA and buyer profile” consistently mis-transcribed as “Indian bar/Indian bar profile/bar profile” across multiple instances (6:33-8:50, 15:32-16:15, 27:10-27:25). Suggest adding domain-specific lexicon for “NDA” and “buyer profile.”
+- “Broker call” frequently misheard as “burger call” and “broker falls.” 
+- Company name “AcquiMatch” repeatedly distorted as “Aquamatch,” “Acme Match,” “Acrimatch.”
+- Finance terms (“working cap/working capital”) misheard as “working cup.”
+- Various ASR garbles in administrative/process lines (e.g., 12:59), including insertion of non-English characters, and truncations that merge question/answer across speakers.
+
+Speaker attribution note:
+- At 2:16, a line labeled to Luke includes addressing “Luke” then answering; likely split across two speakers.
+- At 13:05-13:15, the booking-links question and response appear to be merged/misattributed between Athena and Anke.
+
+These corrections and removals will materially improve transcript clarity while preserving all business-relevant training content (processes for first write-ups, buyer profiles/NDAs, client coaching, financing/ROBS, broker call strategy, internal scorecard usage).

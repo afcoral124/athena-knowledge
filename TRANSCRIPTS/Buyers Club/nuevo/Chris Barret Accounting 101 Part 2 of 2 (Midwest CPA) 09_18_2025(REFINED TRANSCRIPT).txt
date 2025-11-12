@@ -1,0 +1,632 @@
+TRANSCRIPT - CORRECTED VERSION
+Call Date: 09/18/2025
+Event: AcquiMatch Buyers Club
+Participants: Athena, Chris, Federico, Jenny, Polly
+---
+
+[00:01:00]
+Athena: Big deal. Y'all, Jenny can join the club. She's been wanting to join these meetings for a while and Josh is here. Hello Josh. Nice to see you. Um, so great to see everybody. This conversation is gonna be so fire. I don't think I've ever been more excited about accounting in my life. Um, it is one of those things that like, honestly, it's like, oh, I care about accounting, but since you all are looking at financial statements day in, day out, um, and are going to be business owners where you're having to, you know, stay on top of your book, the accounting, that sort of thing.
+
+The reality of how you do it, how difficult it is versus what you're looking at when you go into it. Um, there's so much to this topic. So, um, I'm really excited to have Chris come back. Chris is I now, I think now fourth time buyer's club. So I think you've got the record for like most buyers club, uh, appearances.
+
+Um, that's how much knowledge that we are able to sponge off of him. So Chris and I have worked on a couple deals together. I love his no-nonsense. Very straightforward, very thorough, very easy to understand approach to business finances. So last week, if you missed it, definitely go back and watch the, um, we were talking through financial statements, kind of financial statements 1 0 1, what to know when you're looking at those.
+
+It was an amazing session last year. We had him talk about. About, uh, quality of [00:02:00] earnings. Um, that's something that his business does in and out all day long. And then they also, uh, do bookkeeping and accounting for business clients. So they're, they're on the receiving end of that, um, QoE, new business owner and or business owner needing to do the books.
+
+So who better than to talk about accounting, uh, and bookkeeping for business owners than Chris? Welcome back. Chris. Super excited to have you here.
+
+Chris: Thank you. Yeah, super excited to be back. It's always great, uh, connecting. So,
+
+Chris: Awesome. Will do. Uh, let me share my screen.
+
+Athena: Yep, we can see it. Thank you.
+
+Chris: Wonderful. All right, well, appreciate you having me back here, buddy. Today we're gonna be talking about, as Athena said, uh, accounting 1 0 1, uh, specifically talking about accounting as a business owner, especially as a new business owner. Um, our agenda for today is gonna be talking about one, why it matters.
+
+Um, two, talk about some of the things that would indicate good bookkeeping is being done. Some of the things to watch out for and to avoid. [00:04:00] Talk a little bit about the different methods of accounting that you can choose to implement, uh, when running your business. Um, and then when you are reviewing your financials each month, some of the things that you should be, uh, be looking at.
+
+And then finally talking about building your accounting team, um, and some of the things you should be thinking about, whether it's internal, external, what level of support you need, all that sort of stuff. Um, quick intro on me in case that we haven't connected before. Um, I'm Chris Barrett. I run Midwest CPA, founded another firm about three years ago.
+
+Uh, we are focused on working with acquisition entrepreneurs. Um, we help with due diligence, pre-acquisition. Uh, we've done hundreds of those engagements, uh, since launching the firm. And then, uh, post-closing, we have ongoing accounting services. Just about, I could say about 90% of our monthly clients did acquire their business.
+
+So we're very familiar with that process of. Ripping out that proverbial fax machine and putting in some better systems and, uh, getting some better accounting in place. And we love, uh, working with clients on that. Uh, first let's talk about why good accounting [00:05:00] matters. Uh, so I'd say there's three, three main categories of reasons why I think, uh, good accounting matters.
+
+One is gonna be compliance. So you need good accounting in order to do your taxes each year. So a lot of, uh, a lot of small business owners will fall into the trap of they just do their accounting for taxes. They will, you know, kind of neglect it all year. It's kind of a mess. And then they hope their accountant at year end or even during tax season, can do this big cleanup and then get the, uh, financials done enough so that a tax return can be filed.
+
+Um, that's a big mistake. One, it makes tax season really hectic and stressful. Your accountant is doing taxes during tax season, and so if they're needing to catch up their bookkeeping. Your return's gonna probably take a long time to get done if it's probably gonna get extended. Um, and then when it is done, it's gonna be all backward thinking, right?
+
+You're just, it's just enough to get a tax return done. There's no tax planning that went into place. [00:06:00] Um, in order to do some tax planning, you need some tax, uh, you need need good bookkeeping done. You're also gonna need it for lending. If you're gonna get a bigger line of credit, you're gonna do a tuck in acquisition.
+
+The first thing the lender's gonna ask for is your financial statements. Um, so having those good and ready, um, really goes a long way towards impressing that lender and then also giving them the information that they're gonna need in order to underwrite, um, your loan anyway. Uh, it's also really big for if you're gonna have investors.
+
+I, it, it's kind of sickening, honestly. Um, maybe sounds harsh, but I, I do see people occasionally raise money and then they don't go in with a good plan on how to manage their accounting. And then they're, they're this fiduciary, right? They're handling money. Someone else has basically hired them to handle their money and.
+
+Uh, the financials are over the place. The tax returns are a mess. And, uh, you really have a responsibility if you're, if you're gonna have investors in your deal, if you don't have investors too. But really, if you have investors in your deal, it's, it's super important that you have really good accounting.
+
+[00:07:00] You're treating everybody's money, uh, you know, with respect and, and taking, taking good responsibility of that. Um, next for just operating the business, right? You wanna know how much cash you have in the business. You know how much cash you're have coming in so you can plan for your cash flow in the next quarter, over the next year.
+
+Um, you can't do that without good books. You wanna build a budget for the long term. Um, even if you have a business that doesn't really get cash strapped, you have good working capital, uh, you don't have a lot of capital intensive nature, you don't have a lot of debt. It's still just way easier to sleep at night when you know, uh, you know your margins.
+
+You know, you can hire this person, um, you know, you have the money to invest in this marketing channel. Um, or you know that you don't have the ability to do those things without good books. You're just running blind and having good books as swear, it makes it so much easier to sleep at night. Uh, and then finally, value creation.
+
+As you guys are looking at businesses right now, I'm sure you've experienced this, um, as a buyer, when you go into a business, you start looking at their books and you see messy books, there is a higher perceived risk. And [00:08:00] if your perceived risk of that business is higher, then the multiple you're gonna wanna put on that company is gonna be lower.
+
+So, legitimately, if you have, are investing in good accounting while you own that company, it has the very real possibility of one, just making your life easier today. But then also when you go to sell that company, it's a very real possibility you're gonna be able to get, you know, an extra half turn of EBITDA or whatever it's gonna be just because you have good accounting records.
+
+Let's talk about what good bookkeeping looks like. Uh, I threw in here this tweet that I did like a year and a half ago, um, just because I thought it was relevant, uh, and wanted to note a couple of things that we should be looking for when, uh, when we're looking at our financial statements. Um, I think the most important thing to note when you're going to review financials and see, okay, is everything clean?
+
+Uh, the saying goes, “the bodies are buried in the balance sheet,” right? The balance sheet. If the balance sheet is inaccurate, there's no [00:09:00] possible way that your income statement is accurate, right? So if you're account receivable, balance is not right on your balance sheet. That means your sales are not right on your income statement.
+
+If your inventory is not right on your balance sheet, that means your cost of goods sold is not right on your, uh, on your income statement. So they're very connected. And the balance sheet's always the first place I go when I'm checking to see, uh, that something is, is not being done properly. Things I'm looking forward to see in a, in a clean balance sheet, right?
+
+We wanna make sure that all the bank accounts are positive, right? You might see this sometimes on a balance sheet. You see negative 50 grand a checking account. That's probably not accurate. So you wanna make sure all those accounts are positive. All the credit card accounts are also positive. Um, you wanna make sure there's not something sitting in the equity account called opening balance equity.
+
+That's a fake account that QuickBooks made up, um, that they use as like a plug account, right? There should never be any balances in there. Um, undeposited funds is another kind of weird account that you might've [00:10:00] seen before on books. What undeposited funds essentially is, is. You sent an invoice to someone, they've paid you, maybe they gave you payment and check.
+
+So it's no longer accounts receivable, but you haven't put it into your bank account yet. So it's kind this way, station between AR and your bank account. And so really the balances that are made, making that account up should really only be like between one and seven days old. Um, 'cause it doesn't take that long to deposit those funds in MO in most cases.
+
+Um, but sometimes you'll see this a, if an undeposited funds balance continue to grow and grow and grow and grow and grow, it's a really good indicator that they're doing their sales improperly and that they're maybe doubling, uh, double counting, a lot of sales. Um, I'll skip down about the income statement.
+
+You know, some things we're gonna be looking for. There are, uh, really around the chart of accounts. So. They have a chart of accounts set up in a good way where it's very [00:11:00] actionable. Occasionally you'll see these chart of accounts that have 200 accounts in it, right? And it's, it's just such a mess. There's so much to look at to the point where you're, you're basically not looking at anything because it's just too complicated.
+
+So you really want a, a chart of accounts. Uh, and, you know, when you look at your income statement, it's small enough where, um, when you look at it, you could really understand it in, in one look, and it, it makes sense month over month and, and year over year. Um, but it also has enough detail where you can tell, you know, that things are in different categories and, uh, it is not just too summarized where there's, you know, just everything's all lumped into one category.
+
+You're not sure there's too much in there for you to see trends, but you also don't want it too large. Um, you're looking for good reconciliations that are done every month too. So, uh, if you go into their, their QuickBooks file and you see this bank account has not been reconciled since, uh, you know, two, 2022, right?
+
+That means that the good bookkeeping processes are [00:12:00] not in place in this company. And, uh, something needs to be fixed. So every single month, a good company does their reconciliations. Um, they also do a good job of separating your, your business expenses from your personal expenses. Um, so when you're running your business, it's, uh, it's common for people to try and right game the system and save on tax.
+
+And there's lots that you can do to, uh, to reduce your tax bill as a, uh, as a small business owner, but you really are not gonna know what your actual margins are if you're shoving all these fake expenses in your books, right? And the ultimate goal, the best tax planning strategy that. I can give you is if you have a million dollar company, grow it to a $5 million company and you just made $4 million tax free if you haven't sold your company.
+
+So that's really the goal as a business owner, is you wanna run a really good company and grow that business. You don't wanna, you know, shove your grocery bill and save the [00:13:00] $20 a month on taxes because you shoved your grocery bill onto your p and l. You want to keep those two things separate and, and focus on running a really good company that you can then grow and maybe eventually sell one day or pass down to your, to your kids.
+
+Um, also a consistent revenue recognition policy. We'll get into revenue recognition a little bit more when we talk about methods of accounting. Um, but you want that to be consistent. The way that you recognize revenue, you wanna recognize it the same way every single month. Whether you choose to do it on a cash basis or an accrual basis, you always wanna do it the same way and kind of set that that's the way you're gonna do it versus, you know, switching month to month.
+
+'cause then it's just gonna get too confusing to follow.
+
+Um, some good habits that, uh, you should put into place. One is having a cloud-based accounting system. So there's uh, lots of good ones out there right now, right? QuickBooks is the big one. There's also Xero and Wave and some other ones. Um, you know, for most small businesses, QuickBooks, virtually, well, it's what we use for the [00:14:00] majority of our clients.
+
+Um, but there are some other ones that are out there. Some people hate QuickBooks for whatever reason. You can find some other good, uh, some other good platforms out there, but I think it's a really good idea to have a cloud-based system in place, um, and avoid using an on-prem solution or, you know, desktop solution or something like that.
+
+Um, one of the reasons is it's just the way everything's going. So like desktop, QuickBooks Desktop, for example. Is, uh, losing support from Intuit, right? They're getting less investment. Um, they're, you know, there's not as much support from, you know, if you, if you do have issues with the platform, they're not updating it quite as much.
+
+Uh, while QuickBooks Online is routinely getting updates, um, it's also easier to share access with other people like your accountant, right? It's a bit cumbersome for someone that's external to go in and have to get a VPN and log into that, and then log in your system and make, you know, make sure everyone else is outta the system in order to get into the, the file.
+
+[00:15:00] Um, it's, it's much, uh, much better if you can just have a cloud solution where you can share everything, uh, update or not. Uh, it's a good idea to have documented processes for how you're gonna receive payments from your, uh, customers, how you're gonna pay your vendors, and how you're gonna run your payroll, right?
+
+Those are the three. Like most important financial operations activities that you're gonna be doing, um, from a bookkeeping perspective. So you should have a good documented process around all three of them. Um, at what point does an invoice get sent? Uh, how does that payment get recorded on those invoices?
+
+How are you gonna follow up on them if they're not being paid yet? All that stuff's really, really important. Uh, you wanna have a good reporting package. So if you're using an accountant, or even if you're doing it yourself, take some time upfront when you're looking at your first set of financial statements as a new business owner and think about what's important to me.
+
+What do I need to be able to see on my monthly financial statements [00:16:00] and my monthly reporting package? Um. And build it, build it for you so it's custom. And then know where you're gonna be looking like, what are the high points, you know, you're the, you're the CEO of this company. What's the CEO summary on that financial, uh, report that you're gonna be looking at every single month?
+
+So that one, you can have the quick view, and then two, you, you have a way to, you know, dive deeper into it and it answers all their questions. Um, or gives you, um, good questions to ask, uh, if there's something that you, you need more clarity on. Um, a little bit more advanced as if you are starting to build a budget for your business.
+
+I really encourage you to go and build a budget for your company. But reviewing budgets to actuals is a really powerful exercise 'cause your budget's going to be wrong. And by understanding why your budget was different from the actuals, it really gives you a lot of insight. Uh, 'cause you get to figure out why you're wrong and you're gonna learn so much about your company.
+
+Um, through that process of reviewing budgets [00:17:00] versus actuals. It's a good idea to review your cash weekly, especially if you're in a business with tough working capital conditions. Um, having a, like a 13 week rolling cash forecast. It's a. It's, you know, a bit more advanced, but it's a really powerful tool to have in your back pocket so you know where your cash is gonna be, um, over the next, uh, next quarter.
+
+Um, keeping W-9s on file for your vendors. Just wanted to mention that, right? If you're gonna pay someone, make sure you're getting a W-9 from 'em. Just a good habit to have in place. Uh, and then for business buyers in general, I usually recommend getting a lot of this stuff set up about a week or so before closing, right?
+
+You're gonna have so many things to do right after closing. A lot of this stuff can get set up ahead of closing. Um, so it's a good idea to, uh, to start getting it set up about a week, a week ahead of time. And feel free to interrupt me if anyone's got, uh, got any questions on these too. Happy to, happy to pause.
+
+Um, talk about some pitfalls. So, one, as I mentioned [00:18:00] earlier, I won't talk too much more about it, but, um, co-mingling businesses and personal expenses, right? Keep everything separate. Know it. Your business is, um, uh, if, if you are gonna have something to go through the financials, it's maybe a, uh, potential, um, more discretionary expense or a one-time expense.
+
+Um, we'll do this with our business buyer clients. 'cause they, they do, they went through the process of actually figuring out what the real SDE, or EBITDA was of the business they're buying. Have a separate account on like other expenses that you've named a specific category, um, to put all those things that you consider add-backs, right?
+
+That way they're separated out, um, uh. Uh, that, that way you have it separated out and it's really easy to show a buyer if they ever, if you do ever end up selling your company, here are the things that we are, um, adding back. I guess our question, what does it mean? Uh, a week before closing, it doesn't mean closing on your business.
+
+So if you're buying a business and you're closing, you know, [00:19:00] a week from today, you're closing next Thursday, um, it's a good idea to start the process of setting up your accounting system today so that you can have your QuickBooks set up, you can integrate your payroll system. You have your chart of accounts set up.
+
+Um, have all those things done, uh, about a week or so ahead of, uh, of closing on, on the business that you're purchasing. Um, a couple other ones that I mentioned earlier, right? Not reconciling your bank accounts, you wanna make sure you're reconciling every single month. Uh, there's some businesses that it's really not gonna be very helpful for you to look at financial statements on a cash basis.
+
+You're gonna want them on an accrual basis, so, um, making sure that you're, you're using the right accounting method. Um, bad chart of accounts as we discussed earlier, and then only using your books for tax purposes, uh, versus using it to one tax plan. And then also, uh, understand your company better and make good decisions about your business.
+
+Let's talk about accounting methods. Um, [00:20:00] so two, two main methods of accounting, cash and accrual basis. And then there's also more of like a hybrid method of accounting. Um, so a cash basis of accounting is, is when you're gonna recognize income when you actually. Get that cash and put it in your pocket and you're gonna recognize an expense when it actually, um, leaves your bank account versus an accrual basis.
+
+You are going to match revenue and expenses together, and then you're gonna recog, which means you're gonna recognize those, uh, that revenue when it's earned, and you're gonna recognize the expenses when they're incurred. Uh, so an example of that is maybe you send an invoice, uh, in the month of September, um, but then you don't get paid on it until the month of October.
+
+Uh, on an accrual basis. You would recognize that revenue in the month of September, 'cause that's when you know the invoice was sent versus on a cash basis, you would recognize that revenue, um, when you [00:21:00] actually put the cash in pocket, which was in October. Um. The issue there with cash vs accrual is that maybe you had maybe the, in the month of September when you sent the invoice, that might be when you incur, when you had the expense come outta your bank account, right?
+
+On a cash basis. You paid the money in September. Um, which would mean when you look at your financials for September, you're gonna have a bunch of expenses on a cash basis, but no revenue to, to match against that expense. So you're not gonna see an accurate representation of your margins, um, on that cash basis of accounting.
+
+In some businesses, it doesn't really matter if you have a business where, uh, you know, the match is really easily just naturally, like we gave the example last week, if you're here like a restaurant, um, sometimes it's a bit easier to do it with a restaurant if you're, you know, buying things and, uh, selling them all like within the same week.
+
+Um, it might not matter that much. Um, while with other businesses, like if it's a construction type [00:22:00] company, you know, that's where, uh, it's gonna become much more of an issue. Uh, and then sometimes you'll see kind of like a hybrid model used where, uh, there's maybe a high materiality on what you're gonna accrue for.
+
+Uh, you're gonna do accrual on maybe just the job tracking, but you're not gonna do accrual on every item in your opex. Um, you know, like you have a Canva subscription that's technically over a 12 month period, you're not gonna worry about dividing that $300 payment over 12 months, right? So you kinda have like this hybrid method where you know, we're gonna, we're gonna do accrual for the stuff that matters, and then I'm actually make decisions off of, and then it's just not worth the team's time and energy and money to spend all the extra, uh, effort to do every line item.
+
+You know, you'll see a lot of small business owners have success with that hybrid method and we, we use it with some of our clients where. If, if you, you know, spent, uh, a thousand bucks on [00:23:00] this month on something that's gonna go over 12 months, you know, is it really worth everyone's time to divide that over 12 months?
+
+Probably not. Um, but is it important that you know what your actual margins were on all your jobs? Yes. It's very important that, you know, that. Um, so there's also sometimes that, that hybrid method that gets used.
+
+Athena: Chris, before you move on to the next section, could you explain the, like, um, project based businesses and like how that gets accounted for in these, like, you know, that I'm just in plain language where that fits in this and some examples maybe?
+
+Chris: Yeah, so like a project based business, um, they, they can get really tricky with, uh, with their revenue recognition. So if you have a, a business for example, that does, like projects that take six months, you're gonna be incurring expenses over the course of those entire six months. Um, but there might be milestones on when you're allowed [00:24:00] to send an invoice to a, uh, uh, to, to your customer, right?
+
+You might have to assert, hit a certain amount of time or a certain piece of the project has to be done, um, which might not fit really neatly between the months, which means that, um, you might have incurred a hundred thousand dollars of expenses this month, but you might not have hit the milestone that allows you to send any invoices in this particular month, which means that if you're just running on a cash basis of accounting, you might see this really negative gross margin, which doesn't make any sense, right?
+
+You, you had a hundred thousand expenses and no revenue that, that doesn't, that doesn't, uh, compute, right? Why would you have done that as a business owner? So to properly match the revenue to, to their two expenses, uh, there is an accounting method called Percent Completion Accounting, where you do tracking of, alright, how far along am I on this project and how much revenue should I then recognize?
+
+So if your whole project [00:25:00] was gonna cost you a hundred thousand dollars to do, and so far you've spent $30,000 on that project, we would consider you 30% done with that project. And so you would take 30% and multiply it by the total amount of that project. Total amount a, you're expected to get paid, maybe you're expected to get paid $200,000.
+
+So 30% of 200,000 is $60,000. So you would recognize in that month, $60,000 of revenue, regardless of whether you had sent the invoice at that point or if you had actually put the money in your pocket yet. It's just a, a tool that's used in accounting to make sure that you are properly matching the revenue and expenses that you can see a more clear view of your gross margin on a monthly basis.
+
+Does that make sense?
+
+Jenny: Awesome. I have a question on the project, a follow up on the project base.
+
+Chris: Yeah, uh,
+
+Jenny: for your clients that [00:26:00] have more project based businesses is, do you also help them track margin at the project level or is that a typical service that is provided?
+
+Chris: Yeah, so, uh, tracking of the project level is, uh, is a lot of work and we do do it for some clients.
+
+A lot of times if someone has a lot of needs to track the project level, I think it's a good idea to have someone internal that's gonna assist with that. Um, having someone that's external. Doing all of the job tracking is gonna result in you getting a lot of questions on what job did this expense go to?
+
+Uh, and having someone internal that's able to manage that, uh, you know, that's their day to day and is just gonna, they're just gonna have more insight to answer those questions themselves or be closer to you to get more closer to the team to get those questions answered. Um, it can be a difficult one to outsource and if you are gonna outsource it, it's probably one, like where when you outsource it to someone else, you're gonna want someone else [00:27:00] internally that's prepared to answer those questions, um, from the external team versus going to you.
+
+'cause if you outsource all of the job tracking by, uh, um, the project profitability tracking, um, by job, uh, you're gonna result. You're gonna end up with a lot of questions from the external team, uh, on what, what expense went where. Um, okay. So we be doing it with some clients. We'll review it with them we'll, like help make sure they're doing it properly.
+
+Um, but it's usually a good idea to have someone like an admin, uh, that's assisting with that.
+
+Jenny: Okay. That's perfect. Thank you.
+
+Chris: Mm-hmm. Um, I should mention here too, uh, taxes are usually done on a cash basis. So regardless of how you're doing things internally, a lot of the times it's, uh, it's better to do a cash basis for, for, for your tax return.
+
+Um, that's not always the case. And sometimes you, if your business is large enough, you might be forced to do an accrual basis of accounting. [00:28:00] Um, but the reason, the reason that's done is, so for example, if you have, uh, you know, you send a bunch of invoices in December and you're on an accrual basis, um. But you haven't actually received the cash on that yet, or you might not necessarily wanna be paying taxes on it.
+
+Um, there's also some games you can kind of play from a tax perspective if you're on a cash basis where, you know, maybe you prepay all of your insurance or all your software costs in December of this year so that you can reduce your tax blink income in the current year and, you know, defer it to paying it next year.
+
+So there's some gamesmanship that can be done there, um, when you're on a cash basis where you can kind of help yourself from a tax perspective. Um, but usually you're gonna see your, your taxes on a, on a cash basis unless there's a, a specific reason to go to accrual,
+
+uh, your monthly reviews. So some things that you should be looking at in your financial report each month. Um, I, we talked in depth about a lot of these, [00:29:00] uh, three statements, so I'm only gonna briefly talk about them. Um. But you know, you should have your income statement, your balance sheet, and your statement of cash flows should be in, uh, in your financial statement.
+
+That's a no brainer, right? Um, you should be looking at trends month over month and year over year, uh, across those three statements. You should be comparing budgets to actuals. Um, you know, how did you do this month versus what you expected to do? Where is your cash flow trending? Um, you know, and then using that to plan for the next month or the next few months, uh, for where you're gonna be utilizing that cash where you're just gonna take, be able to take cash out of the business.
+
+Um, and then thinking about, you know, large upcoming expenses you have and planning for those, whether it be large debt payments or uh, CapEx or things like that. Um, and then I think it's also good to have a few key metrics. Metrics that you're, you're tracking in your business, uh, from a financial perspective, right?
+
+Having too many can get, uh, overwhelming. It doesn't, you know, you're not gonna be able to have great action on them. Um, but figuring out for your [00:30:00] particular company, what a few, uh, a few things that really drive results with your business. So maybe it's your gross margin percentage, apparently I, uh, can't spell.
+
+Um, uh, like maybe it's your cash runway. Um, maybe it's your day sales outstanding, um, you know, and something else around working capital, your conversion cycle, um, that, that you wanna track. But I, I would definitely advise you to get, you know, a couple things that are really important to you and have those on the face of your, uh, your financial report that you review every single month.
+
+Uh, finally building out your accounting team. Um, so there's a few different. You know, terms that you might hear, uh, when you think about who you're gonna hire for your, uh, your accounting team, right? You're gonna hire a bookkeeper. You might have heard the term controller, hiring controller or hiring A CFO.
+
+Um, and then, and you might hire an internal bookkeeper, an external one, or any of these other positions internally or externally, depending on how large you are. [00:31:00] Um, the way you think about it and what, like, the differences between these three roles is the bookkeeper. They're doing those like day-to-day, uh, those day-to-day transactions, the day-to-day transactions, making sure that everything gets.
+
+Recorded, uh, into the financial statements. While that controller is able to do more of the compliance type work, where they're making sure that everything's being recorded properly, internal controls are being monitored well, um, that there's good policies and practice in place, they can do the review.
+
+They're gonna be much more technical from an accounting perspective. So some of that stuff we were talking about earlier with percent completion accounting, being able to review that, you, you do need to understand, um, you know, some more technical levels of accounting. And sometimes a controller might do that better than the majority of bookkeepers.
+
+Um, and then A CFO is gonna be more forward thinking. They're gonna be helping with, uh, budgeting for cash, and then helping you manage your cash flow. Um, they're gonna be helping with, uh, forecasting the profitability of the business. [00:32:00] Uh, they also might be able to help if you're looking to raise money or make another acquisition, um, they're gonna be able to assist with all those more strategic, long term, uh, focused activities.
+
+Uh, we talked a little bit about in, in-house versus outsourced, uh, positions. Um, I, I do think that once you get to a certain point of tracking, uh, activity by, like on a job by job basis, it could be helpful to have someone internal, uh, especially if it's, you know, pretty comprehensive amount of activity that you're trying to track on a job by job basis.
+
+It could be nice to have someone internal do that. Um, otherwise you have to have really good processes in place with that external person and be ready to answer. Like I said, a lot of questions. Um, the problem with most, for most small business owners is that once you start getting to a certain level of, uh, of complexity in your business, there is one.
+
+You might hire a bookkeeper internally. You might hire 'em for 40 [00:33:00] to $60,000, but if your business is large enough to afford that. Uh, there's probably some intricacies with your business and the accounting, uh, where it makes sense to have someone that's able to do a higher level review, but you probably don't have the budget or the need for someone to be full-time in that, uh, like outsourced controller type position, uh, or excuse me, that internal controller position.
+
+So it might make sense to outsource, have an outsource controller come in where yeah, you, you've now reached the point where. You have someone internally that can handle the day-to-day recording of transactions, but you need someone that has the expertise to support them to make sure you have good, uh, good accounting practices in place, good, uh, processes in place for the accounting.
+
+Everything's being done properly, nothing's getting missed. They have good internal controls. And that's where having a good outsource controller now come in, starts to make, uh, starts to make more sense. And [00:34:00] then at some point you might, uh, either you have someone externally that's doing a good job of managing all those items for, uh, like that, that controller position, or maybe you reach the point where it makes sense for you to hire an internal controller.
+
+Are you able to pay the money for, you know, 80, 90, a hundred thousand dollars a year or plus, depending on, uh, the complexity of your business to have that internal controller. But now you need someone that is, uh, more forward thinking and can help you manage cash better. And that's where, uh, a good CFO can come into play.
+
+Um, and again, at, at a certain level, it doesn't make sense to spend the hundreds of thousands of dollars a year, it's gonna cost to hire A CFO and you can just spend a few thousand dollars a month on a good outsourced CFO. Um, so I gotta give some ranges on internally, which you could budget for those positions.
+
+You know, a bookkeeper, you know, 40 to 60 is probably where you can expect to be. For an internal bookkeeper. Um, a controller, you're probably somewhere between [00:35:00] 80 and $120,000 for most controllers. And then A CFO, you're probably one 50 plus and can get dramatically above that depending on, uh, the size of the company you're talking about.
+
+Um, while externally. Uh, bookkeeper again, it's, it's gonna vary quite dramatically by, by your business, but, you know, around a thousand dollars a month for most SBA sized businesses, you know, sub 5 million, you know, a thousand, 1500 bucks a month, it's gonna cover most of your bookkeeping needs. Um, as you start getting up to needing an outsource controller, you might be into the two to three grand range, and then with a outsourced CFO, you know, 3, 4, 5, even, even beyond that, depending on the scope of work that you're looking for, um, from the outsourced CFO is what I would, uh, plan to budget.
+
+Um, awesome. And then that's, uh, that's all I got for you. Any, any questions on anything we discussed here today?
+
+Federico: Um, uh, what [00:36:00] revenue number do you recommend to have a full-time CPA, do you and your experience?
+
+Chris: One more time.
+
+Federico: Uh, to have a full-time CPA, what is your recommendation of revenue to, to be that
+
+Chris: like, I have a full-time in-house CPA in-house.
+
+Federico: Yeah.
+
+Chris: Yeah. So a CPA is probably gonna be at least in that like controller type seat. Um, I think it depends a lot on the complexity of your company. Uh, so if you're running, like we have one client that comes to mind that's running a pretty large business. They're doing about 15 million a year in revenue, but they sell one product on Shopify.
+
+Uh, they would maybe add two since they bought the business, but it's, you know, relatively. Simple company. Um, and they're able to do everything outsourced with that business. While I know, uh, we have a couple other businesses that are like more in that contracting, like government contracting, like there's some complex complexity in their accounting or a manufacturing business that are more in that like $5 million [00:37:00] range where, uh, it's, it they've actually gone and hired, uh, an internal controller position, um, because there is enough complexity and there is enough work to do, uh, for their business.
+
+So it's gonna depend on your company, but probably somewhere in that $5 million range for a more complicated business. And then, uh, you know, it can be significantly higher if it's a simpler company.
+
+Athena: Great question. Um, this was really helpful and I love that you, uh, break it down, um, pretty simply something that I wanted to chat about. Um, just quickly, I'm, I'm curious what your feelings on, you said you work with, uh, some clients on Wave. What's your feelings on like, what's, there's, like, the system that accountants prefer and then there's, there's, you know, systems that are easier for business owners to manage.
+
+So it's, what's your thoughts [00:38:00] on Wave QuickBooks, all the cloud-based accounting softwares out there?
+
+Chris: Yeah, so all of our clients are on QuickBooks. We have a couple on Xero. Um, but none are on, none are on Wave. I do know some people that use it. I believe it's free, right? Mm-hmm. Um, we've, uh, we've done diligence on a couple deals where the, actually, funny enough, the last one we did the diligence on that Used Wave.
+
+It was an accounting firm that was on Wave. Um. I, I don't know that I have a really strong opinion on it one way or the other. Um, mainly because I guess the one that I was looking at was very clean 'cause an accountant was doing it themselves. Uh, but I have used some ones in the past that were free. I'm forgetting the name of, there's like a real estate specific one we had a client using that's also free.
+
+I think it starts with an S but I can't remember the name of it. Um, but yeah, they're, they're really, they really are, like, the user interface makes it really easy for the, the client to work in the system. But, um, sometimes they don't know like what those easy buttons to [00:39:00] push or doing on the backend. Um, so it can be a bit.
+
+Dangerous if you don't know what you're doing. QuickBooks, I think is a tough one to use if you don't have an accounting background. Um, I think it's really easy to mess up QuickBooks if you don't know what you're doing. Um, but I think it's also the most powerful solution out there for small business owners.
+
+Um, we really like it for our clients. Um, you know, it's not perfect. They roll out a new update every day and change everything on our, you know, the way that we view the system and they increase their prices every three months. But, uh, right now I, for most small business owners, I think it is the best software out there, even though they're the evil empire.
+
+So
+
+Athena: I, yeah. Do, uh, do you have any, uh, I reluctantly switched over from Wave to QuickBooks and I, I am still regretting the decision because I, I just felt like. From a user interface perspective was just so much easier to figure out. But, um, [00:40:00] when you, when you bring new clients onto QuickBooks, do you have, like, do you guys do training or are there resources out there that you recommend for people to learn how to use this stuff?
+
+Chris: Yeah, so a lot of our clients, so it depends on the client. So some clients, uh, we beg them to not touch QuickBooks, um, because we're gonna do. A hundred percent of of everything, right? There's no need for them to ever be in there other than maybe pull reports. But you know, we're gonna send them reports and go with 'em so we can keep them from ever having to go in there.
+
+That's great. And you know, nothing gets messed up. Then there's some clients that they have an internal person that's managing. Um, their invoicing or their payables functionality and they do need to be in QuickBooks. And then yes, we will, we will do the training with them to show them exactly what they need to be doing.
+
+Uh, we're also there to support them as issues come up, uh, which they do, right. Whether it's just an issue with a software or like some new thing, but they, you know, some one off event that they're not familiar with. Uh, they need some help putting a process in place we [00:41:00] can support on that end. So, depends on the client.
+
+Some of 'em, we just tell 'em, Hey, we're gonna handle it completely, please don't touch it. And then the other ones we, uh, we'll do training on their piece of the system and what they're gonna do, just use the AR and module or maybe they're just using an AP module. Um, and then, uh, we can assist from there.
+
+Athena: Awesome. Um, something that you mentioned, like looking at your budget versus actual every month, um, I use spreadsheets for this. Is this something that can be done with accounting software or it's something like, you know, if you're not, if you're outsourcing. Accounting if folks like yourselves and they'll do that for you.
+
+Like how, talk me through,
+
+Chris: you know.
+
+Athena: Are there, are there functionality or tools within that? Is that something that you get your, your team to do? How does that work?
+
+Chris: So we, uh, we do budgeting for a fair number of clients. Um, it depends on the scope, right? So we don't do it for everyone of 'em. If they're not, if they wanna do it themselves, it's totally fine.
+
+Or if they, um, just don't care to [00:42:00] doing at all, then that's, that's, uh, their decision as well. We do help a lot of clients with 'em. Uh, QuickBooks does have the functionality where you can put, depending on what plan you're on, I believe it's not available to every plan of QuickBooks. I think it might be plus and above.
+
+Yeah. Um, but you can load a budget into QuickBooks and then run reports directly out of there that are budget to actual, which is pretty neat. Uh, there's also a ton of tools that integrate directly with QuickBooks. Now, that's another thing that's really great about cloud software and specifically QuickBooks.
+
+I didn't really talk too much about this, but one of the biggest benefits of QuickBooks is that it integrates pretty well with everything. Uh, they have a great API and so there's tons of people building apps that connect with QuickBooks. Um, while some of the other platforms, don. Have as many connections.
+
+Um, but there's tons of ones, tons of options for QuickBooks. So there's apps like Fathom or Live Flow, um, that can pull that data out either into their system or into a spreadsheet, and then use that to, uh, [00:43:00] to build, um, uh, to build a budget off of. We use one called Retriever. Uh, one of my clients had a friend that like built the app about a year ago, and it, it's, it sucks all the data into a Google sheet that we use to, to create, uh, custom budgets for them.
+
+Um, so pretty neat. So
+
+Athena: I feel like I'm not using the full fire power of this. I'm old school. I trust my spreadsheets. Like my spreadsheets. Um, so, uh, one, one thing that I mentioned before we got started that it, it is just hilarious and blows my mind, right? Like, um, you can make your books look so many different ways, but there's accounting.
+
+To reduce taxes. Mm-hmm. And then there's the accounting to make your business look profitable. So can you talk us through some of that And also like, you know what, what I also find really interesting is, you know, cash versus accrual based accounting and like, um, you know, you [00:44:00] can manipulate the numbers to look favorable on either side.
+
+Most people are, are wanting to reduce their, their taxes, which then doesn't make the business look very profitable, even if it's a profitable and stable and growing business. So I just finally endlessly. Interesting. So talk us through like, you know, it's, it's not the same thing right? To account for taxes as it is profitability.
+
+Chris: Yeah. Yeah. It's, uh, it is very different. Um, a lot of it does come back to that matching of revenue and expenses. So if you are trying to reduce your tax bill. You want to bring the cash in as late as possible, so ideally in the next year, and you wanna pay the expenses now, so that what makes you look really unprofitable.
+
+Um, I've even seen there's a legitimate strategy that's, you know, it's kind of, uh, almost silly sounding, but if you [00:45:00] own the business that you operate, your, uh, uh, if you own the building that you operate your business out of, and you pay yourself rent, you can on a cash basis with the tax code. When you, when you send out a check, even if they haven't deposited the check yet, when you send out the check, um, it's considered an expense on a cash basis.
+
+So you can go and mail yourself a check on December 31st, but then that check doesn't come to you until January 1st. So you now recognize the expense in this year, and then you're recognizing the income. Next year and the income's to yourself, but you're not recognized until next year. We've seen people do this type of stuff before where they're just trying to bring the expense into this year and then push the income into LA into next year.
+
+Um, we, we'll occasionally see this. If you look at monthly financial statements in a business that you're analyzing, you'll see, well, why is December always your worst month? And it doesn't seem like you're a seasonal business. And then January [00:46:00] is always your best month. And a lot of times it's just 'cause I'm not, oh, I don't deposit any of my checks in December.
+
+I deposit 'em all in January. Um, and it's kind of silly and some of it's actually know legitimate if technically if you've received the check, uh, it's still taxable whether you've deposited it or not. Um, but people don't necessarily always follow that rule. Um. But yeah, there, there's lots of gamesmanship that can, that can occur.
+
+Um, there's also some things like with illegitimate expenses, right? People are putting their personal life through their business and basically committing tax fraud. Um, but you know, are they gonna get caught? Depends on how egregious they're being, most likely. Um, and so yeah, there's, there's lots of gamesmanship that can occur.
+
+Athena: Well, there's gamesmanship and there's following the tax code, right? So there's like, there's, there's things that they've told people you can do to reduce your taxes. Like, um, Augusta is one of those. So I'm curious your thoughts on that, Augusta? [00:47:00]
+
+Chris: Yeah.
+
+Athena: I think I've asked you this before. How often are you seeing it show up?
+
+Are people Yeah, it's,
+
+Chris: it's a real thing. It's, uh, I think people like over blow or it is overblown for like, how. Nice of an incentive is, you know, like, at least for me, right? I live out here in Wisconsin. Um, you know, I'm not like in downtown or anything like that. So like if I were to go in on the open market and rent my house out, I guess just for people that don't know what the GU rule is, the reason the Augusta rule exists, uh, is because named after, right, the golf tournament in, uh, Augusta, Georgia, right?
+
+Augusta, Georgia, um, and all the houses. There, essentially people were renting them out. The people that lived there were renting their houses out, um, uh, during the golf tournament that still brought, brought so many people to the area and, uh, they, whatever, for whatever reason, the IRS said, as long as you're renting your, uh, house out for less than 14 days a year, um, that income [00:48:00] is, is not, uh, not something you need to report.
+
+Uh, so like, as a business owner, you can basically use that rule to rent your own house out to yourself. And when you make that payment to yourself, it's an expense to the business, but then you don't also have to report the income. So it's like a one-sided transaction. So the expense comes out of a company, reduces your taxable income, but then that income also comes to you.
+
+It's not taxable. So technically you can go and rent out your, your, your, um, your home to yourself or some real estate that you own to yourself and, uh, and not pay, um, you know, not, not pay taxes on it, but at the end of the day, like if you're able to rent out your house for 200 bucks a day, and you could do it 14 times, uh, a year, you know, and then your tax rate's 30%.
+
+I mean, you're talking about like a few hundred bucks to save and is it worth all the hoops you jump through? Probably not. Um, in some cases, yes, in some cases, [00:49:00] no. Um, but yeah, it is a legitimate thing that you can do. Uh, but it's, you know, it's kind of like. Not a, it shouldn't be like a huge advantage in most cases.
+
+Athena: Um, it's interesting though, depending on the area that you're in and the comps that you can pull, right? Like a day rate for some of the, like high mm-hmm.
+
+Chris: Uh,
+
+Athena: I use Augusta because I, I lived in Austin, right? And like a day rate there made it, made it, it was worthwhile to do it. Um, but then it's like, if I'm trying to explain that to somebody trying to buy my business, right?
+
+So, but, uh, not selling anytime soon, but I, I, I guess it's just, uh, you know, the continual conversation as a business owner and depending on what your strategy is, if, if you're like, I'm, this is my business for the foreseeable, I wanna reduce my taxes legally following the tax code and that sort of thing, then my books are gonna look very different as opposed to if my, my goal is to sell and make it look as, as possible as possible.
+
+Um, [00:50:00] and I don't know if a lot of owners pre-plan. The profitability part. So are you coming across that a lot? You know, you do the Q of E as well, but then also helping clients. So, um, do you see owners over indexing for tax versus,
+
+Chris: yeah. Oh
+
+Athena: crap, I need to sell, I probably should have made this look differently.
+
+Chris: Yeah, so anything like that, that's like, it's a legitimate tax strategy that we're doing. Um, and we know it's, you know, we can legitimately deduct on our taxes. Uh, and it's maybe something we don't expect a buyer to have to deal with, we do with our clients, is we create a separate line item on the p and l because where it gets difficult, like, uh, and this was basically tax rod, but we had, we dealt with a client once who was, um, they were about buying a business and the owner, it was a construction business.
+
+The owner built his own deck, um, for his personal house and he ran all of those expenses to purchase the [00:51:00] materials for that deck. Through his company and then he was adding it back and we're like, can you show us the detail behind these transactions? And he said, no, I intentionally buried it so my accountant wouldn't find it.
+
+Like, okay, well now we can't find it either so we can't add it back. Um, versus if it's something like you're just talking about the Augusta, we're paying yourself a rent payment. Um, rather than chucking it into the same rent category with anything else that you've rented. Having a separate category in your p and l, having it on other expenses so it doesn't affect your net operating income and name it, you know, self rental or something like that because it is still a legit, like it's, you don't have to worry about someone looking at it and be like, oh, you're a cheat.
+
+'cause it's a legitimate thing. Right? As long as you're doing a legitimate strategy, it's great to have it called out obvious so that if you do go to sell one day, it's really easy to just pull, oh yeah, here's the six accounts that I've done these tax strategies with that. A hundred percent of these accounts are things I'm [00:52:00] adding back.
+
+And so it is super clear to a buyer, um, you know, what, what you're looking for. And then bonus points, if any of those transactions, you just have like a Google folder, uh, Google Drive folder where you're just chucking all the receipts to those transactions in there too. I mean, shoot, if I was gonna QE on a deal and someone gave me that for all their add backs, like, like that may be a dream, it'd be great.
+
+It may be so easy.
+
+Athena: I love the other exp, you know, like other expenses. Okay, so, so new owner, you know, we're, we're also wanting to maximize our situation, so that's clear. But like, how often are you looking, like when you're doing the Q of E side and for the folks here that are looking at people's books, you know, doing it for profitability versus doing it for taxes.
+
+Most of the business owners' books that we're looking at, we're probably optimizing for taxes. So I'm, I'm guessing you've seen a lot. More in the QoE process than, than I have. So do you find that a lot, that there's, you're having to like unpick [00:53:00] tax strategy from profitability? Yeah.
+
+Chris: It's, it's honestly like, usually the unpicking like tax strategy isn't that hard to unpack usually.
+
+Mm-hmm. Like it's the, the stuff that, it's the tax fraud. That's, that's right. Right. It's where they it's where they renovating
+
+Athena: my home for my business. Yeah.
+
+Chris: Like we just had one their day. They're, they're running their child support payments as expenses through their business. Right. Like, that's the type of stuff, you know, tracing it down and they're putting it through as a contractor cost.
+
+And you know, like, we're like, is that, you know, you paid this person, you know, like you deduct on your tax return and now you're saying it's not that it's actually a child support payment and like, I don't know, like that sort of stuff where, or we've seen they're paying their housekeeper as a business expense and they're writing it off as a contractor and then later they're saying.
+
+Hey, that's just my housekeeper. That's not a actual, but it's okay. But you paid this person, you're paying them every month. You deduct on your tax return. That's where it gets hard to unpack. Um, you know, it's just a [00:54:00] name on a piece of paper, like, how are we supposed to know this person didn't assist in some way with your business?
+
+Um, that's where it gets hard, uh, the stuff where it's, uh, you know, like a, a legitimate business meal and you're able to deduct a portion of it, or, you know, you, you ran your own car through the business and you, we can see the depreciation on it. Like that stuff's easy. You know, you rented, you have, you have an accountable plan and you reimburse yourself for your home office.
+
+And like that sort of stuff is easy for us to trace. In most cases. It's the stuff where they're trying to, you know, pull a fast one and, you know, do something that's technically illegal, that gets hard.
+
+Athena: I, um. I don't know if you can share, we don't know the deal, but like I've, what was the justification for the, uh, the child support payments?
+
+Chris: Um, like what was just like, why were they saying as a legitimate add-back?
+
+Athena: Yeah.
+
+Chris: Uh, well, they're saying it's not a business expense, which it's not. No. But
+
+Athena: like how, [00:55:00] what, what, what was the reasoning for running it through the business though? Did you some,
+
+Chris: yeah. It was tax fraud. I mean, it is to make a tax deduction that it wasn't like they deducted it on their taxes, but.
+
+Athena: Did they know it was wrong or,
+
+Chris: oh, yeah. Mm-hmm.
+
+Athena: Okay. Definitely.
+
+Chris: I mean, their accountant too, like, I mean, it was like embarrassing talking to their accountant. I'd like ask them because there was a million of these type of transactions. Um, that was maybe some of the best of it, but there's, there was a lot like that.
+
+And, uh, I kept having to ask them like, so this is not a business expense, but you deduct on the tax return. Right. And like, I'd like get 'em to say yes. So
+
+Athena: I'm assuming this, this deal didn't go through after
+
+Chris: I've working on it for a year and a half. I still am getting roll forward, uh, on this QoE. I've been working
+
+Athena: on it for a year and a half, so, Gees.
+
+That's insane. Um, I see Federico has another question and then I, uh,
+
+Federico: yeah. Yeah. I was wondering if you are familiar with this [00:56:00] book?
+
+Chris: I am. Yeah. Mm-hmm. And
+
+Federico: if you are, I'm interested in knowing your take on it. What, what you think about it then. Yeah. Yeah.
+
+Chris: Uh, I, I like the, uh. I like, like the thought behind it.
+
+I think the idea of, as a business owner, you should be building in your profit to your p and l and expecting to pay yourself and actively setting money aside for taxes. Like all those things are really good. Um, I think in practice, Profit First is usually an absolute dumpster fire, uh, because you're setting up seven bank accounts and moving money between all of 'em and then you're gonna get busy, you're not gonna move the money.
+
+And then you're taking your bookkeeping costs from a thousand bucks a month to 2000 bucks a month because there's so many more accounts to reconcile. And then you stopped doing what you were gonna do anyway with moving the money 'cause you got sick of moving all the money all the time. 'cause you have other things to do.
+
+Uh, and then it breaks [00:57:00] down. Um. Some people absolutely love it. And so like, I'm not hating. Like if it works for you, like go do it and uh, it's great. Um, I think what, what it's essentially trying to do is it's trying to build a budget and it's trying to make it so that when you look at your bank account, you see your budget, right? So it's super easy and obvious. I think it's better to learn accounting and be able to build a simple budget in a spreadsheet like, like Athena was talking about, and be able to understand that and know where your money is going, understand a statement of cash flows. I think that's gonna take you farther and I think it's gonna be more sustainable than here's my seven accounts and I'm splitting it out between each one.
+
+And I think it just becomes too much, um, in my experience.
+
+Athena: So I love the system. I, I, uh. I, but I, I, Chris, when you were saying that, I was like, oh my gosh. Like I use, um, a bank account that was actually like, like Relay Bank. They, they built it with the, the guy that wrote Profit First. So I couldn't even [00:58:00] imagine doing those manual transfers every month, like everything's automated.
+
+But, uh, when I was a business consultant is as much as you would want them to read their financial statements and do that sort of thing, like most business owners
+
+Polly: don't,
+
+Athena: right? So it's like any level of budgeting or oversight of your finances is better than none at all. And it's really finding a system that works for you, that helps you understand your numbers and how your, your finances flow, right?
+
+Ideally, you have someone like Chris and his team that are able to advise you, you know, most of you will buy, be buying businesses that justify that. Um, I come from startup land where people are having a.
+
+Chris: Yeah, learn
+
+Athena: budgeting, you know, like everything themselves and like be scrappy and bootstrapped. So putting money aside, especially the tax.
+
+Portion. Like I imagine you see it all the time. It bites people when they're not, when they're not preparing for that.
+
+Chris: Yeah, absolutely. Yeah. And I, I, I, I've read it myself and just [00:59:00] like, you know, I love the, just the thought of, hey, we're not just blowing through money here. Like, the goal is to make a profit, right?
+
+That's, that's the whole idea. So if you make a hundred bucks, you better be setting some money aside to put in your own pocket, because otherwise why are you doing this? Um, just that in general, I think it's a really good, uh, philosophy to be, uh, having your mind as a business owner. Um, and yeah, relay, I think if you're gonna do it, you have to use Relay.
+
+I think, uh, if you are gonna go down that route, uh, really,
+
+Athena: yeah, that would be a nightmare to manually transfer all that at beyond. But, um, I, I Federico, if you ever want, um, I, I built a cashflow forecasting spreadsheet that actually uses the Profit First. Like you can adjust the percentages, but it's still a.
+
+Cashflow forecasting and budgeting spreadsheet. So I, I think the thing I liked about it the most, uh, and, and Chris, like you said, the budgeting side, it's like o most people will end up [01:00:00] spending whatever they have on the business. They're not like restraining operating expenses or cost, you know, in, in both cases, right?
+
+So it's like thinking it about the movement of money in my business as I grow the scale, making sure that I'm not over-indexing and like putting it all into operating expenses, um, or just spending everything I have and then nothing's left over for taxes, for paying myself, for incentivizing myself. Um.
+
+Chris: Yeah, having a budget too. I think like from, I come from the, maybe the other side, being an accountant of like, I just wanna like, hold it all right. I don't, don't wanna spend any of my money. And so having a good budget, whether you use Profit First or you build a budget, uh, in more traditional way, um, gives you the permission to spend of like, okay, well I've budgeted to pay $15,000 for that conference this month, or I budgeted for, uh, you know, running Google ads and testing 'em for the next six months at three grand a month.
+
+And, uh, you know, I, I know that I can afford it. [01:01:00] So it can, it, it works both ways too. It gives you the freedom to spend it and it also gives you the, uh, confidence that, you know, you not overspend it.
+
+Athena: Good question. Better ego. Um, so, uh, Chris, what would you say? Okay, so if 90% of your clients are. Acquisition owners, they acquired their business.
+
+I'm assuming they didn't all come to you from day one. Maybe they, a lot of 'em came to you after the fact. So what are you seeing people get wrong when it comes to buying a business and implementing, or what's, what's some horror stories to like warn folks of like, don't do this when you buy a business, when it comes to your accounting, managing your finances.
+
+Chris: Yeah. Well, I think there's been a fair number that did come through diligence, but there are a, a, there's a good amount too that came to us that we didn't do the diligence and they came to us later. Um. [01:02:00] The, the difficult thing here is that you're oftentimes buying a business that has really poor accounting practices, right?
+
+It's, or maybe they're not poor necessarily, but they're poor for 2025. Maybe they're good in 2006. Um, and so it's a lot of like, you're rip, you really are ripping out the fax machine, right? You have to put in all, I'll get all these paper processes now into the cloud and, uh, there's just this huge transition that needs to occur.
+
+Um, the easiest time to do it, but also like the most painful time to do it is right at closing, right? Like, if you're kind of gonna be using their, like if you're bought an asset sandwich, most, most of us will end up buying an asset sale. You have to have a new set of books, right? You're using a new QuickBooks file, um, you're going to have new EINs, you're setting up a new payroll, right?
+
+All these things are changing and the, the thing you hear all the time when you're buying a small businesses don't change anything for six months, but. There's not gonna be a [01:03:00] better time to change that stuff versus than it is right now. So if you're gonna say, oh, I'm just gonna stick with QuickBooks Desktop for the first six months, there's no way you're gonna want to change from QuickBooks Desktop because you've already been running the file in desktop.
+
+You've built all these processes, you have all these processes, now you have to do everything you did all over again. The payroll is the easiest time to switch payroll is when you have a new entity, right? Because there's no history you have to build in. If you're gonna switch payroll softwares mid-year, you have to take all the payroll history from year to date, manually enter it into the new payroll system.
+
+And so it is just a total pain. So it's really important that when you're, when you're buying, you have someone to guide you through, here's the best practices to put in place and let's get them in place from day one and don't. Uh, don't wait, you know, set the expectation. I've seen it with payroll a lot where some of these companies that you're buying will have a horrible payroll schedule.
+
+I've, I've seen it before where the end of the pay period is Friday and that same Friday the owner is writing checks [01:04:00] versus people getting paid the next Friday. So you have time to submit the hours, approve the hours, have direct deposit, right? And so you don't want to come and say, oh, I'm not gonna change anything and you're gonna deal with this horrible pay period that's gonna result in one, you having to write all these manual old checks and then you're gonna end up missing something through and get paid on time.
+
+And like trying to squeeze in under the old system. It just set the expectation of, Hey guys, we're gonna go to like the way every other business in the country is run, where you're gonna get paid a week late and this is the way we're gonna do it. Um, so that's something I see that people are too afraid to make the change to the best practice early 'cause they don't want to change anything.
+
+While it's actually much easier to get the best practice in place, um, as quickly as possible. Yeah, go ahead. Oh, go ahead
+
+Athena: Chris. I don't wanna interrupt your flow.
+
+Chris: Um, no, I think, I think that was it. Yeah.
+
+Athena: Well, so I mean, like in an asset sale, you, you have to create [01:05:00] the bank accounts, you have to do all this stuff.
+
+Mm-hmm. Um, it's what I'm hearing is that this also needs to be part of your, your diligence process is planning your strategy mm-hmm. For what your finance situation is gonna look like.
+
+Chris: Yeah.
+
+Athena: The payroll thing though, you know. One of the hardest things coming in as a new owner is rocking a boat with employees.
+
+I can't imagine coming in day one and being like, Hey, so we're gonna pay you a late a week later than you're used to, is not gonna go over well. And that transition, so how have you seen people manage that side of the conversation and keep employees? Yeah,
+
+Chris: so what I, what I tell the clients that, like, I initially get pushed back because I've seen it before and I've, I've been through the process with people that have decided not to do it, and they said they were gonna limp through, like with that example in particular, or maybe they pay on Monday, right?
+
+The pay ends up the day, the weekends on Friday, and then they, they, they're supposed to [01:06:00] pay on Monday. The odds of you missing a payroll. When you told 'em you're gonna pay 'em on the day is super high because you had zero time to go through and approve the hours. If you want to set them up on direct deposit, direct deposits, most reliable over two days.
+
+So it takes two days for the, the money to come through, so you already don't have enough time. Um, so yeah, like you just close the business and you can tell everybody, Hey, we're going to, just so you know, this is the new payroll system, you're gonna get paid on this day. You know, if you, if you really need something, let me know.
+
+I'll give you advance your next check. But you know, this is the way it's gonna be. And then you know that from that day forward. There's no reason you would ever miss a payroll. Or you can say, I'm gonna change it in six months. Run the risk that over the next six months you're gonna be late on five payrolls, because the payroll system is, doesn't make any sense, uh, the way that it's being done.
+
+And think about how mad they're gonna be when they, they, it's like, uh, the Joker in the dark night, right? Like, e [01:07:00] everybody, uh, every, nobody cares if there's a plan in place, but as soon as something goes against the plan, right? Everybody loses their minds. Um, and so as long as you set the expectation early, like, Hey, every company in the country pays the next Friday, like normal people.
+
+Um, so we have a day to approve hours, a data process, payroll, a buffer day, and then two days for direct deposit. Uh, it, it's, yeah, just set the expectation. Be clear about it.
+
+Athena: Oh, I think it's, uh, like, so it was just talking about this for something else, but like, when you're, when you're giving a directive to.
+
+Employees when you're changing things or when you're asking 'em to do something in addition, and it's like thinking about what's in it for them and framing that for them too. I imagine, and I would guess, you know, if I'm taking over a business where the owner was writing checks on the same day that people were submitting their time cards, that the checks were late.
+
+A lot of the times also, I have a guess that people were annoyed that they had to like, deposit a check and do that when, like, [01:08:00] in this day and age, right?
+
+Chris: Mm-hmm. I'm
+
+Athena: guessing a lot of the employees are younger and use technology. So, you know, almost using that as like a, hey, you know, I know, uh, it's, it's gonna change like one, one payment, but like, as a benefit of that, you know, we're not gonna be late, you know, it's gonna go straight to your bank account, like selling in the benefits to them.
+
+But I like what you said, and I want to kind of pull that out and highlight it. If anybody, you know, like if it's gonna cause you any issues, like please come and have a conversation with me. We don't want anyone to be in a bad place. So just like managing the expectations before you do it, um, could probably help, but it's something real to think about, you know?
+
+And like I've, I've heard nightmares of people buying businesses, not thinking about, oh shit, I need to pay people. Right? Like, how am I gonna do that if you don't think about this in advance? And then, and then you really pissed off people when you didn't even have a plan and you're scrambling to try to pay [01:09:00] 'em on, on day one.
+
+Chris: Mm-hmm. Yeah.
+
+Athena: Um, any other things that you're seeing acquisition entrepreneurs get wrong in the transition financially?
+
+Chris: Yeah, I think the next thing is, uh, well, you know, managing cash is just super important. Um, if, especially if you didn't do a really good job ahead of time, planning your, your, your cash flowing, your working capital, uh, and even if you did, like sometimes it is really delicate, like if you.
+
+If this business needs 300 grand, a working capital and you got 300 grand, a working capital and from the bank, right? And so you're gonna turn 300 grand in cash into AR over the next three months, right? You kind of like just barely made it right, like you barely had enough to get through. So the margin for error is really small, and then if something does go wrong and you get into a bad cash crunch, how hard it is to dig out of that is, is really it.
+
+It's [01:10:00] really, really difficult. So you need to have good books from the beginning so that you know where your cash is and and where it's going. Um, and then maybe similar, like along those same lines, is that the longer you, like if, if you didn't have an accountant or someone on your team that really knew how to handle that transition as well to better accounting practices, letting that just go.
+
+The longer you let that go, the worse it gets. The harder it gets, um, you know, there's more cleanup, more, more expensive. It's gonna be, uh, uh, it is, it better just, you know, attack it early. Um, I think is the other, the other piece there. Um, I'd say
+
+Athena: yeah, for sure. Federico, you had a question?
+
+Federico: Uh, yeah. Going back to the paying a week later, wouldn't that be something that could be negotiated prior to the sale?
+
+Is that something that's talked about in, in that process or No?
+
+Chris: Often I will see the, the difficult thing with like, timing it [01:11:00] all is that these deals, like, you know, they're gonna close on close on Tuesday and it's gonna end up closing next Monday. Right? Like, it, things just always happen, so it's kinda hard to time it.
+
+Um, but it is something that usually will get discussed, uh, between you and the seller of, um, you know, or closing partway through the pay period who covers this paycheck is there's some true up that we do. So you can look at whatever pay schedule you have and be try and be strategic around, all right, well the seller is gonna make his final payment on this date.
+
+And so then I wanna start the pay period that we pay on this date. And, you know, maybe try and soften the blow between your two checks. Um, you know, that's possible.
+
+Federico: Okay. Very good. And another question for the QoE, I guess it depends on how big the company is, but what would be the timeline for a report?
+
+Um, I'm trying to figure out what, how long Yeah, for, for that.
+
+Chris: So generally, two to four weeks to complete a, a quality [00:12:00] ratings analysis. It will depend on the seller's responsiveness and everything like that. And you can usually get to an initial, like, red flags analysis. So it's not a complete report, but at least directionally you know where things are at within about a week of getting the data, so.
+
+Okay. Yeah. Perfect. Thank you.
+
+Athena: Federico, I don't know if you've watched it yet. Um, ADA, I think when we post the replay, let's pull all of Chris's previous buyers clubs and add that to the replay links too. Chris did a really great, he did two sessions with us actually on diligence and one where he actually walked through QoE report and everything.
+
+And we talked through timing, so just so you can see what it looks like. Um, you know, a lot of people don't see it until they start doing it, so he actually opened up one and showed us around and that sort of thing, so. Oh, okay. Perfect. We'll get you to post the links to those with this replay so you guys can go back and binge more, Chris, 'cause I can't get enough clearly.
+
+Um, so Chris, assuming like, let, let's say somebody [01:13:00] didn't necessarily do the QoE with you.
+
+Chris: Mm-hmm.
+
+Athena: When would be a good time to engage someone like you if they still wanted, like, someone like you to help them with the, the transition and the accounting after the fact? Do you need to get Invi? I mean, you know, you're saying set everything up a week before, but I imagine if somebody wants to put a plan together.
+
+They might need to start talking to you earlier.
+
+Chris: Yeah, I think, uh, like once you've, once you've completed your diligence and you're kind of in that waiting period of just, they can shut deals and fall apart and getting everything together, right? You should be talking to who, the people, the provider's gonna use post closing, um, you know what, whoever other services they need, you know, your insurance guy, all this other stuff.
+
+Uh. So I think as early as possible, right? Like start talking to providers and thinking about who you'd wanna use. And then once you've made that decision, uh, let them know. Um, as soon as you're, you're able to, I, I do think it makes sense to kick off the process of get the QuickBooks [01:14:00] set up, get the payroll set up and integrated, get the chart of accounts in there, have your business bank account set up, connect those to your QuickBooks file.
+
+Um, do all those, those sorts of things. I think about a week ahead of closing is a good, uh, a good timeline. Um, but if you can say a month ahead of time, Hey, I'm gonna use you. Um, and that way you just have someone that you can go to with questions or you can make that plan with, um, it's, uh, it's all the better.
+
+The earlier you can do the better. So.
+
+Athena: Awesome. And, uh, I'm just curious, and hopefully I'm not holding you to anything like, do you like. If you work with somebody that you didn't necessarily do the qv, are you looking at the QoE to kind of get a read on what you're going into?
+
+Chris: I usually use that to, like, if they did a QoE and it wasn't through our LI usually have 'em if they're open to it and the other QoE drives is okay with sharing it.
+
+I'll usually use it to like help scope my project. Um, just we don't have, [01:15:00] uh, you know, we don't have, like, we usually don't have access to the books to scope everything out so that, that's usually the best, next, best thing we can get. Um, if not, then we'll have 'em send us financials and we'll use that to help scope the project and as well as a conversation about what they're looking for.
+
+Athena: Yeah. Um, so something that I, you know, I think a lot of folks get really, and, and some of the folks here weren't on your original session, so I wanna like pull this, this little nugget forward. Um, you know, pre LOI. We don't get access to a whole bunch of financials. It is not expected that you would, you know Exactly.
+
+Calculate working capital or inventory levels or any of that stuff pre LOI. Mm-hmm. Which is why our recommendation, you know, is, is always like, don't put a number in the LOI 'cause how could we possibly know?
+
+Chris: Mm-hmm.
+
+Athena: But something that I try to reassure folks on is, you know, once you get into diligence and you engage someone like yourselves, you all are going to deeply look at rebuild the [01:16:00] financials, help to turn those numbers.
+
+And there's likely going to be a ret trade situation where we have a real conversation once we get the report. So, um, just real quick, like, talk us through, you know, or, or maybe reassure pre LOI, you know, what folks are looking at and then you know, how much y. Looking someone like yourself does into the book.
+
+So like how, how much do folks need to calculate and figure out and have exact themselves versus what do you come in and do?
+
+Chris: Yeah, yeah. So pre LOI, you don't have a ton of information, like you said, right? So you might have a CIM, you might have some high level financials, um, and you'll probably have a list of add-backs, right?
+
+At that stage you should be looking at, uh, like do, do like year over year. Like you might just have yearly financials, right? Do some year over year, like margin analysis. If you see that the gross margin has swung wildly between [01:17:00] years, right? That should raise some flags. Have you seen that The ebitda, EBITDA margins, the SD margins have swung widely from year to year, right?
+
+That should be bringing up some questions for you. Um, you should be looking at the add-backs that are listed. Uh, you know, is they getting pretty aggressive if there's some things there that don't make any sense. Those are gonna be harder to verify and are gonna take some more work and they are more likely either get thrown out or reduced, um, from a working capital perspective.
+
+I'm actually gonna drop this selfish plug, but we just posted a video on YouTube. Uh, I. Like last week on Working Capital, but woo
+
+Athena: hoo. I can never get enough on working Capital. Oh, thank you.
+
+Chris: Um, and in there, I think I talked briefly about pre LOI, so like a, a calculation you can do, and I think I'm our website too, we have like a pre-LOI net working capital calculator you can use.
+
+Federico: Oh, cool.
+
+Chris: Um, I could probably find that as well, but um, you can, you know, you can do an estimate so you least [01:18:00] know in the ballpark. I do think you're correct Athena in that putting a number in the LOI is probably not a great idea. Um, but I think it's still good to at least have a conversation about it. So, you know, hey, ballpark, like I've calculated 300 grand.
+
+Like I think I'm in that range. Like we're gonna verify it and it's gonna be based off of this calculation that we've agreed upon. Preliminarily, I've looked at it and I think it's around this range. Are we in the same like universe and the seller can be like, I thought it was 50 grand. And then, you know, okay, well there's an issue because we're in capital kill so many deals.
+
+Um, I've seen it before where that like very similar scenario comes into play, but that conversation has not been had until after we finished everything and now you're off on purchase price essentially by hundreds of thousands or some cases, millions of dollars. Um, and, uh, you know, it could end up killing the deal at that stage.
+
+Athena: Right? Yeah. Um, this is really good stuff. I [01:19:00] feel like you offered something, I don't know if you still do it, but like, uh, sim review or like, you know, if people are, are feeling very unsettled or maybe the broker's pushing them on. An inventory number, a working capital number. Is there some pre LOI review that you guys do or,
+
+Chris: yeah, so we're, you know, we're, we love working with people pre LOI, if there's just a deal you want a second set of eyes on, like, I'm happy to look at it with you.
+
+Um, we will charge if it's like, you know, a more extensive analysis, sometimes you do get more than just a sim pre LOI. So if you have some, a decent amount of financials you want us to go through, we might charge a relatively small fee and then credit that towards the QV if you end up moving forward to the deal.
+
+But if, uh, if it's just a sim to look at and, you know, you know, first time or second time doing that, we'll be like, we're happy to spend a half hour and just look at it, answer some questions. If, you know, every once in a while I get someone that's a bit of. And they're looking at a bunch of deals and it's their ninth [01:20:00] time coming back.
+
+It's like, all right, well at this point I might charge a little bit to spend some time with you going through it. Um, but again, it's usually a pretty nominal fee and we'll credit it towards the q of the, if you end up, uh, moving forward. So.
+
+Athena: Cool. Awesome. Well, thanks for the video. Um, this is really great information as always, folks.
+
+I'm, I'm not seeing any hands up if anybody has some final questions for Chris. Um, actually,
+
+Polly: I'm sorry, I actually have one
+
+Athena: for him. Yeah, colleague. Go for it.
+
+Polly: So Chris, um, this, this might be a kind of a loaded question, but in situations where you are the new owner and you, the, the previous owner has been using a CPA firm mm-hmm.
+
+Um, to do the books and so forth and handle all the accounting needs. And it, and that firm is not doing a great job. I mean, what does, what does a transition look like moving to, in moving to you, like kind of behind the scenes what your, what you [01:21:00] do and what your expectations are of the new owner and helping with that?
+
+Chris: Yeah, so it depends on the, uh, depends on the deal. So if it's a stock sale, the transition maybe is a little bit more complicated from the old accountant. Okay. Um, usually, usually we'll ask of them, if possible, is for them to do, we call a closing balance sheet. So we want them to basically do a hard close of the books as of the day of closing.
+
+So we have kind of a clean starting point, and then we'll do our opening balance sheet, um, as of the same day of like, here's our starting point. Uh, and that like, we deal with it fairly often where I bet we might do it wrong. Right. And then we have to like have a conversation so that that process occasionally will drag out a little bit.
+
+But it doesn't mean that the updated, like new financials can't start coming out. Like you can't still get your, you know, your p and l for the current month. If that conversation does for whatever reason, drag out a little bit, um, just because they're not responsive, or maybe they do things improperly [01:22:00] and it has to be, you know, whatever, it's tax season, you can't get on a phone with 'em, whatever.
+
+Um, if it's an asset sale, it's easier, uh, because you are starting a completely new QuickBooks file. You are having completely new bank accounts, completely new payroll, like everything's being shifted. Um, and so then it's a, a bit simpler. The one piece that might come in, um, is depending on, again, working capital, right?
+
+So if there's a working capital true up of any sort, or even if there's just like. Ar where some of it's going, the seller, some of it's going to the buyer, right? That ongoing calculation can sometimes get, uh, you know, both sides are trying to keep track of it and making sure that everybody's getting the right amount of money.
+
+Um, and so that can sometimes be a bit, uh, difficult and drag on for a while. We actually have one client right now that unfortunately is going to mediation over their working capital true up. And so, uh, yeah, it can, it can definitely get messy on those things occasionally. Um, so,
+
+Polly: okay. [01:23:00] Great question Pauline.
+
+Athena: Thank you.

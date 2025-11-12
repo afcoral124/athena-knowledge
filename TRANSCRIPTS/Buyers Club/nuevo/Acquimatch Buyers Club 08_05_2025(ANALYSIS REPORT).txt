@@ -1,0 +1,175 @@
+[Error #1 - Category: Entity Name (Program Title)]
+Location: ~00:01:10 / Speaker: Athena
+Transcript excerpt: "...we've got a few new analysts on the team, Caris and Cash. ... wanted to bring them on to Virus Club. You're gonna be seeing more of 'em."
+Issue: "Virus Club" is inconsistent with the session title and program name.
+Likely intended: "Buyers Club"
+Confidence: High
+Reasoning: The header states “Acquimatch Buyers Club” and later references are to Buyers Club; “Virus Club” is nonsensical in context.
+Impact: Medium
+
+[Error #2 - Category: Entity Name (Company)]
+Location: ~00:02:55 / Speaker: Charis
+Transcript excerpt: "...and so I found my way back here, uh, with Aqua Match today."
+Issue: Company name appears as "Aqua Match."
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Company is consistently referred to as AcquiMatch in header and elsewhere. “Aqua” is a common ASR substitution.
+Impact: Medium
+
+[Error #3 - Category: Person Name Inconsistency]
+Location: ~00:01:35 / Speaker: Charis (label)
+Transcript excerpt: "Charis: Sure. Hi everybody. I'm Caris. …"
+Issue: Inconsistent spelling of the same name within one turn (“Charis” vs “Caris”).
+Likely intended: "Caris" (matches Athena’s intro and subsequent references)
+Confidence: High
+Reasoning: Athena repeatedly says “Caris”; internal self-intro also “I’m Caris.”
+Impact: Low
+
+[Error #4 - Category: Speaker Misattribution]
+Location: ~00:03:05–00:04:30 / Speaker: Labeled as Luke
+Transcript excerpt: "Luke: … I’m down in Houston. I went to Texas a and m... started my own yoga studio… worked at a startup accelerator in Austin… startups.com…"
+Issue: New analyst intro is labeled as “Luke,” but Athena later discusses “cash” having that background and had just introduced Cash as a new analyst.
+Likely intended: Speaker should be Cash (the new analyst), not Luke.
+Confidence: Medium-High
+Reasoning: Flow: Athena introduces Caris and Cash; after Caris, “K, how about you?” The background aligns with Athena’s later “something that excites us about cash…”
+Impact: Medium (confuses who is who on the team)
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: ~00:14:05 / Speaker: Athena
+Transcript excerpt: "you gotta be careful with language too, right? 'cause earnouts are not allowable by SBA... It has to be performance based for Gable seller note..."
+Issue: "for Gable" is a mis-transcription.
+Likely intended: "forgivable seller note"
+Confidence: High
+Reasoning: Repeated topic is “forgivable performance-based seller note.” “for Gable” is a common ASR error for “forgivable.”
+Impact: High (deal-structure clarity)
+
+[Error #6 - Category: Business Terminology Distortion]
+Location: ~00:22:10 / Speaker: Gil
+Transcript excerpt: "I’m not sure if he understood how the Fable slur note works..."
+Issue: Garbled phrase.
+Likely intended: "forgivable seller note"
+Confidence: High
+Reasoning: Conversation thread is the same structure; “Fable slur note” is nonsensical.
+Impact: High
+
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:25:10 / Speaker: Gil
+Transcript excerpt: "…what actually the forgivable server doesn't, how it works."
+Issue: Garbled phrase.
+Likely intended: "what the forgivable seller note is, how it works"
+Confidence: High
+Reasoning: Continuation of explaining note mechanics; “server doesn’t” is nonsensical here.
+Impact: High
+
+[Error #8 - Category: Business Terminology/Word Choice]
+Location: ~00:05:00 / Speaker: Athena
+Transcript excerpt: "…but you know, from Caris ankle having been on the cell side…"
+Issue: “ankle” and “cell side” are incorrect in this context.
+Likely intended: “angle” and “sell-side”
+Confidence: High
+Reasoning: Common collocations in M&A; “sell-side” is standard; “angle” fits the sentence.
+Impact: Medium
+
+[Error #9 - Category: Semantic/Terminology Distortion]
+Location: ~00:17:45 / Speaker: Athena
+Transcript excerpt: "…what does my right shit close comfort in a no change scenario."
+Issue: Phrase is nonsensical and likely a misheard business term.
+Likely intended: "cash-at-close comfort" (or “cash at close number”)
+Confidence: High
+Reasoning: Immediately before and after, she discusses “cash at close.” ASR often confuses “cash” with similar phonetics.
+Impact: High (affects understanding of pricing structure)
+
+[Error #10 - Category: Misheard Acronym/Formatting]
+Location: ~00:09:05 / Speaker: Athena
+Transcript excerpt: "…where you've gotten to with Hive and I-O-I-L-O-I making an offer?"
+Issue: “I-O-I-L-O-I” is malformed.
+Likely intended: "IOI/LOI"
+Confidence: High
+Reasoning: Standard acquisition terms; context is submitting IOI or LOI.
+Impact: Medium
+
+[Error #11 - Category: Misheard Acronym/Pluralization]
+Location: ~00:12:00 / Speaker: Polly
+Transcript excerpt: "…he said he had a couple of other Lois that should be submitted this week…"
+Issue: “Lois” likely intended to be “LOIs” (plural of Letter of Intent).
+Likely intended: "LOIs"
+Confidence: High
+Reasoning: Context is about multiple offers; “Lois” is a name, not relevant here.
+Impact: Medium
+
+[Error #12 - Category: Omission/Truncation]
+Location: ~00:07:50 / Speaker: Polly
+Transcript excerpt: "I started off in the commercial interior design business for re."
+Issue: Truncated word/phrase at the end of the sentence.
+Likely intended: "for real estate" (or “for retail”)—ambiguous
+Confidence: Low-Medium
+Reasoning: Interior design commonly tied to commercial real estate; however, insufficient context to be certain.
+Impact: Low
+
+[Error #13 - Category: Entity Names (People/Relation)]
+Location: ~00:21:05 / Speaker: Athena
+Transcript excerpt: "…I’m speaking to Stephanie in 34 minutes too. Steven Polly’s daughter is in the events industry…"
+Issue: “Steven Polly’s” is likely a mis-transcription of a possessive phrase.
+Likely intended: "Steve and Polly’s daughter"
+Confidence: High
+Reasoning: Polly references “my husband” (Steve) previously; possessive makes sense.
+Impact: Low
+
+[Error #14 - Category: Pattern Note]
+Location: Multiple (00:14:05; 00:22:10; 00:25:10)
+Transcript excerpt: Variants include "for Gable seller note", "Fable slur note", "forgivable server doesn’t"
+Issue: Systematic mishearing of “forgivable seller note”
+Likely intended: "forgivable seller note"
+Confidence: High
+Reasoning: Same term garbled in multiple places, indicating ASR confusion with similar phonetics.
+Impact: High (core to deal structure discussion)
+
+
+[REMOVAL #1 - Type: Small Talk/Greetings]
+Location: Opening greetings from call start until business intro begins (~00:00:00 to just before “Very good, thanks. So good. … wanted to introduce…”)
+Speakers involved: Gil, Athena, Polly
+Content excerpt:
+"Gil: Uh, hello? Hello? Hello? Oh,
+Athena: there you are… How are you doing? Very well, yourself? I'm really good. Thanks. How you Justin? How are you? Hey, good. How are you? I'm really good. Thanks. Nice to see you. I think Polly's here. Hey Polly. How are you?
+Polly: hi. Good. How are you doing?
+Athena: Very good, thanks. So good. Uh, wanted to introduce…"
+Reasoning:
+Extended greetings and connection checks without business content.
+Context impact: None—removing this preserves flow and starts at team introductions.
+Recommended action: REMOVE opening greetings up to “Very good, thanks. So good. … wanted to introduce…”
+
+[REMOVAL #2 - Type: Personal/Off-Topic Aside]
+Location: ~00:01:35
+Speakers involved: Athena
+Content excerpt:
+"Sorry, I've got my coffee pot like exploding on my desk right now."
+Reasoning:
+Purely personal aside with no business relevance.
+Context impact: None—deleting this sentence does not affect adjacent content.
+Recommended action: REMOVE this sentence
+
+[REMOVAL #3 - Type: Personal/Off-Topic (Family)]
+Location: ~00:21:00–00:21:35
+Speakers involved: Athena, Polly
+Content excerpt:
+"Athena: …I’m speaking to Stephanie in 34 minutes too. Steven Polly’s daughter is in the events industry, so I’m having a little call with her… I’ve heard so much about her.
+Polly: Yeah, she’s looking forward to it… Hopefully you can guide her… 
+Athena: Nothing else, it’ll just be fun to meet the two of you’s kid. She must be pretty awesome.
+Polly: Thank you. I hope she lives up to your expectations."
+Reasoning:
+Discussion about a meeting with the clients’ daughter and personal comments; unrelated to the deals or financing/valuation.
+Context impact: Low—removal doesn’t affect the deal discussions before/after.
+Recommended action: REMOVE this segment
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:06:00 (Gil’s intro)
+Content excerpt: "…Hoboken, New Jersey, birthplace of Sinatra."
+Business relevance argument: Part of a brief personal intro establishing location; minimal time and maintains conversational rapport.
+Personal content argument: Trivia about Sinatra is unrelated to business acquisition topics.
+Recommendation: KEEP—It’s a single short aside within an otherwise business-relevant introduction; removing one phrase may disrupt natural flow more than it helps.
+
+Additional Notes:
+- Contextual boundaries: The call shifts from greetings to business at Athena’s “wanted to introduce… new analysts” line—use that as the start of KEEP content after Removal #1.
+- Speaker mapping: Consider standardizing analyst names and correcting the “Luke”/“Cash” intro mislabel to avoid future confusion.
+- Acronym hygiene: IOI/LOI and LOIs should be standardized in the refined transcript for clarity.
+- Repeated ASR pattern: “forgivable seller note” is repeatedly misheard; flag this for ASR model tuning (high business impact).

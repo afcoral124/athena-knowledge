@@ -1,0 +1,275 @@
+Below is a focused review of likely ASR issues plus a mapping of business-relevant vs. removable segments. I’ve prioritized errors that impact deal/finance understanding, buyer process, or entity/term clarity.
+
+ASR/Error Findings
+
+[Error #1 - Category: Business Terminology Distortion]
+Location: Athena Simpson (early-mid)
+Transcript excerpt: "Whatever their prequel is, we double that."
+Issue: “prequel” used in financing context
+Likely intended: “pre-qual” (pre-qualification)
+Confidence: High
+Reasoning: In SBA/deal financing, “pre-qual” is common; “prequel” is a film term and not applicable.
+Impact: High – could confuse financing guidance
+
+[Error #2 - Category: Business Terminology Distortion]
+Location: Ryan Cash (Buyers Club update section)
+Transcript excerpt: "…get these steel box discovery prompts done 48 hours ahead…"
+Issue: “steel box” in place of a known AcquiMatch term
+Likely intended: “deal box”
+Confidence: High
+Reasoning: “Deal box” is repeatedly referenced elsewhere in this meeting; “steel box” is nonsensical here.
+Impact: High – affects process clarity
+
+[Error #3 - Category: Misheard Acronym/Term]
+Location: Multiple (Athena, Ryan)
+Transcript excerpt: "…how they did the prequel…" / "…their prequel is…"
+Issue: “prequel” repeatedly used instead of “pre-qual”
+Likely intended: “pre-qual” (pre-qualification)
+Confidence: High
+Reasoning: Consistent pattern; standard term in SBA workflows.
+Impact: High – recurring error in a critical concept
+
+[Error #4 - Category: Homophone/Near-Homophone]
+Location: Ryan Cash (qualifying first deals)
+Transcript excerpt: "…continue to go for these French cases…"
+Issue: “French” vs. intended “fringe”
+Likely intended: “fringe cases”
+Confidence: High
+Reasoning: Context is edge/gray-area deals; “fringe” fits.
+Impact: Medium – changes nuance of guidance
+
+[Error #5 - Category: Entity Name Inconsistency]
+Location: Throughout (Ryan/Athena)
+Transcript excerpt: "Frederico" and later "Federico"
+Issue: Inconsistent spelling of client’s name
+Likely intended: One consistent spelling of “Federico” (or “Frederico”)
+Confidence: Medium
+Reasoning: Both forms appear; unclear which is correct; should be standardized.
+Impact: Medium – affects records/communications
+
+[Error #6 - Category: Homophone/Near-Homophone]
+Location: Athena Simpson (med spa coaching segment)
+Transcript excerpt: "…oh my God, Josh's nose."
+Issue: “nose” vs. “no’s/noes”
+Likely intended: “Josh’s no’s” (i.e., the many times he said no)
+Confidence: High
+Reasoning: Immediately followed by “pages and pages of no, no, no”; context supports “no’s.”
+Impact: Medium – mild confusion
+
+[Error #7 - Category: Semantic Inconsistency/Omission]
+Location: Anke Jordaan (very early)
+Transcript excerpt: "Okay. I'm in the mind."
+Issue: Phrase nonsensical in context
+Likely intended: “I’m of the mind…” or similar
+Confidence: Medium
+Reasoning: Common idiom; ASR likely dropped words.
+Impact: Low – not critical to content
+
+[Error #8 - Category: Omission/Truncation]
+Location: Luke Gillespie (after praise)
+Transcript excerpt: "Thanks. was so fun. Nice."
+Issue: Missing subject
+Likely intended: “Thanks. It was so fun.”
+Confidence: High
+Reasoning: Natural phrasing; “It” commonly dropped by ASR.
+Impact: Low
+
+[Error #9 - Category: Semantic Inconsistency]
+Location: Athena Simpson (beauty services anecdote)
+Transcript excerpt: "…they will do whatever, they'll sell, they close off their kids' back to make sure that they're still getting services…"
+Issue: Garbled idiom
+Likely intended: Likely “they’ll cut back elsewhere” or similar; unclear exact phrase
+Confidence: Medium
+Reasoning: “close off their kids’ back” is nonsensical; likely ASR mashup.
+Impact: Medium – comprehension hiccup within a business point
+
+[Error #10 - Category: Speaker Misattribution]
+Location: Short exchange after praise
+Transcript excerpt:
+  Ryan Cash: "Thanks, Athena."
+  Luke Gillespie: "Thanks, Cash. Way to go, Luke."
+Issue: Self-congratulation from Luke appears unlikely; “Way to go, Luke” probably spoken by another
+Likely intended: Another speaker said “Way to go, Luke.”
+Confidence: Medium
+Reasoning: Unnatural for Luke to congratulate himself in third person.
+Impact: Medium – causes confusion on who is speaking
+
+[Error #11 - Category: Entity/Term Mishearing]
+Location: Luke to Athena (time/coffee)
+Transcript excerpt: "…time for a coffee before buyers close."
+Issue: “buyers close” vs. program name
+Likely intended: “Buyers Club”
+Confidence: High
+Reasoning: Repeated references to “Buyers Club”; “buyers close” is nonsensical here.
+Impact: Low
+
+[Error #12 - Category: Business Terminology Distortion]
+Location: Luke (deal type)
+Transcript excerpt: "…a signed fabrication and manufacturing company…"
+Issue: “signed fabrication” vs. normal industry term
+Likely intended: “sign fabrication”
+Confidence: High
+Reasoning: Industry term is “sign fabrication”; “signed” changes meaning.
+Impact: Medium – may mislead about the business type
+
+[Error #13 - Category: Homophone/Near-Homophone]
+Location: Athena (FBA risk)
+Transcript excerpt: "If their shot gets shut down…"
+Issue: “shot” vs. “shop”
+Likely intended: “shop”
+Confidence: High
+Reasoning: Amazon “shop” shutdown context; “shot” doesn’t fit.
+Impact: Medium
+
+[Error #14 - Category: Entity Name Confusion]
+Location: Clients SP/S&B
+Transcript excerpt: "Stephen Pauly" vs. other references to “Steve and Polly (SP)”
+Issue: Inconsistent naming of the SP client duo
+Likely intended: Consistent “Steve and Polly” (SP)
+Confidence: Medium
+Reasoning: Initialism SP indicates Steve & Polly; “Stephen Pauly” appears to be ASR merge.
+Impact: Medium – risks CRM confusion
+
+[Error #15 - Category: Entity Name Mishearing (Pattern)]
+Location: Athena (twice, later in meeting)
+Transcript excerpt: "virus club update" / "on the virus club calls"
+Issue: “virus club” vs. Buyers Club
+Likely intended: “Buyers Club”
+Confidence: High
+Reasoning: Known internal program; repeated mishearing
+Impact: Medium
+
+[Error #16 - Category: Omission/Truncation]
+Location: Several Athena/Ryan lines (multiple)
+Transcript excerpts: 
+- "So look that. No. No." 
+- "…see how I’m briefing you and where I need to fill in the." 
+- "Cash, this is also something that. And we can get the clients to do…"
+Issue: Truncated sentences reducing clarity
+Likely intended: Completed thoughts matching surrounding context
+Confidence: Medium
+Reasoning: ASR commonly drops sentence ends.
+Impact: Low–Medium depending on the line
+
+Content Mapping (KEEP/REMOVE/MIXED)
+
+Segment A: Opening fatigue/time remark
+- Content: 
+  Athena: "Hi. I am feeling really tired… would love to get some time back before Buyer's Club."
+- Classification: REMOVE (Small talk/energy level, scheduling preference)
+- Reasoning: Does not add business insight; pure personal state and time preference.
+- Context impact: None
+- Recommended action: REMOVE this line only; do not remove the subsequent agenda set-up.
+
+Segment B: Beauty services/Botox/med spa discussion
+- Content: From Athena’s segue into beauty services being “emotional buys” through inventory and recurring revenue discussion.
+- Classification: MIXED
+- Keep:
+  - All points connecting beauty/med spa services to:
+    - Necessity vs. emotional buy framing
+    - Recurring revenue behavior (injectables, subscription models)
+    - Inventory cost control and systems (e.g., high cost per drop; margin improvement opportunities)
+    - Client stickiness and industry attractiveness
+  - Luke’s “recurring revenue” framing
+- Remove:
+  - Personal grooming small talk not tied to analysis:
+    - Luke: "So like, you know, I'm all kinds of gray."
+    - Athena/Charis exchange about curls: "Charis, you got curls." / "Curling is its own thing." / "I’ve got natural curls too…"
+- Reasoning: The business analysis is valuable (industry insight, due diligence focus areas). The hair/curls asides are personal.
+- Context impact: Low – removing the personal asides preserves the business thread.
+
+[REMOVAL #1 - Type: Small Talk]
+Location: Early med spa section (immediately after "That's not an emotional buy...")
+Speakers involved: Luke, Athena, Charis
+Content excerpt:
+"Luke: So like, you know, I'm all kinds of gray.
+Athena: Charis, you got curls.
+Athena: So you probably got to get like regular cuts… I’ve got natural curls too, but, um, it's a pain.
+Charis: Curling is its own thing."
+Reasoning:
+Personal appearance/hair small talk not contributing to med spa business analysis.
+Context impact: None
+Recommended action: REMOVE these lines only
+
+Segment C: Praise/coach Luke on client call and language
+- Content: Debrief on Josh call, “challenge” wording, mirroring, client psychology, goal of collaborative language
+- Classification: KEEP
+- Reasoning: Core coaching on client-facing approach and process consistency.
+
+Segment D: Buyers Club operational updates; deal qualification philosophy; gray-area calibration
+- Content: Cash’s questions, Athena’s guidance on first-deal positioning, calibration period, metrics (post-debt income), edge-case handling
+- Classification: KEEP
+- Reasoning: Directly relevant to client processes and deal standards.
+
+Segment E: Scheduling/coffee/energy
+- Content:
+  - Luke: "…end early to give you some time for a coffee before buyers close."
+  - Athena: "If not, it's fine. I've got a coffee here… adrenaline kicks in…"
+- Classification: REMOVE (Small talk)
+- Reasoning: Personal energy/coffee discussion; no business impact
+- Context impact: None
+- Recommended action: REMOVE the two coffee/energy lines only (retain surrounding Buyers Club process talk)
+
+Segment F: Operational: missing questionnaire (Pushkar), Ida ownership, deadlines
+- Classification: KEEP
+- Reasoning: Onboarding process management.
+
+Segment G: Specific deal reviews (FBA single-channel risk, SBA pre-qual equity injection, Marcus Machinery tool distributor, sign fabrication, Jenny/Peter fit, geographic constraints)
+- Classification: KEEP
+- Reasoning: Core deal analysis, risk assessment, client fit, lender/broker dynamics.
+
+Segment H: Bathroom break sign-off
+- Content: "Okay, I gotta go to the bathroom. I'll see you guys…"
+- Classification: REMOVE
+- Reasoning: Personal; no business value.
+- Context impact: None
+
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: Near meeting end
+Speakers involved: Athena
+Content excerpt:
+"Okay, I gotta go to the bathroom. I'll see you guys, like, now. Thank you. Bye."
+Reasoning:
+Purely personal/biological need; end-of-call housekeeping.
+Context impact: None
+Recommended action: REMOVE
+
+Borderline (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: Early med spa discussion
+Content excerpt: "Remember, he proposed to his wife when they were backpacking in Yosemite."
+Business relevance argument: Provides context for the client’s (Josh’s) lifestyle preferences that influenced the beauty/“emotional buy” debate; sets up why the team challenges assumptions.
+Personal content argument: Personal, unrelated to deal mechanics; could be seen as gossip about a client’s private life.
+Recommendation: REMOVE – Minor context and not necessary for the business point; eliminating avoids personal details about a client.
+
+[BORDERLINE #2 - Requires Review]
+Location: Botox health effects debate
+Content excerpt: Luke: "…your muscles in your face literally atrophy… recurring revenue, though."
+Business relevance argument: Links health/maintenance reality to recurring revenue behavior and client stickiness—directly relevant to med spa economics and due diligence.
+Personal content argument: Health opinions can be sensitive; partly off-topic.
+Recommendation: KEEP – Materially supports the business thesis (recurring revenue, continuity risk for clients), and segues into inventory control and subscription stickiness.
+
+Speaker Attribution/Flow Checks
+
+- Potential misattribution around "Thanks, Cash. Way to go, Luke." Suggest reviewing that short exchange; likely another speaker delivered “Way to go, Luke.”
+- Several truncated lines reduce clarity (e.g., “So look that. No. No.”) but the surrounding context preserves the main guidance. Recommend human review for completion.
+
+Patterns to Flag for ASR Improvement
+
+- Pre-qual consistently misheard as “prequel”
+- Buyers Club misheard as “buyers close” and “virus club”
+- Deal box misheard as “steel box”
+- Frequent dropped short words (“I,” “it”) causing sentence fragments
+- Homophones in business context (“nose” vs. “no’s”, “shop” vs. “shot”)
+- Client name consistency (Federico/Frederico; Steve & Polly vs. Stephen Pauly)
+- Industry term: “sign fabrication” misheard as “signed fabrication”
+
+Summary of Recommended Removals
+
+- Remove brief personal energy/coffee lines (start and mid-meeting).
+- Remove hair/curls small talk within the med spa section while keeping business analysis on med spas.
+- Remove bathroom-break sign-off.
+- Consider removing the Yosemite proposal anecdote (borderline) to avoid personal details; not essential to the business point.
+
+These changes preserve all deal, financing, process, and coaching content while trimming low-value personal chatter.

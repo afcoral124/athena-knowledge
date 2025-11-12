@@ -1,0 +1,354 @@
+[Error #1 - Category: Financial/Numerical error]
+Location: Header / Title line
+Transcript excerpt: "# AcquiMatch Buyers Club 103/11/2025"
+Issue: Date appears as "103/11/2025," which is not a valid date format.
+Likely intended: "03/11/2025" (March 11, 2025)
+Confidence: High
+Reasoning: Extra leading "1" is a common ASR artifact; US-style date expected.
+Impact: Low
+
+---
+[Error #2 - Category: Business terminology distortion]
+Location: ~00:11:05 / Speaker: Athena
+Transcript excerpt: "...they get assaulted from like a bunch of angry, not nice people... why is there this dip in STE in this year..."
+Issue: "STE" is likely not the intended metric in SMB deal context.
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: SDE is the standard owner-operator metric; STE is uncommon and contextually odd.
+Impact: Medium
+
+---
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:17:00 / Speaker: Jason
+Transcript excerpt: "...fix your financial practices and start that falling, like, gap accounting..."
+Issue: "gap accounting" is incorrect in this context.
+Likely intended: "GAAP accounting" (Generally Accepted Accounting Principles)
+Confidence: High
+Reasoning: GAAP is the accepted term for proper accounting standards.
+Impact: High
+
+---
+[Error #4 - Category: Business terminology distortion]
+Location: ~00:25:05 / Speaker: Athena
+Transcript excerpt: "...opportunity to look at the Price and the risk again... do a retrain or adjust the purchase price..."
+Issue: "retrain" is not the standard negotiation term.
+Likely intended: "retrade"
+Confidence: High
+Reasoning: "Retrade" is common M&A jargon for renegotiating price/terms after diligence findings.
+Impact: Medium
+
+---
+[Error #5 - Category: Speaker Misattribution]
+Location: ~00:10:00
+Transcript excerpt:
+Polly: "Can you hear me now? Okay. Yeah, I"
+Ryan: "can."
+Issue: The brief acknowledgement likely came from the facilitator (Athena), not Ryan.
+Likely intended: Athena: "I can."
+Confidence: Medium
+Reasoning: Athena was leading; Ryan had not yet re-entered this portion of the conversation.
+Impact: Low
+
+---
+[Error #6 - Category: Semantic inconsistency / Truncation]
+Location: ~00:20:15 / Speaker: Athena
+Transcript excerpt: "...since Steph put it on, it's the expert to like, have these conversations at the bank..."
+Issue: Phrase contains a non-participant name ("Steph") and reads incoherently.
+Likely intended: "so let's put it on the expert to have these conversations at the bank..."
+Confidence: Medium
+Reasoning: Fits the surrounding point about positioning the seller as the “expert” with the lender.
+Impact: Low
+
+---
+[Error #7 - Category: Business terminology distortion]
+Location: ~00:41:45 / Speaker: Andrew
+Transcript excerpt: "...above and beyond the SBA could do and have to pull in some. Mazda, it just gets a little bit more complicated."
+Issue: "Mazda" is nonsensical in financing context.
+Likely intended: "mezz" or "mezzanine" (debt)
+Confidence: High
+Reasoning: In acquisition financing, “mezz” debt is common; "Mazda" is a brand name mishear.
+Impact: High
+
+---
+[Error #8 - Category: Business terminology distortion]
+Location: ~00:43:05 / Speaker: Athena
+Transcript excerpt: "If it were SBA financeable, you could do parapursuit."
+Issue: "parapursuit" is not a finance term.
+Likely intended: "pari passu"
+Confidence: High
+Reasoning: Pari passu (equal priority) is a standard capital-structure term often discussed with seller notes and senior debt.
+Impact: Medium
+
+---
+[Error #9 - Category: Homophone/Near-homophone]
+Location: ~00:31:55 / Speaker: Athena
+Transcript excerpt: "So you haven't scheduled the 2nd letter call to everyone on Thursday."
+Issue: "letter" does not fit the context of coordinating with lenders.
+Likely intended: "lender"
+Confidence: High
+Reasoning: The thread is about arranging calls with lenders; “letter” is an ASR swap.
+Impact: Medium
+
+---
+[Error #10 - Category: Semantic inconsistency]
+Location: ~00:29:10 / Speaker: Athena
+Transcript excerpt: "Would it be worth suggesting a call with a salary fee? You know, like, if the seller is still interested..."
+Issue: "salary fee" is incoherent here.
+Likely intended: "seller to see" or "seller/CPA"
+Confidence: Medium
+Reasoning: The prior lines discussed the seller and their CPA about tax implications.
+Impact: Medium
+
+---
+[Error #11 - Category: Homophone/Near-homophone]
+Location: ~00:54:20 / Speaker: Athena
+Transcript excerpt: "...just think of private capital as an investment play. Vendors, you can be a little bit like..."
+Issue: "Vendors" likely intended to be "lenders."
+Likely intended: "Lenders"
+Confidence: High
+Reasoning: The segment contrasts lenders with private capital providers.
+Impact: Medium
+
+---
+[Error #12 - Category: Semantic inconsistency]
+Location: ~00:59:00 / Speaker: Ryan
+Transcript excerpt: "...spend more time with you is exactly what a few saying."
+Issue: Garbled phrase.
+Likely intended: "what Athena was saying"
+Confidence: Medium
+Reasoning: He is aligning with Athena’s guidance about building the relationship.
+Impact: Low
+
+---
+[Error #13 - Category: Homophone/Near-homophone]
+Location: ~00:35:25 / Speaker: Jason
+Transcript excerpt: "yeah, 10 foil hat."
+Issue: "10" is likely "tin" in the idiom.
+Likely intended: "tin foil hat"
+Confidence: High
+Reasoning: Common expression; numeral likely ASR artifact.
+Impact: Low
+
+---
+[Error #14 - Category: Business terminology distortion]
+Location: ~00:44:10 / Speaker: Athena
+Transcript excerpt: "I'm assuming it's air balls and maybe there's some IP..."
+Issue: Plural/syntax awkward; standard lending term is "airball" (unsecured portion).
+Likely intended: "airball"
+Confidence: Medium
+Reasoning: In underwriting, "airball" refers to the unsecured cash-flow piece; pluralization is uncommon here.
+Impact: Low
+
+---
+[Error #15 - Category: Semantic inconsistency]
+Location: ~01:02:05 / Speaker: Athena
+Transcript excerpt: "...take a little break on the buyer's funds. We'll be back in April..."
+Issue: "buyer's funds" inconsistent with prior references to "Buyers Club."
+Likely intended: "Buyers Club"
+Confidence: High
+Reasoning: Multiple earlier references to the program as "Buyers Club."
+Impact: Low
+
+---
+[Error #16 - Category: Speaker Misattribution]
+Location: ~00:35:00
+Transcript excerpt:
+"Steve: Hey, Steve. So just a comment. So I think you're taking the right approach."
+Issue: Speaker appears to address himself; likely the greeting line belongs to another speaker.
+Likely intended: Athena: "Hey, Steve." followed by Steve’s comment.
+Confidence: Medium
+Reasoning: Self-address is unnatural; frequent ASR tagging error.
+Impact: Low
+
+---
+[Error #17 - Category: Omission]
+Location: ~00:39:45 / Speaker: Andrew
+Transcript excerpt: "...it's effectively a, a CRM business for officers."
+Issue: Missing qualifier after "for" obscures meaning.
+Likely intended: "for loan officers"
+Confidence: Medium
+Reasoning: Entire section repeatedly references mortgage loan officers.
+Impact: Medium
+
+---
+[Error #18 - Category: Minor article error]
+Location: ~00:44:15 / Speaker: Athena
+Transcript excerpt: "...maybe there's some IP in the, the, um, A CRM system..."
+Issue: Article usage likely misheard; "A CRM" unnatural in context.
+Likely intended: "the CRM system"
+Confidence: Medium
+Reasoning: Minor ASR hiccup with articles; not meaning-changing.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Logistics]
+Location: 00:00:06–00:00:35
+Speakers involved: Athena
+Content excerpt:
+"...Hello. Hello. Hello. Um, good to see you all. Let's see. I don't see any faces. Yeah. Let's see who's in the waiting room. Okay. We've got Polly and Steve and Jason and Dustin is here. Awesome."
+Reasoning:
+Meeting setup chatter not related to deal content.
+Context impact: None
+Recommended action: REMOVE 00:00:06–00:00:35
+
+---
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: 00:01:35–00:01:55
+Speakers involved: Polly
+Content excerpt:
+"Yeah, I'm driving home, but it's going to take me a few minutes to get home... I wanted to make sure I got on the call with you guys before I got home."
+Reasoning:
+Travel status update; no business relevance.
+Context impact: None
+Recommended action: REMOVE 00:01:35–00:01:55
+
+---
+[REMOVAL #3 - Type: Technical/Audio interruption]
+Location: 00:04:55–00:05:25
+Speakers involved: Athena, Steve
+Content excerpt:
+"Athena: ...I might give her a call and be like, cut out on me. Hold on. You there, Polly, can you hear me? Okay.
+Steve: I know exactly where she is. She'll be back in a 2nd... little dip on the way to our house..."
+Reasoning:
+Audio dropout and location commentary; not substantive.
+Context impact: Low—Athena’s advisory content continues before/after.
+Recommended action: REMOVE 00:04:55–00:05:25
+
+---
+[REMOVAL #4 - Type: Technical/Audio interruption]
+Location: 00:05:30–00:05:55
+Speakers involved: Polly
+Content excerpt:
+"Oh, yeah. Sorry about that... something cut out on us."
+Reasoning:
+Continuation of audio issue apology; no business value.
+Context impact: None
+Recommended action: REMOVE 00:05:30–00:05:55
+
+---
+[REMOVAL #5 - Type: Technical/Audio interruption]
+Location: 00:08:55–00:09:15
+Speakers involved: Athena, Polly
+Content excerpt:
+"Athena: Yeah, Polly, it sounds like you're breaking up a little bit...
+Polly: It's going through kind of a valley area. Can you hear me?"
+Reasoning:
+Connectivity chatter; no business value.
+Context impact: None
+Recommended action: REMOVE 00:08:55–00:09:15
+
+---
+[REMOVAL #6 - Type: Personal/Off-Topic]
+Location: 00:10:40–00:10:55
+Speakers involved: Polly
+Content excerpt:
+"I'm back on level road right now. I was going through some, some valley areas."
+Reasoning:
+Driving status; no business relevance.
+Context impact: None
+Recommended action: REMOVE 00:10:40–00:10:55
+
+---
+[REMOVAL #7 - Type: Personal/Off-Topic]
+Location: 00:37:45–00:38:10
+Speakers involved: Andrew
+Content excerpt:
+"Sorry, I'm late. I had a thing go way over. I'm in a coffee shop, so it's going to be... I apologize."
+Reasoning:
+Apologies and venue notes; not related to deal analysis.
+Context impact: None
+Recommended action: REMOVE 00:37:45–00:38:10
+
+---
+[REMOVAL #8 - Type: Personal/Off-Topic]
+Location: 00:57:00–00:58:10
+Speakers involved: Andrew, Athena
+Content excerpt:
+"Andrew: ...start saying a boot and hoose, that way I can really get the Canadian in me going.
+...I do love poutine... cheering for the Canucks."
+Reasoning:
+Cultural jokes and food/sports references; non-business.
+Context impact: None
+Recommended action: REMOVE 00:57:00–00:58:10
+
+---
+[REMOVAL #9 - Type: Personal/Off-Topic]
+Location: 00:58:35–00:59:05
+Speakers involved: Andrew
+Content excerpt:
+"Sorry, they're closing. Keep going... I hate that I joined late and I'm going to bail early, but... I don't want to keep them here."
+Reasoning:
+Venue closing logistics; no business relevance.
+Context impact: None
+Recommended action: REMOVE 00:58:35–00:59:05
+
+---
+[REMOVAL #10 - Type: Personal/Off-Topic]
+Location: 01:00:20–01:00:50
+Speakers involved: Athena, Andrew
+Content excerpt:
+"Athena: We'll look forward to seeing your plane ticket to Canada.
+Andrew: Gotta get my passport renewed first.
+Athena: ...meet somewhere at the border if you can..."
+Reasoning:
+Travel/administrative personal logistics; unnecessary detail.
+Context impact: Low—core advice about meeting in person is preserved elsewhere.
+Recommended action: REMOVE 01:00:20–01:00:50
+
+---
+[REMOVAL #11 - Type: Administrative/Program logistics]
+Location: 01:02:05–01:03:00
+Speakers involved: Athena
+Content excerpt:
+"...hoping we're going to have something that we can show you on Thursday... Anka sent out a notice, but the last week of March... we'll take a little break on the buyer's funds... We'll be back in April..."
+Reasoning:
+Scheduling and program admin not related to dealmaking content.
+Context impact: None—doesn’t affect understanding of business discussions.
+Recommended action: REMOVE 01:02:05–01:03:00
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: 00:34:50–00:36:50
+Content excerpt:
+"Steve: ...in cyber security sales... zero trust... the old Columbo... leverage your expertise... make it his idea..."
+Business relevance argument: Offers practical negotiation framing techniques transferable to buyer–seller–lender interactions.
+Personal content argument: Includes humor (“tin foil hat”) and anecdotal setup.
+Recommendation: KEEP—The negotiation strategy content is directly useful despite the humorous aside.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 00:33:00–00:34:30
+Content excerpt:
+"Athena: ...story of John, the car wash owner... got 6 million dollars... asked for a job... sellers’ identity and purpose..."
+Business relevance argument: Illustrates seller psychology and post-sale dynamics—valuable for buyer strategy.
+Personal content argument: Anecdotal and not tied to the current deal specifics.
+Recommendation: KEEP—It supports the core coaching point about handling an older seller’s identity and motivations.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: 01:00:05–01:00:20
+Content excerpt:
+"Athena: ...we’ll look forward to seeing your plane ticket to Canada."
+Business relevance argument: Emphasizes strategic importance of meeting the seller in person to advance the off-market deal.
+Personal content argument: References travel logistics.
+Recommendation: KEEP—Supports the recommended tactical next step; removal may weaken the guidance’s emphasis.
+
+---
+
+Notes on patterns and system improvement
+- Recurrent ASR confusion with acronyms/terms: GAAP->gap; SDE->STE; mezz->Mazda; pari passu->parapursuit; lender->letter; lenders->vendors. These are high-value terms in M&A contexts; tuning the ASR language model with a domain glossary would reduce such errors.
+- Speaker attribution hiccups occur around short acknowledgments and turn transitions (e.g., “I can,” “Hey, Steve”), increasing confusion. A diarization pass or constrained speaker model could help.
+- Technical audio dropouts were transcribed verbatim; consider automatic detection/removal of connectivity chatter to streamline transcripts.
+
+Segment summary (coarse)
+- 00:00–00:01: Admin greetings/logistics (MIXED; remove small-talk lines per REMOVAL #1)
+- 00:01–00:13: Polly/broker offer loop strategy (KEEP; remove driving/connectivity as per #2–5, #6)
+- 00:13–00:33: Jason/Tariq financing and lender engagement strategy (KEEP)
+- 00:27–00:31: Office suite LOI timing/CPA tax implications (KEEP; fix errors #9–#10)
+- 00:34–00:37: Negotiation framing (KEEP)
+- 00:37–01:01: Andrew off-market SaaS/CRM deal financing strategy (KEEP; remove coffee shop/poutine/closing logistics per #7–#10; fix errors #7–#8, #11–#12, #17–#18)
+- 01:02–01:03: Program scheduling/admin (REMOVE per #11)
+
+This set preserves all substantive deal, financing, and strategy content while removing personal/off-topic chatter and surfacing high-impact transcription issues.

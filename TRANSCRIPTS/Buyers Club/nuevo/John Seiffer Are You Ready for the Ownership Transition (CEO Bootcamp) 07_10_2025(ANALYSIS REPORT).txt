@@ -1,0 +1,171 @@
+[Error #1 - Category: Entity name (person)]
+Location: ~00:03:30 / Speaker: John
+Transcript excerpt: "I'm John Cipher. I've always had companies and I was a remote CEO..."
+Issue: Speaker’s name likely mis-transcribed.
+Likely intended: "I'm John Seiffer."
+Confidence: High
+Reasoning: The book referenced is “Output Thinking,” authored by John Seiffer, a known coach who runs “After The Close.” ASR commonly converts “Seiffer” → “Cipher.”
+Impact: High – core speaker identity, affects attribution and searchability.
+
+[Error #2 - Category: Misheard Acronym/Proper Noun]
+Location: ~00:01:50 / Speaker: Athena
+Transcript excerpt: "I met John and heard him speak at SM Bash back in Utah in 2024..."
+Issue: Event name likely mis-transcribed.
+Likely intended: "SMBash"
+Confidence: High
+Reasoning: The common conference in this space is “SMBash.” ASR often drops the “B.”
+Impact: Medium – proper event naming for accuracy and future reference.
+
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:05:35 / Speaker: John
+Transcript excerpt: "...people talk about entrepreneurial operating systems and scaling up and, uh, V two MOM..."
+Issue: Acronym spacing/formating is off.
+Likely intended: "V2MOM"
+Confidence: High
+Reasoning: V2MOM is a known Salesforce/Benioff framework; ASR often expands alphanumeric acronyms verbally.
+Impact: Medium – technical clarity.
+
+[Error #4 - Category: Business terminology distortion]
+Location: ~00:19:05 / Speaker: John
+Transcript excerpt: "figure out what your R andrs are, your roles and responsibilities, what r and r means."
+Issue: “R andrs” is garbled.
+Likely intended: "R&Rs (roles and responsibilities)"
+Confidence: High
+Reasoning: Common abbreviation R&Rs; ASR frequently mangles repeated letters/ampersands.
+Impact: Medium – may confuse readers new to the term.
+
+[Error #5 - Category: Omission/Truncation]
+Location: ~00:03:50 / Speaker: John
+Transcript excerpt: "...starting in 1993 when it didn't make the internet, didn't make it very easy to do that."
+Issue: Sentence is syntactically broken; subject likely missing.
+Likely intended: "...when the internet didn’t make it very easy to do that."
+Confidence: Medium
+Reasoning: Natural phrasing would reference the internet as subject; ASR likely dropped “the internet.”
+Impact: Low-Medium – readability/clarity.
+
+[Error #6 - Category: Misheard Acronym/URL]
+Location: ~00:31:45 / Speaker: John
+Transcript excerpt: "go to after the close biz, click on that URA code, uh, that K code..."
+Issue: Both URL and code type likely mis-transcribed.
+Likely intended: "aftertheclose.biz" and "QR code"
+Confidence: High
+Reasoning: “QR code” commonly misheard; “after the close biz” likely the domain “aftertheclose.biz.”
+Impact: High – call-to-action accuracy and contactability.
+
+[Error #7 - Category: Business terminology distortion]
+Location: ~00:23:35 / Speaker: John
+Transcript excerpt: "the other two of these context pillars are cafe and advisor stack."
+Issue: “cafe” likely refers to an acronym, not the word.
+Likely intended: "CAFE & Advisor Stack" (likely Compliance, Assets, Facilities, Equipment)
+Confidence: Medium
+Reasoning: Context mentions insurance, facilities, compliance; CAFE plausibly stands as an acronym grouping those. ASR lowercased and lost acronym sense.
+Impact: Medium – understanding the model’s pillars.
+
+[Error #8 - Category: Speaker Misattribution]
+Location: ~00:46:05–00:52:15
+Transcript excerpt: 
+  Athena: "I think I saw Steve..."
+  Polly: "Hey John, thanks for joining. Um, I had a quick question about..."
+  ...
+  Athena: "carry on Steve, if you have more questions."
+  Polly: "More than answer my question..."
+  John: "Steve, if you and I were to open up a burger business..."
+Issue: Questions are attributed to “Polly,” but both Athena and John address the speaker as “Steve.”
+Likely intended: The speaker for these questions/comments is “Steve,” not “Polly.”
+Confidence: High
+Reasoning: Multiple direct addresses (“Steve”) by other participants; consistent thread.
+Impact: Medium – clarity of Q&A attribution.
+
+[Error #9 - Category: Entity name (person) inconsistency]
+Location: ~00:00:15–00:00:35
+Transcript excerpt: 
+  Athena: "Hi Polly."
+  John: "Hi Pauly."
+Issue: Name spelled two different ways (“Polly” vs “Pauly”).
+Likely intended: Consistent spelling of the same participant (likely "Polly").
+Confidence: Medium
+Reasoning: Later speaker label shows “Polly.” Early greeting likely drifted phonetically.
+Impact: Low – minor, but consistency matters.
+
+[Error #10 - Category: Homophone]
+Location: ~01:22:45 / Speaker: John
+Transcript excerpt: "by my book if you haven't already."
+Issue: Wrong homophone.
+Likely intended: "buy my book"
+Confidence: High
+Reasoning: Call-to-action to purchase; “by” vs “buy” are common ASR errors.
+Impact: Low-Medium – CTA clarity.
+
+[Error #11 - Category: Semantic inconsistency]
+Location: ~00:01:55–00:02:20 / Speaker: Athena
+Transcript excerpt: "...we got to speaking quite in depth at LA or this year's event..."
+Issue: “at LA or this year’s event” is awkward/ambiguous.
+Likely intended: "at LA for this year’s event" or "at this year’s LA event"
+Confidence: Medium
+Reasoning: ASR often confuses short prepositions/conjunctions; location reference unclear.
+Impact: Low – does not hinder overall meaning but reads odd.
+
+[Error #12 - Category: Omission/Truncation]
+Location: ~00:37:05 / Speaker: Athena
+Transcript excerpt: "I think I saw Steve a meeting in with a question."
+Issue: Phrase is garbled.
+Likely intended: "I think I saw Steve unmuting with a question."
+Confidence: Medium
+Reasoning: Common Zoom/meet phrasing; ASR misheard “unmuting.”
+Impact: Low – minor meeting logistics.
+
+
+
+[REMOVAL #1 - Type: Small Talk/Greetings]
+Location: 00:00:00–00:00:45
+Speakers involved: Athena, John, Peter
+Content excerpt:
+"Athena: Hello. Hello. Welcome. Welcome. Let see. Hi Polly. Hello. How's it going? I'm good, how about you? Yeah, good, thanks... Peter's here. Hey Peter.
+John: Hey Peter. Hi Pauly."
+Reasoning:
+Pure greetings and brief pleasantries with no business substance.
+Context impact: None—content moves immediately into event intro and speaker background.
+Recommended action: REMOVE 00:00:00–00:00:45
+
+[REMOVAL #2 - Type: Meeting Logistics]
+Location: ~00:36:45–00:37:15
+Speakers involved: Athena
+Content excerpt:
+"Athena: John, do you mind if we take your slides down and then... folks, if anybody has questions for John, please, raise your hands..."
+Reasoning:
+Screen-share and hand-raising logistics; minimal business value beyond facilitation.
+Context impact: Low—Q&A proceeds clearly without this prompt.
+Recommended action: REMOVE ~00:36:45–00:37:15
+
+
+
+[BORDERLINE #1 - Requires Review]
+Location: ~01:02:30–01:03:15
+Content excerpt: 
+"Athena: I use both personally... I had therapy this week and realized that one of my concerns... was rooted in my own insecurity... now I can act on it... the coach is like, push..."
+Business relevance argument: Demonstrates self-awareness tools that directly inform leadership, hiring, and decision-making—useful for new owners managing bias.
+Personal content argument: Mentions personal therapy; could be viewed as off-topic or too personal.
+Recommendation: KEEP—It’s applied to a business decision context and supports the management theme.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~01:09:35–01:10:35
+Content excerpt:
+"Athena: we use a lot of relationship analogies here... first call is basically a blind date... the only output is do we want to go on a second date..."
+Business relevance argument: Practical framework for seller/buyer call expectations and deal progression; aligns with “output thinking.”
+Personal content argument: Uses dating analogies; semi-informal tone.
+Recommendation: KEEP—Effective educational analogy for acquisition process expectations.
+
+
+
+Additional notes and patterns:
+- Repeated acronym rendering issues suggest a systemic ASR weakness with alphanumeric/brand terms: SMBash, V2MOM, R&Rs, QR code, domain names.
+- Proper nouns and names (Seiffer/Cipher, Polly/Pauly, Steve vs Polly) show consistent ASR/speaker-label drift; prioritize careful review of names and attributions in the final transcript.
+- Domain/CTA accuracy (aftertheclose.biz, QR code) is important for user follow-up—verify and standardize.
+
+Speaker attribution validation:
+- The Q&A segment beginning around 00:46:05 is addressed to “Steve” by both Athena and John but labeled “Polly” in multiple lines. Recommend re-attributing those questions and follow-ups to “Steve” to preserve conversational clarity.
+
+Cross-reference checking:
+- Book title should be consistently “Output Thinking.”
+- Organization name referenced historically as International Coach Federation (rebranded later), but transcription is acceptable.
+- Ensure consistent spelling of participant names across the transcript (e.g., Polly vs Pauly).

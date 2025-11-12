@@ -1,0 +1,277 @@
+Segment mapping (by timestamp)
+- 00:00:00-00:01:10 — MIXED. Opening greetings/banter, then agenda and context for Josh’s deal.
+- 00:01:10-00:11:00 — KEEP. Josh’s government contracting deal, structure (stock sale), ownership breakdown, roles, prep for seller/broker meeting, positioning.
+- 00:11:00-00:13:30 — KEEP. Objectives for first seller meeting, competitiveness, LOI readiness.
+- 00:13:30-00:16:05 — MIXED. Josh meeting timing/commute details and internal update process; includes brief SoCal traffic banter.
+- 00:16:05-00:29:20 — KEEP. Carmen/Lisa roofing/solar deal modeling, SBA constraints, performance note design, accounting method concerns, union/non-union structure risks, large litigation, insurance/SDE impact.
+- 00:29:20-00:46:20 — KEEP. Jenny’s “3PL logistics” deal: stock vs asset sale strategy, tax/contract assignment issues, de-risking via performance notes and key-man, negotiations with broker.
+- 00:46:20-00:54:30 — KEEP. Michael’s two deals: performance note negotiation, reducing purchase price vs note, SBA constraints on performance metrics, second freight/logistics opportunity status.
+- 00:54:30-00:56:00 — REMOVE. Admin/scheduling, personal medical detail (shoulder/MRI), webinar plug, general salutations.
+
+Transcription error reports
+
+[Error #1 - Category: Misheard Term/Entity]
+Location: ~00:00:25 / Speaker: Athena
+Transcript excerpt: "Welcome to Tuesday Bar Club."
+Issue: Likely misheard program name; session header shows “Buyers Club Strategy Session.”
+Likely intended: "Welcome to Tuesday Buyers Club."
+Confidence: High
+Reasoning: Document title and subsequent references consistently use “Buyers Club.”
+Impact: Medium – minor confusion about meeting identity.
+
+[Error #2 - Category: Omission/Truncation (Semantic)]
+Location: ~00:01:40 / Speaker: Josh
+Transcript excerpt: "Because the way I'm thinking right now to mitigate the. 50% of the buying or the ownership team right now is, um, the, the business."
+Issue: Sentence is truncated and semantically broken; meaning unclear.
+Likely intended: Mitigating key-person/knowledge concentration in the ownership team (e.g., 50%).
+Confidence: Medium
+Reasoning: Nearby context discusses knowledge transfer, performance note, employment contract.
+Impact: Medium – affects understanding of his risk-mitigation point.
+
+[Error #3 - Category: Business Terminology Distortion]
+Location: ~00:03:45 / Speaker: Josh
+Transcript excerpt: "not a highly, what I consider litigation pro business"
+Issue: “litigation pro” is incorrect collocation.
+Likely intended: “litigation-prone business.”
+Confidence: High
+Reasoning: Common term is “litigation-prone” in risk context.
+Impact: Low – meaning mostly inferable.
+
+[Error #4 - Category: Misheard Acronym/Title]
+Location: ~00:04:30 / Speaker: Josh
+Transcript excerpt: "fractional CSOs or bookkeeping and, you know, more of a comptroller role"
+Issue: CSO (Chief Security/Sales Strategy Officer) doesn’t fit; discussing finance/bookkeeping roles.
+Likely intended: "fractional CFOs"
+Confidence: High
+Reasoning: Directly adjacent to CFO/bookkeeping context.
+Impact: High – incorrect role materially changes meaning.
+
+[Error #5 - Category: Misheard Acronym]
+Location: ~00:08:50 / Speaker: Josh
+Transcript excerpt: "we wanna see an offer, LI or IOI or whatever it may be"
+Issue: “LI” in M&A offer context.
+Likely intended: "LOI or IOI"
+Confidence: High
+Reasoning: LOI (Letter of Intent) and IOI are standard; “LI” is not.
+Impact: High – core deal terminology.
+
+[Error #6 - Category: Speaker Attribution/Structure]
+Location: ~00:16:15-00:21:00 / Speakers: (Carmen and/or Lisa, Athena)
+Transcript excerpt: "Yeah. Um, so I mean the, the things that kind of popped up... I did financial modeling..."
+Issue: Several lines lack clear speaker tags; conversation flows as if from one speaker but earlier intro mentions two speakers.
+Likely intended: Distinct contributions by Carmen and Lisa, but unlabeled.
+Confidence: Medium
+Reasoning: Context suggests two participants; alternating acknowledgments.
+Impact: Medium – attribution affects clarity on who modeled what.
+
+[Error #7 - Category: Financial/Numerical Inconsistency]
+Location: ~00:17:35 / Speaker: (Carmen/Lisa)
+Transcript excerpt: "with a 6% number equity injection from us"
+Issue: “number equity injection” non-sensical.
+Likely intended: "member equity injection" or "owner equity injection"
+Confidence: Medium
+Reasoning: Equity injection terminology; “member” common in LLC; “owner” common generally.
+Impact: Medium – affects understanding of capital structure.
+
+[Error #8 - Category: Misheard Term]
+Location: ~00:18:25 / Speaker: (Carmen/Lisa)
+Transcript excerpt: "set it up as pro rata. And the numbers just. We're below 1.5..."
+Issue: Minor grammar (“We’re” vs “were”) and pro rata spelled inconsistently elsewhere (parata/prorata).
+Likely intended: “pro rata”
+Confidence: High
+Reasoning: Later discussion corrects to “pro rata.”
+Impact: Low – minor, but consistency matters in modeling.
+
+[Error #9 - Category: Financial/Numerical Error]
+Location: ~00:17:55 and ~00:18:55 / Speaker: (Carmen/Lisa), Athena
+Transcript excerpt: "difference between 2024 numbers and the 2022 revenue numbers... the 20, 25 numbers they only had through August"
+Issue: “20, 25 numbers” ambiguous year reference; likely wrong year stated.
+Likely intended: “2024 numbers they only had through August” (YTD)
+Confidence: Medium
+Reasoning: Prior sentence uses 2024 vs 2022; comparing YTD is typical.
+Impact: High – affects period being analyzed.
+
+[Error #10 - Category: Misheard Term]
+Location: ~00:24:40 / Speaker: Athena
+Transcript excerpt: "we like getting turn sheets before you start, like paying deal team"
+Issue: “turn sheets” in financing context.
+Likely intended: "term sheets"
+Confidence: High
+Reasoning: Standard financing doc is “term sheet.”
+Impact: Medium – process guidance clarity.
+
+[Error #11 - Category: Misheard Acronym/Term]
+Location: ~00:27:45-00:28:55 / Speaker: Athena
+Transcript excerpt: "material differences to SDE... lower the STE e number as a result of that... remove that amount from the st"
+Issue: “SDE” inconsistently transcribed as “STE e” and “st.”
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: Context is valuation/earnings; SDE is standard.
+Impact: High – key financial metric clarity.
+
+[Error #12 - Category: Misheard Acronym/Term]
+Location: ~00:30:20 / Speaker: Jenny
+Transcript excerpt: "same like Xpl L Logistics company"
+Issue: “Xpl L Logistics” not a standard industry term when describing a business type.
+Likely intended: "3PL logistics company" (third-party logistics)
+Confidence: High
+Reasoning: Industry shorthand; “3PL” often misheard as “XPL/L.”
+Impact: High – business type understanding.
+
+[Error #13 - Category: Misheard Term]
+Location: ~00:32:55-00:33:45 / Speaker: Athena
+Transcript excerpt: "They do hourly... Roman and his team will just do that as a CarVal."
+Issue: “CarVal” is likely wrong term.
+Likely intended: "as a carve-out" or "a la carte"
+Confidence: Medium
+Reasoning: Fits service-scoping context; “CarVal” is a fund name, not a service type.
+Impact: Low – service scope clarity.
+
+[Error #14 - Category: Homophone/Word choice]
+Location: ~00:41:55 / Speaker: Athena
+Transcript excerpt: "you can limit it to the, you know, amount of liability. So they can't come after everything. It's the amount of the loan."
+Issue: Prior line references “PGS on seller notes” earlier; “PGS” capitalization inconsistent and unclear.
+Likely intended: "PGs" (personal guarantees)
+Confidence: Medium
+Reasoning: Common shorthand “PGs” used in SBA/seller note context.
+Impact: Low.
+
+[Error #15 - Category: Entity Name (Possible)]
+Location: ~00:47:05-00:52:10 / Speaker: Michael
+Transcript excerpt: "this is... Moon Clerk... On the other one... rate liner... the freight... in New Hampshire"
+Issue: Company/entity names may be misheard (“MoonClerk” is a known SaaS; “RateLiner” vs “Freightliner”).
+Likely intended: "MoonClerk" (if SaaS) and possibly "RateLiner" (company) rather than “rate liner”
+Confidence: Low-Medium
+Reasoning: Without materials, unclear. “Freightliner” is a truck brand; context is a brokerage/transport firm, so “RateLiner” plausible.
+Impact: Medium – proper entity identification.
+
+[Error #16 - Category: Typo/Homophone]
+Location: ~00:47:50 / Speaker: Michael
+Transcript excerpt: "a performance note that is $500,000 left, roughly, than the one I proposed."
+Issue: “left” -> “less”
+Likely intended: "…$500,000 less…"
+Confidence: High
+Reasoning: Comparative amount statement.
+Impact: Low.
+
+[Error #17 - Category: Omission/Minor]
+Location: ~00:49:10 / Speaker: Michael
+Transcript excerpt: "the ability for the performance note to. Actually materialize a payout."
+Issue: Truncation after “to.”
+Likely intended: "to actually materialize a payout"
+Confidence: High
+Reasoning: Standard phrasing; period likely inserted incorrectly.
+Impact: Low.
+
+[Error #18 - Category: Misheard Phrase]
+Location: ~00:49:45 / Speaker: Michael
+Transcript excerpt: "the SBA... needs to be a prior year or a prior. The performance note needs to be based on a target..."
+Issue: “prior.” ends abruptly; missing “prior year.”
+Likely intended: "prior year"
+Confidence: High
+Reasoning: SBA guidance typically references prior-year performance levels.
+Impact: Low.
+
+[Error #19 - Category: Misheard Term]
+Location: ~00:33:05 / Speaker: Athena
+Transcript excerpt: "It is taxi, right."
+Issue: Likely a play on “tax-y” (tax-heavy) content; “taxi” misleading.
+Likely intended: "It is tax-y"
+Confidence: Medium
+Reasoning: Conversation about tax structures.
+Impact: Low.
+
+[Error #20 - Category: Speaker Interruption / Attribution]
+Location: ~00:47:45 / Speakers: Michael, Cash
+Transcript excerpt: 
+"Michael: ...they countered back and they really weren't a fan of the performance notes.
+Cash: the broker. I think it... was just a seller's note."
+Issue: Abrupt mid-thought interruption may obscure whether Michael or Cash is conveying the broker’s position.
+Likely intended: Cash clarifying broker’s response; ensure attributions are correct and separated.
+Confidence: Medium
+Reasoning: Clarity needed on who asserts what about deal terms.
+Impact: Medium.
+
+Removal recommendations
+
+[REMOVAL #1 - Type: Small Talk/Off-Topic]
+Location: ~00:00:05-00:00:35
+Speakers involved: Athena (+ group)
+Content excerpt:
+"Are, are you pointing at Carmen? Being here? Hello Carmen? Yeah. She's here for, yay. It's a miracle. Awesome. Welcome to Tuesday Bar Club."
+Reasoning:
+Pure greetings/banter unrelated to any deal, process, or strategy.
+Context impact: None
+Recommended action: REMOVE ~00:00:05-00:00:35
+
+[REMOVAL #2 - Type: Small Talk]
+Location: ~00:14:55-00:15:30
+Speakers involved: Josh, Athena
+Content excerpt:
+"Josh: It's only a 40 minute drive from my house...
+Athena: We love it when it's commuting distance...
+Josh: which is really short for Southern California.
+Athena: Oh, I remember... it could be a couple miles away and take forever."
+Reasoning:
+Local commute/traffic chit-chat; no deal insight beyond already established proximity.
+Context impact: Low—retain “meeting is at 11:00 AM, 40-minute drive” if needed; remove traffic anecdote lines.
+Recommended action: REMOVE ~00:15:05-00:15:30 (keep the meeting time and distance line for context)
+
+[REMOVAL #3 - Type: Administrative/Off-Topic]
+Location: ~00:15:30-00:16:05
+Speakers involved: Athena
+Content excerpt:
+"Keep us posted... If you don't wanna type it out, we'd love voice notes... drop a voice note..."
+Reasoning:
+Internal process admin; not educational or deal-specific.
+Context impact: None
+Recommended action: REMOVE ~00:15:30-00:16:05
+
+[REMOVAL #4 - Type: Administrative/Personal]
+Location: ~00:54:30-00:56:00
+Speakers involved: Athena
+Content excerpt:
+"I think we're gonna have to probably not have Thursday's session... injured shoulder... MRI... Acquiring Minds webinar... day off from me shouting at you... we'll pull that video..."
+Reasoning:
+Session scheduling, personal health, and promotional content; not business/deal content.
+Context impact: None
+Recommended action: REMOVE ~00:54:30-00:56:00
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:07:20-00:08:20
+Content excerpt: "This is another dating analogy... make sure they have so much fun... everyone always wants a second date... while she's doing that, she's analyzing..."
+Business relevance argument: Provides practical seller-meeting strategy via analogy; educative on rapport building and qualifying fit.
+Personal content argument: Personal anecdote about dating.
+Recommendation: KEEP — Strong instructional value in buyer-seller rapport context.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:14:45-00:15:10
+Content excerpt: "11:00 AM... It's only a 40 minute drive from my house..."
+Business relevance argument: Meeting timing and proximity can be relevant to buyer feasibility and post-close operations.
+Personal content argument: Leans toward personal logistics, not deal substance.
+Recommendation: KEEP the timing/proximity sentence; REMOVE subsequent traffic banter (as per Removal #2).
+
+Speaker attribution validation summary
+- 00:16:15-00:21:00: The modeling narrative after Athena prompts Carmen and Lisa lacks clear speaker tags. Recommend reviewer confirm which parts are Carmen vs. Lisa for accuracy.
+- ~00:47:45: Cash interjects mid-thought during Michael’s update; ensure it’s clear Cash is clarifying broker’s counter (seller note vs performance note).
+
+Cross-reference consistency notes
+- SDE vs “STE/st”: Multiple inconsistent transcriptions for Seller’s Discretionary Earnings across 00:27:45-00:28:55; standardize to SDE.
+- LOI vs “LI”: Use LOI consistently.
+- “pro rata” vs “prorata/Parata”: Use “pro rata” consistently.
+- “term sheet” vs “turn sheet”: Use “term sheet” consistently.
+- 3PL vs “Xpl L”: Use 3PL consistently for third-party logistics.
+
+Patterns to flag for ASR improvement
+- Frequent confusion on core M&A acronyms (LOI/IOI/SDE/SBA) and finance roles (CFO vs CSO).
+- Year references (2024 vs “20, 25”) garbled when spoken quickly.
+- Industry shorthand “3PL” misheard as “XPL/Xpl L”.
+- Insertion of stray periods causing truncations mid-sentence.
+- Inconsistent speaker labeling during multi-participant segments leads to attribution ambiguity.
+
+Overall keep/remove guidance
+- Keep all deal, structure, financing, diligence, and strategy content.
+- Remove brief pure small talk (greetings, traffic), internal admin (voice note reminders), and end-of-call scheduling/health updates.
+- Preserve analogies that directly teach process/strategy, even if lightly personal.

@@ -1,0 +1,213 @@
+Below is an analysis of the transcript focusing on likely ASR (automatic speech recognition) errors and on mapping business-relevant vs. off-topic segments.
+
+ERRORS AND INCONSISTENCIES
+
+[Error #1 - Category: Business terminology distortion]
+Location: 0:46-2:57 / Speaker: Ryan Cash
+Transcript excerpt: "And like the AdVax are the most insane AdVax I've ever seen. Like they've got $350,000 of car wash expenses that are included in the AdVax as part of this SDE calculation."
+Issue: “AdVax/AdVax” is a distortion
+Likely intended: “add-backs/add-backs”
+Confidence: High
+Reasoning: In M&A, add-backs are standard in SDE calculations; “AdVax” is a phonetic misrendering repeated multiple times.
+Impact: High – central to the deal analysis.
+
+[Error #2 - Category: Homophone/semantic (financial context)]
+Location: 0:46-2:57 / Speaker: Ryan Cash
+Transcript excerpt: "if the buyer also wants this like $5 million property to be part of the line..."
+Issue: “line” seems out of place
+Likely intended: “loan” (or possibly “deal”/“LOI”)
+Confidence: Medium
+Reasoning: Discussing whether real estate is included/financed—“part of the loan” makes financial sense; “line” is anomalous in context.
+Impact: Medium
+
+[Error #3 - Category: Misheard Acronym]
+Location: 4:29-5:21 / Speaker: Luke Gillespie
+Transcript excerpt: "Due diligence, QOV, I might come back at like 1.5 million..."
+Issue: “QOV” in diligence context
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: QoE is the standard diligence product; QOV is not a relevant acronym here.
+Impact: High
+
+[Error #4 - Category: Business terminology distortion (Pattern)]
+Location: Multiple (6:02, 8:41-9:10, 43:07, 45:43) / Speakers: Athena, Ryan, Anke, Luke
+Transcript excerpts:
+- "pushing as many sims as possible…" (6:02)
+- "view of reviewing the sins…" (8:41-9:10)
+- "the deal calculator into the deal folders?" (43:07)
+- "the folder that has the SIEM information…" (45:43)
+Issue: Inconsistent/misheard references to SIM/CIM (“sims,” “sins,” “SIEM”)
+Likely intended: “SIMs” (or “CIMs”) = Confidential Information Memoranda
+Confidence: High
+Reasoning: Consistent M&A term; ASR rendered it incorrectly in multiple ways.
+Impact: High – could confuse documentation/process.
+
+[Error #5 - Category: Entity name (person) + phrasing garble]
+Location: 27:13-30:02 / Speaker: Athena Simpson
+Transcript excerpt: "Alex Harmosi just has a scene where he tries to explain things that attend. Greater would understand."
+Issue: Person’s name and phrase garbled
+Likely intended: “Alex Hormozi… explain things that a 10th grader would understand.”
+Confidence: High
+Reasoning: Widely known figure; common phrasing used by Hormozi about simplifying concepts.
+Impact: Medium
+
+[Error #6 - Category: Misheard acronym]
+Location: 27:13-30:02 / Speaker: Athena Simpson
+Transcript excerpt: "what the revenue is, what their SCE is."
+Issue: “SCE” in valuation context
+Likely intended: “SDE” (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: Entire discussion centers on SDE multiples; SCE is incorrect.
+Impact: High
+
+[Error #7 - Category: Entity name (person)]
+Location: 33:32-33:40 / Speaker: Athena Simpson
+Transcript excerpt: "Oluid, you had a question on this one... Oluid, it's just add that amount to it."
+Issue: “Oluid” not a participant; likely mislabeling
+Likely intended: “Luke”
+Confidence: High
+Reasoning: The reply immediately after is by Luke; “Oluid” appears nowhere else.
+Impact: Medium
+
+[Error #8 - Category: Semantic inconsistency]
+Location: ~33:36-34:52 / Speaker: Athena Simpson
+Transcript excerpt: "their asking price is 3.55, and that's what our valuation tool came up with."
+Issue: “Asking price” expressed as “3.55” (looks like a multiple, not a price)
+Likely intended: “Asking multiple is 3.55x…”
+Confidence: Medium
+Reasoning: Prices are currency values; 3.55 is a multiple. Context is multiples and valuation tool outputs.
+Impact: Medium
+
+[Error #9 - Category: Business terminology distortion]
+Location: ~13:34 / Speaker: Athena Simpson
+Transcript excerpt: "they didn't typically do Parapasue above the SBA guarantee."
+Issue: Misrendering of a finance/legal term
+Likely intended: “pari passu”
+Confidence: High
+Reasoning: Standard lending/credit priority term; ASR phonetic error.
+Impact: Medium-High – important for deal structure understanding.
+
+[Error #10 - Category: Entity/Proper noun (sports team)]
+Location: 3:26 / Speaker: Ryan Cash
+Transcript excerpt: "Man, a brave game here, like, strange."
+Issue: “brave game” inconsistent with prior “Atlanta Braves” reference
+Likely intended: “a Braves game”
+Confidence: High
+Reasoning: Immediately prior they mention sponsorship of the Atlanta Braves; “Braves game” is logical.
+Impact: Low
+
+[Error #11 - Category: Entity name (company)]
+Location: 39:50 / Speaker: Athena Simpson
+Transcript excerpt: "renaming it with the business name and the AcreMatch ID number."
+Issue: Company name misspelled
+Likely intended: “AcquiMatch ID number”
+Confidence: High
+Reasoning: Company name is AcquiMatch (per context and role).
+Impact: Medium (process instructions)
+
+[Error #12 - Category: Misheard acronym/term]
+Location: 45:43 / Speaker: Ryan Cash
+Transcript excerpt: "the folder that has the SIEM information..."
+Issue: “SIEM” incorrect in this context
+Likely intended: “SIM” (or “CIM”)
+Confidence: High
+Reasoning: Discussion is about deal folders containing the SIM/CIM; SIEM is an IT security term, unrelated here.
+Impact: High
+
+[Error #13 - Category: Entity/name inconsistency]
+Location: 4:29-5:21 / Speaker: Luke Gillespie
+Transcript excerpt: "we would flag all those adbacks to Stephen Pauly in the write-up."
+Issue: Name inconsistency with earlier references
+Likely intended: “Steve and Polly” (two people)
+Confidence: High
+Reasoning: Earlier: “Steve and Polly” are clients; “Stephen Pauly” collapses them into one name.
+Impact: Medium
+
+[Error #14 - Category: Business terminology distortion]
+Location: 49:35-49:47 / Speakers: Anke/Luke
+Transcript excerpt: "Ray, of course, the one that's actually putting the GIL compiler in the folder."
+Issue: “GIL compiler” is nonsensical in context
+Likely intended: “deal calculator”
+Confidence: High
+Reasoning: The team had just discussed removing the “quick calculator”/“deal calculator” from client folders; phonetic error likely.
+Impact: Medium
+
+[Error #15 - Category: Numerical/omission]
+Location: 42:00-42:21 / Speaker: Athena Simpson
+Transcript excerpt: "people are like, yeah, I want to like 500 SDE business and with an operator in place."
+Issue: Missing unit/scale
+Likely intended: “$500k SDE business”
+Confidence: Medium
+Reasoning: SDE values are typically expressed with units; 500 without “k” or “thousand” is ambiguous.
+Impact: Medium
+
+[Error #16 - Category: Entity name (person)]
+Location: 35:16 / Speaker: Athena Simpson
+Transcript excerpt: "Yeah. Paris, how about you? What do you think about this?"
+Issue: Wrong name
+Likely intended: “Charis”
+Confidence: High
+Reasoning: Participant is Charis Siau; “Paris” is an ASR mishearing.
+Impact: Low-Medium
+
+[Error #17 - Category: Truncation/garble]
+Location: 24:53-25:09 / Speaker: Athena Simpson
+Transcript excerpt: "Do you want me to pull that up? Sorry, I was just reading. I got distracted. I shouldn't have done that. All Say that to me one more time."
+Issue: “All Say” garble
+Likely intended: “I'll… Say that to me one more time.”
+Confidence: Medium
+Reasoning: Natural speech likely “I’ll”; ASR often mis-capitalizes/conflates contractions.
+Impact: Low
+
+[Error #18 - Category: Semantic/word choice oddity]
+Location: 45:43-46:12 / Speakers: Ryan/Luke
+Transcript excerpt: "Is that in Ray's yardage?"
+Issue: “yardage” unusual in process context
+Likely intended: “wheelhouse / remit / purview / yard” (idiom)
+Confidence: Low
+Reasoning: Could be an idiosyncratic phrase, but likely ASR oddity.
+Impact: Low
+
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+- 0:00-4:29 (Viking deal; financials; add-backs; real estate): KEEP
+- 4:29-6:02 (Push SIMs to calls; diligence/QoE expectations; client comms): KEEP
+- 6:02-8:41 (Handling red flags vs. learning; process expectations): KEEP
+- 8:41-10:08 (Auctions/no listing price practices; broker tactics): KEEP
+- 10:08-13:34 (Auction timelines; LOIs/IOIs; scoring offers; rollover equity example): KEEP
+- 13:34-14:33 (Financing structure; lender constraints; lessons learned): KEEP
+- 14:33-23:28 (Team process/training goals; write-ups; broker calls; client delivery): KEEP
+- 23:28-25:09 (Weekly reporting; Slack channel usage): KEEP
+- 25:09-27:01 (Agenda to cover valuation tool): KEEP
+- 27:01-39:14 (Base multiple evaluation tool walkthrough; risk/value drivers; action to bump base multiples): KEEP
+- 39:14-45:06 (Tool usage with write-ups; SDE vs EBITDA; client-facing timing; foldering): KEEP
+- 45:06-49:29 (Remove quick calculator from client folders; template updates; next steps): KEEP
+- 49:29-50:54 (Closing logistics: file prep/Slack DMs): KEEP
+
+REMOVALS
+
+No clear personal/off-topic small talk segments identified. All content pertains to deal analysis, M&A processes, financing/valuation tools, internal workflows, or immediate meeting logistics. No removal recommended at this time.
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 49:47-50:54
+Content excerpt: "Do you guys mind if we end this quickly so I can get a breather and a coffee… Do you need anything prepped? … I can send you a DM on Slack right now… Just DM it to me, Luke..."
+Business relevance argument: Meeting logistics for the next work block; ensures Athena has necessary P&Ls; operationally relevant.
+Personal content argument: Minor personal aside (“breather and a coffee”) and scheduling chatter not directly about deals.
+Recommendation: KEEP — Minimal personal content; logistics support the workstream continuity.
+
+
+NOTES ON SPEAKER ATTRIBUTION
+- No clear instances where speaker roles are reversed; however, “Oluid” appears as an erroneous name addressing Luke (Error #7). Content/flow suggests it was directed at Luke and then Luke responds.
+
+PATTERN FLAGS FOR ASR IMPROVEMENT
+- “Add-backs” consistently misheard as “AdVax/AdVax.”
+- SIM/CIM repeatedly inconsistent: “sims,” “sins,” “SIEM.”
+- Acronyms: “QoE” misheard as “QOV”; “SDE” misheard as “SCE.”
+- Proper nouns: “Alex Hormozi” → “Harmosi”; “AcquiMatch” → “AcreMatch”; “Braves” → “brave”; “Charis” → “Paris.”
+- Technical term: “pari passu” repeatedly problematic (“Parapasue”).
+- Occasional semantic compressions creating inconsistencies (“asking price is 3.55”).
+
+This report focuses on detection and documentation to aid verification and refinement.

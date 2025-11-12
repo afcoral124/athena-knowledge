@@ -1,0 +1,275 @@
+SEGMENT MAPPING
+
+- Segment 1: [00:00:00-~00:04:30] Opening, housekeeping, and group feedback on prior tax strategy session
+  Status: KEEP
+  Rationale: Sets agenda, references upcoming wealth management topic, captures audience learning needs.
+
+- Segment 2: [~00:04:30-~00:09:30] F reorg, entity choices (S/C/LLC), ROBS, double taxation
+  Status: KEEP
+  Rationale: Core educational content on deal/tax structuring.
+
+- Segment 3: [~00:09:30-~00:16:30] Tax strategy depth, CPA vs tax strategist, negotiation levers (post-LOI tax-free options)
+  Status: KEEP
+  Rationale: Directly relevant to deal strategy and execution.
+
+- Segment 4: [~00:16:30-~00:22:00] Seller-side advisors, deal blockers, timing of tax conversations, team composition
+  Status: KEEP
+  Rationale: Practical process guidance affecting deal success.
+
+- Segment 5: [~00:22:00-~00:34:30] Deal review: digital agency (Quiet Light), equity injection vs lender requirements, objection handling
+  Status: KEEP
+  Rationale: Live deal diagnostics and broker/lender strategy.
+
+- Segment 6: [~00:34:30-~00:49:30] Deal review: CNC/dust collection distributor, financials access, seller call strategy, transition issues
+  Status: KEEP
+  Rationale: Live deal analysis and seller engagement planning.
+
+- Segment 7: [~00:49:30-end] Gil’s update and closing
+  Status: KEEP
+  Rationale: Pipeline updates and next steps.
+
+
+DETAILED ERRORS
+
+[Error #1 - Category: Entity names]
+Location: [00:00:00] / Speaker: Athena
+Transcript excerpt: "Welcome to the Only Buyers Club this week."
+Issue: Group name phrasing appears off; session header says “AcquiMatch Buyers Club.”
+Likely intended: "Welcome to the Buyers Club this week" or “AcquiMatch Buyers Club”
+Confidence: Medium
+Reasoning: “Only Buyers Club” is atypical given the header; likely a mishear.
+Impact: Low
+
+[Error #2 - Category: Semantic inconsistency]
+Location: [~00:00:55] / Speaker: Polly
+Transcript excerpt: "it's all good probation. I was just trying to process it..."
+Issue: “probation” does not fit context.
+Likely intended: "it's all good, though" or "no problem"
+Confidence: Medium
+Reasoning: Phrase is nonsensical; likely a near-homophone error during casual speech.
+Impact: Low
+
+[Error #3 - Category: Business terminology distortion]
+Location: [~00:05:40] / Speaker: Gil
+Transcript excerpt: "the double Dation issue with, with the C corp."
+Issue: “double Dation” incorrect.
+Likely intended: "double taxation"
+Confidence: High
+Reasoning: Common M&A/finance term misheard; context is C-Corp taxation.
+Impact: Medium
+
+[Error #4 - Category: Misheard acronyms]
+Location: [~00:12:05] / Speaker: Athena
+Transcript excerpt: "you don't have the luxury of chasing around a bunch of advisors pre yellow eye."
+Issue: “pre yellow eye” mishears LOI.
+Likely intended: "pre-LOI"
+Confidence: High
+Reasoning: Frequent ASR error; LOI is standard term.
+Impact: Medium
+
+[Error #5 - Category: Misheard acronym/term]
+Location: [~00:12:45] / Speaker: Athena
+Transcript excerpt: "sometimes with an F three org, they'll be like..."
+Issue: “F three org” incorrect.
+Likely intended: "F reorg"
+Confidence: High
+Reasoning: F reorganization is the relevant tax structure; “three” likely inserted by ASR.
+Impact: Medium
+
+[Error #6 - Category: Entity names]
+Location: [~00:21:05] / Speaker: Athena
+Transcript excerpt: "the team at Acrim Match have great people..."
+Issue: Company name misspelled/misheard.
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Entity appears elsewhere as AcquiMatch.
+Impact: Low
+
+[Error #7 - Category: Business terminology distortion]
+Location: [~00:29:05] / Speaker: Athena
+Transcript excerpt: "understand the equity objection requirements"
+Issue: “objection” incorrect in SBA context.
+Likely intended: "equity injection requirements"
+Confidence: High
+Reasoning: Standard SBA term is equity injection (down payment).
+Impact: Medium
+
+[Error #8 - Category: Business terminology distortion]
+Location: [~00:24:35] / Speaker: Athena
+Transcript excerpt: "you offered 90% cash workflows with 10% seller note"
+Issue: “cash workflows” is not a deal term.
+Likely intended: "cash at close"
+Confidence: High
+Reasoning: M&A usage is cash at close; “workflows” likely ASR substitution.
+Impact: Medium
+
+[Error #9 - Category: Misheard acronyms]
+Location: [~00:20:50] and [~00:21:05] / Speaker: Athena
+Transcript excerpt: "drafting the a PA or about to sign the a PA"
+Issue: “a PA” should be APA.
+Likely intended: "APA (Asset Purchase Agreement)"
+Confidence: High
+Reasoning: Standard agreement acronym in acquisitions.
+Impact: Medium
+
+[Error #10 - Category: Misheard acronyms]
+Location: [~00:37:40] / Speaker: Michael
+Transcript excerpt: "They already have some iis in hand. Lois in the hand..."
+Issue: Acronyms for indications and letters of intent misheard.
+Likely intended: "IOIs in hand... LOIs in hand"
+Confidence: High
+Reasoning: Conventional M&A acronyms; repeated homophone error.
+Impact: Medium
+
+[Error #11 - Category: Omission/Truncation]
+Location: [~00:35:35] / Speaker: Michael
+Transcript excerpt: "CNC machines, uh, dust collection systems and, um, duct work... across a. Two or three different sectors... millwork type opera, uh, type shops"
+Issue: Sentence truncation; “opera” cutoff.
+Likely intended: "operations" or "shops" without orphaned fragment.
+Confidence: Medium
+Reasoning: Mid-sentence interruption suggests ASR truncation creating a fragment.
+Impact: Low
+
+[Error #12 - Category: Semantic inconsistency]
+Location: [~00:45:35] / Speaker: Michael
+Transcript excerpt: "the power line distributor business is, or that business is."
+Issue: “power line distributor” inconsistent with earlier “parts business.”
+Likely intended: "parts line" or "parts business"
+Confidence: Medium
+Reasoning: Prior context repeatedly describes a parts-focused business; “power line” is incongruent.
+Impact: Medium
+
+[Error #13 - Category: Misheard acronyms]
+Location: [~00:13:05] / Speaker: Athena
+Transcript excerpt: "The OI template that we have is pretty locked solid."
+Issue: Missing “L” in LOI.
+Likely intended: "LOI template"
+Confidence: High
+Reasoning: Standard acronym; omission alters meaning.
+Impact: Low
+
+[Error #14 - Category: Omission/Truncation]
+Location: [~00:27:15] / Speaker: Athena
+Transcript excerpt: "what cash it close will be and what your seller e like seller, um."
+Issue: Mid-sentence truncation and false start obscure meaning.
+Likely intended: "what cash at close will be and what your seller note will be"
+Confidence: High
+Reasoning: Conventional phrasing; hesitation plus drop-out indicates ASR cut.
+Impact: Medium
+
+[Error #15 - Category: Speaker Misattribution]
+Location: [~00:50:00-00:50:20]
+Transcript excerpt:
+  Athena: "Gail, I... sounded like no real updates..."
+  Justin: "Yep. That it"
+  Gil: "I'm sorry. I just said that at this point. Yeah."
+Issue: Response about Gil’s deal appears ascribed to Justin.
+Likely intended: The “Yep. That it” line should be attributed to Gil.
+Confidence: High
+Reasoning: The topic is Gil’s pipeline; Justin responding “Yep” misaligns with context, followed by Gil clarifying.
+Impact: Medium
+
+[Error #16 - Category: Entity names]
+Location: [~00:50:05] / Speaker: Athena
+Transcript excerpt: "Gail, I... it sounded like no real updates..."
+Issue: Name mismatch (Gail vs Gil).
+Likely intended: "Gil"
+Confidence: High
+Reasoning: Participant elsewhere labeled “Gil.”
+Impact: Low
+
+[Error #17 - Category: Entity/word substitution]
+Location: [~00:51:35] / Speaker: Athena
+Transcript excerpt: "we will not be having Fires Club on Thursday"
+Issue: Group name misheard.
+Likely intended: "Buyers Club"
+Confidence: High
+Reasoning: Consistent meeting name earlier is “Buyers Club.”
+Impact: Low
+
+[Error #18 - Category: Business terminology distortion]
+Location: [~00:10:00] / Speaker: Athena
+Transcript excerpt: "any takeaways... off the attack strategy call last week?"
+Issue: “attack strategy” misheard.
+Likely intended: "tax strategy"
+Confidence: High
+Reasoning: Entire session revolves around tax strategy; homophone error likely.
+Impact: Low
+
+[Error #19 - Category: Misheard acronyms]
+Location: [~00:05:45] / Speaker: Gil
+Transcript excerpt: "I'm gonna be using the Robs, so I will be using a C Corp."
+Issue: “Robs” casing/spelling; acronym ROBS.
+Likely intended: "ROBS"
+Confidence: High
+Reasoning: Common financing mechanism; ASR often lowercases.
+Impact: Low
+
+[Error #20 - Category: Entity ambiguity]
+Location: [~00:31:05] / Speaker: Athena
+Transcript excerpt: "p is exceptionally good at this because this is kind of objection handling"
+Issue: Single-letter “p” unclear as a person reference.
+Likely intended: A named team member (e.g., Cash or Charis)
+Confidence: Medium
+Reasoning: Later lines reference Cash helping on objections; “p” likely misrendered name.
+Impact: Low
+
+[Error #21 - Category: Misheard acronyms]
+Location: [~00:33:50] / Speaker: Athena
+Transcript excerpt: "it's not the SBA A, it's that lender."
+Issue: Redundant “A” after SBA.
+Likely intended: "it's not the SBA, it's that lender."
+Confidence: High
+Reasoning: ASR stutter; extra syllable introduced.
+Impact: Low
+
+[Error #22 - Category: Semantic inconsistency]
+Location: [~00:29:40] / Speaker: Cash
+Transcript excerpt: "us, put us on a Bali. We'll get them, send them my way."
+Issue: “on a Bali” is nonsensical in context of forwarding emails.
+Likely intended: "on a bcc" or "on a thread" or "on a volley"
+Confidence: Low-Medium
+Reasoning: Likely ASR confusion from similar-sounding phrase; unclear exact intent but current text is incoherent.
+Impact: Low
+
+
+REMOVALS
+
+[REMOVAL #1 - Type: Small Talk]
+Location: ~[00:01:40-00:02:05]
+Speakers involved: Polly, Athena
+Content excerpt:
+"Polly: ...it's not coming to me right now just because I just got done dealing with the furniture or the, uh, refrigerator repair guy, so.
+Athena: Oh, amazing. No, no, no worries."
+Reasoning:
+Brief personal anecdote about a household repair; no connection to business topics.
+Context impact: Low—removing these lines does not affect the surrounding discussion about tax strategy takeaways.
+Recommended action: REMOVE these two lines
+
+
+BORDERLINE SEGMENTS
+
+[BORDERLINE #1 - Requires Review]
+Location: [~00:10:55] / Speaker: Steve
+Content excerpt: "I think it was in the car last week."
+Business relevance argument: Minor context on why Steve might have partial recall of session content.
+Personal content argument: Personal situational aside not directly contributing to business discussion.
+Recommendation: KEEP—very brief and helps explain participation context; removal unnecessary.
+
+[BORDERLINE #2 - Requires Review]
+Location: [~00:13:50-00:14:30] / Speaker: Athena
+Content excerpt: "I was gonna grab my book. Here comes the book lady. This book was really helpful for me to just kind of start wrapping my head around tax strategies..."
+Business relevance argument: Educational resource recommendation that supports tax-strategy learning for buyers/owners.
+Personal content argument: Slightly informal/personal tone.
+Recommendation: KEEP—content is educational and directly relevant to buyers’ tax learning.
+
+
+ADDITIONAL NOTES
+
+- Context preservation: The transcript is predominantly business-focused; only minimal small talk appears. Removing the brief refrigerator anecdote will not disrupt flow.
+- Pattern hints for ASR improvement:
+  - Frequent LOI/APA/IOI/LOI acronym mishears (yellow eye, a PA, iis/Lois).
+  - “F reorg” often rendered incorrectly (F three org).
+  - “Cash at close” misrecognized as “cash workflows.”
+  - Company/participant names occasionally distorted (AcquiMatch/Acrim Match; Gil/Gail; Buyers/Fires; Cash/“p”).
+- Speaker attribution: Watch late-section interchanges where Justin and Gil lines are potentially swapped during Gil’s update.

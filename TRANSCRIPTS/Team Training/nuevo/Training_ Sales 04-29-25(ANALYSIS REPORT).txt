@@ -1,0 +1,253 @@
+Below is a focused audit of likely ASR (automatic speech recognition) errors and a mapping of business-relevant vs. off-topic segments, with explicit keep/remove recommendations.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Financial/Numerical]
+Location: 19:48 / Speaker: Austin Lortie
+Transcript excerpt: “if I do 7,000 divided by 6, we're charging, like, 12 grand a month.”
+Issue: Dollar amount appears off by a factor of 10 given later context.
+Likely intended: “if I do 70,000 divided by 6, we're charging, like, 12 grand a month.”
+Confidence: High
+Reasoning: $7,000/6 ≈ $1,167; only $70,000/6 ≈ $11,667 matches “12 grand.” The discussion centers on a $70k advance.
+Impact: High – affects pricing clarity.
+
+[Error #2 - Category: Entity Name]
+Location: 31:20 / Speaker: Athena Simpson
+Transcript excerpt: “Acquiro charges $65,000 up front and $150,000 overall.”
+Issue: Likely misspelling of a well-known ETA firm.
+Likely intended: “Acquira charges $65,000 up front and $150,000 overall.”
+Confidence: High
+Reasoning: Acquira (with an “a”) is a known buy-side accelerator in this space.
+Impact: Medium – brand accuracy and comparables matter in pricing discussion.
+
+[Error #3 - Category: Misheard Acronym]
+Location: 47:08 / Speaker: Austin Lortie
+Transcript excerpt: “So is that true for like QOV or attorney fees as well?”
+Issue: QoE (Quality of Earnings) misheard as QOV.
+Likely intended: “QoE”
+Confidence: High
+Reasoning: In M&A, QoE is standard; QOV is not a standard term.
+Impact: High – core diligence terminology.
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: 28:27 / Speaker: Austin Lortie
+Transcript excerpt: “The five-season credit.”
+Issue: Misrendered standard credit concept.
+Likely intended: “the five Cs of credit”
+Confidence: High
+Reasoning: SBA and lender criteria are commonly referenced as the five Cs of credit.
+Impact: High – key financing concept.
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: 29:09 / Speaker: Austin Lortie
+Transcript excerpt: “approached Wendy … to pre-call a loan for me.”
+Issue: Loan prequalification misheard.
+Likely intended: “pre-qual a loan”
+Confidence: High
+Reasoning: “Pre-qual” (prequalify) is standard; “pre-call” changes meaning.
+Impact: Medium
+
+[Error #6 - Category: Misheard Term]
+Location: 44:28 / Speaker: Athena Simpson
+Transcript excerpt: “so POS to get started, $70,000 advance…”
+Issue: POS likely misheard.
+Likely intended: “so cost to get started…”
+Confidence: High
+Reasoning: Slide headline refers to cost/pricing; “POS” (point-of-sale) makes no sense here.
+Impact: Medium
+
+[Error #7 - Category: Entity Name]
+Location: 39:16 / Speaker: Austin Lortie
+Transcript excerpt: “I’m Athena, founder of Aquamatch.”
+Issue: Company name appears misspelled.
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Document header and context indicate AcquiMatch is the company.
+Impact: Medium – brand consistency.
+
+[Error #8 - Category: Entity/Terminology Name]
+Location: 8:46–10:04 / Speaker: Athena Simpson
+Transcript excerpt: “I ordered a Birini the other day… it's this baked rice dish…”
+Issue: Indian dish name is off.
+Likely intended: “Biryani”
+Confidence: High
+Reasoning: Biryani is the well-known baked rice dish described.
+Impact: Low – off-topic segment, but accuracy note for ASR.
+
+[Error #9 - Category: Entity Name]
+Location: 10:04 / Speaker: Austin Lortie
+Transcript excerpt: “the restaurant in Houston, it’s called Karan’s…”
+Issue: Likely misheard restaurant name.
+Likely intended: “Kiran’s”
+Confidence: Medium
+Reasoning: Kiran’s is a well-known Indian fine dining restaurant in Houston.
+Impact: Low – off-topic.
+
+[Error #10 - Category: Homophone/Misheard Word]
+Location: 56:01 / Speaker: Austin Lortie
+Transcript excerpt: “Something coughing on my brand new iPhone.”
+Issue: Nonsensical phrase likely due to homophones.
+Likely intended: “Spilled coffee on my brand new iPhone.”
+Confidence: High
+Reasoning: “coffee” vs. “coughing”; context is device mishap.
+Impact: Low – off-topic.
+
+[Error #11 - Category: Misheard Word]
+Location: 57:10 / Speaker: Athena Simpson
+Transcript excerpt: “I need to get you in the EBIT WhatsApp route.”
+Issue: Group vs. route confusion.
+Likely intended: “EBIT WhatsApp group”
+Confidence: Medium
+Reasoning: WhatsApp “group” is standard; “route” is odd here.
+Impact: Low – internal ops clarity.
+
+[Error #12 - Category: Entity Name Consistency]
+Location: 36:19; 52:16; 1:12:56 / Speakers: Athena/Austin
+Transcript excerpt: “Anka’s showed you…” vs. “Slack is better because then Anika and Kate have access…”
+Issue: Inconsistent spelling of team member’s name (Anka/Anika).
+Likely intended: One consistent spelling (Anka or Anika).
+Confidence: Medium
+Reasoning: Appears to reference the same person; inconsistent across transcript.
+Impact: Medium – internal coordination.
+
+[Error #13 - Category: Entity Name Consistency]
+Location: 10:28 / Speaker: Athena Simpson
+Transcript excerpt: “She remembers us and, you know, like, gives Jayden pretty stuff.”
+Issue: Variance in spelling of Jaden/Jayden; and “pretty stuff” may be “free stuff.”
+Likely intended: “Jayden” (consistent with earlier “Jaden”); possibly “free stuff.”
+Confidence: Low-Medium
+Reasoning: Name spelled both ways; “pretty stuff” odd; could be ASR artifact.
+Impact: Low
+
+[Error #14 - Category: Omission/Truncation]
+Location: 25:56 / Speaker: Austin Lortie
+Transcript excerpt: “I’ve with a few clients in terms of finding businesses…”
+Issue: Missing verb.
+Likely intended: “I’ve worked with a few clients…”
+Confidence: High
+Reasoning: Common collocation in context; ASR dropped a word.
+Impact: Low-Medium
+
+[Error #15 - Category: Semantic Inconsistency]
+Location: 30:47 / Speaker: Austin Lortie
+Transcript excerpt: “But the, uh, I’m you haven’t had to go to seven different lenders…”
+Issue: Garbled transition words.
+Likely intended: “But if you haven’t had to go to seven different lenders…”
+Confidence: Medium
+Reasoning: “I’m you” is ungrammatical; “if you” fits context.
+Impact: Low
+
+[Error #16 - Category: Business Terminology Distortion]
+Location: 50:09 / Speaker: Austin Lortie
+Transcript excerpt: “So your 10-year performance, that’s cool.”
+Issue: Likely referring to a pro forma model.
+Likely intended: “10-year pro forma”
+Confidence: Medium
+Reasoning: They’re discussing a financial model; “pro forma” aligns.
+Impact: Low-Medium
+
+[Error #17 - Category: Misheard Filler/Name]
+Location: 56:43 / Speaker: Austin Lortie
+Transcript excerpt: “Mario, like, I’m an Apple everything.”
+Issue: “Mario” as filler is unlikely.
+Likely intended: “Man, I’m an Apple everything” or “No, I’m an Apple everything.”
+Confidence: Low-Medium
+Reasoning: “Mario” doesn’t fit; typical filler would be “man,” “nah,” “no.”
+Impact: Low
+
+
+SEGMENT MAPPING (KEEP vs REMOVE vs MIXED)
+
+Block A: 0:00–14:01
+- Content: Furniture/Wayfair/Amazon, dogs on couch, Cole’s son’s age/health, US healthcare opinions, illness/antibiotics, veganism/restaurants (Houston/Austin/London), Indian food and travel (India), general travel stories (Japan), digital nomad door-to-door sales anecdote.
+- Classification: REMOVE
+- Reasoning: Extended personal life, food preferences, travel stories; no tie to business objectives.
+- Context impact: Low – business discussion starts later.
+
+Block B: 14:01–14:34
+- Content: Digital nomad segue; Athena mentions the role is fully remote.
+- Classification: MIXED (Borderline)
+- Reasoning: Transition from personal travel to business operations (remote work model).
+- Guidance: Keep from 14:15 onward where Athena states business is fully remote; remove preceding purely personal lead-in (see Borderline #1 below).
+
+Block C: 14:34–17:42
+- Content: Job satisfaction, role fit, sales career comments, hiring decision happiness, fear/confidence, “SBA changes the week I got hired.”
+- Classification: KEEP
+- Reasoning: Relates to role alignment, company operations, and training context; segues directly to SBA and pricing.
+
+Block D: 17:42–18:14
+- Content: Scheduling around anniversary and haircut; confirming event day (Fri/Sat).
+- Classification: MIXED
+- Reasoning: Event timing is operational; anniversary/haircut is personal.
+- Guidance: Keep only the event day clarification lines; remove personal (see Removal #2 and line-level detail below).
+
+Block E: 18:14–1:25:50 (remainder)
+- Content: Pricing model, SBA SOP implications, success fee constraints, value justification, lender perspective (Live Oak/Wendy), five Cs of credit, due diligence, comps (Big 4, Acquira), deck formatting, screen sharing, video walkthrough, financial model, DD tracker, Slack/tasks/trackers, intro/exploration call prep, text/SMS/HubSpot process, geographic/industry scope limits, client readiness, objection handling, assumptive language, quotas/targets/comp, time to close, next steps.
+- Classification: KEEP
+- Reasoning: Substantive business operations, financing, sales process, product offering, internal tooling, client handling, and training topics.
+
+REMOVALS
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 0:00–14:01
+Speakers involved: Austin Lortie, Athena Simpson
+Content excerpt:
+“Athena: …getting some new things delivered for the office… Wayfair and Amazon…”
+“Austin: …we have a Bernedoodle and he just destroyed it…”
+“Athena: …Cole has two big dogs…”
+“…vegan restaurants… Indian food… London… Michelin level…”
+“…I’d love to go to India… Japan trip story…”
+Reasoning:
+Extended small talk on furniture, pets, vegan/restaurant preferences, and travel anecdotes; no connection to acquisitions, financing, or client work.
+Context impact: Low – business topics begin later.
+Recommended action: REMOVE 0:00–14:01
+
+[REMOVAL #2 - Type: Small Talk]
+Location: 17:42–18:14 (partial)
+Speakers involved: Austin, Athena
+Content excerpt:
+“Austin: …do you care if I cut out a little early today? Because it is my anniversary…”
+“Athena: Happy anniversary.”
+“Austin: …we’re gonna go do dinner… get a haircut…”
+Reasoning:
+Personal scheduling and celebration details; not business-relevant.
+Context impact: Low – retain only the event-day clarification immediately after.
+Recommended action: REMOVE 17:42–18:04 and 18:11–18:14; KEEP 18:04–18:11 (“Was it Friday or Saturday…?” / “No, it’s Saturday.”)
+
+[REMOVAL #3 - Type: Personal/Off-Topic]
+Location: 56:01–57:06
+Speakers involved: Austin, Athena
+Content excerpt:
+“Austin: …Something coughing on my brand new iPhone…”
+“Athena: I’m a Pixel girl.”
+“Austin: I’m an Apple fanboy.”
+“Athena: …hate Apple products… very first Google phone…”
+Reasoning:
+Device banter; off-topic.
+Context impact: Low – conversation returns to business (WhatsApp group and leads).
+Recommended action: REMOVE 56:01–57:06
+
+BORDERLINE SEGMENTS
+
+[BORDERLINE #1 - Requires Review]
+Location: 14:01–14:34
+Content excerpt: “I really wish that like the digital nomad thing… you can with this job… fully remote…”
+Business relevance argument: Establishes remote nature of role and delivery model—organizational ops context relevant to internal training.
+Personal content argument: Starts as personal travel/digital nomad reminiscence.
+Recommendation: KEEP 14:15–14:34 (remote-work explanation); REMOVE 14:01–14:15 (preceding personal tangent).
+
+[BORDERLINE #2 - Requires Review]
+Location: 17:42–18:14 (subset)
+Content excerpt: “Was it Friday or Saturday that event? … No, it’s Saturday.”
+Business relevance argument: Confirms work event timing/logistics.
+Personal content argument: Surrounding lines are about anniversary and haircut.
+Recommendation: KEEP only 18:04–18:11 (event day Q&A); REMOVE adjacent personal lines as outlined in Removal #2.
+
+ADDITIONAL NOTES AND PATTERNS
+
+- Recurrent ASR issues with acronyms/terms: SBA/SOP context handled correctly, but “QoE,” “five Cs of credit,” and “pre-qual” were misheard. Flag this as a systematic area to improve.
+- Proper nouns: Company name “AcquiMatch” appears as “Aquamatch”; “Acquira” appears as “Acquiro”; “Kiran’s” likely misheard as “Karan’s”; team member name appears as “Anka” and “Anika”; “Jaden/Jayden” inconsistent. These should be standardized during refinement.
+- Minor truncations and filler misreads: Several lines show dropped words or odd fillers (“Position Position,” “I’ve with a few clients,” “I’m you”), suggesting either crosstalk or audio artifacts; reviewers should listen to confirm.
+- Context preservation: The recommended removals won’t disrupt the flow; the first removal excises a clean pre-business block, the second surgically removes personal chatter while retaining event scheduling, and the third removes a short off-topic detour before resuming business tooling discussion.
+
+This report prioritizes errors affecting business meaning (pricing math, terminology, entities) and provides precise boundaries to streamline the transcript while preserving all deal, financing, sales process, and operational content.

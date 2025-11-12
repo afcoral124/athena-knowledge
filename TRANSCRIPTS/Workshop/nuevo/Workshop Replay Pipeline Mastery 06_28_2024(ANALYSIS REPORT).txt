@@ -1,0 +1,235 @@
+Segment mapping (high level)
+- 00:00:00–00:02:10 Intro and attendee check-in; MIXED (webinar setup + small talk about locations/weather; see Removal #1)
+- 00:02:10–00:08:10 SMB ETA opportunity and returns overview; KEEP
+- 00:08:10–00:11:40 Presenter background and credibility; BORDERLINE (see Borderline #1) → Recommend KEEP
+- 00:11:40–00:16:50 Company intro (AcquiMatch services/team); KEEP
+- 00:16:50–00:23:10 On-market pipeline stages and definitions (NDA/CIM/broker call); KEEP
+- 00:23:10–00:28:40 Deal flow metrics (on/off-market conversion rates); KEEP
+- 00:28:40–00:41:10 CRM/template walkthrough and process; KEEP
+- 00:41:10–00:42:30 DSCR calculator and post-debt cash flow; KEEP
+- 00:42:30–00:49:30 “Reality check” (common search issues and guidance); KEEP
+- 00:49:30–00:53:30 Goal-setting and accountability instructions; BORDERLINE (see Borderline #3)
+- 00:53:30–00:55:15 Next session logistics, links/templates; KEEP
+- 00:55:15–01:19:00 Q&A (tools, listings, fees, prioritization, off-market, structuring, timelines); KEEP, with minor small-talk aside (Removal #2) and transcription errors noted below
+
+Detected transcription errors
+
+---
+[Error #1 - Category: Business terminology distortion]
+Location: ~00:02:50 / Speaker: Presenter (Athena)
+Transcript excerpt: "max 5 million range for SBA, but you can do pair pursue. We're not talking financing today..."
+Issue: "pair pursue" in financing context
+Likely intended: "pari passu"
+Confidence: High
+Reasoning: In SBA/504 structures, "pari passu" is a common term; "pair pursue" is a phonetic mis-transcription.
+Impact: High – incorrect term can confuse financing structure discussion
+---
+
+[Error #2 - Category: Business terminology distortion]
+Location: ~00:21:20 / Speaker: Presenter (Athena)
+Transcript excerpt: "they'll send you a SIM, which stands for confidential. Information Memorandum."
+Issue: Uses "SIM" and inserts a period; standard term is CIM (Confidential Information Memorandum)
+Likely intended: "CIM (Confidential Information Memorandum)"
+Confidence: High
+Reasoning: Industry-standard acronym is CIM; "SIM" is a frequent ASR/usage error. Period between “confidential.” and “Information” indicates segmentation error.
+Impact: High – key document terminology
+---
+
+[Error #3 - Category: Business terminology distortion]
+Location: ~00:14:10 / Speaker: Presenter (Athena)
+Transcript excerpt: "...signing the NDAs and reviewing the sins and doing all of that..."
+Issue: "sins" in context of deal documents
+Likely intended: "CIMs"
+Confidence: High
+Reasoning: Discussing marketing packages; “sins” is phonetic mis-hear of “CIMs.”
+Impact: Medium
+---
+
+[Error #4 - Category: Entity name (company)]
+Location: ~00:12:40 / Speaker: Presenter (Athena)
+Transcript excerpt: "We are Acquivatch. We are personalized SMB search and match."
+Issue: Company name misspelled
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Company identified throughout materials as AcquiMatch; "Acquivatch" is a mis-transcription.
+Impact: Medium – brand clarity
+---
+
+[Error #5 - Category: Entity name (company)]
+Location: ~01:05:50 / Speaker: Audience Q readout
+Transcript excerpt: "could you please share about Aquimatch when you started the company..."
+Issue: Company name inconsistent
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Internal inconsistency with official brand name.
+Impact: Medium
+---
+
+[Error #6 - Category: Misheard brand/name]
+Location: ~00:39:20 / Speaker: Presenter (Athena)
+Transcript excerpt: "Ideally want to have, um, Zebier or maybe hire somebody that can do data input..."
+Issue: "Zebier" tool name
+Likely intended: "Zapier"
+Confidence: High
+Reasoning: Zapier is the common automation tool in this context; "Zebier" is a phonetic error.
+Impact: High – actionable tooling reference
+---
+
+[Error #7 - Category: Misheard acronyms]
+Location: ~00:03:35 / Speaker: Presenter (Athena)
+Transcript excerpt: "The S M B E T a opportunity. So we're talking about entrepreneurship through acquisition..."
+Issue: Spelled-out, segmented acronyms
+Likely intended: "SMB ETA opportunity"
+Confidence: High
+Reasoning: Presenter is clearly referring to SMB (small/mid-size business) and ETA (entrepreneurship through acquisition).
+Impact: Medium
+---
+
+[Error #8 - Category: Semantic inconsistency]
+Location: ~00:10:55 / Speaker: Presenter (Athena)
+Transcript excerpt: "I ended up finding a 8 million opportunity in Dallas. I was a property management business..."
+Issue: "I was a property management business"
+Likely intended: "It was a property management business"
+Confidence: High
+Reasoning: Subject/pronoun mismatch; only “It was” fits context.
+Impact: Low
+---
+
+[Error #9 - Category: Omission/Truncation]
+Location: ~00:01:35 / Speaker: Presenter (Athena)
+Transcript excerpt: "I was out there for me. M and a launch pad was out a month or so ago."
+Issue: Fragmented sentence and segmented acronym
+Likely intended: "I was out there for the M&A LaunchPad about a month ago."
+Confidence: Medium
+Reasoning: Local event reference; ASR dropped “the” and split M&A; “me.” is stray.
+Impact: Low
+---
+
+[Error #10 - Category: Homophone/word error]
+Location: ~00:07:40 / Speaker: Presenter (Athena)
+Transcript excerpt: "96%. Of new businesses will not make it to your five..."
+Issue: "your five" instead of "year five"
+Likely intended: "year five"
+Confidence: High
+Reasoning: Common phrase in startup stats.
+Impact: Low
+---
+
+[Error #11 - Category: Speaker misattribution/semantic inconsistency]
+Location: ~00:55:05 / Speaker: Ryan (Q&A moderator)
+Transcript excerpt: "Ryan, do we have any questions? Bye guys. All right, first question we have is from Pender."
+Issue: "Bye guys" appears out of place at Q&A start
+Likely intended: No "Bye guys" here; likely stray insertion or misattributed aside
+Confidence: Medium
+Reasoning: Q&A is beginning, not ending; phrase disrupts flow.
+Impact: Low
+---
+
+[Error #12 - Category: Entity name (people)]
+Location: Multiple (e.g., ~00:15:35 and ~00:52:35)
+Transcript excerpt: "Anka heads up our operations..." vs. "Anca is going to drop the link..."
+Issue: Inconsistent spelling of the same person’s name
+Likely intended: Single consistent spelling (likely "Anca")
+Confidence: Medium
+Reasoning: Same role referenced; internal consistency important.
+Impact: Low
+---
+
+[Error #13 - Category: Entity name (people)]
+Location: ~00:15:45 / Speaker: Presenter (Athena)
+Transcript excerpt: "and then massam heads up our data and lead gen."
+Issue: Name likely misspelled/lowercased
+Likely intended: Proper-cased, possibly "Masum" or similar
+Confidence: Low
+Reasoning: Uncommon lowercase proper noun; likely ASR guess. Needs verification.
+Impact: Low
+---
+
+[Error #14 - Category: Entity names (websites)]
+Location: ~00:55:55–00:56:20 / Speaker: Presenter (Athena)
+Transcript excerpt: "biz by sell businesses for sale and biz quest."
+Issue: Listing site names not proper
+Likely intended: "BizBuySell, BusinessesForSale, and BizQuest"
+Confidence: High
+Reasoning: Standard capitalization and brand names.
+Impact: Low
+---
+
+[Error #15 - Category: Omission/Insertion]
+Location: ~00:13:15 / Speaker: Presenter (Athena)
+Transcript excerpt: "we do deal clarity sessions with you. Because what we found is that for first time buyers... Transcribed Figuring out what would be a good business for you."
+Issue: Spurious word "Transcribed"
+Likely intended: No "Transcribed" there
+Confidence: High
+Reasoning: Intrusive word breaking sentence.
+Impact: Low
+---
+
+Content removals (personal/off-topic)
+
+---
+[REMOVAL #1 - Type: Small Talk]
+Location: ~00:00:30–00:02:10
+Speakers involved: Presenter (Athena), attendees (shout-outs)
+Content excerpt:
+"Toronto 202. Pender, hello again... Nice to see you in Florida. Jake, Yvette in Wyoming. Cool. It must be beautiful this time of year... Tampa, Florida... We've got some Houston. Amazing. I was out there for... M and a launch pad... spent some time in El Lago and Galveston and loved it... I didn't know Texas had coasts..."
+Reasoning:
+Attendee roll call, location/weather chatter, and a travel anecdote unrelated to the business acquisition content.
+Context impact: Low — removing this doesn’t affect understanding of the workshop’s substance.
+Recommended action: REMOVE ~00:00:30–00:02:10
+---
+
+[REMOVAL #2 - Type: Small Talk/Off-Topic]
+Location: ~00:54:55–00:55:05
+Speakers involved: Presenter (Athena)
+Content excerpt:
+"Let's see if my background comes back. There you go. You get to see my home."
+Reasoning:
+Purely visual/technical aside; no business relevance.
+Context impact: None.
+Recommended action: REMOVE ~00:54:55–00:55:05
+---
+
+[REMOVAL #3 - Type: Pleasantry]
+Location: ~01:18:45–01:19:00
+Speakers involved: Presenter (Athena)
+Content excerpt:
+"...Have a great rest of your day. And for those of us in the U.S., happy 4th of July next week."
+Reasoning:
+Holiday greeting; acceptable pleasantry but not business-relevant.
+Context impact: None.
+Recommended action: REMOVE ~01:18:45–01:19:00
+---
+
+Borderline segments (requires review)
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: ~00:08:10–00:11:40
+Content excerpt: Presenter’s personal career story (corporate intrapreneurship, Guinness World Records, agencies, failed food startup, teaching at McCombs) leading into discovering ETA.
+Business relevance argument: Establishes credibility and explains domain expertise and motivation; frames why listeners should trust subsequent methods.
+Personal content argument: Extended personal history and anecdotes.
+Recommendation: KEEP — Strongly supports authority and context for the service being described.
+---
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:47:15–00:48:15
+Content excerpt: Anecdote about a buyer dealing with burst pipes during a freeze and “having to be a plumber that day.”
+Business relevance argument: Illustrates operational realities/risks of SMB ownership—valuable expectation-setting.
+Personal content argument: Anecdotal and tangential to pipeline management topic.
+Recommendation: KEEP — Serves as strategic/educational context on ownership challenges.
+---
+
+[BORDERLINE #3 - Requires Review]
+Location: ~00:49:30–00:53:30
+Content excerpt: Goal-setting/accountability instructions (email the presenter with specific actions and targets by July 11).
+Business relevance argument: Encourages actionable follow-through, which supports the workshop’s learning outcomes.
+Personal content argument: Administrative/motivational, not core acquisition content; time-bound to a past date and specific to the live session.
+Recommendation: REMOVE if producing a timeless, content-focused transcript; otherwise KEEP for attendees using the linked templates and series cadence.
+
+Notes on patterns and context preservation
+- CIM consistently mis-transcribed as “SIM” and even “sins.” Consider normalizing to “CIM” throughout.
+- “Pari passu” repeatedly appears as “pair/pair pursue.” Watch for this in similar sessions.
+- Brand/tool names are error-prone: Zapier, BizBuySell, BizQuest, BusinessesForSale, AcquiMatch, Anca.
+- One stray “Bye guys” at the start of Q&A likely an insertion; removing it preserves flow.
+- Keep educational content on SBA, DSCR, returns, pipeline process, templates, and Q&A—they are core business-relevant material.

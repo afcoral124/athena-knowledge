@@ -1,0 +1,208 @@
+[Error #1 - Category: Entity Name]
+Location: ~00:02:10 / Speaker: Athena
+Transcript excerpt: "So, um, without any further ado, I'd love to introduce one lead Gourmet at Live Oak Bank. Wendy..."
+Issue: "one lead Gourmet" appears to be a mis-transcribed name/title
+Likely intended: "Wendy Gormley at Live Oak Bank"
+Confidence: High
+Reasoning: Later references clearly identify “Wendy Gormley” (Wendy references her own “pre-flight memo” labeled with “Wendy Gormley”). “Gourmet” is a common ASR substitution for “Gormley.”
+Impact: Medium — introduces confusion about the guest’s correct name
+
+---
+[Error #2 - Category: Misheard Acronym/Term]
+Location: ~00:23:40 / Speaker: Wendy
+Transcript excerpt: "...or they screw up a POS system. Their EDRP system, you know, has a glitch and they can't record revenues."
+Issue: “EDRP system” in an accounting/operations context is atypical
+Likely intended: “ERP system”
+Confidence: High
+Reasoning: ERP (Enterprise Resource Planning) systems are standard; “EDRP” is not a relevant system acronym here. Common ASR slip.
+Impact: Medium — could confuse readers about the operational risk being discussed
+
+---
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:11:40 / Speaker: Wendy
+Transcript excerpt: "She's been striking out, she's been losing Lois left and right."
+Issue: “Lois” likely misheard for LOIs (Letters of Intent)
+Likely intended: “LOIs”
+Confidence: High
+Reasoning: The conversation is about deals and diligence; “LOI” is the standard term. ASR often renders “LOI” as “Lois.”
+Impact: High — changes meaning in a core M&A term
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:34:40 / Speaker: Wendy
+Transcript excerpt: "...sometimes you just need to get into LOI and then back trade the live day like that a bit later."
+Issue: “back trade the live day” is garbled
+Likely intended: “retrade the LOI a bit later” (i.e., revisit terms post-LOI)
+Confidence: Medium
+Reasoning: “Retrade” is common M&A jargon; “live day” fits no known term here. Likely ASR confusion around “LOI.”
+Impact: Medium — impairs understanding of negotiation strategy
+
+---
+[Error #5 - Category: Entity/Brand Name]
+Location: ~00:42:35 / Speaker: Wendy
+Transcript excerpt: "Okay. Perfume Maria in a mall."
+Issue: Mis-transcribed brand/term
+Likely intended: “Perfumania” (mall-based perfume retailer)
+Confidence: High
+Reasoning: Perfumania is a well-known mall retailer; “Perfume Maria” is not a recognized entity and is a plausible phonetic error.
+Impact: Low — illustrative example but proper noun is wrong
+
+---
+[Error #6 - Category: Entity/Term]
+Location: ~01:17:45 / Speaker: Wendy
+Transcript excerpt: "...the buildings on the property are waster, laundromats and other cash based businesses."
+Issue: “waster” is nonsensical in this context
+Likely intended: “washaterias” (regional term for laundromats) or simply “washateria”
+Confidence: Medium
+Reasoning: In Texas, “washateria” is common; ASR frequently mangles this term.
+Impact: Low — example context, but word is confusing as-is
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:08:05 / Speaker: Wendy
+Transcript excerpt: "...if there's one that really makes your hearting and you wanna enter into L loi..."
+Issue: “hearting” and “L loi” are garbled
+Likely intended: “makes your heart sing” and “LOI”
+Confidence: Medium
+Reasoning: “heart sing” is a common idiom; LOI is frequently split/mis-cased by ASR.
+Impact: Low — readability issue more than substantive
+
+---
+[Error #8 - Category: Business Terminology Distortion]
+Location: ~00:09:20 / Speaker: Wendy
+Transcript excerpt: "...take a quick look at the sim that you're sending over."
+Issue: “sim” used for a deal document
+Likely intended: “CIM” (Confidential Information Memorandum)
+Confidence: High
+Reasoning: In M&A, “CIM” is standard; pronounced “sim,” but in writing should be “CIM.” Occurs multiple times throughout.
+Impact: Medium (cumulative) — consistent misrendering of a core document type
+
+---
+[Error #9 - Category: Misheard Acronym/Term]
+Location: ~00:31:10 / Speaker: Athena
+Transcript excerpt: "you mentioned the W report and backfilling ar do you mind just breaking that down..."
+Issue: “W report” and “ar” are ambiguous/mis-cased
+Likely intended: “WIP report” and “AR”
+Confidence: High
+Reasoning: The discussion immediately centers on Work In Progress; AR is Accounts Receivable. ASR often drops letters or case.
+Impact: Low — clarified by context in following lines
+
+---
+[Error #10 - Category: Misheard Acronym/Term]
+Location: ~01:04:35 / Speaker: Athena
+Transcript excerpt: "It's one of the things that, that come up in the POV report too is like, um, the, um..."
+Issue: “POV report” likely a misrendering of a due diligence report type
+Likely intended: “QoE report” (Quality of Earnings report)
+Confidence: Medium
+Reasoning: Later, “quality earnings report” is explicitly referenced; QoE is standard in diligence. “POV” is not a common DD artifact in this context.
+Impact: Low — does not change advice but mislabels a standard report
+
+---
+[Error #11 - Category: Omission/Truncation]
+Location: ~00:04:00 / Speaker: Wendy
+Transcript excerpt: "I got, um, le I was blessed to be hooked up with some, some big networking groups..."
+Issue: “le” appears to be an extraneous fragment/truncation
+Likely intended: “like, I was blessed...”
+Confidence: Medium
+Reasoning: Speech disfluency likely mis-captured by ASR, interrupting sentence flow.
+Impact: Low — minor readability issue
+
+---
+[Error #12 - Category: Semantic/Terminology Inconsistency]
+Location: ~00:32:00 / Speaker: Wendy
+Transcript excerpt: "...they lost a managed service provider contract with a large processing plant nearby."
+Issue: “managed service provider contract” atypical for a fabrication shop context
+Likely intended: “master service agreement (MSA)”
+Confidence: Medium-Low
+Reasoning: Earlier she uses “MSA” in a related context; MSP is usually IT-services terminology. Could be speaker imprecision or ASR substitution.
+Impact: Low — does not materially alter the example’s point
+
+Pattern note: The transcript shows recurrent ASR issues with acronyms and terms:
+- LOI → “Lois,” “L loi,” “live day”
+- CIM → “sim”
+- ERP → “EDRP”
+- QoE → “POV”
+These should be watched across similar transcripts.
+
+---
+
+[REMOVAL #1 - Type: Off-Topic/Housekeeping]
+Location: ~00:24:56-00:25:05
+Speakers involved: Wendy
+Content excerpt:
+"This is not working. It's opening it in code. Something's very wrong here."
+Reasoning:
+Purely technical screen-share trouble adds no business value and interrupts flow.
+Context impact: None — discussion resumes without relying on this aside.
+Recommended action: REMOVE lines at ~00:24:56-00:25:05
+
+---
+[REMOVAL #2 - Type: Off-Topic/Housekeeping]
+Location: ~00:28:45-00:29:05
+Speakers involved: Athena
+Content excerpt:
+"Athena: Did you still wanna share your screen or, uh, oh, I did. Did you guys not see it? Yeah, we saw it, but we're seeing your email now... Just stop sharing if you want. Yeah, there we go."
+Reasoning:
+Screen-share logistics; not related to deal process or financing content.
+Context impact: None — removing this improves readability without losing substance.
+Recommended action: REMOVE lines at ~00:28:45-00:29:05
+
+---
+[REMOVAL #3 - Type: Personal/Small Talk]
+Location: ~00:41:15-00:41:30
+Speakers involved: Anke, Athena, Wendy
+Content excerpt:
+"Anke: Hi Josh.
+Athena: ...
+Anke: so
+Wendy: on,
+Athena: on the,
+Wendy: to you,
+Athena: he hears my voice."
+Reasoning:
+Brief personal aside presumably about a child; unrelated to business content.
+Context impact: None — conversation returns immediately to inventory discussion.
+Recommended action: REMOVE lines at ~00:41:15-00:41:30
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:00:20-00:02:10
+Content excerpt: Athena’s personal story about meeting Wendy for coffee in Austin, praising her approach, noting she’s become a personal friend.
+Business relevance argument: Establishes speaker’s credibility, sets context for why the guest is authoritative and relevant to buyer education.
+Personal content argument: Includes personal friendship and anecdote about meeting for coffee.
+Recommendation: KEEP — Provides useful context and frames the session’s purpose; transitions directly into substantive financing content.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:13:50-00:14:15
+Content excerpt: "we were having coffee at the true foods one day and he starts talking about his wife..."
+Business relevance argument: Illustrates how spousal/COI experience can mitigate management and HR gaps — directly tied to underwriting perspective.
+Personal content argument: Mentions specific restaurant and casual meeting setting.
+Recommendation: KEEP — The detail supports a key underwriting point about management capacity and is illustrative rather than idle small talk.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: ~01:06:15-01:08:10 (Peter’s “don’t change the buffoonery” anecdote)
+Content excerpt: Guidance on not changing processes immediately post-close, including colorful language and analogies.
+Business relevance argument: Provides experiential advice on transition risk and operational stability — highly relevant to buyers.
+Personal content argument: Tone is informal with profanity and metaphors.
+Recommendation: KEEP — Substantive operational insight outweighs tone; central to “managing transition” theme.
+
+---
+
+Segment Mapping Summary
+- KEEP: All substantive sections on borrower evaluation (A/B/C/D ranking), pre-flight → underwriting → approval process, needs list (AR/AP, accrual financials, WIP), working capital and valuation interactions, inventory structuring/consignment, real estate and use-of-proceeds amortization, licensing/PG SOP stance, transition risk and staffing, Andrew’s modeling question, psychological/transition advice, deals-gone-wrong examples, market outlook.
+- REMOVE: Brief housekeeping and the “Hi Josh” personal aside as detailed above.
+- MIXED/BORDERLINE: Introductory personal anecdote and specific setting mentions; recommend KEEP for context.
+
+Speaker Attribution
+- No clear speaker swaps affecting meaning; one crosstalk cluster around ~00:41:15 is removed as small talk.
+
+Cross-Reference/Consistency Notes
+- Acronyms and key terms should be standardized by the refiner (LOI, CIM, ERP, WIP, QoE).
+- Repeated pattern of LOI/CIM/ERP mishearing suggests ASR tuning focus areas for future improvements.
+
+Confidence calibration
+- High confidence on misheard acronyms and proper nouns (Gormley, LOI/LOIs, ERP, Perfumania).
+- Medium on “retrade the LOI” and “washateria,” “QoE” vs “POV,” and idiomatic “heart sing.”

@@ -1,0 +1,221 @@
+Segment mapping (high level)
+- 00:00:00–00:00:45: Brief greeting and session setup logistics – KEEP (sets context for recorded presentation)
+- 00:00:45–00:03:08: Car/steering wheel/camera banter – REMOVE (personal small talk, no business content)
+- 00:03:08–01:30:35: Main content on insurance diligence, examples, SBA, X‑mod, environmental, RWI, Q&A – KEEP (core business content)
+- 01:30:35–01:32:10: Extended closing praise/logistics – BORDERLINE (mostly non-substantive wrap-up; see item below)
+
+Detected transcription errors
+
+[Error #1 - Category: Business terminology distortion]
+Location: 00:00:10 / Speaker: Athena
+Transcript excerpt: "…it might just be you today. So you're getting a VIP insurance. Uh, get down and Andy was just saying…"
+Issue: “VIP insurance” and “get down and Andy” do not fit context; likely greeting/housekeeping phrasing.
+Likely intended: “VIP experience … and Andy was just saying…”
+Confidence: Medium
+Reasoning: Context is welcoming a lone attendee and previewing agenda; “insurance” here is nonsensical.
+Impact: Low
+
+[Error #2 - Category: Misheard acronym/format]
+Location: 00:04:38 / Speaker: Andy
+Transcript excerpt: "…started working probably 90 percent searching E. T. A."
+Issue: Awkward phrasing “searching E. T. A.”
+Likely intended: “working ~90% in search/ETA” or “with searchers in ETA”
+Confidence: Medium
+Reasoning: Standard term is “ETA (Entrepreneurship Through Acquisition)” and “searchers”; “searching ETA” reads incorrectly.
+Impact: Low
+
+[Error #3 - Category: Misheard acronym]
+Location: 00:05:19 / Speaker: Andy
+Transcript excerpt: "…we were, um, part of Symphony Risk. Is that, is that working?… It says NewCoRisk…"
+Issue: N/A on firm name, but later: “W. Two guys at Symphony”
+Likely intended: “W‑2 guys at Symphony”
+Confidence: High
+Reasoning: W‑2 is the U.S. employee classification; ASR often splits with a period.
+Impact: Low
+
+[Error #4 - Category: Semantic inconsistency/omission]
+Location: 00:08:25 / Speaker: Andy
+Transcript excerpt: "…particularly in E. T. A. Insurance pal in a lot of cases in E. T. A. Um, the transaction structure is an asset deal…"
+Issue: “Insurance pal” is incoherent and breaks sentence flow.
+Likely intended: “Insurance, and in a lot of cases in ETA, the transaction structure is an asset deal…”
+Confidence: Medium
+Reasoning: Topic is asset vs. stock deal; “pal” is likely stray phonetic artifact or truncation.
+Impact: Medium
+
+[Error #5 - Category: Misheard acronym]
+Location: 00:07:02 / Speaker: Andy
+Transcript excerpt: "…issues we can identify are generally not picked up by legal or QV."
+Issue: “QV” in diligence context is likely “QoE” (Quality of Earnings).
+Likely intended: “QoE”
+Confidence: High
+Reasoning: Industry standard term is QoE; “QV” is nonstandard and recurs multiple times in this transcript.
+Impact: High
+
+[Error #6 - Category: Financial/numerical error]
+Location: 00:26:00 / Speaker: Andy
+Transcript excerpt: "…last year, they had 7, 000, 000 inventory and 7, inventory coverage."
+Issue: Truncated second number; missing “million.”
+Likely intended: “7 million in inventory and 7 million in inventory coverage.”
+Confidence: High
+Reasoning: Later context says limits dropped from seven to two; missing unit causes confusion.
+Impact: High
+
+[Error #7 - Category: Misheard acronym]
+Location: 00:12:42 / Speaker: Andy
+Transcript excerpt: "…The SIM says 1 thing. If you looked at the P and L…"
+Issue: “SIM” should be “CIM” (Confidential Information Memorandum).
+Likely intended: “CIM”
+Confidence: High
+Reasoning: Standard M&A term is CIM; SIM is a common ASR slip.
+Impact: Medium
+
+[Error #8 - Category: Homophone/terminology]
+Location: 00:12:55 / Speaker: Andy
+Transcript excerpt: "…when we actually looked at the claims that were happening during that policy period, we knew that the next year… we looked at the last runs."
+Issue: “last runs” should be “loss runs.”
+Likely intended: “loss runs”
+Confidence: High
+Reasoning: Insurance due diligence relies on 5‑year loss runs; “last runs” is a common ASR mishear.
+Impact: High
+
+[Error #9 - Category: Omission/awkward truncation]
+Location: 00:10:57 / Speaker: Andy
+Transcript excerpt: "…cost savings because this other insurance was already in place through the to the master program."
+Issue: Redundant/errant “the to the.”
+Likely intended: “through the master program.”
+Confidence: High
+Reasoning: Clear duplication artifact; disrupts reading.
+Impact: Low
+
+[Error #10 - Category: Misheard acronym]
+Location: 00:54:45 / Speaker: Andy
+Transcript excerpt: "…from an S. P. A. perspective where it's it's things like the by property insurance, but they'll have a roof exclusion…"
+Issue: “S.P.A.” should be “SBA” (Small Business Administration).
+Likely intended: “SBA”
+Confidence: High
+Reasoning: Discussion is explicitly about SBA lender requirements earlier/later.
+Impact: High
+
+[Error #11 - Category: Proper noun (entity) error]
+Location: 01:11:35 / Speaker: Andy
+Transcript excerpt: "…we’ll work with environmental consultants… if you hire like a ramble or someone who's an environmental diligence firm…"
+Issue: Likely refers to “Ramboll,” a known environmental consultancy.
+Likely intended: “Ramboll”
+Confidence: Medium
+Reasoning: Ramboll is a prominent firm; “ramble” appears as phonetic misspelling.
+Impact: Low
+
+[Error #12 - Category: Misheard term/semantic inconsistency]
+Location: 01:14:55 / Speaker: Andy
+Transcript excerpt: "…I’m working on a Service station role right now."
+Issue: “role” seems off in context; likely “roll‑up” or “deal.”
+Likely intended: “service station roll‑up” or “service station deal”
+Confidence: Low
+Reasoning: Could be describing a current transaction; “role” doesn’t fit.
+Impact: Low
+
+[Error #13 - Category: Misheard acronym/terminology]
+Location: 01:04:05 / Speaker: Andy
+Transcript excerpt: "…they introduced the product… it’s a sell side reps and warranties policy, and I think they call it TLP and section liability protector."
+Issue: Product name garbled; likely “TLPE” (Transaction Liability Private Enterprise) and “Transaction Liability Policy.”
+Likely intended: “TLPE” / “Transaction Liability Policy”
+Confidence: High
+Reasoning: CFC’s SME RWI product is TLPE; “section liability protector” is nonsensical.
+Impact: Medium
+
+[Error #14 - Category: Misheard term]
+Location: 01:19:45 / Speaker: Andy
+Transcript excerpt: "…half the work count policies in the state."
+Issue: “work count” should be “work comp” (workers’ compensation).
+Likely intended: “work comp policies”
+Confidence: High
+Reasoning: Context is Texas Mutual and workers’ compensation insurance.
+Impact: Medium
+
+[Error #15 - Category: Speaker/Entity name inconsistency]
+Location: 00:34:00 and later / Speaker tag: Anke vs. Anca
+Transcript excerpt: "**Anke:** Hey," and later Athena references “the amazing sheet that Anca has created”
+Issue: Inconsistent spelling of the same participant’s name (Anke/Anca).
+Likely intended: “Anca”
+Confidence: Medium
+Reasoning: Later reference clarifies correct spelling; “Anke” lines are also stray interjections.
+Impact: Low
+
+[Error #16 - Category: Minor misphrasing affecting flow]
+Location: 00:01:00 / Speaker: Athena
+Transcript excerpt: "…so, yeah, do you think Joe and then we'll hand over to Andy."
+Issue: “do you think Joe” reads incorrectly in context.
+Likely intended: “thank you, Joe”
+Confidence: Medium
+Reasoning: She’s transitioning to introduce Andy; “thank you” fits.
+Impact: Low
+
+
+Segments to remove
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: 00:00:45–00:03:08
+Speakers involved: Joe, Andy
+Content excerpt:
+"Joe: …like the traveling salesman I am I just got in my car… I’m just gonna be on the road, but I’ll be safe…
+Andy: …I put my phone behind my steering wheel… look through my steering wheel and talk… It could get pretty dicey… 
+Joe: You don't want to see me anyways. Alright, man. Thanks for attending today…"
+Reasoning:
+Extended chit-chat about driving, phone/steering wheel setups, and camera holders; no business relevance.
+Context impact: None—the presentation immediately proceeds into the insurance content.
+Recommended action: REMOVE 00:00:45–00:03:08
+
+[REMOVAL #2 - Type: Closing/Non-business wrap-up]
+Location: 01:31:00–01:32:10
+Speakers involved: Athena, Andy
+Content excerpt:
+"Athena: …I love how y'all operate… values… we need to get it switched over to the new 1 now… I pushed you into this…
+Andy: Awesome. Thanks so much for having me…"
+Reasoning:
+Primarily personal praise, internal relationship notes, and generic sign‑off; does not add to business or educational content.
+Context impact: Low—removal shortens non‑substantive closing without affecting understanding of prior content.
+Recommended action: REMOVE 01:31:00–01:32:10
+
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 00:45:35–00:47:10
+Content excerpt: "…there’s no cost to buyers to have you look at this and do diligence… absolutely no reason why you shouldn’t be engaging with Andy and Josh…"
+Business relevance argument: Explains engagement model (no‑fee diligence, broker comp at bind) and why engaging during diligence reduces risk; useful operational guidance for buyers.
+Personal content argument: Promotional tone praising the guest’s service.
+Recommendation: KEEP—Provides practical process guidance (timing, cost structure) directly relevant to diligence.
+
+[BORDERLINE #2 - Requires Review]
+Location: 00:56:05–00:57:15
+Content excerpt: "…we can flag all this stuff… seller deal fatigue… we don't want to add to that."
+Business relevance argument: Helps buyers manage sequencing and seller communications to avoid friction during diligence.
+Personal content argument: Some conversational tone about empathy for sellers.
+Recommendation: KEEP—Useful strategy for timing and process; supports smoother transactions.
+
+
+Speaker attribution validation notes
+- Occasional stray “Anke” interjections (“Hey,” “You”) appear out of place and likely misattributed; later reference to “Anca” suggests name spelling error. No material content appears tied to those lines; treat as either attribution or ASR artifacts (see Error #15).
+- Otherwise, Q&A flow is logical: Athena moderates, Andy educates, Joe/Luke ask buyer‑type questions. Responses align with expected roles.
+
+Cross‑reference and consistency notes
+- Multiple instances of “QV/QAV/QV” appear where “QoE/Q of E” is standard. Treat as a recurring ASR pattern (see Error #5).
+- “Loss runs” is the consistent term elsewhere; single “last runs” instance is likely an isolated ASR error (Error #8).
+- “CIM” vs “SIM” mixes occur once (Error #7).
+- Numeric truncation around “7, inventory coverage” is significant and should be corrected in refinement (Error #6).
+- Product name for SME RWI appears garbled; likely CFC’s TLPE (Error #13).
+
+Audio/ASR pattern observations
+- Frequent spacing and punctuation artifacts on acronyms (E. T. A., W. Two, S. P. A., QV).
+- Occasional truncations/duplications (“through the to the,” missing “million”) suggest either overlapped speech or ASR segmentation issues.
+- Proper noun mishears (“Ramboll”→“ramble,” “Anca”→“Anke”).
+
+Summary of high‑impact items for refiner prioritization
+- Correct “QV/QAV” to “QoE/Q of E” throughout.
+- Fix “CIM” (not SIM).
+- Replace “last runs” with “loss runs.”
+- Restore missing “million” in the 7,000,000/coverage sentence and ensure limits narrative is consistent.
+- Correct “S.P.A.” to “SBA.”
+- Normalize “W‑2” and “work comp.”
+- Clarify TLPE/Transaction Liability references.
+- Clean opening small talk and extended closing to streamline transcript.

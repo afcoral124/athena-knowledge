@@ -1,0 +1,167 @@
+[Error #1 - Category: Misheard Acronym/Business Terminology]
+Location: ~00:01:40 / Speaker: Athena
+Transcript excerpt: "he is a QE provider, but also has been working a lot with buyers on, you know, what happens after LOI"
+Issue: "QE provider" is ambiguous; in M&A diligence the standard term is "QoE (Quality of Earnings) provider"
+Likely intended: "QoE provider"
+Confidence: High
+Reasoning: In transaction diligence “QoE” is the common term; “QE” typically refers to quantitative easing in macroeconomics, not diligence.
+Impact: Medium - could confuse readers unfamiliar with M&A jargon
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:01:55 / Speaker: Athena
+Transcript excerpt: "Due diligence provider from the QOB side"
+Issue: "QOB" appears to be an ASR error
+Likely intended: "QoE side" (Quality of Earnings side)
+Confidence: High
+Reasoning: Matches prior reference to diligence and “QoE”; “QOB” is not a relevant acronym here.
+Impact: High - incorrect acronym in a key diligence context
+
+---
+[Error #3 - Category: Business Terminology Distortion]
+Location: ~00:01:25 / Speaker: Athena
+Transcript excerpt: "How do we bro these conversations, um, what are kind of the negotiation tools..."
+Issue: "bro" is nonsensical in context
+Likely intended: "broach"
+Confidence: High
+Reasoning: Common phrase is “broach these conversations” in negotiation contexts.
+Impact: Medium - briefly impairs clarity
+
+---
+[Error #4 - Category: Misheard Acronym]
+Location: ~00:03:25 and ~00:04:45 / Speaker: Justin
+Transcript excerpt: 
+- "a big cohort of that was, you know, pe um"
+- "we had the p offer we thought we were gonna go with..."
+Issue: "pe/p" should be "PE" (private equity)
+Likely intended: "PE" and "PE offer"
+Confidence: High
+Reasoning: Context is competitive bid process; PE is standard shorthand. Lowercase “pe/p” suggests ASR mishearing.
+Impact: Medium - could confuse unfamiliar readers
+
+---
+[Error #5 - Category: Semantic Inconsistency]
+Location: ~00:04:50 / Speaker: Justin
+Transcript excerpt: "at the, at the ninth, bottom of the ninth"
+Issue: Awkward, duplicated phrasing
+Likely intended: "at the bottom of the ninth"
+Confidence: High
+Reasoning: Baseball idiom commonly used to indicate late-stage change; current phrasing is disfluent.
+Impact: Low
+
+---
+[Error #6 - Category: Financial/Deal Terminology]
+Location: ~00:39:20 / Speaker: Athena
+Transcript excerpt: "there's probably gonna be a RET Trader two after the fact"
+Issue: "RET Trader" appears to be ASR error
+Likely intended: "a retrade or two"
+Confidence: High
+Reasoning: In M&A, “retrade” is the standard term for post-LOI price adjustments.
+Impact: High - central to deal-process understanding
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:39:35 / Speaker: Athena
+Transcript excerpt: "Did he tell you in asking Bryce and structure and stuff"
+Issue: "Bryce" likely misheard
+Likely intended: "asking price and structure"
+Confidence: High
+Reasoning: “Asking price and structure” is standard; “Bryce” is a name, nonsensical here.
+Impact: High - changes meaning of a key negotiating point
+
+---
+[Error #8 - Category: Entity/Proper Noun]
+Location: ~00:30:40 / Speaker: Athena
+Transcript excerpt: "Awesome. Paul. Yeah, I saw Steve just dropped..."
+Issue: Calls “Polly” as “Paul”
+Likely intended: Addressing “Polly”
+Confidence: High
+Reasoning: The participant’s name elsewhere is consistently “Polly.”
+Impact: Low - minor but could confuse speaker reference
+
+---
+[Error #9 - Category: Misheard Acronym]
+Location: ~00:58:30 / Speaker: Athena
+Transcript excerpt: "just questioning the QV and that sort of thing"
+Issue: "QV" is not the relevant acronym in diligence context
+Likely intended: "QoE" or "Q of E" (Quality of Earnings)
+Confidence: Medium
+Reasoning: Ongoing thread is about diligence and QoE challenges; “QV” doesn’t fit.
+Impact: Medium
+
+---
+[Error #10 - Category: Omission/Truncation]
+Location: ~00:20:35 / Speaker: Athena
+Transcript excerpt: "what other potential methodol, like if you were still the owner..."
+Issue: Word truncation breaks meaning
+Likely intended: "methodologies"
+Confidence: High
+Reasoning: Natural completion in context discussing revenue generation approaches.
+Impact: Low
+
+---
+[Error #11 - Category: Omission/Extraneous Word]
+Location: ~00:01:55 / Speaker: Athena
+Transcript excerpt: "and get direct to access to Elliot"
+Issue: Extraneous “to” inserted
+Likely intended: "direct access to Elliot"
+Confidence: High
+Reasoning: Grammatically incorrect as is; common ASR insertion error.
+Impact: Low
+
+---
+[Error #12 - Category: Entity Name (Event)]
+Location: ~01:02:55 / Speaker: Athena
+Transcript excerpt: "we'll see you on Thursday for Virus Club"
+Issue: “Virus Club” mishears the event name
+Likely intended: "Buyers Club"
+Confidence: High
+Reasoning: Earlier references consistently say “Buyers Club.”
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Personal Anecdote/Off-Topic]
+Location: ~00:56:05-00:57:20
+Speakers involved: Steve (with brief interjections)
+Content excerpt:
+"…I wish Justin a couple years ago when we tried to get a roof… the big ugly company, state Farm… every house around us got a roof… adjuster… from Arizona, didn't even go on the roof…"
+Reasoning:
+Extended personal story about a past insurance/roofing claim experience. It does not add actionable value to the current deal strategy beyond a general illustration.
+Context impact: Low—the conversation returns to business topics immediately after.
+Recommended action: REMOVE ~00:56:05-00:57:20
+
+---
+[REMOVAL #2 - Type: Off-Topic/Small Talk]
+Location: ~01:01:05-01:02:15
+Speakers involved: Athena, Steve
+Content excerpt:
+"…He needs to spend some money and take out an ad on a milk carton… Do not trust this man… Maybe we could do a little pool and buy a billboard in Dallas… My boyfriend wants to… report him for fraud…"
+Reasoning:
+Jokes and personal commentary about advertising/shaming a third party; not relevant to the business analysis or deal-making guidance.
+Context impact: Low—removing this does not affect understanding of any deal discussions.
+Recommended action: REMOVE ~01:01:05-01:02:15
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:41:20-00:43:10
+Content excerpt: "…this is an area that I am, my boyfriend has an exterior lawn maintenance company commercial, so… Guess who gets to pour through those contracts… I have too much knowledge on this area now…"
+Business relevance argument: Provides context for the speaker’s domain familiarity, which can inform the quality of advice on landscaping deals and contract diligence.
+Personal content argument: References to the boyfriend and personal involvement are not strictly necessary for deal analysis.
+Recommendation: KEEP with discretion—trim to the business-relevant point that the speaker has direct experience reviewing landscaping contracts.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~01:00:10-01:01:05
+Content excerpt: "…schedule update… Thursday we’ve got Elliot… the following Thursday we won’t be having a buyer’s club… Was Denise not a Nailbiter? Like Luke was like, that was like watching Netflix…"
+Business relevance argument: Announces a due diligence-focused session with a QoE expert that could be valuable to participants.
+Personal content argument: Program scheduling and “Netflix” aside are not part of the substantive deal discussion.
+Recommendation: REMOVE nonessential scheduling/banter lines while preserving the brief notice of the upcoming diligence session if needed for participant context.
+
+---
+
+Notes on patterns and ASR considerations:
+- Consistent confusion around “QoE” (rendered as QE/QOB/QV). This is high-impact in M&A contexts. Consider boosting vocabulary/training for “QoE,” “Quality of Earnings,” and “retrade.”
+- Occasional substitution of proper nouns (Polly→Paul; Buyers→Virus), suggesting phonetic misrecognition and potentially noise/crosstalk at those moments.
+- A few truncated words and extraneous filler insertions; these are lower impact but noticeable.

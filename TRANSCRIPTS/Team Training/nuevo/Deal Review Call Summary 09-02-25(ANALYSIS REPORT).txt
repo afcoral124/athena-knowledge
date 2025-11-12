@@ -1,0 +1,210 @@
+[Error #1 - Category: Entity Name/Acronym]
+Location: Mid-call, after “SCREEN SHARING” / Speaker: Athena Simpson
+Transcript excerpt: “I would really like to have all of you come out to this year's TAP. It's a two-and-a-half-day thing… with all the Texas brokers.”
+Issue: “TAP” appears to refer to the Texas Association of Business Brokers, which is “TAB.”
+Likely intended: “TAB”
+Confidence: High
+Reasoning: Earlier context explicitly expands TAB as Texas Association of Business Brokers; “TAP” is a common ASR swap.
+Impact: Medium - could confuse attendees regarding the correct association/event.
+
+---
+[Error #2 - Category: Entity Name]
+Location: Later mid-call / Speaker: Charis Siau
+Transcript excerpt: “Would you want it, would you like me to make it like clear, like it's from an email from Aquamatch?”
+Issue: Company name misspelled as “Aquamatch.”
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Company name throughout context is AcquiMatch; mis-spelling reduces professionalism and causes confusion.
+Impact: Medium
+
+---
+[Error #3 - Category: Financial/Date Error]
+Location: Later mid-call (Justin deal discussion) / Speaker: Luke Gillespie
+Transcript excerpt: “…doing about almost $500K, like $495K SDE in trailing 12 months, June 2025.”
+Issue: TTM reference to June 2025 is inconsistent with the rest of the conversation timeframe (Sept event upcoming).
+Likely intended: “June 2024”
+Confidence: High
+Reasoning: Team is planning for late September; TTM to a future date is implausible.
+Impact: High - date drives financial recency and valuation context.
+
+---
+[Error #4 - Category: Business Terminology Distortion/Omissions]
+Location: Later mid-call (Justin deal discussion) / Speaker: Athena Simpson
+Transcript excerpt: “Okay, so the trailing talk.-bye.-bye.-bye. months, they have half a million in FTE.”
+Issue: Garbled phrase; “trailing 12 months” and metric “SDE” likely misheard as “FTE.”
+Likely intended: “trailing 12 months… half a million in SDE.”
+Confidence: High
+Reasoning: Discussion is about SDE and TTM; “FTE” would be headcount, not cash flow.
+Impact: High - wrong metric changes deal economics.
+
+---
+[Error #5 - Category: Entity Name]
+Location: Multiple occurrences / Speakers: Various
+Transcript excerpt: “So, Anka, maybe…”, “Anka started screen sharing”
+Issue: Team member’s name alternates between “Anka” and “Anke.”
+Likely intended: “Anke”
+Confidence: High
+Reasoning: Majority of references use “Anke Jordaan”; inconsistent spelling is likely ASR error.
+Impact: Low-Medium
+
+---
+[Error #6 - Category: Omission/Truncation]
+Location: Early-mid (homework list discussion) / Speaker: Anke Jordaan
+Transcript excerpt: “First there for a second.”
+Issue: Likely truncated phrase due to a freeze/connection issue.
+Likely intended: “Froze there for a second.”
+Confidence: Medium
+Reasoning: Context: Athena asked “Anke?”; Anke confirms brief disconnect.
+Impact: Low
+
+---
+[Error #7 - Category: Omission/Truncation]
+Location: Weekend small talk / Speaker: Luke Gillespie
+Transcript excerpt: “…might have been painful for him. But I Terry I want to you.”
+Issue: Garbled sentence; unintelligible.
+Likely intended: Casual aside/joke; exact wording unclear.
+Confidence: Low
+Reasoning: Nonsense phrase in otherwise coherent small talk.
+Impact: Low
+
+---
+[Error #8 - Category: Omission/Truncation]
+Location: Weekend small talk / Speaker: Ryan Cash
+Transcript excerpt: “love your to hear you.”
+Issue: Garbled/ungrammatical phrase.
+Likely intended: Casual acknowledgment (e.g., “Love to hear it”).
+Confidence: Medium
+Reasoning: Common ASR collapse of short acknowledgments; no clear meaning.
+Impact: Low
+
+---
+[Error #9 - Category: Omission/Truncation]
+Location: Early-mid (deal flow update) / Speaker: Athena Simpson
+Transcript excerpt: “…so if you're seeing it being like super low already, then you can get ahead of it and be like, so it's lower than we'd normally like. Let's Like to see at this point.”
+Issue: Truncated/garbled sentence around “Let’s Like to see…”
+Likely intended: “Let’s [say/what we’d] like to see at this point.”
+Confidence: Medium
+Reasoning: Missing verb/words; disrupts clarity of guidance.
+Impact: Medium
+
+---
+[Error #10 - Category: Speaker Misattribution]
+Location: Weekend small talk / Speaker label shows: Charis Siau
+Transcript excerpt: “You took a boat to get there? No, you fly from Seoul, like one hour. Oh, okay, okay. Yeah, fancy.”
+Issue: Answer (“No, you fly…”) likely from Luke, not Charis.
+Likely intended: Q by Charis; A by Luke; then Charis’ acknowledgment.
+Confidence: High
+Reasoning: Conversational logic: Charis asks; Luke answers; misattributed in one block.
+Impact: Low-Medium
+
+---
+[Error #11 - Category: Entity Name (Location)]
+Location: Weekend small talk / Speaker: Charis Siau
+Transcript excerpt: “Have you been to, um, Monaghan's Sandhills Park?”
+Issue: Likely misspelling of Texas park name.
+Likely intended: “Monahans Sandhills State Park”
+Confidence: Medium
+Reasoning: Known Texas site is “Monahans Sandhills State Park.” The added “g” changes the proper noun.
+Impact: Low
+
+---
+[Error #12 - Category: Date/Day Inconsistency]
+Location: End (Gil’s seller call) / Speaker: Charis Siau
+Transcript excerpt: “He has a seller call this Thursday, September 4.”
+Issue: Day/date mismatch given rest of call timing (TAB late September).
+Likely intended: Different date (e.g., Thu Oct 4 or Thu Sep 5)
+Confidence: Medium
+Reasoning: In 2024, Sep 4 is a Wednesday; context suggests future Thursday near late Sept.
+Impact: Medium
+
+---
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: Weekend small talk block (after “How was everyone’s weekend?”)
+Speakers involved: Athena, Luke, Ryan, Charis
+Content excerpt:
+“Athena: Okay. How was everyone's weekend? … Anything fun happen?
+Ryan: Luke, tell us about your black pigs.
+Luke: … went to this island in Korea… they have black pork… Korean barbecue…
+Charis: What was the name of the island, Luke?
+Luke: Jeju… Think of it as like the Hawaii of Korea…
+Charis: You took a boat to get there?
+[…continues casual travel chat…]”
+Reasoning:
+Extended personal travel/food anecdotes unrelated to client work, deals, or AcquiMatch processes.
+Context impact: None—business content resumes later. Removing cleans transcript without losing business meaning.
+Recommended action: REMOVE the black-pork/Jeju travel portion from “How was everyone’s weekend?” through Charis’ “Oh, okay, okay. Yeah, fancy.” and Luke’s “Very cool.”
+
+---
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: RV trip personal narrative (first portion)
+Speakers involved: Athena, Charis, Anke, Luke
+Content excerpt:
+“Athena: …Cole and I jumped in an RV… new business idea… went to a different RV park every night…
+…2008 Class C… dirt road… I broke down crying… it was so loud…
+…the sky… lights out by nine o’clock… crazy stars… cool way to travel.”
+Reasoning:
+Primarily personal vacation narrative with sensory details; no actionable business content in these lines.
+Context impact: Low—later discussion transitions to business-model talk on RV rentals and RV parks.
+Recommended action: REMOVE this personal travel narrative while preserving later business-model discussion.
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: RV parks/business-model discussion
+Content excerpt: 
+“Athena: …it’s an interesting business model. RVs are really expensive… 
+Ryan: …good ones… hundreds of thousands of dollars…
+Athena: …doing the numbers on the rentals… financing an RV… you could make a killing…
+Ryan: RV parks generate a lot of cash flow.
+Athena: …$60–$80 a night… some places have ~100 spots… minimum three-night stays… providing water/electricity and bathhouse…”
+Business relevance argument: Provides market/industry insights on RV rentals and RV parks (capex, nightly rates, unit count, amenities) useful for acquisition thinking; aligns with “Industry insights” and “Educational content.”
+Personal content argument: Originates from personal trip context; could be seen as off-topic relative to current client pipeline.
+Recommendation: KEEP the business-model insight lines (rates, capex, unit counts, revenue structure, cash flow), REMOVE surrounding personal vacation details.
+
+---
+
+[REMOVAL #3 - Type: Personal/Off-Topic]
+Location: Sand dunes/Airstream anecdote
+Speakers involved: Charis, Athena, Ryan
+Content excerpt:
+“Charis: …Monahans Sandhills… straight sand dunes everywhere… favorite camping experience…
+…we accidentally locked ourselves out of the Airstream while the mac and cheese was cooking… Sunday… tow service…”
+Reasoning:
+Purely personal camping mishap; no business relevance.
+Context impact: None—discussion moves back to general business-model talk after.
+Recommended action: REMOVE this anecdote.
+
+---
+
+[BORDERLINE #2 - Requires Review]
+Location: Scheduling/travel constraints for TAB
+Content excerpt:
+“Ryan: …moving into a new apartment on the first… need to double check with my girlfriend…
+Athena: …maybe bonus the days back to you around the move…”
+Business relevance argument: Directly tied to planning attendance at TAB (business development event), staffing, and travel logistics.
+Personal content argument: Mentions personal living situation and partner; minor personal detail.
+Recommendation: KEEP—logistics are necessary for event planning and team coordination.
+
+---
+
+[BORDERLINE #3 - Requires Review]
+Location: Greetings/closings
+Content excerpt:
+“Hello. Hello, hello. How's it going? … Thank you. All right. Bye. Bye.”
+Business relevance argument: Brief professional pleasantries; maintain conversational coherence.
+Personal content argument: Non-substantive.
+Recommendation: KEEP—brief and maintains flow.
+
+---
+
+Notes on context preservation
+- The weekend/Jeju/Airstream personal stories can be removed without harming the flow if the transcript jumps from “let’s keep them busy / perceived value” to “SCREEN SHARING” or directly to the RV business-model insights. 
+- Retain the RV/RV-park economic discussion lines per Borderline #1 to preserve valuable industry insight content.
+- Keep TAB logistics and travel planning details as they directly affect business development and client outcomes.
+
+Patterns to flag for ASR improvement
+- Consistent confusion between TAB/TAP and “Anke/Anka.”
+- Financial/date references (TTM dates, SDE vs FTE) misrecognized.
+- Occasional speaker misattribution during Q&A exchanges.
+- Garbling of short acknowledgments and filler phrases into nonsensical fragments.

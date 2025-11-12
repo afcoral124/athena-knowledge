@@ -1,0 +1,185 @@
+Segment Mapping Summary
+- 00:00:00–00:02:00: Webinar welcome, audience eligibility, replay logistics – KEEP
+- 00:02:00–00:10:30: SMB/ETA opportunity overview and reality check – KEEP
+- 00:10:30–00:17:30: Athena’s background and AcquiMatch overview – KEEP
+- 00:17:30–00:21:30: Session structure, goals, and replay reminder – KEEP
+- 00:20:00–00:29:30: Self-assessment (time, timeline, financing, skills) – KEEP
+- 00:29:30–00:39:30: On-market vs. off-market tools – KEEP
+- 00:39:30–00:51:00: Route selection matrix (time/timeline/financing/volume/skills) – KEEP
+- 00:51:00–00:56:00: Rule of 100, goal-setting, accountability – KEEP
+- 00:56:00–00:58:00: Replay, feedback, next session logistics – KEEP
+- 00:58:00–01:12:00: Q&A (outsourced searchers, financing, schedule, SBA pre-qual, LOI) – KEEP
+- 01:12:00–01:16:00: Closing and thanks – KEEP
+
+No segments recommended for removal. See one borderline note below.
+
+---
+
+[Error #1 - Category: Misheard Acronym/Terminology]
+Location: ~00:02:30 / Speaker: Athena
+Transcript excerpt: "So let's talk about the S and B E. T. A. Opportunity, right? And this is why..."
+Issue: “S and B E. T. A.” appears to be a mis-transcribed acronym phrase.
+Likely intended: “SMB ETA opportunity”
+Confidence: High
+Reasoning: The session repeatedly references SMB (small/medium business) and ETA (entrepreneurship through acquisition). Spacing and inserted periods indicate ASR confusion with spoken acronyms.
+Impact: Medium – May confuse newcomers about the core topic.
+
+---
+
+[Error #2 - Category: Homophone/Business Terminology]
+Location: ~00:05:05 / Speaker: Athena
+Transcript excerpt: "96 percent of businesses that start will not make it to your five."
+Issue: “your five” is likely a homophone error for the time horizon.
+Likely intended: “year five”
+Confidence: High
+Reasoning: Standard startup survival statistic is framed as “make it to year five.”
+Impact: Low – Meaning is inferable, but looks sloppy and may confuse.
+
+---
+
+[Error #3 - Category: Entity Name (Company/Index)]
+Location: ~00:11:45–00:12:10 / Speaker: Athena
+Transcript excerpt: "I sat on the M and a board at just eat, which was a footstool. Putsy 100 Listing Company in London..."
+Issue: “footstool. Putsy 100” misrenders the FTSE 100 index; “Just Eat” capitalization also inconsistent.
+Likely intended: “...at Just Eat, a FTSE 100 listed company in London...”
+Confidence: High
+Reasoning: FTSE (pronounced “foot-see”) is commonly misheard; “footstool/Putsy” indicates phonetic ASR errors.
+Impact: High – Misstates a well-known index and could mislead.
+
+---
+
+[Error #4 - Category: Entity/Location Misheard]
+Location: ~00:11:15 / Speaker: Athena
+Transcript excerpt: "I also taught entrepreneurship at the McCombs school of business here in Iowa. Austin at UT."
+Issue: “here in Iowa. Austin at UT.” contradicts itself; McCombs is in Austin, TX.
+Likely intended: “...at the McCombs School of Business here in Austin at UT.”
+Confidence: High
+Reasoning: The speaker elsewhere says she’s in Austin; McCombs is at UT Austin; “Iowa” insertion is likely ASR.
+Impact: Medium – Location credibility detail.
+
+---
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: ~00:16:05 / Speaker: Athena
+Transcript excerpt: "We're personalized SMP search and match service to acquire the one."
+Issue: “SMP” likely an acronym distortion.
+Likely intended: “SMB search and match service…”
+Confidence: Medium
+Reasoning: The entire webinar revolves around SMB; “SMP” is inconsistent with context.
+Impact: Medium – Could confuse what segment AcquiMatch serves.
+
+---
+
+[Error #6 - Category: Entity Names (People) – Inconsistency]
+Location: ~00:16:50 and ~00:31:15 / Speaker: Athena
+Transcript excerpt: "Onka heads up our operations..." vs. later "Ryan and Anca deal with this on a daily basis..."
+Issue: The operations lead’s name appears as “Onka” and later likely “Anca.”
+Likely intended: Consistent single spelling (e.g., “Anca”)
+Confidence: Medium
+Reasoning: Two similar variants for the same role/person signals ASR inconsistency with names.
+Impact: Low/Medium – Confusing for attribution; affects team credibility details.
+
+---
+
+[Error #7 - Category: Entity Names (People) / Omission]
+Location: ~00:36:40 / Speaker: Athena
+Transcript excerpt: "so we had to hire Masam who runs our team... then we brought the SOM onto the team to head up our data..."
+Issue: “the SOM” appears to be a mishearing of the person’s name; inconsistent rendering of “Masam.”
+Likely intended: Repeated reference to the same person (e.g., “Masam”) rather than “the SOM.”
+Confidence: High
+Reasoning: Switching from a proper name to “the SOM” is nonsensical; looks like ASR dropped syllables.
+Impact: Medium – Confuses who leads data/lead gen.
+
+---
+
+[Error #8 - Category: Entity Name (Product/Tool)]
+Location: ~00:35:40 / Speaker: Athena
+Transcript excerpt: "You can use the hollow for example, but it's not really great for small businesses."
+Issue: “the hollow” likely mishears a data tool’s name.
+Likely intended: “Apollo” (Apollo.io) as an example lead data tool.
+Confidence: Medium
+Reasoning: Apollo is a common B2B data provider; “hollow” is a plausible phonetic mishear.
+Impact: Medium – Misleads listeners about recommended tools.
+
+---
+
+[Error #9 - Category: URL/Entity Name]
+Location: ~01:10:05 / Speaker: Athena
+Transcript excerpt: "So if you go to acquiringminds. co. co And go to the webinars tab..."
+Issue: URL duplicated extension “.co. co”
+Likely intended: “acquiringminds.co”
+Confidence: High
+Reasoning: The site is known as acquiringminds.co; duplication is an ASR artifact.
+Impact: High – Users could fail to reach the site.
+
+---
+
+[Error #10 - Category: Entity Name (Person)]
+Location: ~00:51:20 / Speaker: Athena
+Transcript excerpt: "For those of you that know Alex Hermo, I am a huge fan of his..."
+Issue: “Alex Hermo” likely misheard.
+Likely intended: “Alex Hormozi”
+Confidence: High
+Reasoning: The “Rule of 100” is widely associated with Alex Hormozi; “Hermo” is a common ASR slip.
+Impact: Medium – Misattributes a well-known figure.
+
+---
+
+[Error #11 - Category: Speaker Misattribution/Truncation]
+Location: ~00:58:00–00:58:10 / Speakers: Ryan/Athena
+Transcript excerpt:
+"Ryan: Athena, 
+Athena: I have 
+Ryan: the questions ready for you when you're ready."
+Issue: Fragmented utterance split across two speakers; content suggests a single continuous sentence by Ryan.
+Likely intended: Ryan: “Athena, I have the questions ready for you when you’re ready.”
+Confidence: High
+Reasoning: The phrase reads as one continuous sentence; Athena’s “I have” fragment doesn’t fit context.
+Impact: Medium – Causes momentary confusion who is speaking.
+
+---
+
+[Error #12 - Category: Omissions/Truncations]
+Location: ~01:06:40–01:07:10 / Speaker: Athena
+Transcript excerpt: "Yeah, so, we are a personalized service. So if you want to get specific pricing to you, you can fill out the form, but we work on both an advanced. You know, as, as a retainer on a flat success fee."
+Issue: Sentence appears truncated/garbled (“both an advanced.”).
+Likely intended: “...both an advance retainer and a flat success fee.” (or similar)
+Confidence: Medium
+Reasoning: The construction “both an advanced” lacks a noun; context implies fee structure components.
+Impact: Medium – Obscures pricing model clarity.
+
+---
+
+[Error #13 - Category: Financial/Numerical Ambiguity]
+Location: ~00:46:40–00:47:10 / Speaker: Athena
+Transcript excerpt: "to work with someone like us, you know, you typically want to have like three to 500 to invest in an SBA pre qualification. Or financial backing..."
+Issue: Amount and purpose are unclear; “invest in an SBA pre qualification” is nonsensical (pre-qual typically free).
+Likely intended: “...have like 300–500k to invest” (or comparable liquidity) OR “3–500k” to put into a deal.
+Confidence: Medium
+Reasoning: Context is capital readiness for larger deals; the phrase ties the amount to “pre qualification” which doesn’t require cash outlay.
+Impact: High – Misleads on required capital and process.
+
+---
+
+[Error #14 - Category: Capitalization/Entity (Minor)]
+Location: ~00:11:45 / Speaker: Athena
+Transcript excerpt: "I sat on the M and a board at just eat..."
+Issue: “just eat” not capitalized; brand stylized as “Just Eat.”
+Likely intended: “Just Eat”
+Confidence: High
+Reasoning: Proper noun capitalization; appears alongside other FTSE context errors.
+Impact: Low – Minor, but alongside FTSE error contributes to confusion.
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:55:05–00:55:20
+Content excerpt: "If I look at a hundred listings this month, I'm going to go and get a pedicure, right? That's how I reward myself."
+Business relevance argument: Part of an educational framework (habit formation and accountability) to improve deal sourcing consistency.
+Personal content argument: Personal example (pedicure) could be viewed as off-topic.
+Recommendation: KEEP — It serves as an illustrative example within the instructional context.
+
+---
+
+Removals
+No removal segments recommended. The transcript is overwhelmingly business-focused (deal sourcing strategies, financing, valuation, process, tools, and Q&A). Personal anecdotes directly support business credibility and instruction. Brief greetings/closings are within professional norms and help conversational flow.

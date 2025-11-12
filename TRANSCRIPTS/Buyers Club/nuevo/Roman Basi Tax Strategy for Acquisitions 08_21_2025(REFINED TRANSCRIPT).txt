@@ -1,0 +1,528 @@
+TRANSCRIPT - CORRECTED VERSION
+Call Date: 08/21/2025
+Participants:
+- Athena (Host/Moderator) - AcquiMatch
+- Roman (Attorney/CPA, Guest Speaker)
+- Michael (Attendee)
+Purpose: Tax strategy for acquisitions (entity choice, LOI timing, asset vs. stock, 338(h)(10), allocations, SBA/earnouts/holdbacks, post-close ops, QSBS/1202, 1031, estate/tax planning)
+
+---
+
+[00:00:00]
+Athena: Awesome. Well, I am so excited for this conversation today. This is not fake enthusiasm. Taxes has been something that I have been absolutely obsessed with since I moved back to the US after 12 years away.
+
+Um, and no end to knowledge and things that you need to do, and it's something that I don't think we talk about enough in the acquisition space, just how impactful it is pre-acquisition, post-acquisition, um, both in the transaction itself and as a business owner. So I have had the pleasure of seeing Roman on stage quite a few times.
+
+He is one of the [00:01:00] most, uh, engaging speakers I've seen, especially on a topic that most people don't normally get as excited about. So I'm really thrilled that we have one of the industry's best here today to talk you all through what you should be thinking about. Tax wise in a transaction. So Roman, thank you so much for being here.
+
+We're so excited to hear what you have to say today.
+
+Roman: Yes, thank you for having me.
+
+Athena: Amazing. So I'll uh, kick over to you. You can do a proper, I would, I would butcher your actual credibility introduction, but I'll, I'll kick over to you for that and feel free to get started and I'll jump in with questions at the end.
+
+And folks, if you have questions, um, you know, note 'em down and when Roman gets through this really exciting presentation, we can have a discussion.
+
+Roman: Sounds great. I will go ahead and share my screen, get that, get the slides pulled up. You should all see the, uh, first screen of the slide presentation, which basically says tax strategy.
+
+So we'll be talking about acquisition [00:02:00] insights today and we will, let me see if I can make sure we're gonna be scrolling through together. There we go. So the, the, there, there's a slide with all my con with all my information. I'm an attorney, I'm a CPA, I've got a master's in business administration. I'm a managing real estate broker. I specialize in mergers and acquisitions, business valuations, succession in estate planning, corporate tax law, and real estate. You know, and uh, you, most of you today listening probably know that in our merger and acquisition space, you know, a attorneys and CPAs like me practice all across the country.
+
+We're not really limited by state borders. We're looking at a lot of federal tax laws and federal laws in general when we're looking at looking at acquisitional work, looking at corporate planning, looking at tax planning. So it's something that I want to introduce to all of you, 'cause I do get that question a lot when working with people.
+
+They'll say, Hey Roman, I'm in California. Do you work with people out in [00:03:00] California? And of course the answer is yes, in fact. Speaking of California, they have a, they have an interesting uh, law out there called the Multi-jurisdictional Practice Program where they specifically allow attorneys to work the m and a field so long as you put that on your website that you're not licensed in California, but they say you are working under that program.
+
+So just keep that in mind with whoever you work, work with across the country. As Athena said, or may have said, I do speak to associations across the country. Right before she, right before she had you all come into the room, we were talking about the Texas Association of Business Brokers, and I'll be speaking there.
+
+I believe that's in Dallas or something. In September. I'll be speaking there. I just returned from Nashville getting a keynote presentation on tax planning to. People in the tile contracting industry. So I do do a lot of that. And in addition, the last bullet point, you know, I'm a business owner. First off, I do own our law firm and I own our CPA firm.
+
+We have four other lawyers and four CPAs in the firm. So it's not just me, [00:04:00] but I'm also the president, managing member and managing broker of our real estate entity, a real estate investment company. I own over 300 pieces of real estate. I have an entire company that supports me, property managers, maintenance personnel, and staff assistants.
+
+So when we talk, when I talk to business owners across the country or aspiring business owners, that's one thing I try to bring to the table is real world experience of. Owning a business, running a business, acquiring, I acquire additional pieces of multifamily and commercial real estate operations. So I'm always acquiring operations, uh, left and right within that company.
+
+But then again, I represent companies all across the United States, working in so many different fields. Uh, we just closed a deal last week in the airline industry. We're working a transaction right now in the landscaping industry, um, and in, in the swim, uh, the swimming pool industry as well. We do a lot of that actually in the Texas area.
+
+So just to give you guys a [00:05:00] little bit of background about, uh, about my firm and what we do, and there'll be a slide at the end with my contact information. So. Being a tax attorney and we're, you know, one of the most thing, one of the most important things we look at is tax planning is most effective when it's addressed before the LOI is signed, or IOI or term sheet.
+
+However, you guys, whatever you guys are looking at or whatever you're using, most of, you're using probably letters of intent. But a lot of clients will come to me and say, Hey Roman, you know, when should we be thinking about tax planning for the acquisition of the company? In fact, I just gave a podcast this morning on the very, very basics of acquisitions, thinking about I want to start a company or I wanna buy a company.
+
+What type of company should I have and what types of companies. Are out there. And things we think about when we ask that question are, what are the legal things we [00:06:00] should look at when we are determining, uh, an acquisition entity? What are the tax things we should look at when determining an acquisition entity?
+
+And then also where we should file our acquisition entity should be in the state of operations. Should it be in the state of Delaware or Nevada or Florida? And should we file it in the state, uh, where the operations are taking place? Because we may not want to take advantage of, we may not want to be at the disadvantage of the laws of that state on certain contracts.
+
+So we may want to say, Hey, we want to file it in a different state. So that's something we look at as well when we're looking at the tax planning and the legal planning that goes behind the acquisition entity and what we're doing. We really wanna look at that before the letter of intent is signed because the letter of intent can have certain tax provisions in it that can control the deal.
+
+Now we know the letter of intent in general are [00:07:00] usually non-binding terms. Most of the terms in the letter of intent are generally gonna be non-binding, except for things like maybe confidentiality, maybe a no shop provision. If we say, Hey, you know, you're gonna, we, we agree to acquire this business, but we don't want you to shop this business out for another six months while we're doing our due diligence, those terms might be binding.
+
+But I will say that the other terms in the letter of intent are still gonna kind of run with the deal. We're kind of setting the tone in there of what we're trying to plan and real in reality. A lot of sellers don't always go to their tax counsel before they sign that letter of intent. So that gives us acquiring an entity or looking at buying an entity.
+
+The first shot at being able to say, Hey, look, this is how we wanna structure the deal. This is the entity I want to, I want buy the transaction with. Maybe I'm buying assets. Maybe I'm buying stock. We'll talk about that in a few minutes. But also, this is the way I wanna set [00:08:00] up the deal for tax purposes.
+
+Do I want to take advantage of an asset sale? Do I want to have control of the asset allocation? We'll talk about that in a little bit. Do I want to do a hybrid transaction, a stock and an asset sale? Do I wanna let my sellers know that this transaction might have some tax complications in there? Do I want them to have a, a, a, an indication of it from the very beginning?
+
+Those are things that we'd wanna look at and put maybe into the letter of intent. The most important thing as a tax attorney that I really want to get into a letter of intent. If it doesn't. Muddy up the transaction too much. I don't want buyers and sellers going back and forth on these items, but if I can say in a letter of intent, my, if I'm representing a buyer, if I can say in a letter of intent, my buyer is going to propose a tax allocation that gives me the power to structure the deal for the benefit of the buyer.[00:09:00]
+
+Now, even though that term might not be binding, it is a term that we negotiate in good faith and then that term usually follows us along into the definitive purchase agreements. And so I can then say to the seller, you agreed that I could present the allocation on behalf of the buyer, and here's the tax structure or tax allocation that we want to put into the deal.
+
+So the tax planning that I've done has happened before. Letter of intent is signed, now it's inside the letter of intent. And hopefully I'm carrying that forward into the definitive purchase agreements. So what's the first thing we really look at? Then we're gonna look at, with a buyer, we're gonna say, okay, what's the acquisition entity going to be?
+
+And I'm sitting here today and it we're in the year 2025, and still to this day I get the common answer of, oh, I want to be an LLC, or my lawyer said to form an LLC, or I've got an LLC Roman. This is what I'm going to buy the [00:10:00] entity with. Typically, from a tax lawyer's perspective and from a legal liability perspective, that is not the proper type of acquisition entity to be using.
+
+And do you know, as people buying into businesses. You still have to make a tax election. If you file a limited liability company, you're only filing that at the state level. That is not necessarily it. Then you have to pick a method of taxation for that entity. Is it going to be a disregarded entity? And you're gonna file that LLC on your personal tax return using a Schedule C, which I highly do not recommend.
+
+Is it going to be an S corp? Is it going to be a C corp? Is it going to be a partnership? What is the LLC going to be? So if you formed an LLC and you think, oh, I'm good. I formed an LLC, you haven't made a decision for tax purposes and most attorneys don't even realize that that has to happen. [00:11:00] Let's take, let's step back a second too and say, what do the words LLC really mean?
+
+They really mean limited liability company, right? Think about what you're saying to yourself. Limited liability. Why do I want to have any liability to my company? An LLC is telling an owner, an owner has liability in the company generally up to their investment in the company. Now that's all gonna be governed by state law.
+
+So whatever state you're looking at or whatever, state's gonna control the deal or whatever state's gonna control the corporation. That's what we're looking at. We wanna look at that law to say, what are you going to be opening yourself up to? Personal liability with a limited liability company. So generally speaking, we don't want to be buying operational entities as LLCs because we still have to pick a method of taxation.
+
+And in some states, LLCs [00:12:00] are very expensive to form like California and expensive to maintain. The annual filing fees are very expensive as opposed to some other states. So then we look at, maybe we're gonna look at an S corporation. Why might we wanna look at an S corporation? S corporations? Where and where does the letter S come from?
+
+From Chapter S of the Internal Revenue Code. That's why we call them S corporations. S corporations, as many of you probably know, the profits and losses flow through to your personal tax return. So you're paying tax on the profits of the company at your personal tax rates. If you're in the 37% tax bracket, our highest bracket that we have right now, why in the world would you wanna pay 37% tax on the profits of your company?
+
+It makes no sense. Plus your state taxes. Yes. Right now, and this became permanent with the new tax law called the Big Beautiful Bill, right? We get a [00:13:00] 20% deduction on our profits. If. We are a qualified business. It's called the qualified Business Income deduction, and it applies to S corp. It can apply to an LLC filing as an S corp or an LLC filing as a disregarded entity.
+
+And it can also apply to a partnership, but the business has to be qualified. Not all businesses qualified, so you may have formed an S corp thinking, oh, I'm gonna get the 20% deduction. If my company makes $100 in profit, I'm only gonna be taxed on my personal tax return on $80. But if the business doesn't, doesn't meet the definition of qualified, you're not gonna get that QBI deduction anyway.
+
+So then we look at potential. So we might say, okay, and, and here's another, what's another benefit to filing an escort? Again, it's a flow through entity sort of makes your, it can, there can be some tax benefits there. There could be some downsides to an escort. One of the biggest [00:14:00] downsides to small private investment companies that are looking to acquire businesses is that distributions in an S corp have to be equal to the shareholders.
+
+Whether the shareholders are actively participating or not. If you're gonna have a silent partner or you're gonna have other partners and you're gonna, maybe no one not, maybe everyone's not participating. Equally, the profits, it doesn't matter the profits, if you make a distribution, the distribution has to be done equally amongst the partners.
+
+I'll give you an example. Got a client in Seattle, Washington. They have, it's two families. Over the years there's been, the two families have divided the stock. They were 20, there are 50% each over the years. Now the stock's divided into 20 into, into fourths. So there is a 25% shareholder and a 25% shareholder on one side of the family.
+
+The other side has the other 50% divided by 25 and 25. Of the four owners [00:15:00] of the company, only one is active and working the business. The other three owners, one of them is D, is the 90-year-old father, has dementia and cannot participate. The other two are a brother and sister of the other side of the family.
+
+The sister has nothing to do with the business, wants nothing to do with the business, and just wants her 25% share. The brother was involved in the company but travels extensively internationally and is not very. Participative in the business. And then you have the last 25% shareholder over here who basically runs the company.
+
+But when he wants a distribution of the profits, they have to go equally to all four partners. That's one of the largest downsides to wanting to have an S corporation that you don't account for when you form a company. So then we [00:16:00] might look at, for those reasons, a C corp. And you may say, oh, I don't want a C Corp.
+
+You're gonna hear this from most attorneys in CPAs, you don't want a C Corp. It's double taxation. And I'm gonna sit here right now and tell you that's a load of BS When we talk about private corporations in the United States, notice I use the word private. Why do I say that? With a C corporation? Because C corporations face double, double taxation.
+
+If you have a hundred dollars of profit right now, it's a 21% tax rate. So you're gonna pay 21% on that a hundred bucks. You're then gonna pay if you want to distribute the profits of the C Corp to yourself as a dividend. A dividend is not deductible to the corporation, but it is taxable to you as a, uh, with a dividend tax rate.
+
+So you pay double taxation if you pay yourself a. Who in their right mind in a private corporation is paying themselves a dividend? What are you going to do with that a hundred dollars of profit At the [00:17:00] C corporation level, you're gonna take the a hundred dollars of profit and you're gonna pay yourself a salary, a bonus, you're going to expense it out.
+
+Are you even gonna pay 21% in tax? Unless you want to leave the money in the company. So if you're leaving the profits in the company to build them up for an investment in the future, you might want to be a C corporation because your tax is 21% instead of 37%. So that's one reason you might wanna be a C corp.
+
+Also in a C corp, you don't have to make equal distributions to the partners. You can have different classes of shares. In an S corporation, you cannot have different classes of shares. In an S corporation, you can have voting and non-voting stock, but you can't have different classes of share. In a C corporation, you can have different classes of shares.
+
+And then finally, one of, of course, there's a lot of other attributes to a C corporation that you can have. One other thing in a C corporation that you can have is there's a special [00:18:00] code section called 1202. It's called Internal Revenue Code Section 1202. Look it up. You can Google it, you can ChatGPT, you'll find a lot of information on it.
+
+If you own the stock of a 1202 C corporation, then let's say you, maybe you buy the assets or you buy the stock of another business, you hold onto your stock of your C corporation. For, for, well, the law just changed, I would normally say five years, but now you hold onto that, that law, we just got a better law.
+
+You hold onto the stock for three years, maybe four years, and maybe five years. You can then sell that stock, potentially tax free in the future. You gotta find a buyer that's willing to buy the stock of your C corp. After three years of owning that stock, you can exclude 50% of the gain from, from taxes after four years, 75% and after five years, 100%.
+
+So you [00:19:00] can form a C corporation, distribute the stock to yourself, own it for five years and exclude up to $10 million of gain on the sale of stock per shareholder. Essentially, you can sell your stock of your company tax free, and I've done it. We do it with a lot of companies. This is not a gimmick.
+
+This is a code section that we use when we are drafting AC documents to, to set up our acquisition entities. It's a whole topic for another day. I don't wanna get too, too much in the weeds of it. And I'll just give you one example. We had a, we had a client, we. The company has to be formed after 1993, so you have to look at if you're gonna use an old company, we have to look at when it was formed.
+
+We had a company come to us and they were formed in 1992. They were incorporated in 1992, and they were gonna sell their company. This was maybe five, six years ago. Father was gonna sell this company to his son, and he comes to me and says, well, I can't take advantage of 1202 [00:20:00] because my company's too old.
+
+It was 1992, but the law says it that the stock matters when it was initially distributed to the owner initially issued, it's called an initial issuance of the stock. And so I asked the owner and I said, Hey, when did you actually file a tax return for the company? Just because you incorporated a company and started a company does not mean you filed a tax return.
+
+It does not mean you issued yourself stock yet you can file a company and do none of those things for a couple of years. And that's exactly what this owner had done. He hadn't filed a tax return until 1995. He hadn't told anybody who the shareholders were of the company until years down the road when he set up a corporate record though.
+
+So we went back into some of the corporate records, made sure that even though the company was formed in 1992, the stock didn't show as issued until after 1993. And then we were able to exclude a [00:21:00] certain portion of the gain of the sale of this company with a company. Back then, the only exclusion was 50%, not a hundred percent like it is nowadays.
+
+So that's a major consideration when we are setting up companies for you, when you're thinking about acquiring a business, and we do that all the time for companies. So you may say, well, I thought I wanted to be a limited liability company, but boy, now I don't know. Do I want to be an S Corp C Corp partnership?
+
+I did say one thing and I want to go back to it, LLCs and I, 'cause I see this a lot. From new owners that are acquiring businesses, LLCs will be set up as disregarded entities, which means you're, you're not filing a company tax return. You have a company, it's a limited liability company, but you're filing it as a Schedule C on your personal return.
+
+You probably couldn't make any more mistakes than that because not only do you have personal liability like we discussed now in, in the event of a lawsuit. You are [00:22:00] showing a court of law that you don't really have a company because you're filing it on a personal tax return, on a Schedule C. And most judges in the United States are not tax lawyers.
+
+So they're gonna look at that and say, okay, well I'm not gonna let you have the corporate protections because you're not availing yourself of those corporate protections anyway. So we're gonna strike your corporate protections and let the, let the people sue you as an individual. So one of the worst things you can do is set up an LLC for the wrong reasons.
+
+When do I look at an LLC as an acquisition entity? When it is an asset holding entity and it's going to rent the assets to the operational business, is it gonna own the real estate? Is it going gonna own the equipment? Is it gonna own licenses, trademarks? Copyrights, what is the LLC trying to own? Because there are tax advantages to that and there are tax advantages of distribution of an LLC’s assets to partners if it’s taxed as a [00:23:00] partnership.
+
+So in my recommend, when you see, if you see me in a transaction setting up an, uh, an entity for a buyer, I may set up an LLC to hold the real estate. And as a 10 65 partnership, that's typically the angle I'm gonna take. Now, if they don't have a, a spouse or a partner in the business, then I'm gonna file an LLC as an S corp to set up the asset holding company.
+
+And then on the, on the other hand, I'm gonna set up the operational business as an S corp or a C corp. And these days we set up a lot more C corp than we do scorp because of the lower tax rate. And because of the potential of 1202 and 1202 is also like our 20% deduction. 1202 has is what's called qualified small business stock QSBS.
+
+And not all businesses qualify. So things like brokerage houses do not qualify. Consulting companies do not qualify. But be careful with some of those definitions because sometimes. We have to look at the internal revenue [00:24:00] code, and the definition is then better defined treasury regulations, court cases, and what we call private letter rulings.
+
+And even though you may be a disqualified company, there are some private letter rulings that will allow you to take advantage of 1202, and then we can rely on the private letter ruling in the, to give you that advice, to give you that opinion, to set you up properly and in the event of an audit. So as you can see there, liability protection is the bullet point, tax efficiency during the purchase, ownership and sale.
+
+So I'm not just looking at, Hey, what's the easiest and cheapest one to set up? I'm looking at what's it gonna look like when you're running the business and what's it gonna look like on the backend when you wanna sell the company, retire, get out of this thing. And then finally, yeah, are we gonna align with investors?
+
+Do we need separate classes of stock? If you need, if you're thinking about more than 100 shareholders someday, you're thinking about making a private offering, making this company grow and having other investors more than [00:25:00] a hundred. You can't be an S corp. You've gotta flip to a C corp. Do you want foreign investment?
+
+You can't be an S corp. You need to be a C corp. If you want foreign investors to come in, lenders exit strategies. I'll give you something that happened just yesterday, had a, have someone, uh, that has a beauty school here in Florida. I'm calling you from my, uh, Florida office today. And he, he reached out to me yesterday while I was at the Houston Airport and said to me, Roman, I, I'm gonna buy this beauty school and they won't let me use the SBA, will not let me use my current LLC because it owns other assets.
+
+And they do not want it to own any asset but the building, 'cause he is buying the real estate. So lenders are going to drive your acquisition entity choice also. And so easily enough we can set him up an LLC, we're gonna set him up a Florida LLC. Then the question came up because his LLCs are all disregarded entities.
+
+So the next question came up of, does it need to not be a disregarded entity because I don't want [00:26:00] him to be that way anyway. And he said, that's right Roman, because it has to have its own FEIN number. So we're gonna get him an FEIN number so that he can pick an, pick a type of taxation, and probably he's gonna file his as an S corporation.
+
+And finally, the exit strategies as we've discussed now. We talk about asset and I'm gonna see if there, I have not looked at like a chat box or anything. If there's any, if there's any questions in there, just uh, uh, stop me or interrupt me and we'll go from there. Um, but we'll take a look at the different types of purchases now.
+
+So when we look at the, the different, the different ways you can purchase a business. First off, you can either buy the assets and I'm sure maybe a lot of you already know this, but we always have this slide and we go over it. But you can either buy the assets or you can buy the stock. When you're buying the specific assets, you are only assuming the liabilities that you are selecting or that you know about except, you know, I'm a lawyer, there's always that, but, or that [00:27:00] except.
+
+Tax liabilities follow assets. So don't, you know, I, I, I really get discouraged when a buyer comes to us after a transaction. Maybe someone else represented them and said, Robin, I got a problem you that I shouldn't be responsible for this liability. I only bought assets. You have to understand that most tax liabilities will follow the assets, or if they were in bankruptcy or something and you didn't, there wasn't proper due diligence done or proper research done.
+
+Sometimes a deal can be unwound if it was a fraudulent transaction, but the most important thing from a tax advisor standpoint is if you're buying assets. Have you done a, what we call a tax clearance letter or a tax clearance certificate with within the state where the assets are located? And what that is, guys for buyers, is you're asking the departments of revenue or the departments of taxation in the state, [00:28:00] does the seller owe any taxes?
+
+In most states, this is a required element of a transaction, even though again, most lawyers and most CPAs don't know this. And if you don't, and it's a requirement of the buyer to make the application for the seller. So the buyer, like in Illinois, the buyer has to make an application to the Department of Revenue.
+
+And the application says, you know, I'm the buyer. This is the seller. Does the seller owe any taxes? And what the Department of Revenue does in the state of Illinois is they send you back a letter and Texas does it to, uh, Florida has it as well. I mean, most states have this type of letter. Illinois will send a letter back to the buyer and say, yes.
+
+They owe taxes, or even if they don't owe taxes, they're gonna estimate what they think they're gonna owe on their next tax return, and they require that amount to be withheld on the transaction in escrow. Most of you may not have known this, so in Illinois, they [00:29:00] issue what's called a buyer tax clearance certificate.
+
+So they tell you, if you withhold this money from the sale, then you're not going to be responsible for these taxes if you don't withhold this money from the sale, and we can't collect it from the SE seller later because the seller took his money and ran off to Tahiti, you the buyer, are going to be responsible for the taxes.
+
+And sometimes it's double the amount. It all depends on the state and the law. That's in play a lot of times in some states too. These letters are not very quick to come out. We're involved in a transaction right now where we sold a landscaping company in the 20 million, up, 20 plus million dollar range, maybe five years ago, and now they're rolling up to the next level.
+
+And we just found out from the buyer's council on this next transaction that they were re, that some tax returns had not been filed in Texas. Our deal had taken place in Florida, north and South Carolina and Georgia. But when the company grew, they expanded into [00:30:00] Texas. And so now tax returns were doing Texas here.
+
+They were ready to close. They just found out that there's taxes owed on the on from the seller side in the state of Texas, and they were looking for us to get a tax clearance certificate within 24 hours. That is not gonna happen. So what did it do? It held up the sale. So, and, and what are you doing as a buyer?
+
+You're looking for liabilities. You want to know what liabilities this seller has. So that's one thing that we really look at in an asset sale. What are you looking at as a buyer? You're, if it's an asset sale, you're looking for what we call a step up in basis to the assets. So a seller took their assets and went from, they took, they bought 'em for a hundred dollars.
+
+When they own the company, they depreciated 'em all. Now they're down to zero. So you're looking to put them back on your books at a different value than zero so that you can read depreciate them. So one of the most important things, as we talked about in the letter of intent, is getting an asset allocation in the letter of intent so that you can get the [00:31:00] step up in basis, you can get the benefit of depreciation, you can get the benefit of bonus depreciation, section 1 79 expensing.
+
+This is the benefit to you in an asset sale, and you can selectively assume certain liabilities and keep in mind and educate your seller in an asset sale. Most times we still require the seller to pay off their liabilities. Sellers will come to us all the time and say to us, well, I didn't think I had to pay off a lot.
+
+I didn't think you were dealing with my liabilities. I didn't have to pay off my loans. In an asset sale, you wanna make sure that all the liabilities are still paid off and cleared. You're not picking them up, but you wanna make sure they are paid off that. Um, UCC financing, termination letters are filed.
+
+If there's any UCC liens on their assets, you wanna make sure you're getting clear title to those assets and you're able to get that stepped up basis. Again, you get a potential for tax deductions and things like that. [00:32:00] Often a seller can have higher taxes because of this. Y if they had assets at a hundred dollars and they depreciated 'em down, let's just say they'd depreciated 'em to 50.
+
+Now you come in and you say, I wanna buy your assets and I'm gonna buy 'em for se I'm gonna allocate $75. Why does that cost the seller? Because zero to 50 is their remaining basis. And that's tax free to them. But when they sell the asset from 50 to $75, which is what you wanna allocate for the deal, 'cause we wanna get you that write off.
+
+The seller has to do what's called capture, recapture their depreciation. The IRS says, you got the benefit of depreciation all these years. Now you have to recapture it for that $25. We're gonna tax you as ordinary income tax. Unless it's real estate, then it's a flat 25%. But a seller has to pay 37% on the tax allocated to that $25 of depreciation recapture.
+
+So it's poten. And [00:33:00] again, they may face a double taxation if it's a C corp. So two ways we kind of get around that. Sometimes as a seller's representative, we wanna allocate only $50 to the assets. So the seller pays no tax on their basis. You're getting $50 of depreciation. So you're giving them a tax benefit and then maybe we give them some money on goodwill.
+
+Goodwill is capital gain time. Personal goodwill. That's a topic for another day. To get around the C corporation shield, you're getting a 15 year write off for that, which is not necessarily what we want, but on a seller side, that's what we will negotiate. So asset versus stock sale, that's what's happening in a stock sale.
+
+You are buying the ownership interests, it's shares. If it's a corporation, it's membership units. If it's an LLC. I always know when I'm working with an educated party or non-educated party in, in an m and a transaction, if they're calling stock, if they're calling it stock of an LLC, it's not, it's called a membership unit in an [00:34:00] LLC, and it has a lot of different properties than a stock share does.
+
+But you are buying all of that and you are Bo you are. And look at bullet 0.3 on the slide. You are inheriting all of the liabilities, whether you pick them out and know about them or whether you don't know about them. So when you buy the stock of a business, there is traditionally more risk to a buyer.
+
+If there's a client that wants to sue, or more importantly an employee that wants to sue after the deal's over, that employee can still sue the company, and now you own the company you are. Even if you indemnify that away in the transaction with indemnification provisions, which we do work on with you in the purchase agreements, to say, Hey, hey seller, if anything comes up after closing an unknown liability, you didn't tell me about, you're gonna indemnify me.
+
+You're gonna take that risk away from me again. What if the seller picked up and moved it to 80, how are you gonna find the seller? Does the seller even [00:35:00] care? Do they blow all their money? Is it gone? So you wanna make sure that you know what the due diligence required in a stock sale is much, much, much greater than the due diligence in an asset sale because we want to watch out for that.
+
+And you're buying their balance sheet, you're buying that depreciation they've already taken, so now you're buying the asset and you've got it at a basis of $50 and you can only depreciate $50 instead of the 75 you wanted to allocate to. You are fewer opportunities. Excuse me, for a step up in basis for a seller.
+
+This is a kind of a mis misnomer. It's generally sellers will come to you and say, it has to be a stock sale because my CPA said I get capital gains instead of ordinary income. Well watch that example. Let's take a hundred dollars of stock. Let's say you're gonna buy a hundred dollars of stock from the seller, and the seller's gonna pay capital gains [00:36:00] on the $100 of stock.
+
+What is the seller's basis in that stock? Generally their basis is gonna be zero. They're not gonna have established the basis they started the company. They built the, their basis might even be negative if they took out more assets of the company than they should have over the years. And you know, oftentimes with S corporations, a shareholder's basis is negative topic for a different day.
+
+So what are the two different? So what's happening in the two different deals in a stock sale, they're paying tax on all $100 you're giving them, or $75, let's say you're buying, you're buying it for $75. But what was happening in the asset sale? In the asset sale, they had $50 of tax free basis. So the calculation has to be made, which one actually saves them money?
+
+Oftentimes we find that they didn't realize that the [00:37:00] asset sale will actually save them money because they still have depreciable basis to use. Now, when they're fully depreciated, they hand you a balance sheet that's fully depreciated, okay? Now the stock sale might make more sense for them because it's all capital gain, but the bottom line for you is you are buying the balance sheet.
+
+You're buying everything. You're buying the tax returns, you're buying the corporate names, unless they move assets out of the company, the only way to protect not buying something is if they move the assets out of the company. Next slide. There can be something and, and I don't know again if any of you have ever been exposed to this.
+
+There actually is hybrid transactions where you can buy the stock for legal purposes. You buy the assets for tax purposes. This is specifically called, one example is what we call a 338(h)(10) election. This is if you're buying an S corporation, it allows the sale of S corporation stock to be treated as an [00:38:00] asset sale for tax purposes.
+
+You, the buyer, get a step up in basis to the A assets, so you are maximizing your depreciation, right? Maybe you could write it off all in year one. The seller may retain some favorable capital gains treatments on the stock sale, but really what the important part here is that's a may because in, in often cases that doesn't happen, but sometimes it can.
+
+So you can kind of, kind of highlight that and say, you know what? That might, that doesn't usually necessarily happen, but. The seller may have some contracts that can't be transferred very easily. So now you bought the contracts for stock purposes. You own the stock of the company, but you were able to step up the basis to the assets.
+
+Let me give you the example where this really, really worked one day for us, and when I first learned about 338(h)(10), I learned something on every single transaction I'm ever involved in. So that's, and I get involved in all different types. This was the sale of a whitewater rafting company. [00:39:00] So the sellers came to me and they said, Roman, we can't sell our assets.
+
+We have these licenses on our rafts and these contracts with the federal government for these licenses. They don't issue new licenses for these waterways. These are, these are priceless licenses that are on these rafts to, to go whitewater rafting. But the buyer wanted a stepped up basis to the trucks.
+
+The trailers and the rafts themselves and the licenses and things like that. So the seller happened to be an S corporation, so we did it as a 338(h)(10). The buyer bought the stock of the company for legal purposes, moved the con. The contracts stayed within the scope of the company and the buyer was able to get a stepped up basis to all the assets.
+
+So really we look at a 338(h)(10) when we are looking at companies with contracts that can't be transferred, and you may say, well, I think they can be transferred. If you do your due diligence and you're looking at the contracts of a seller, be careful. There's usually what we call a change of control [00:40:00] clause in a contract, and it says so even in a 338(h)(10), you may say, okay, we can move this over because we are gonna own the stock of the business.
+
+But watch out for change of control clauses in those contracts. If it says in the contract. If 50% or more of the stock is owned by a different person or entity, this contract is void. Watch out for what we call a change of control clause. So when I'm assisting someone in due diligence, I'm really looking for change of control clauses.
+
+I'm reading the contracts in due diligence. We don't just look at the, you know, how much the price is in the contract and how much revenue it's generating. We look at the fine print to see for those things. So there are other similar structures available. If you're buying a C corporation or if you're buying a sole proprietorship, disregard an entity.
+
+So 338 is only the 338(h)(10) is only for the purchase of an S-corp. But if you're buying another type of entity, don't worry. There are some other provisions that [00:41:00] apply and we would look those up. We would at one's A 338(g). We can always give you those, those data points if you need them later. But.
+
+Allocation of purchase price. And I just learned something about this in one of our transactions. And Athena looks like I'll go longer than 45 minutes as I kind of figured I would. So hopefully that's not a problem, but it didn't sound like it. Um, allocation of purchase price. So as we know, your allocation will drive how much a buyer can deduct at how much the seller will pay in tax.
+
+The seller may have some tax free basis depreciation, recapture, and once the seller gets over the original cost of the item, if you're gonna give the seller more than a hundred dollars, then the seller's gonna pay capital gain above a hundred dollars. But it's gonna tell us how much in tax. So, proper documentation in the definitive agreement, oh my gosh, it's so, the allocation must be in the document.
+
+You must agree on the allocation. IRS scrutiny does say allocations must be reasonable and supported by the [00:42:00] purchase agreement. We like to have you make sure you guys have agreed with the seller on IRS form 85 94. Look it up. Look up the instructions and look up the form. The form is one page. It breaks the assets down into seven categories that you're gonna buy, and you allocate to those categories and you say, okay, this is what we agreed to pay for the, for the items in these categories.
+
+And this is what we believe the fair market value is. They don't have to match 'cause the IRS knows you're probably gonna pay less than the true fair market value in a fire sale. And maybe you're gonna pay more than the true fair market value if you think there's a premium for some reason in the future.
+
+So the IRS does not require the two columns to match. What the IRS does require is that the 85 94 forms that the buyer files later on and the seller files later on, those must match if you don't file the same form as the seller [00:43:00] files. The deal could get called for an auto. If the deal gets called for an auto, the Internal Revenue Service can then determine what they believe the fair market value is and are you way off.
+
+Why would you be way off if we use book value, if we use the $50 of assets when we're buying the company because the seller doesn't wanna pay tax, but the asset was really worth $75. Like we talked about. The IRS can come in, tell the seller, Nope, we gotta reallocate the deal. The seller's gonna get hit with taxes, underpayment of taxes, late, filing penalties.
+
+It can really mess up the deal. Also, I want you to know we just had, we just had this happen in this landscaping transaction that we're now involved with. In the original transaction, there was some, what we call rollover equity. If you're gonna give your seller equity in your new company and there's gonna be some rollover equity.
+
+If that's not discussed in the allocation [00:44:00] of the purchase price, then what happens is every single item on the allocation is prorated to the seller, and the equity can be taxable to the seller at closing. So if you're gonna have any, I guess the, the bullet, the, the kind of nugget to take away is especially make sure there's an allocation of the purchase price, it's in the purchase agreement, and you've all agreed on an 85 9 4, because the rollover equity, if it doesn't get dropped into goodwill, it can all be taxable to the seller, or it can be taxable on a pro rata matter, and you can cause the seller to have some tax at closing.
+
+And maybe you told the seller, oh, we're gonna give you a tax free rollover rollover of equity. But if you don't do the allocation right and you don't do the form, then you didn't give the seller tax free rollover of equity. Here's a slide on the different asset categories, the different examples that we use.
+
+This isn't all of them, but just some different things you can look at when you get a [00:45:00] chance on allocation of purchase or allocation, purchase price. We look at payment, purchase price. Are, is there gonna be cash at closing? Does the buyer establish a full tax basis and the assets are stock immediately, or does the simple, it's a simple structure, but it requires liquidity for you.
+
+Is there gonna be seller financing? Is there gonna be an installment sale? Are you gonna spread the payments out over time? So you may have an interest deduction you can take if you're gonna spread the payments over time? Is it going to be recorded as an installment sale? We had a problem the other day come up and it was with a broker.
+
+It was with a brokerage firm that I've done business with my entire career. I've been an attorney for 28 years. I've, they were one of the very first brokers I was ever introduced to. And the broker calls me and he says, Roman, we wanna, I'm gonna sell the company. I'm gonna sell the company to one of my key people.
+
+And, or excuse me, the buyer actually calls me. The buyer broker in the firm calls me. He goes, Roman, I'm gonna buy, I'm gonna buy the broker's. I'm buying the [00:46:00] broker's firm. He goes, oh, and it's gonna be a royalty. I'm gonna pay the seller a royalty. Immediately in my mind now, I've known the seller for 28 years.
+
+He's a broker. He's been doing deals with me for a long time. In my mind, I'm like, no, that doesn't make sense. A royalty would be ordinary income to a seller. Why in the world would someone in business for 20, 30 years of selling companies want to take ordinary income fully on the sale of their company?
+
+So we just knew the buyer's understanding of the deal was different than the seller's understanding of the deal, and it really caused a massive problem. Just to give you an example, because of the total misunderstanding to between the parties, we told them, Hey, look, we'll do a tax analysis for $5,000.
+
+We'll get this thing straightened out. If there's any follow up or questions or back and forth negotiations, well, that'll be hourly for us. I [00:47:00] sit here today and my bill is already over $15,000. They've now been negotiating over a month. Because when we showed them the real structure of the deal and that it really shouldn't be a royalty, all of a sudden the seller realized what the impact to them was going to be.
+
+The buyer realized what the impact to them was going to be. None of this should have ever been discussed this late in the transaction. They should have figured all of this out before they papered it down incorrectly. And they've cost themselves a lot of money because they jumped the gun. And finally, on this slide of earnout, you know, part of the payment of the purchase price might be an earnout, whatever.
+
+And you may offer this. And from a buyer's standpoint, offering an earnout is good. You're tying part of the purchase price to future performance. It can be a ordinary income deduction for a buyer. But what does that mean for a seller? It is ordinary income tax. So one of the things we, we do sometimes for a seller.
+
+Is turning into what we call a [00:48:00] purchase price adjustment. It's not an earnout, we call it a purchase price adjustment that makes it potentially capital gain to a seller depreciable over here on the buyer's side. But on a buying side, and again, people are getting more savvy these days. You might walk into a deal on the buy side and the seller might tell you, I wanna purchase price, or the seller might use the word purchase price adjustment.
+
+And on the buy side, LOI, I'm gonna want to turn that into an earnout and I'm gonna make an argument. Here's my argument I'm gonna make on your behalf. If the seller is performing something over the next one year, two years, or three years, in order to get that earnout. The Internal Revenue Service will require it to be an earnout.
+
+They say if the seller is contributing, performing that it's ordinary income. It's not investment, they're working for it. It's ordinary income, so it's deductible for you. It's taxable in full to the seller, and there's no other way [00:49:00] around that. So we can, we can use that as negotiation on the buy side for an earnout as opposed to a purchase price adjustment.
+
+As we talked about on equity considerations, you can issue stock to a seller. This could, uh, rollover equity if it's done correctly, can preserve cash. It can align your incentives while structuring for favorable tax treatment. What about holdbacks? Is there going to be a holdback where you withhold part of the proceed?
+
+Typically, if you offer a company a million dollars to buy a business, you're gonna typically hold back 10%. So you're only gonna give them 900,000 closing, and you're gonna give them that 10% after about 18 months. You're gonna run the business for 12 months, get an audit done on the financials. If everything looks good and it's represented right to you as it was when you bought it, then at the 18th month you might release the holdback to the seller.
+
+It's good for the seller because the seller isn't taxed on that proceeds until 18 months from now, and it can be good on you because it can protect [00:50:00] against post-closing tax risks and you can adjust the purchase price. If they misrepresented something, then you can deal with that holdback. I'm dealing with it right now on a transaction.
+
+We have a $33 million. I don't always get involved in large ones. I, I do Main street, lower middle market, and sometimes more of a middle market. So I'm involved in a $33 million transaction now where they want to give the seller $20 million cash at closing. They want to give him $7 million of of a note and $6 million of rollover equity.
+
+I represent the seller. So I'm negotiating with, with the buyer to say, why do you need a holdback? Because you're holding back 13 million already. You've got a $7 million note. You've got 6 million in rollover equity, so you're, you're only giving us $20 million. So should there not be a holdback? Actually, we're waiting on that answer today from the buy side to see if you have a deal or not.
+
+So that's the kind of issues you'll get into if you're too top heavy on a note or too top heavy on some rollover equity. We talked a little bit [00:51:00] about this at the beginning. I only have a few slides left by the way, two slides and I think a, a contact slide. Then we can open it up for questions. But post-closing operations, um, you know.
+
+Again, we wanna confirm the most tax efficient structure for your operations and your future exits. We wanna maximize potentially your deductions for a stepped up basis, or we wanna maximize your ability to get stock sales tax free. We wanna evaluate your cash versus your accrual. Are you gonna be on the cash method?
+
+Are you gonna be on an accrual method? How are you gonna do your inventory? Is it gonna be first in first out? Last in, first out? Is it gonna be some kind of modified inventory method to make sure you've got good cash flow optimization? We wanna look at the NOLs, which is a net operating loss. Can you take advantage of an NOL if you're buying a company with an NOL, or is there a tax credit or a carry forward you can acquire?
+
+We're looking at all those things in a post-closing operation. Finally, [00:52:00] uh, just some, just some things for you to think about. When I, when I talk to people about selling their companies or investing in a company, you know, we want them to think about the final exit and we, we don't wanna muddy the picture of buying too much, but we want them to think about what does the final exit look like and what do they need to plan for?
+
+You know, look at the se second bullet point. We talked about 1202. That's a three, four or five year holding period. If you're gonna flip a company after one year, that's not something we want to talk about. We do wanna look at other things though. Qualified opportunities, zone investments. We can take capital gain and defer it and not pay tax on it for a certain period of time.
+
+Do you have a piece of real estate that's being involved here? Are you selling, are you buying one? Are you buying into a company right now and buying the real estate? And do you have a piece of real estate you want to sell? A 10 31 exchange is something we talk about. If you sell a piece of real estate, you can take that [00:53:00] gain from the real estate.
+
+You can't touch the gain. If you're ever gonna buy or sell real estate, call a real estate attorney or an MM and a attorney like me, call someone. Don't do the deal without asking them because in a 10 31, you sell the piece of real estate. You cannot touch the money. The money has to go to a qualified intermediary.
+
+If you close without the qualified intermediary, you can't do it. The money goes to the qualified intermediary, and then you have six months to buy what we call the replacement property. And you use the money to buy the replacement property, and you pay no tax for the most part on the sale of the original piece of real estate.
+
+However, if you're acquiring a piece of real estate right now, you could do what's called a reverse 10 31. You could buy a piece of real estate. The qualified intermediary buys it. Whether you gotta get a go, get a loan, or you have cash, you give that qualified intermediary. Qualified intermediary buys the property, you then have six months [00:54:00] to sell whatever re whatever relinquished property you're wanting to give up.
+
+So if you're buying a, a piece of real estate in the business, if you have a piece of real estate you wanna sell, you can do a reverse 10 31 and you will not pay tax on the sale of the piece of real estate that you want to sell. Again, for the most part, people don't understand. With a 10 31 exchange, there is a calculation that has to be done to make sure you're covering all of the gain, all of an existing mortgage, if there was one, or there can be some taxation on a 10 31.
+
+And keep in mind, on a 10 31 for real estate, you're deferring the tax. You're not excluding it like a 1202, you're deferring it someday. If you ever sell that new piece of real estate that you bought. You have to do another 10 31, or you recognize the gain from the original sale, so you're just kicking the can down the road, but you can kick the can down the road indefinitely in a [00:55:00] 10 31.
+
+Finally, there's some other things we talk about when we are doing, when we are talking about acquisitions in the backend, but I, I wanna, these are structures you can look at deferred sales trusts, check remainder trusts. I just got off the phone with someone before this started and they're, he's a surgeon.
+
+He makes $2 million a year. He's investing in real estate and he wants to get set up correctly. And at the end of the phone call I told, I asked him, I said, you know, on the backend, 'cause I deal with people with high net worth and regular net worth. Do you have an estate plan? Are you backended there? Is it right?
+
+Do you have a will? Do you have a power of attorney? How do you want to own your company? Do you want to own your company in a trust? Are you set up right for tax purposes? I'll finish with this. I just met with two different companies in the Midwest region. My off my, my central offices are in Illinois. My corporate headquarters are, one guy came to me, his dad had died in the summer.
+
+His dad owned a large trucking company. [00:56:00] The dad had passed away and they had planned, the attorneys had written an estate plan. What the attorneys have failed to do was pay attention to the Illinois estate tax exemption. In Illinois, the estate tax exemption is only $4 million. You pass away with more than 4 million in your name.
+
+You pay Illinois estate tax, and in this case, they came to us and they said they thought they were clear. They'd gone to an estate attorney, they wrote a trust. The trust was wrong. They had to pay a estate tax and everything over $4 million. Luckily, we got them out of that estate tax because I was able to value their assets less than 4 million.
+
+I was able to just barely math miraculously somehow. I don't know how the math worked, but we got 'em just barely under $4 million and we can support it. However, last week I had to flag to Illinois to meet with a new client. Their, their father had passed away. He's worth $30 million married, but they don't want to take married, but separated.
+
+They don't wanna take, they don't wanna take advantage of a spousal exception. So they're, they did not do the [00:57:00] proper estate planning, so he's looking at a tax bill to the tune of 40% on $30 million to the federal government. This was not an Illinois resident, so they don't have an estate, they don't have a state estate tax.
+
+And the bottom line is this, you're all interested in acquiring companies. You're already in the business. Make sure you're backended with the proper estate plan, or no matter what you do here. You could really hurt yourself there and that's not what we want to do. So there's my contact information.
+
+You're always welcome to send us an email. There's also another email you can email info@taxplanning.com. Our website is tax planning.com. There's our phone number if anybody ever wants, and and I, I'm sure Athena will give you some more information, but if anybody ever wants to work with us, you're welcome to send us an email.
+
+We'll set up a call with you immediately. It'll be a very similar to this very educational interaction. We then send you what we, how we can help you. A summary of the call. After that, if you also want to get on our tax [00:58:00] advisory list. Just shoot us your email when the, when today is over. It's a one month, one page, once a month tax article we send in your email.
+
+Or if you want to get it via regular mail, you can, you ever wanna come off that list? Just let us know. Just helps us keep in touch with you. Of course. We also, we blog twice a week on our social media pages. We're now doing podcasts from our office, so you're welcome to kind of follow us along. But, uh, that's our information today.
+
+Thank you very much for, for allowing me to share with you today and we can open it up for questions or comments.
+
+Athena: Wow, Roman, my brain was just like on fire during all of that. It was super, there’s so much information. There's so many ways I wanna go. I'm sure everybody here probably has some questions. Um, I think the first one that I wanna jump in on.
+
+Although you're saying the ideal situation is to plan this pre LOI, a lot of the times we're in super competitive, very quick [00:59:00] situations where we gotta get an LOI out. So is it addressable post LOI or should everybody panic and try to get on the phone with you pre LOI, when they gotta deadline and that sort of thing.
+
+Um, what's the weight of, you know, getting the offer out, getting the deal under offer and then, you know, getting you involved or looking at the tax planning side of things?
+
+Roman: Absolutely. And one reason why I said I don't, I don't wanna muddy up the LOI too much. So if I feel like it's going to be too burdensome for the LOI, we will not address it.
+
+Or if we don't wanna, again, if we're dealing with a non-complicated seller, we don't want to burden the LOI too much. So it's not, it's very, very beneficial if we can get it into the LOI in a very simple way to say. Buyer's gonna structure the deal this way. Buyer wants to propose the allocation, but if it can't be, or sometimes we'll get a little more detailed if we can, but if not, we, we do not wanna see, uh, we don't wanna get all the way through due diligence [01:00:00] and then start discussing it.
+
+It can be too late sometimes. Then we can be really, really causing a kink in the transaction with the seller if we're coming in with a complicated F reorganization or something like that to a seller. So it's not a hundred percent necessary to be in an LOI, but we really want to be discussing it during the due diligence phase.
+
+And I'd say at least, you know, midway through due diligence, we want to be saying, Hey, what are we thinking for tax structure? Can we have a conversation with all the parties about what we're gonna do here? Because then it's gonna go into the purchase agreement, and the first draft of that purchase agreement is really gonna show, hey, what's the allocation and what's the structure gonna look like?
+
+Athena: Um. So, uh, what I think is really cool about how y'all work is even if, if somebody already has their attorney identified, like you will come in and advise on the tax side of things and work, you, you guys play very nicely if there's already an attorney in the mix, even if you're not the attorney on the m and a side.
+
+So [01:01:00] I just want to call that out to everybody because, um, I think that's awesome that y'all do that. And, and there's a lot of post acquisition support potentially from your team as well with accounting and, um, the tax strategy and that sort of thing too. So, um, gonna give you a plug on that, but one, when you were just talking about the discussions, how often have you seen a deal go south because the tax conversation wasn't had before the purchase agreement?
+
+Roman: It, it could, where they go south is when a, honestly, when, when, if you know you're dealing with a seller that has not. Considered their tax implications and you wait until the end to start discussing the tax implications. That's when they go south with the seller because then the seller's gonna set them in front of their CPA and their CPA's gonna tell 'em, you cannot do this transaction.
+
+We're [01:02:00] not, we're not moving any forward and boy to a buyer, to an, to an acquisitional buyer. It's just heartbreaking to get to that stage. Luckily, I mean, in the transactions I'm involved in, it's why they involve me. You know, I get involved from those tax elements. It happens very, very rarely in my world because if I'm getting involved, we're talking taxes and if they try it, it is a nightmare.
+
+When someone calls me the week prior to closing and says, review this for tax purposes, it becomes a nightmare for the parties and I, I'll sit here and tell you in a lot of those transactions that when that happens, I don't even know if they close. It becomes, because we start to, we start to. Go into these issues and a buyer realizes, oh, I, I want these advantages, or the seller realizes I don't want this happening.
+
+It, it becomes a real nightmare Now, you know, we try to work with it as much as we can. In fact, we've had one that, um, it was a Texas transaction in the oil industry. [01:03:00] Not a real great, great big transaction, but a very, a very non-educated seller from a tax perspective. And at the very last minute, we were getting ready to close the deal, then all of a sudden we hear from the seller's tax counsel and it caused the deal to stall.
+
+And then the deal stalled for about six months and then finally went back to a closing. So that's, I, I think that's where it really happens. It stalls almost every deal when it happens. But if you have the right people on your team, you can still get to get, get to a closing with it. So don't be too scared that, oh gosh, you know, we got a deal already.
+
+We're this far, we're gonna screw this deal. If we bring in a tax issue, you're not just to make sure that you're bringing in somebody with knowledge and, and you're right, Athena, we are more, we are very equipped. And in your case, we are, we are, we do come in as just a tax counsel perspective. Sometimes I am hired just to write the, the specific tax provisions in the agreements or just if we [01:04:00] use like a personal goodwill issue, I will help the lawyers draft the personal goodwill agreement again.
+
+And they don't, A lot of times it's, it's funny because. The, the lawyers don't wanna even touch the tax provisions. They know, they know that boundary of, no, we don't, we can't give you a, we can't tell you what the gap representation means in the, in the representations. They don't want to touch that provision.
+
+So we wanna come in and work with them as a team on most
+
+transactions.
+
+Yeah.
+
+Athena: Um, so it was just gonna be relevant for some of our clients when they're introduced to off market where they don't have broker representation. Like, you know, and you're representing the buyer, but can you also help broach that conversation with the seller so that they don't, they don't end up getting far down the line and like, what was I agreeing to, or how did I not understand this?
+
+Um, so how do you navigate that, you know, when you're on buy side, but there needs to be some sell side conversations.
+
+Roman: Yeah. If we, if we find that, uh, you know, we [01:05:00] realize that they're not understanding something, then that's when we try to reach out to try to have that. Today I spoke a little higher level than I think I, than I would normally speak to a seller.
+
+If I, if I had to, you know, bring it down a little bit more, uh, to a seller's position. Again, you're acquiring entities, you're buying entities. Your minds are set on, okay, we're talking about corporations and how they're taxed, and I think everybody today hopefully could follow along with, with those comments.
+
+A seller doesn't always follow along like that. They're trying to run their company. They're trying to figure out who owes 'em money on their inventory and what they're gonna do, this and that. So we do break it down a little bit easier for them. One of the things that we do, and we do this for all of our sellers, so this is a real big tool for a seller, and we've done it.
+
+For buyers to show to sellers, we call it our tax minimization analysis. What that is, guys, is it's a, it's a, it is a entire flow chart of how the deal is working with the numbers. We start with the purchase price. We show the [01:06:00] closing costs, the brokerage costs, the consulting costs, maybe our fees. If there's a working capital adjustment, we show whether it increases the price or lowers the price.
+
+Then we have a net selling price. Then we show the seller how we're structuring the deal. Are we, are we allocating the assets? Are we allocating to stock? Now we can show the seller what their taxes are. This is what the taxes they're gonna pay are. We're not done. Then we can show the seller the payoff of their liabilities so they can see that the payment of liabilities comes out after we determine their taxes.
+
+It's not a deduction. Then we're not done. We then have a new net cash number. We show them employment agreements, non-competes. Um, real estate leases, earnouts purchase price adjustments. So that's one way that I can show a seller that they understand, because they'll understand the numbers, they don't understand the concepts behind the numbers.
+
+But I can show a, show a seller, a tax minimization analysis on from the buyer's perspective, and that'll help a seller close a deal. They'll say, okay, [01:07:00] now I know why the buyer wants my assets, or the buyer wants my stock, or I know what the f reorg is gonna do. That document that has been the key to my success over the last probably 10 years, is I do one of those on almost every single sell side transaction.
+
+I don't always need 'em on a buy side, but if you need 'em on the buy side to get that seller understanding their tax ramifications, then let's do one.
+
+Athena: Yeah, it almost seems like, uh, preemptive and the right thing to do, you know, if you're wanting a win-win for both sides so they understand what they're walking into.
+
+Um, but, um,
+
+I, sorry, my brain just went in like three different directions there 'cause they have so many questions, but, uh, the Q-S-B-S-I, I was just thinking like, does the, does the 1202 need to be filed by the, is that something that needs to be filed? Or if you're a C corp, you could [01:08:00] qualify. So have you seen buyers use that as a negotiating tool with sellers that didn't realize that that was an advantage to them?
+
+So if we're looking at a seller that has a C corp, is that something that we could potentially be like, Hey, um, I'm gonna offer you less money, but you're gonna pay no taxes. Exactly.
+
+Roman: Yeah, it does. It's, it's cool when that happens. When we see a deal come in and. A broker might say to me, Hey Roman, I think they've got 1202 stock over here.
+
+We done, they didn't even know it. And so then the buyer could come in and say, you know what? I'm gonna take a risk and I'm gonna May maybe then they can't buy the stock. They can say, I'm gonna, I'm gonna take a risk and I'm gonna lower my purchase price 'cause I'm gonna, or I'm gonna, we're gonna lower the purchase price showing you what you can save because you actually qualify for 1202.
+
+Absolutely cannot be a negotiating tool if and because again, most sellers are not gonna be educated and know that they have it. And you're gonna see that in older companies. You're gonna see a company, you say, oh, [01:09:00] we've been in business 25 years. You say, okay, so that's back in the two thousands. Alright, what type of company are you?
+
+And they show they're a C corporation and we look at their books and records and we find that out and then we can negotiate a lower purchase price based on that.
+
+Athena: So I imagine we'd probably wanna do that post LOI, so we're not showing our hand and they look for a sucker that doesn't realize that that's gonna offer
+
+Roman: market rate.
+
+It could be a tactic because you can then go through a little bit of due diligence, say, you know what, we gotta, we found some things out in due diligence. We can, we need to re-look at the terms. And that'd be the perfect timing for some of that. Absolutely. Yep.
+
+Athena: That's so cool. Um, and so I, I was thinking when you had your post-close ops slide up, I'm like, we could probably do a whole other section on that, like what to think about as an owner and all the things that you were talking about with inventory control and tax strategy and that sort of thing.
+
+Um, now I remember the point I was laughing about earlier. So, uh, seller has their CPA that's like, ah, you can't do the [01:10:00] deal, but how often does that CPA actually understand tax strategy? And they're also seeing their last paycheck coming from this client. So they're. You know, maybe holding back the, the seller from moving forward because they don't understand all the things that you can lay out for them
+
+Roman: almost.
+
+I mean, I'm not kidding. Almost a hundred percent of the time where the CPAs, generally speaking, CPAs file tax returns. That's what they do. They might prepare financial statements, they might do audits, and they file tax returns. They're not in the m and a world. They might have clients that sell their companies yet.
+
+They might know, they might understand a little bit about it. But generally, what a CPA tells a seller is, oh, don't sell. You're gonna pay over 40% in tax. And almost every time we do a tax analysis, we find out that the average tax rate on the deal to the seller is gonna be 15%, 18%, 23%, considerably less than a 40% tax rate.
+
+Because the CPA is scaring them. They don't wanna lose a [01:11:00] client and they're not calculating their basis. The client might have losses. The CPA may not even know. We sold a $10 million and this happened to us. We sold a $10 million janitorial supply company in la. Two partners, one that was active. So one was constantly doing things with me.
+
+In fact, he was buying businesses every year. I would buy a new business every year for him. Finally came to me one day and needed to sell the company. So we did a tax analysis for, for him. He was fine. We got started to get worried about a silent partner, and he got worried about a silent partner. He's like, I gotta do, I gotta do this other tax analysis for him.
+
+I don't know if he's gonna sell the company. A couple of weeks go by, the silent partner calls us and says. Don't worry about me. I've got losses that are going to apply this entire sale. I'm not gonna pay tax at all on the sale. And so how often do CPAs not look? And this happened like 20 years ago. It was one of the, one of the earlier deals I'd ever done.
+
+How often do we not look at the whole picture and say, what is this really going to be to our clients? So, you [01:12:00] know, it's why the sellers have to be educated to the tax ramifications of these, because they're often scared away by their, by their CPAs. Or the CPA will say, don't do it unless it's a stock sale.
+
+And again, what we talked about earlier, that's usually not necessarily a good thing to tell your client. Might it cost 'em more in tax by telling them that? So.
+
+Athena: Um, I, I love that, and I love that you're challenging even some of my assumptions on the right entity to form as a new buyer and that sort of thing, which, which goes to the point of having really smart, experienced people that do this day in, day out around you as you're going through what will be one of the most pivotal decisions in your life, um, is a really great thing to do.
+
+Um, so something I wanted to ask you about, uh, I'd say, you know, all of our clients are probably going to utilize SBA unless there's an opportunity to, to maybe do private [01:13:00] debt. But given SBA and the, the, you're not able to do earnouts, but you can do forgivable performance based notes. Have you come across those and how do those get treated from a tax situation?
+
+Roman: Yeah, so a, a again, and an earnout is a, you know, if you, if you see the earnouts or whatever. You gotta watch out for those. With the SBA deals, as we know, if you do any kind of forgivable notes or whatever, there's gotta be careful with some of that stuff because it can be anytime a debt is forgiven. So it depends on what's written, who's seeing what documents.
+
+Anytime a debt is forgiven, it can be, it can be income to the party that the debt was forgiven from. So there's some things that we will write into some of those notes or what the parties see or what the parties don't see. Sometimes there's a note done post-closing. We look at some of the SBA, uh, reps and warranties that are signed sometimes.
+
+So you have to be careful with some of that stuff to, to, to [01:14:00] make sure to, to get around a little bit of that, hey, there were limits on goodwill, how much can be allocated to goodwill with some SBA deals. But we've been able to get around some of that as well, just with the negotiations between the parties.
+
+And what are you doing again, outside the four corners of the corporations documents? Sometimes it can be beneficial, it just depends.
+
+Athena: Um, so on the point of goodwill, explain it for maybe a, you know, 10-year-old. Like, what does, what does that actually mean? I think, you know, a lot of folks here don't necessarily have, uh, it, they might not have that kind of understanding of the different terms and what that means.
+
+So like, goodwill is something that comes up a lot, especially like amortizing the goodwill and those sorts of things. So like what, could you break it down very simply and what, as a buyer do you need to bear in mind when it comes to that?
+
+Roman: For a buyer, the most important part to understand from that tax perspective is goodwill.
+
+Is only depreciable [01:15:00] to you over 15 years. It is a long term depreciation. You cannot write it off very quickly. Do not get confused when you see what you call goodwill impairment. You're gonna read on the internet about, or you might chat GPT it and it might say goodwill impairment. That is a different type of goodwill.
+
+Goodwill, impairment you could write off right away. That is only Goodwill that you have put. You can't do that. Private companies really can't do that. So be careful with Goodwill. Bottom line is Goodwill is depreciable. Over 15 years, larger public companies can put Goodwill on their books and say, ah, we got a great name.
+
+We're gonna put Goodwill on our books. And then if there's a lawsuit, oh, you know. I don't wanna name names, but a company does something wrong and the country now hates 'em, or part of the country hates 'em, and all of a sudden their sales drop, their goodwill has been impaired. They can now write off that goodwill.
+
+They can take a [01:16:00] deduction to an expense and an asset that never even existed. Private companies can't do that. So Goodwill depreciable over 15 years to you, why does that impact you? Because if you allocate to an asset other than Goodwill, you might be able to write it off that year in one year. So if you allocated a million dollars to an asset, you might be able to write off a million dollars that year.
+
+If you, if you, if you allocated a million dollars to Goodwill, you have to depreciate it, write it off over 15 years. That's the biggest concept to think about. Now, what is it? Goodwill is blue sky, and that's another term you'll hear for it. It encompasses the name of the business, the reputation of the business, the relationships of the owners and the employees, the relationships between the customers.
+
+It can be the customer list. It's all of these intangible assets. So we have tangible [01:17:00] assets that we can touch and feel, desks, equipment, inventory, receivables. We have on our books, intangible Assets we can't necessarily touch in the field from a tax perspective. It is not an arbitrary number. You might think it is when you buy a company, you might say, oh, I allocated $5 million to Goodwill on a $20 million deal.
+
+I value companies. I can value companies before people buy a company I can buy. I can value a company for a seller that's selling a company. When I value a company, I would calculate what their goodwill is now. I will give that to you very, very, as, as easily as I can explain it. It doesn't mean that's what, that's what we're gonna put on the deal, but I can tell you what their goodwill is.
+
+If I look at their assets, or, excuse me, let's, let's step back a second. If I look at the earnings of a business and I say, a business is making $10 a year and I wanna make a 10% return on the business, [01:18:00] I'm going to pay a hundred dollars for the business. I'm gonna make $10 a year. I'm making my 10% return.
+
+That's the earnings of the business. If I look at the assets of a business, I say, what are the assets of the business worth on the books? And let's say the business, the assets are worth $5. If I want a 10% return, then I'm saying the company is only worth $50 based on its assets, only based on its tangible assets.
+
+So what is goodwill? Goodwill is the difference between the earnings value of the company and the tangible asset value of the company. What is that difference? We just calculated 50 more dollars. The difference between the company being worth a hundred dollars and the company being worth $50 is $50 of goodwill.
+
+So when I value a company, yeah, there's gonna be a lot more little numbers in there. I calculate to depend what the goodwill in the business is, what's the [01:19:00] company earning as a whole? But what, what should it be earning just on its assets? On its tangible assets? The difference is it's goodwill. That's the easiest way to explain it.
+
+Athena: I love that. So the, the blue sky, you know, the, the sky that you can see over the assets. So that makes sense. Um, Michael, it looks like you had a question. Um, I don't know if you're still here, if you wanna unmute.
+
+Michael: Um, yeah, it was a continuation of, of your question or it just happened to be on, I'd written down the payment, uh, of purchase price slide where it was going through.
+
+Um, earnouts and Holdbacks were mentioned. The um, uh, earnouts were mentioned and when you mentioned earnouts, we talked about the SBA considerations with earn announced. Are there also SBA considerations with holdbacks? I can't re remember that. Uh, I don't recall if that's the question
+
+Roman: to my knowledge there that there, I don't believe we [01:20:00] have too many concerns with SBA Holdbacks, uh, unless you're seeing something different in the SBA world with holdbacks, again, that's going to be.
+
+If there's not, now, if there's, if the seller is asking for no holdback, the SBA may not, I don't know if the SBA allows that or doesn't allow that right now with what's going on. Uh, but typically, we typically have a holdback in all transactions. I haven't seen one recently where there wasn't one. Uh, but, and maybe in some of the transactions that you're doing, there isn't one.
+
+Um, that just kind of depends on transaction by transaction. I haven't seen any major concerns with holdbacks unless you guys otherwise,
+
+Michael: no, I don't have, I don't have, um, I don't have experience with it. I just, I just know that when we, when we think about earnouts with SBA, we have to think about them a certain way as Athena's already covered that part.
+
+So,
+
+Roman: and we do, we look at, we look at the, we look at all the options of that one. We look at a holdback, we look at purchase price adjustments, we look at the forgivable notes. You know, we look at these different options that we can, we can manipulate into the [01:21:00] transaction to, to deal with it. So. Yep. And that's why, because they're not wanting, you know, the SBA is taking the position that they're not wanting you to give money to a seller that's not tied to the value of the business right at the closing.
+
+So that's the problem with the earnout and it becomes ordinary income and the ordinary expense deductions. It's got all kinds of issues tied up in inside of it.
+
+Athena: Awesome. Great question, Michael. Um, Roman, I I have one more question for you unless anybody else has some questions. This has been super fascinating and fun.
+
+Um, see, you mentioned, uh, the tax liability follows the assets. Um, how often do you hear of sellers not taking care of their tax liabilities if it wasn't, or, you know, just in general, how often is that an issue for a buyer or a post close that the seller's not taking care of that,
+
+Roman: you know, I'll, I'll only see that when they're not using.
+
+Proper parties, you know, like yourself, your company, um, our, our types of firms, our m and a, the [01:22:00] brokers, the consultants out there. We only see that when they've just, they, they didn't use council. You know, they, they did a deal. They didn't use proper parties. Nobody checked the state tax liabilities. And all of a sudden the buyer get letters after the deal's over of you owe taxes on the deal.
+
+It does happen. It happens in large deals, middle-sized deals and small deals. It does happen. It's not that, it's not that often because in a proper due diligence and what's the most common tax owed? You think about it, it's withholding tax. It's what the IRS calls trust fund Taxes. Taxes that an owner, payroll taxes.
+
+So you're, uh, uh, an owner is paying payroll to their employee and they're taking the taxes out of their check. It's called a trust fund tax, because why? You are holding it as the owner in trust for who the IRS or the State Department. So those trust fund taxes are the most commonly owed taxes by a business.
+
+If you do a proper due diligence, you're finding out that that company owes its trust fund taxes. It didn't pay the payroll taxes to the state. That's the [01:23:00] most common taxes owed from a business. So oftentimes, I mean, those are discovered in a due diligence. It's not that, that they're, they're not discovered, but a, a seller and a buyer really need to know, Hey, is there a tax issue here?
+
+Did the seller not pay these? It it, it starts to unravel and uncover other problems when we see it. So it's pretty, now, I'll tell you what's rare. What's rare is seeing the companies in smaller deals in your lower middle market, knowing that you're supposed to do these tax clearance certificates. That's more of a problem than seeing a tax problem come through.
+
+Yeah. The tax problem might be one in 10 or two in 10. But almost eight or nine in 10 don't apply for the certificate. So your chances of missing something are greater because you're not applying for the certificate or not applying for the analysis by the state. Just keep that in mind.
+
+Athena: Interesting. [01:24:00] Um, well, this was so much fun. Uh, like I said, my, my brain was on fire while you were going through it. I've, I've heard you speak a couple times and every time I learned something new, I'm sure everybody here learned a whole lot. Um, mainly, which is, wow, transactions are complicated. I, I should probably get some advice on this and make sure I have the right people and communicating with the seller.
+
+'cause I, I have heard this time and time again, seller realizes what the tax implications are gonna be and, and they back out. You know, and it's like if you've invested all this time, energy, diligence, paid your deal, team, all of that, it's important to know your situation so you don't get hit with something unexpected post close.
+
+And also for the, the seller, you know, and I, it sounds like a. It is a better way to bring that discussion up early rather than leaving it until the end. So, um, so cool. Thank you so much for preparing that and, and giving us all the wisdom and energy [01:25:00] and like I said, you know, your last two slides I was like, we could probably do two more sessions of these, so I'll see if I can convince you to come back at some point and break some of that down.
+
+We have had some requests from our, our, uh, folks here for, you know, hearing more about bookkeeping, accounting, you know, afterwards, what they need to be thinking about as future owners. So, um, this was fantastic, Roman. Thank you so much. Thanks for having me.
+
+Roman: Really appreciate it. Yeah, to everyone that's, that's looking into purchasing businesses, good luck with your transactions.
+
+We're here to help. If not, but thanks again for having me today. As you can tell, I really enjoy, I really enjoy what I do. So again, thanks.
+
+Athena: I love it. Um, and we'll post your details, this replay, uh, the slides for everybody so they can follow up with you afterwards. Um, thank you so much Roman, this was awesome.
+
+Um, and thanks everybody for your time and attention today. Hope you had as much fun as I did.
+
+Thanks everybody.
+
+Athena: Thanks. Take care.

@@ -1,0 +1,210 @@
+Segment mapping (high level)
+- 00:00:00–~00:02:10: Greetings + weather/flooding + personal family anecdote — REMOVE (extended small talk)
+- ~00:02:10–00:14:30: Polly/Steve franchise deal overview; P&Ls; fees; operations — KEEP
+- 00:14:30–00:21:30: IOI vs LOI; lender gating; QoE; performance/forgivable seller note structure — KEEP
+- 00:21:30–00:26:30: Group perspectives on franchises; brand vs fees; “training wheels” discussion — KEEP
+- 00:24:00–00:26:00: Example franchise (“DoodyCalls”) illustrating centralized marketing/call center — KEEP (educational example)
+- 00:26:00–00:30:20: P&L variance across 3 stores; offer timing; decision window — KEEP
+- 00:30:20–00:41:30: Justin’s “guru” community deal; key-man risk; AR/working capital; transition playbooks — KEEP
+- 00:41:30–00:47:30: Paid ads/content engine demands; lender/NDA workflow; non-circumvention NDAs — KEEP
+- 00:47:30–00:56:00: Personal-brand monetization; resale risks; AI likeness; operator vs influencer — KEEP (educational/strategic)
+- 00:56:00–00:58:00: Housekeeping + author session on moving from operator to owner — KEEP (educational programming)
+
+Detected transcription errors
+
+[Error #1 - Category: Misheard Acronym/Term]
+Location: ~00:20:30 / Speaker: Athena
+Transcript excerpt: "if they haven't truly recognized all the royalties that need to be in there, reducing the SCE there"
+Issue: “SCE” appears in valuation context; likely the standard term “SDE” (Seller’s Discretionary Earnings)
+Likely intended: “reducing the SDE there”
+Confidence: High
+Reasoning: SDE is the conventional metric in small business valuation and is referenced elsewhere in this call; “SCE” is not a standard metric.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym/Term]
+Location: ~00:29:00 / Speaker: Athena
+Transcript excerpt: "what his SCE was on a business that was north of seven figures, him and his wife's take home was about $150,000 a year."
+Issue: “SCE” likely should be “SDE”
+Likely intended: “what his SDE was…”
+Confidence: High
+Reasoning: Consistent with standard usage and earlier discussion; second instance indicates a recurring ASR pattern.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:18:00 / Speaker: Athena
+Transcript excerpt: "we don't want you to start paying for the QV or the legal and until you at least have some lenders look under the hood"
+Issue: “QV” likely refers to “QoE” (Quality of Earnings)
+Likely intended: “QoE”
+Confidence: High
+Reasoning: She discusses due diligence sequence and explicitly says “Q of E” elsewhere; “QV” is not a standard diligence acronym here.
+Impact: Medium
+
+[Error #4 - Category: Misheard Acronym]
+Location: ~00:17:00 / Speaker: Steve
+Transcript excerpt: "there's an additional investment for like Q of E, et cetera."
+Issue: Mixed renderings elsewhere suggest ASR inconsistency with “QoE”
+Likely intended: “QoE”
+Confidence: Medium
+Reasoning: Same diligence topic; use is correct here but inconsistent across transcript. Flagging for standardization by refiner.
+Impact: Low
+
+[Error #5 - Category: Misheard Acronym/Formatting]
+Location: ~00:17:10 / Speaker: Steve
+Transcript excerpt: "why would anybody even use an I? Oi, I, we had this discussion last night."
+Issue: “I? Oi”/“I, we” appears to be “IOI” (Indication of Interest)
+Likely intended: “IOI”
+Confidence: High
+Reasoning: The whole exchange is about IOI vs LOI; spacing/case likely confused ASR.
+Impact: Medium
+
+[Error #6 - Category: Business terminology distortion]
+Location: ~00:02:40 / Speaker: Polly
+Transcript excerpt: "it's a cabinet kitchen, cabinet tree and design business."
+Issue: “cabinet tree” is almost certainly “cabinetry”
+Likely intended: “cabinetry”
+Confidence: High
+Reasoning: Industry term is “cabinetry”; “cabinet tree” is a classic ASR split of the word.
+Impact: Medium
+
+[Error #7 - Category: Omission/Duplication]
+Location: ~00:04:05 / Speaker: Polly
+Transcript excerpt: "include the de design cabinetry business because there are too many variables"
+Issue: Duplication “de design”
+Likely intended: “the design cabinetry business”
+Confidence: High
+Reasoning: Repetition likely an ASR artifact.
+Impact: Low
+
+[Error #8 - Category: Speaker/Name error]
+Location: ~00:08:15 / Speaker: Steve
+Transcript excerpt: "Are you waiting on some more numbers back, Paula?"
+Issue: Speaker addresses “Paula” though participant is “Polly”
+Likely intended: “Polly”
+Confidence: High
+Reasoning: Consistent name elsewhere is Polly; “Paula” is a common mishear.
+Impact: Medium
+
+[Error #9 - Category: Speaker/Name error]
+Location: ~00:07:00 / Speaker: Steve
+Transcript excerpt: "Holly, you wanna tell 'em about the, uh, different p and ls..."
+Issue: “Holly” vs “Polly”
+Likely intended: “Polly”
+Confidence: High
+Reasoning: Same participant; repeated name drift indicates ASR confusion.
+Impact: Medium
+
+[Error #10 - Category: Entity name (brand)]
+Location: ~00:24:05 / Speaker: Athena
+Transcript excerpt: "We just discovered this, this company called uh, duty calls. Like, like pet duty, you know?"
+Issue: The franchise brand is “DoodyCalls”
+Likely intended: “DoodyCalls”
+Confidence: High
+Reasoning: Known nationwide franchise; spelling matters for identification.
+Impact: Medium
+
+[Error #11 - Category: Entity name (people/brand)]
+Location: ~00:41:40 / Speaker: Athena
+Transcript excerpt: "We were, we were at Hormo e hq, um, are you familiar with the Hormoze?"
+Issue: “Hormo e hq” / “Hormoze” likely “Hormozi HQ” / “Hormozis” (Alex & Leila Hormozi)
+Likely intended: “Hormozi HQ” / “Hormozis”
+Confidence: High
+Reasoning: Context: Gym Launch sale, content/ads—clearly Hormozis.
+Impact: Medium
+
+[Error #12 - Category: Misheard Acronym]
+Location: ~00:47:30 / Speaker: Justin
+Transcript excerpt: "I did talk to Matt about the roofing company as a potential SV alternative."
+Issue: “SV” likely “SBA”
+Likely intended: “SBA alternative”
+Confidence: Medium
+Reasoning: Financing context earlier centers on SBA vs non-SBA; “SV” not meaningful here.
+Impact: Medium
+
+[Error #13 - Category: Semantic/Entity inconsistency]
+Location: ~00:01:00 / Speaker: Justin
+Transcript excerpt: "we were, uh, an hour outside of like ville, like the thick of it all"
+Issue: “like ville” doesn’t map to a known nearby location in this context
+Likely intended: Possibly “the thick of it” without “ville” or a specific town name
+Confidence: Low
+Reasoning: Could be misrendered filler; unclear reference.
+Impact: Low
+
+[Error #14 - Category: Omission/Truncation + Duplication]
+Location: ~00:01:10 / Speaker: Justin
+Transcript excerpt: "we were rented Airbnb, Airbnb with the family"
+Issue: Ungrammatical phrasing and duplicate “Airbnb”
+Likely intended: “we rented an Airbnb with the family”
+Confidence: High
+Reasoning: Typical ASR artifact.
+Impact: Low
+
+[Error #15 - Category: Omission/Truncation]
+Location: ~00:00:55 / Speakers: Athena → Justin
+Transcript excerpt:
+"Athena: I am here. How, how was the, how was the flooding up? Are you
+Justin: crazy?"
+Issue: Turn-taking likely misaligned; “Are you crazy?” doesn’t fit courteous tone
+Likely intended: Athena: “How was the flooding up there?” Justin: “Crazy.”
+Confidence: Medium
+Reasoning: Common ASR line break/misattribution; matches natural conversation pattern.
+Impact: Medium
+
+[Error #16 - Category: Inconsistent entity spelling]
+Location: ~00:45:30–00:46:10 / Speakers: Justin, Athena
+Transcript excerpts:
+Justin: "I thought he saved it. Eda, can..."
+Athena: "Edita can pull that for you."
+Issue: Two spellings “Eda” vs “Edita” for same person
+Likely intended: “Edita”
+Confidence: Medium
+Reasoning: Internal team member; single correct spelling preferred.
+Impact: Low
+
+[Error #17 - Category: Entity name (person/book) - Uncertain]
+Location: ~00:56:40 / Speaker: Athena
+Transcript excerpt: "John Cipher, the author of Output Thinking, is gonna be with us on Thursday."
+Issue: Possible mishear of author name and/or book title
+Likely intended: Unknown (may be correct, but uncommon)
+Confidence: Low
+Reasoning: “John Cipher / Output Thinking” not readily recognizable; flag for verification.
+Impact: Low
+
+Removals
+
+[REMOVAL #1 - Type: Personal/Off-Topic/Small Talk]
+Location: ~00:00:00–~00:02:10
+Speakers involved: Athena, Gil, Polly, Justin
+Content excerpt:
+"Athena: I'm good, thanks. A little wet over here in Texas. I'm wondering how Justin's doing... 
+Justin: ...no danger for us, just lots of water and general flooding... we rented Airbnb... 
+Athena: ...there's been like some really crazy weather... 
+Athena: ...my boyfriend's son got like swept off the road in his mom's car... 
+Polly: ...is he okay..."
+Reasoning:
+Extended weather/flooding small talk and a family incident unrelated to business topics. No deal, valuation, or financing content here.
+Context impact: Low—conversation cleanly transitions to business when Athena says, “curious to hear how a few of your deals are going... So Polly...”
+Recommended action: REMOVE ~00:00:00–~00:02:10
+
+Borderline segments
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:43:05–00:43:25
+Content excerpt: 
+"Athena: ...I didn't realize we didn't have gutters when we moved into this place, and it was just like bucketing it down..."
+Business relevance argument: Brief anecdote supports point that roofers are busy post-storm; loosely ties to Justin’s roofing deal timing.
+Personal content argument: Home anecdote not necessary for understanding the deal status.
+Recommendation: KEEP (very brief and helps illustrate market conditions), but acceptable to remove if strict brevity is desired.
+
+Speaker attribution validation and consistency notes
+- Several name mishears for Polly (“Holly,” “Paula”)—consider standardizing to “Polly.”
+- Likely misaligned turn at ~00:00:55 (“Are you crazy?”) where Justin is answering “Was it crazy?”—flagged above.
+- Consistent pattern: ASR confuses IOI, QoE, SDE. Useful for ASR tuning.
+
+Patterns to inform ASR improvement
+- SDE consistently rendered as “SCE”
+- QoE alternates among “Q of E” and “QV”
+- IOI rendered as “I? Oi” or “iis”
+- “Cabinetry” as “cabinet tree”
+- Proper nouns: “DoodyCalls,” “Hormozi,” and team member “Edita” frequently distorted
+
+End of report.

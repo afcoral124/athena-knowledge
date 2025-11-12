@@ -1,0 +1,221 @@
+Segment Mapping
+
+1) 0:00–1:28 – Purpose of call; process overview and handbook gaps
+- Classification: KEEP
+- Reason: Sets agenda for off-market owner-call process and training context
+
+2) 1:58–6:39 – First-owner-call “frame” and intro scripting; NDA flow and expectations
+- Classification: KEEP
+- Reason: Core process guidance; action items for scripting; compliance/expectations setup
+
+3) 6:39–10:25 – Script vs. bullet points; why scripts matter; training/scalability
+- Classification: KEEP
+- Reason: Operational standards, training reproducibility; tooling (scripts) for sales/owner calls
+
+4) 10:25–12:59 – NDA > request P&Ls > scheduling follow-up; owner comfort/expectations
+- Classification: KEEP
+- Reason: Step-by-step owner progression and communication templates
+
+5) 12:59–17:30 – Financial-model walkthrough (screen share); P&Ls; TTM; ad backs; anomalies
+- Classification: KEEP
+- Reason: Practical financial review workflow and analyst-level notes for client facing packs
+
+6) 17:30–23:56 – Explaining ad backs to owners; sequencing asks (NDA, then P&Ls); follow-up templates
+- Classification: KEEP
+- Reason: Process clarity for owner comfort and data collection; actionable follow-ups
+
+7) 23:56–29:36 – Tone and language with owners; avoid jargon; trust-building; SDE concept
+- Classification: KEEP
+- Reason: Strategic communication guidance and education approach
+
+8) 29:36–38:59 – Handling “quick offer/valuation” pressure; objection handling; framing/ground rules
+- Classification: KEEP
+- Reason: Objection handling best practices and call-control strategy
+
+9) 39:11–41:39 – Course access troubleshooting; directing to “Objections” module
+- Classification: KEEP
+- Reason: Training enablement and resource access
+
+10) 41:39–44:49 – Build objection library; knowledge capture for training
+- Classification: KEEP
+- Reason: Process institutionalization; future team ramp-up
+
+11) 44:49–47:14 – Wrap-up; timelines; next steps; brief pleasantries
+- Classification: KEEP
+- Reason: Action alignment; scheduling; professional closing
+
+
+Detected Transcription Errors
+
+[Error #1 - Category: Business terminology distortion / Nonsense word]
+Location: 6:39 / Speaker: Luke Gillespie
+Transcript excerpt: “...like instead of a specific script, do like, like I just talk off bullet points... introduce myself. It's out solšia. Yeah. Yeah. I have a client...”
+Issue: “It's out solšia” is nonsensical in context
+Likely intended: “establish credibility”
+Confidence: Medium
+Reasoning: He is listing bullet points; “Introduce myself” typically pairs with “establish credibility,” which Athena mentions elsewhere.
+Impact: Medium – affects clarity of the recommended intro structure
+
+[Error #2 - Category: Omission/Truncation]
+Location: 13:35 / Speaker: Athena Simpson
+Transcript excerpt: “If they haven't sent a trailing 12-month, then just change this to the most. This recent year and make sure this column is populated...”
+Issue: Broken phrase “the most. This recent year”
+Likely intended: “the most recent year”
+Confidence: High
+Reasoning: Standard phrasing when adjusting a financial template for the latest complete year.
+Impact: Low – minor readability issue but clear intent
+
+[Error #3 - Category: Financial/Numerical (date range)]
+Location: ~14:05 / Speaker: Athena Simpson
+Transcript excerpt: “...could you send me like the past 12 months from April, like from March, 2024 to April, 2025.”
+Issue: Trailing 12 months given as March 2024–April 2025 (future-facing, 13 months)
+Likely intended: A true TTM period such as April 2023–March 2024 or May 2023–April 2024
+Confidence: High (error), Medium (exact intended dates)
+Reasoning: She explicitly asks for TTM; the provided dates include a month in the future relative to early May and span 13 months.
+Impact: High – TTM period is critical for accurate financial analysis
+
+[Error #4 - Category: Business terminology distortion]
+Location: 15:57 / Speaker: Athena Simpson
+Transcript excerpt: “...your EBITDA shot at pretty considerably, like, you know, your cost of goods, like, apt, like, what happened there...”
+Issue: “shot at” and “apt” appear misheard
+Likely intended: “shot up pretty considerably” and “cost of goods up”
+Confidence: High
+Reasoning: Common financial phrasing when margins improve due to COGS changes.
+Impact: Medium – obscures the financial point being made
+
+[Error #5 - Category: Omission/Truncation]
+Location: ~16:13–16:50 / Speaker: Athena Simpson
+Transcript excerpt: “...what I need to add back is here's all the ad backs. already sent me. There's like 17 that I need to add...”
+Issue: Missing subject before “already sent me”
+Likely intended: “he’s already sent me”
+Confidence: Medium
+Reasoning: Prior context refers to the owner; pronoun likely dropped.
+Impact: Low – intelligible but incomplete
+
+[Error #6 - Category: Omission/Truncation]
+Location: ~18:30 / Speaker: Athena Simpson
+Transcript excerpt: “...What a nice service for them. You know, I start P&Ls. And then ask them about different things.”
+Issue: Fragment “I start P&Ls”
+Likely intended: “I start with the P&Ls”
+Confidence: Medium
+Reasoning: Matches earlier workflow description (“start with P&Ls”).
+Impact: Low – minor clarity issue
+
+[Error #7 - Category: Business terminology distortion]
+Location: 22:28 / Speaker: Athena Simpson
+Transcript excerpt: “...because you want to kind of like bread cummed. Okay. Give them the whole like synopsis...”
+Issue: “bread cummed” is incorrect
+Likely intended: “breadcrumb” (as a verb) or “breadcrumb it”
+Confidence: High
+Reasoning: In sales/process contexts “breadcrumb” is common; ASR likely split it.
+Impact: Low – concept remains inferable
+
+[Error #8 - Category: Omission/Semantic inconsistency]
+Location: ~23:05–23:35 / Speaker: Athena Simpson
+Transcript excerpt: “...I make sure that you understand my like what I'm just like to you. So this is a way for you to kind of show me that...”
+Issue: Garbled clause; missing objects/subjects
+Likely intended: “make sure that you understand what I’ve just explained to you”
+Confidence: Medium
+Reasoning: She’s describing a playback/confirmation method; wording is inconsistent.
+Impact: Medium – reduces clarity of the instruction
+
+[Error #9 - Category: Word substitution (Entity/term)]
+Location: ~25:20–25:40 / Speaker: Athena Simpson
+Transcript excerpt: “...we throw around terms like SDE and, you know, stock sale, asset sale. Like it means nothing, but like they probably don't know what Fathom means.”
+Issue: “Fathom” likely misrecognized
+Likely intended: “what that means”
+Confidence: Medium-High
+Reasoning: She’s discussing jargon owners may not understand; “Fathom” (the tool) does not fit syntactically.
+Impact: Medium – could confuse readers about a tool vs. pronoun
+
+[Error #10 - Category: Semantic inconsistency]
+Location: 33:32 / Speaker: Luke Gillespie
+Transcript excerpt: “...Maybe this is what you would call reverse tire.”
+Issue: “reverse tire” does not fit known terminology
+Likely intended: Possibly “reverse tire-kicker” or a different term for rushed sellers
+Confidence: Low-Medium
+Reasoning: “Tire-kicker” is common in sales; “reverse tire” may be ASR truncation.
+Impact: Low – not critical to process understanding
+
+[Error #11 - Category: Speaker Misattribution]
+Location: 36:17 / Attributed Speaker: Luke Gillespie
+Transcript excerpt: “It would be very good for you to watch and listen to.”
+Issue: The sentence is advisory to Luke; fits Athena’s guidance flow
+Likely intended: Speaker should be Athena Simpson
+Confidence: High
+Reasoning: Surrounding lines are Athena instructing Luke to watch objection content; this line continues that.
+Impact: Medium – confuses who is guiding whom
+
+[Error #12 - Category: Speaker Misattribution / Omission]
+Location: 39:51 / Attributed Speaker: Luke Gillespie
+Transcript excerpt: “So let me, you have the login information? Yeah. Okay, see if you can access that link.”
+Issue: Line reads like Athena checking Luke’s access, not Luke speaking
+Likely intended: Speaker should be Athena; possible truncation at start
+Confidence: Medium
+Reasoning: Neighboring lines show Athena helping Luke troubleshoot access.
+Impact: Medium – minor role confusion
+
+[Error #13 - Category: Omission/Truncation]
+Location: 43:00 / Speaker: Luke Gillespie
+Transcript excerpt: “And that's how he told.”
+Issue: Incomplete clause
+Likely intended: “And that’s how he told me [about it]” or similar
+Confidence: Medium
+Reasoning: Sentence trails off abruptly; missing object.
+Impact: Low
+
+[Error #14 - Category: Speaker Misattribution]
+Location: 46:50 / Attributed Speaker: Luke Gillespie
+Transcript excerpt: “Thanks, Luke. All right. Cool. Thanks a lot for taking the time...”
+Issue: Luke would not address “Thanks, Luke” to himself
+Likely intended: “Thanks, Luke” spoken by Athena; remainder likely Luke’s thanks
+Confidence: High
+Reasoning: Follow-on line (46:57) is Athena responding graciously to being thanked, indicating the “Thanks, Luke” belongs to her.
+Impact: Medium – closing gratitude attribution mixed up
+
+[Error #15 - Category: Redundancy/Glitch]
+Location: 12:59 / Speaker: Luke Gillespie
+Transcript excerpt: “Awesome. for listening. Thank Thank Thank Been wanting to get more hands on the financial modeling anyways.”
+Issue: Repeated “Thank” and fragment “for listening”
+Likely intended: Smooth acknowledgment (e.g., “Awesome, thanks... Been wanting...”)
+Confidence: High
+Reasoning: Typical ASR repetition/glitch; does not affect substance.
+Impact: Low
+
+[Error #16 - Category: Omission]
+Location: 31:55 / Speaker: Athena Simpson
+Transcript excerpt: “...there's a part of the process will inform you about, but it's called seller discretionary earnings.”
+Issue: Missing connector “that” (“part of the process that we’ll inform you about”)
+Likely intended: “there’s a part of the process that we’ll inform you about...”
+Confidence: High
+Reasoning: Common omission; meaning remains clear.
+Impact: Low
+
+
+REMOVAL Segments
+
+- None recommended. The transcript is focused on process training, owner-call flow, financial analysis, objection handling, and internal enablement. Greetings/closings are brief and professional. Personal anecdote (founder’s parents) is used to build credibility and explain approach to owners, which is business-relevant in this context.
+
+
+Borderline Segment(s)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~26:36–28:56
+Content excerpt: “...our founder, her parents shut down their business and her dad had a heart attack... they could have sold the business... we’re very passionate about making sure that business owners get...”
+Business relevance argument: This personal story is used to establish credibility, empathy, and the firm’s mission/approach to owners—supports rapport and strategy for owner conversations.
+Personal content argument: Includes sensitive family health details not strictly necessary to the process documentation.
+Recommendation: KEEP — Serves a clear strategic/relationship-building purpose for owner outreach scripts; aligns with guidance on using personal context to explain business motivation.
+
+
+Speaker Attribution Validation Summary
+
+- Likely misattributions at 36:17, 39:51, and 46:50 cause minor role confusion. Recommend reviewer checks original audio to confirm and correct speaker labels for those lines.
+
+
+Patterns/Notes for ASR Improvement
+
+- Frequent truncations around connectors (“that,” “with,” “to”) leading to semantic glitches.
+- Word substitutions: “breadcrumb” → “bread cummed”; “that” → “Fathom”; “shot up” → “shot at.”
+- Date ranges for TTM were mis-captured; train model to validate temporal logic around “trailing 12 months.”
+- Occasional speaker misattribution in rapid back-and-forth advisory exchanges.
+- Repetition artifacts (“Thank Thank Thank”) indicate possible echo/noise-triggered duplication.

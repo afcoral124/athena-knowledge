@@ -1,0 +1,644 @@
+TRANSCRIPT - CORRECTED VERSION
+Session: AcquiMatch Buyers Club
+Call Date: 2025-05-29
+Participants:
+- Athena (Host)
+- Henry (Jamestown Capital)
+- Peter (Attendee)
+---
+
+[00:00:00]
+Athena: Hello. Hello. Welcome. Welcome. Hey Gil. Hey Peter. Welcome. Excited to see you all. But really excited for this talk. I got a preview of the slides and, um, I think it will be really beneficial. I, um, and really excited to have Henry here.
+
+So Henry is based out of Austin where I was living up until two months ago. Um, him and, uh, few others that I call the triumvirate, uh, have been actively building a searcher community in Austin as well. So in addition to being an investor in this space, he's actively trying to help facilitate and grow the community, which means a lot because it's a ton of work.
+
+Um, and they've [00:01:00] been hosting meetups for, I think over a year now too, which is how we originally connected. And, uh, both just really value aligned in, you know, supporting searchers and building the communities and kind of the struggles and things that folks go through, which I think is really important from an investor standpoint for them really understanding what a, what a searcher goes through and how they can fit in and add value to that process.
+
+Um, and Henry's lived and breathed that by just, you know, creating a community and helping people get answers and community and be exposed to experts, uh, in addition to the work he does as an investor. So I was really excited that he was up for coming and breaking down some of the 101 of what does it look like to have an investor in a self-funded.
+
+SBA backed deal. Um, this is a very unique thing. I think all of us, including, you know, Gil and [00:02:00] Peter have some exposure to investment from our past career and that sort of thing. And the economics normally aren't to the benefit of the searcher, but I really am excited about investment on the self-funded search side because it tends to be a win-win and still leaves a lot of the autonomy and control to you as long as you get the right investors and buy-in, in terms of how it all works.
+
+So he's gonna do a presentation, just kind of giving you an overview of the 101, the market, and then how he specifically invests. And then we're gonna open it up to questions. I'll fire some questions on him, but also, you know, note down your questions as we go through this so he can answer that too at the end.
+
+So, um, Henry, I don't wanna do your introduction for you, but please, uh, take it from here. And thank you so much for being here.
+
+[00:03:00]
+Henry: Yeah. Yeah. Athena, thank you very much for the warm introduction. Um, as Athena mentioned, we met at, uh, one of our meetups here in Austin, um, and I run a fund called Jamestown Capital.
+
+Um, so I'm gonna be walking through the investment side of things today. Um, obviously I know the perspective from Jamestown Capital best, but, uh, I'll try to cover it, uh, more just in general as well. Um, so it's, you know, it's also a small group, which is kind of cool. So I'd suggest like if, you know, I mentioned something and it, um, kind of go too quick or, or you have a question, just jump in and, you know, make it more of a conversation. Like, let's take advantage of the small group. Um, okay. I'm gonna try to share my screen here.
+
+[00:04:00]
+Henry: Firstly, just a quick background on Jamestown Capital. So it's formed by myself and my partner Nate. We have a background in high frequency trading.
+
+Um, we worked at a big company called IMC for about 10 years, and then [00:04:00] we broke off and built out our own trading strategy. Um, and through that we just developed a lot of technology skills, um, and also built up quite a good amount of wealth and started investing in search deals with that. And the more we invested in search deals, we kind of developed this thesis of, hey, all these small businesses, they have pretty low hanging fruit tech-wise compared to what we're used to doing.
+
+We're used to working on, you know, research clusters that are processing petabytes of data, thousands of computers, FPGA chips, and uh, we found some of these small businesses where they, there's opportunities to do much, much easier tech tech. So, um, you know.
+
+We liked the search ecosystem, um, from a, from a community aspect as, as Athena mentioned it, it's very friendly, it's very collaborative and not what we were used to in HFT.
+
+Um, and we saw a good [00:05:00] opportunity to, to kind of invest in a bit of a unique way. And so we, we have a fund, we invest in search deals and we are active investors post-close. We, we help upgrade the technology. So we like to do deals where, um, that opportunity exists.
+
+Um, our fund is about 6 million in size. We're doing 12 deals over the course of two years. We specialize in self-funded searchers. Um, we do look at independent sponsor deals, and a lot of the fund is our, is our own money. Uh, we're not just a, uh, capital deploying machine. We really care that, um, we invest as well and also do the work on the backend to ensure that our.
+
+Portfolio companies do well, which also means the searchers, uh, win as well. So that's just a bit of a background on, you know, our way of participating in the, the search ecosystem.
+
+[00:06:00]
+Henry: So I'm gonna start off with a bit of a [00:06:00] overview of what does the investor landscape look like, and then we'll move on to kind of how do you attract investors and, and what are, what kind of things are investors looking for?
+
+So I'd say there's maybe three main categories of investors. So you have dedicated funds. Um, so obviously we would fall into that category. Another big one is Acquiring Minds Capital, which is, uh, Will Smith and the Acquiring Minds podcast.
+
+Um, you know, we are set up to exclusively invest here. Um, you know, Jamestown Capital primarily does self-funded searchers. Acquiring Minds does both, more of a focus on independent sponsors. Now they're on their larger fund. Acquiring Minds Capital is almost exclusively independent sponsors, but they also look at self-funded search. And then I, I threw family offices in here. Um, you know, they just have a very loose mandate, but, uh, they're probably [00:07:00] more like a dedicated fund in their behavior than, than, uh, the other categories.
+
+And then you've got individuals, so these are gonna be folk in your network. Um, there are a few, uh, individuals that like just more direct investment exposure, um, that you can meet in, in the ecosystem. And then lastly, um, strategics. So these are often, I often don't see these that much on the cap table, but I think they're pretty cool.
+
+Addition to your, um, to your investor base, if you can find them. So these are people in the industry that are, say the CEO of an important supplier or the CEO of a competitor that's in a completely different region. So you're not really competitors. Um, these are nice people to have on your cap table if you, if you can get them.
+
+Um, but you really have to kind of thread the needle of finding the collaborative but not competitive. Um, and also has the liquidity to [00:08:00] do this.
+
+And, uh, just a quick like pros and cons of the, the different types of investors. So, you know, the de dedicated funds, uh, you know, we can move pretty fast, but we are gonna be quite selective on, on what we invest in. Um, they're gonna help like pretty much any fund is gonna help get the deal done. Um, they're gonna have.
+
+A good bench of attorneys, a good bench of due diligence firms that they'll connect you with. Um, there are a lot of service providers in this space. They are very, very varied quality. Um, the funds are gonna be there for additional capital and, and some are very passive and some are very active. So we're, we're kind of on the active end where we like to participate, uh, in value creation after acquisition.
+
+Some are more passive and, you know, depending on where, which way you wanna take the, the business, uh, you know, you can kind of try to [00:09:00] pick your investors to fit that best. Um, and then most funds are gonna have a set of, like a wishlist that they require in terms of deal terms. Um, and most of them are pretty fair, but they're, you know, unlikely that they're gonna take the initial set of terms that comes out of an attorney.
+
+Um.
+
+Individuals, you know, a lot of them are doing this probably for the first time in their life. Um, so they're gonna review things a bit slower. Um, a lot of the friends and family that you have in your network, probably they've known you your whole life and they're excited to invest in just about anything that you do.
+
+So they're not gonna be, uh, that selective. And also on the terms, it's hard for them to justify spending a really long time, uh, reviewing these terms. Also, they don't have any comparison. So in the terms, they're gonna be a little bit more relaxed. So, you know, generally if your goal is to really, really [00:10:00] have some aggressive, uh, aggressive terms for yourself and optimize, you know, your short term outcomes, you know, individual is probably the, the best route to go for a capital raise.
+
+Um, yeah. And then lastly, strategics. It's, it's a little bit across the board. Some people, this will not be their first time doing it, others it is. Uh, and the value add can be really high with these guys. So I always encourage taking a look at some strategic investors if you, if you can get them.
+
+Um, and maybe, maybe just a, an idea of check size. So the funds are gonna write checks on the order of a few hundred K. Uh, so we like to write checks of about 500 K. Individuals, it's much smaller, you know, a hundred, uh, maybe 50 or even 25. Um, and strategics, it's probably gonna be more, more like one or 200.
+
+But, you know, similar to everything else with the strategics, it's quite, quite varied. [00:11:00]
+
+Okay. So, uh, what are investors looking for? So, and I'm gonna describe this much more from how Jamestown looks at this. Uh, you know, obviously I, I don't know exactly what's in other people's heads. But I would be surprised if it's very different. Um, so for us, we really, really care about the, the sponsor or the searcher.
+
+Um, I've noticed maybe even more so than other investors, just because we are working with the searcher afterwards, we really have to also picture ourselves wanting to spend time with them. Um, and we also just see that these, these deals are very levered. And so the difference between a good and operator, a good and a bad operator, sorry, can be quite, um, quite extreme.
+
+Uh, so we are gonna look at people's LinkedIns of course. Um, this is an example of something, uh, that I would really dislike to [00:12:00] see. Um, so this is just a lot of job hopping, right? And you know, as an investor you look at this and you kind of say, okay, well I would be kind of crazy to assume that this person who has not really been able to work anywhere from more than two years.
+
+Is gonna get into their search and also have the, uh, endurance to get through the J curve and to keep running this business for the five to 10 years until there's a liquidity event. So, of course, if this is your, you know, this is your LinkedIn or this is a history, like, you know, obviously you can't rewrite it, but I would say like, if, you know, we're looking at things like this, uh, in the deck and also on your LinkedIn, so you know, if this is it, like, make sure you kind of get ahead of that with a really good story about why you're committed to, um, to searching.
+
+Um, we also like operations, uh, experience, like all, pretty much any of these businesses is super [00:13:00] operationally intense. We've seen it on every single investment we've done so far. You know, the, you have, you commonly see, uh, this, this presentation where I'm gonna improve this, I'm gonna improve that. And then once you get into it.
+
+Um, you know, someone leaves or a key customer, uh, you know, wants to renegotiate their contract and all of a sudden it's, it's putting out fires every day, uh, which is just, it's just part of life as a searcher. So we wanna see operations experience and we wanna see people that have won at something in their life.
+
+Uh, and that could be, it could be a sport, it could be getting promoted, uh, it could be something in college. But, you know, all of these businesses, unless you buy like the, the easiest business ever, probably every roofing business will have, you know, 10 to 30 competitors in the vicinity. Um, and so we we're gonna be competing and we want people to win. [00:14:00]
+
+Um, so in terms of the business itself, I think that investors are gonna be looking at very similar things to the searcher. Um, they're gonna wanna see that. It's a really good match for the background of the operator. Um, they're gonna typically be pretty, uh, adverse to anything that's very cyclical. Uh, construction is a big no-no for a lot of investors.
+
+Uh, some investors will pretty much only look at B2B. Um, and, you know, I got this bullet point here, opportunity not available in the public market. So, you know, for our investors, you know, we obviously have a, a duty to them, and if there is an opportunity in the search world that is something that we could equally get by buying a, a stock, uh, then we're not really [00:15:00] delivering something unique to our investors portfolio.
+
+So, um, a good example is, you know, some of these SaaS companies that I see trading at nine x revenue. To me, it is not a, a no brainer to. Transact there, transac versus buying, uh, a Google at 20 x earnings. Um, yeah. And this last bullet point here, a reason to exist. So, um, you know, basically why is this business there?
+
+Um, why do the customers choose this over the competitors? And a lot of the times, like, the businesses have these, but I, I see that searches don't actually dig in to understand why, why it's there, right? If a business has been there for 30 years, it's probably actually a really good reason why this business exists.
+
+And if there isn't, then they must have the best operator in the world. And it's, you should really challenge yourself if you're gonna be as good as a previous owner. So, um, you know, try to reveal that reason to exist from the, the business and, and make sure that that stands [00:16:00] out in the presentation. 'cause that's something that can get investors really excited.
+
+Okay. Business plan. So.
+
+These are some, uh, quotes from decks that I've seen. Um, so almost every deck will have a business plan slide. Um, so the first one we've identified a cheaper space to operate out of. It's two minutes away from the current location, and we'll increase our net margin by 5%. I love this.
+
+It's super specific. I know that it can be actioned upon. It's not gonna be a day one thing, but maybe, you know, six months in they can orchestrate it. Um, the searcher's clearly done their homework. Um, so, you know, I love reading stuff like this. In deck, I interviewed 10 customers, eight of them requested a delivery service.
+
+I'm in discussions with a delivery partner to provide this. I love that too. Right? Same, same thing. The search has [00:17:00] done their homework. They've got an actionable plan. And, uh, they really understand the business from the customer's perspective.
+
+Um, as well work with management team to improve operational efficiency.
+
+Uh, you're probably not surprised that I don't love this, this one I could write this on just about any deck. Uh, I feel like I see this on one out of two decks. I'll see a bullet point that is equally bullshit. It's meaningless. Um, and you know, it doesn't tell me that anyone's done any homework on the business.
+
+Uh, we've identified three of our local businesses that we can buy for five x and we can roll them all up and sell them to PE for seven x. Uh, you know, so obviously someone has done their homework here. Um, but you know, for most, most things that are being acquired, like this point is also true. And you know, as a searcher, it's probably your first time ever acquiring something like this. [00:18:00]
+
+You know, from our investments, we've seen it, you know, it is very hard to get into a great operational spot where you realistically you can buy one or two others. So, you know, we look at roll-ups as, Hey, this is great if it happens, but we're not gonna assume that this is happening. So if, if you need, uh, add-ons for your, for your numbers to start looking good, it's gonna be a really tough sell to investors for someone that's not acquired a business before.
+
+So, yeah, maybe on the, I just wanna hone in a little business plan, like, so being specific will be a grandiose plan. Uh, and this is, you know, I think a in the end, like you are who you are, the business is what it is, and you can obviously present them better. But I think the business plan is like a big lever.
+
+You have to stand out.
+
+[00:19:00]
+Henry: Okay, so deal structure. So, um, in any deck you're gonna basically do a little bit of homework on behalf of the investor, which is to present what the economics look like for them. And so investors are gonna be looking at primarily the IRR, but also their multiple on invested capital or MOIC. Um, this is an example of a deal that I looked at a couple of months ago and the sponsor was suggesting a 6.7x MOIC and a 49% IRR, assuming that they grow revenue by 14% every year they do three add-ons and exit at an eight x despite buying at a five x.
+
+And it, this is not, this is a real example. Um, and you know, I see Athena, they're laughing, but like this, this is like a good example of what not to do. Um.
+
+If I put a 14% growth assumption on just [00:20:00] about any business, it's gonna start to look really good. Uh, we actually did a study on, uh, public market data and look at the revenue growth over, you know, s and p 500 over the last 10 years.
+
+So it's like, you know, best companies in the world, the last 10 years, on average, they grow by 5% revenue per year. And so to claim that you're gonna do 14% or even 10% for five years in a row is really, really aggressive. Um, and so, you know, for, for us, what we do is we will, if we see this already, it's kind of makes investors question your credibility because it, it's just so optimistic that every other piece of information they're gonna get from you is gonna be challenged.
+
+It's better to just give a very realistic, uh, scenario. So we would look at maybe a 4% revenue growth, which basically means your revenue grow grows with inflation. Um.
+
+We normally throw out every assumption. We have our own model that we'll, [00:21:00] we'll, um, verify things with. Um, but it's, it's good to kind of earn buy-in from the investors to, uh, to kind of start off at a very realistic starting point.
+
+And, and maybe something like this you can include as a, as an upside case. Honestly, I would find this very optimistic, even for an upside case.
+
+Um, and then investors are gonna look at your model under some different scenarios too. So they're gonna wanna see, you know, how is your debt service coverage ratio under a, a less, a less good outcome?
+
+Um, what about a seller earn out? How's that gonna behave under, um, you know, a revenue drop, et cetera. So.
+
+They're gonna look at your base case and they're gonna, you know, normally say, you know, is this base case even good enough for me to keep spending time on this? If it is, they'll probably either take your model and play around with it, or they'll have their own, uh, which is what we do, and, uh, and [00:22:00] model out some different outcomes and make sure they're, they're kind of comfortable with, with all of the possibilities.
+
+[00:22:00]
+Athena: Um, before you move on from this Henry Yeah.
+
+[00:22:05]
+Henry: Can we
+
+[00:22:06]
+Athena: varying levels of like, experience with like investment terms and stuff like that? Um, yeah, and we do have, like, we have a model that we built that calculates this stuff, but I think it'd be really helpful to just go through line by line and like explain it, you know, 10th grade language. Like what do each of these things actually mean, if that's okay.
+
+[00:22:22]
+Henry: Yeah, yeah. No worries. Um, and also, uh, yeah, I should mention if, if, you know, modeling's hard, I still have yet to receive a model that I can't find a mistake in. I find mistakes in 100% of models.
+
+[00:22:34]
+Athena: I'm sending you ours and you tell me if you find mistakes then, because I, it sounds like a
+
+[00:22:38]
+Henry: fun little challenge, but, uh, yeah, I'm,
+
+[00:22:40]
+Athena: I'm totally down
+
+[00:22:41]
+Henry: and it's, it is not, and this is not that people are stupid at all. It's, it's just that these models are complicated [00:23:00] and Excel is, it has its limits. And I, I think that, you know, Excel is the chosen medium for these models, right? So, um, and just pushing the boundaries of Excel basically. So yeah. Going through it, so, okay. Five year hold. Um, so generally investors are gonna be looking at this, especially the dedicated funds.
+
+They have a timeline that they're, they've kind of promised the liquidity for their investors, so they're gonna look for some specific time horizon. We, we do everything on a five year time horizon. Um, and, uh, you know, assume an exit of some sort in, in five years. So 6.7 x MOIC. This basic means as an investor, for every dollar they put in, they're gonna get $6.70 back.
+
+Um, and so, and then lastly, an IRR. So this is basically, um, a more intricate [00:24:00] calculation of returns, which takes into account the timing of returns. So for instance, if you put in a dollar and then you got say 90 cents back in a week and then 20 cents back a year later, that's better than getting a dollar 10 back a year later because you got your most of your money back pretty soon.
+
+And you could have theoretically reinvested that in the meantime. And investors, they generally care about both of these metrics. Um, you know, obviously IRR is the easy one, um, but if you delivered a 49% IRR but then exited in a year. Roughly that would equate to a a 1.5 X MOIC. And that's not a particularly exciting outcome for an investor, right?
+
+'cause they've done all of the work of researching your deal, all of the legal costs, et cetera, for only a 50% gain. They would rather get a low IRR but stay in the deal for longer. [00:25:00] But yeah, so MOIC and IRR are like generally the, the two barometers that investors are gonna look at from the get go. Um, and just to see if they wanna spend more time looking at this deal.
+
+And then, you know, on, I guess on the flip side, also, they can red flags, right? If they're very high, um, either the assumptions going in are too generous or, uh, the deal is overlevered as well. So, yeah, very good ones are concerning too. Yeah. And then, uh, revenue CAGR. So, you know, most of the things that go into your model are pretty, um, easy, easy to, to determine.
+
+So, you know, you, for instance, you know what multiple you're buying the business at. Um, you know, the terms of your debt, right? That's just gonna be given to you from your bank. Uh, what you don't know is like how your revenue's gonna behave. Um, and so [00:26:00] generally, uh, you know, people will just assign a growth rate.
+
+Some people will get more intricate where they'll say, okay, I'm gonna start selling my products in this country as well, and there I'm gonna build some revenue in for that, for example. Um, I think it's good to do it both ways and, uh, you know, basically take the, the lower of, of the two, um,
+
+three add-ons, um, it just basically means they, they think they're gonna buy three additional businesses as add-ons and stick them together, and then eight exit multiple. So that's, that's what they think they're gonna exit for. Um, and so probably everyone has heard this, but you know, generally the, the bigger the EBITDA, the bigger the multiple.
+
+So, um, that's the whole allure of the roll up. Good to move on Athena?
+
+[00:26:58]
+Athena: Yeah, that was great. Thank you.
+
+[00:27:00]
+Henry: Yeah. Okay. So, um, in what [00:27:00] terms do investors normally want? So I wanna walk through, on the left here, I've kind of got market terms where I think that this is kind of any reasonable deal is gonna expect these, and then funds will want some extra things.
+
+So I'll, I'll walk through the market terms first. So, so 1.75 to 2.5 x step up. So this is probably the biggest knob that a searcher has to.
+
+Give the investors more or less returns. And this is basically calculated as the, for every dollar that the investor puts in, you divide it by the total cost of the deal.
+
+So not only, uh, the cost of buying business, but also things like deal, deal costs. And then you multiply it by the step up to calculate their equity. So for instance, let's say there's a half, half a million dollar investment in a $5 million deal. So you'd say, okay, vanilla calculation, that [00:28:00] would get the investors 10% equity, but I'm gonna give them a two x step up.
+
+So that actually gets them to a 20% equity. So then your cap table is gonna be 80% common to yourself, and then 20% preferred equity to the investors. And so this, this is your main dial to, uh, you know, basically allocate to investors versus yourself to make sure that it's attractive enough. So that's, uh, in addition to that capital that the investors provided, you're gonna pay a dividend called the preferred dividend on a preferred return, and that will be a fixed percentage on that capital.
+
+Once the preferred return and the initial capital has been paid off, the preferred and common equity will participate in dividends pro rata.
+
+Generally, investors wanna see about eight to 12% preferred [00:29:00] return. Um, I've actually missed one here. Um, oh, sorry. No, I haven't. Tax distributions. So, tax distributions, especially if you structure your, your business as an LLC, everybody's gonna have a tax liability even if you don't make any distributions.
+
+So you're gonna wanna do tax distributions, uh, both to the investors and to yourself so that you have a means to pay your tax bills at the end of the year. So they, the tax distributions are generally, uh, first in your waterfall, um, base case IRR over 30%. So this is basically that IRR that I was just talking about.
+
+Most investors are gonna wanna see something north of 30% to continue considering the deal. Um, tag-along and drag-along rights. Basically means that if you sell, you can compel your investors to sell with you, but also means if you sell, your investors can have the [00:30:00] option to volunteer to come with you as well.
+
+So your, your means of selling the company. And then anti-dilution ba very simple. You can't just keep issuing equity and, and dilute them down without, you know, giving them like a first right of refusal or something like that. Um, so those kind kind of cover the market terms. And maybe I'll pause there again, Athena, if there's questions.
+
+[00:30:22]
+Athena: I think, um, this is good. So something that's really important to understand on like the, first of all, break down the difference between preferred and common stock and that concept.
+
+[00:30:30]
+Henry: Yeah, yeah. So generally, uh, preferred stock will be paid out first in the waterfall. Um, but they don't have voting power, so, uh, you know, they'll have some minority rights.
+
+So for instance, uh, you know, if the [00:31:00] manager wants to resign, the preferred will have the opportunity to select the new manager or the new operator. Um, so, you know, that's, that's kind of the trade off. The preferred get paid their dividend first, um, and they get paid their capital back first. Uh, but they don't have loan power and so searcher has, common investors have preferred.
+
+[00:31:25]
+Athena: So the, to put that into, like, I think one of the, the, the important things for people to realize is like when you're structuring this, and forgive me if I'm, um, recovering something you're gonna cover in the future, but when you bring an investor into your deal and they give, you say that $500,000 check and they're getting a 10% pref or preferred return, you're gonna be paying them that 10% interest per se, on their money until they get their 500,000 back with interest [00:32:00] essentially.
+
+And you can't take distributions as a shareholder of the business until your investors are paid back. So.
+
+When you're setting this whole thing up, you wanna make sure that you're giving yourself a salary that's enough for you to, to make the most of it while you're getting the business to pay back your investors because you're not gonna, like, if there's extra money in the business every year, that goes to the preferred, uh, stockholders first and or preferred equity holders first.
+
+But if you've put money into the deal, then you also typically get to be preferred on the amount that you put into the deal. Is that how you're seeing it structured, Henry?
+
+[00:32:29]
+Henry: Yeah. Yeah, that's, that's exactly correct. And, and maybe just to walk through the entire waterfall just for completeness. So the very first thing, and actually
+
+[00:32:37]
+Athena: explain what a waterfall is, if you define that real quick.
+
+Yeah.
+
+[00:32:40]
+Henry: A waterfall is, is basically a, is a set of terms. It's probably the first thing that any investor's gonna [00:33:00] read in your operating agreement, but it's a set of rules that determine who gets paid in what order, and as, as each dollar is distributable. Who does it go to? Um, and, you know, how is that allocated between the, the different, uh, investors?
+
+So basically you, the, I'm gonna do the max version of the waterfall here. So the, the very first thing that goes out is your debt payments. And as a searcher, your, you have discretion here, so you know, if you want to, you could just not distribute any money whatsoever until all your debt's paid down. So first thing is your debt.
+
+The next thing is your tax distributions. And so, under a standard LLC set up any income that the business makes is you gonna generate a tax liability for the owners IE both your preferred equity holders, your investors, and yourself. So you're gonna wanna make sure you do some tax distributions as well, so you don't wanna repay so much of your [00:34:00] debt that you don't have the means to pay your tax bill.
+
+The next thing is the preferred return. Preferred interest, preferred dividend. Then is the return of capital to investors. And then after that, everybody participates. Uh, common and preferred participates in dividends pro rata.
+
+And you'll see some deals are structured when, uh, when the return of capital is complete for the preferred equity, it converts into common other deals.
+
+It just remains preferred forever. Um, there's just different structures. We actually prefer where it remains preferred forever. It's just simpler.
+
+[00:34:44]
+Athena: Yeah. So. Great explanation. Um, in the model that y'all have from us, it does pull the, you know, it does follow that kind of waterfall and there, that's why the tax amount is calculated on that very first page to make sure that regardless of whether you have an investor or not, you're pulling enough out in taxes, [00:35:00] um, in addition to the debt.
+
+And if you have a, like if you have senior debt, SBA debt and you also have seller debt, like that debt is still correct, you know, uh, uh, important in the waterfall. And there are some investors that will invest.
+
+As debt, but typically that's not cool with SBA if it smashes the debt service coverage ratio.
+
+So if you, and that's also why like using, um, debt to get debt, like if you have a HELOC or something like that, they wanna make sure that there's independent sources of income to pay that HELOC, not this business specifically. So having investors bring in as equity if the business can't afford to pay the investors and the investors do not get paid.
+
+Right? So that is the risk to the investors and why they should be getting the pref and why they should be getting [00:36:00] their capital paid back first. Because if anything happens in the business where.
+
+The business can't pay, you know, the investors, they just lose out on that. That is the risk that they take investing as equity versus debt because the, the loan, the bank and the seller and the taxes will always be paid before the investors are.
+
+[00:36:17]
+Henry: Yeah, that's correct. And, and maybe just something else to clarify is the investor distributions, uh, call it preferred return of capital. And then, uh, pro rata dividends for everybody. That's all at the discretion of the searcher. So, you know, as a searcher, you're gonna have a decision to make of, do I wanna buy another piece of machinery instead of paying my investors?
+
+And if you're giving your investors say, 12% per return, but your new piece of machinery can generate a 30% return, we probably should do that. And your investors are gonna want you to do that instead as well. So, you know, they can be, you know, some, some searches will [00:37:00] distribute nothing, uh, with the goal of generating a really large exit later.
+
+Right.
+
+[00:37:05]
+Athena: And
+
+[00:37:06]
+Henry: just
+
+[00:37:06]
+Athena: taking, taking, you know, taking less, it, it, it just means that you can't take profit out of the business yourself until investors are paid back. So, um, something that I, I think is really important for everybody to be on the same page about is the salary to the operator, to the searcher, to make sure that they're comfortable and not putting themselves in a really tight place, you know, for a couple years if they're making those decisions, to invest in equipment versus do distributions and get the investors paid back.
+
+[00:37:28]
+Henry: Yeah. Yeah. Um, and then maybe one other thing I wanted to mention on these market terms before we move on. So you'll see that I've put some ranges here on things and, uh, I've, I've seen quite often that searches will say, okay, uh, they'll see this slide and they'll say, great, well, I'm gonna put a 1.75 step up [00:38:00] and an 8% pref for myself.
+
+You know, basically just.
+
+I'm just at the bottom of the range for the investor, for everything, and therefore the top of the range for everything for myself. And, uh, you know, I see these deals, uh, sometimes they don't close, sometimes they take forever to close. Um, and, you know, you can, of course, you know, if, if you try it and then you don't succeed, you can of course improve it later.
+
+Although a lot of the investors communicate a lot, um, is quite a collaborative community in that sense as well. And you've kind of sent a signal that you are more looking out for yourself than everybody. And so I would, I would just kind of, of course, like the deal needs to be economically incentive for everybody and, and investors know that as well.
+
+Um, and, you know, wanna make sure that the, the search is also adequately excited and rewarded for the risk they're taking. Um, but I would, I would advise against like sliding all of these to the bottom of the scale because you're kind of, you're gonna be in bed [00:39:00] together for five to 10 years. And it doesn't send a, a, a great signal that you have their best interest in mind at the beginning.
+
+[00:39:09]
+Athena: Right. And it's, it's paying attention to that MOIC and IRR when you're structuring the deal too. You know, so like, if, if you found something at like a two x that's just like a, you know, hidden gem or whatever, then maybe the lower terms might make sense because there's still like a great opportunity. But if somebody's risking their capital on you, an unproven operator, then you know how, like the terms, to me, it's like if somebody's taking a risk on me and also gonna invest their time and, and advisory into me, then I wanna make sure that they feel invested in the deal.
+
+You slide it to the bottom, you're probably gonna get an investor that's not necessarily gonna be involved or make sure that when things go wrong, which we'll talk about in a minute, they will. Right. If you need additional capital and you're looking after your investors and they're, they're more. Likely to [00:40:00] be actively involved with you and, and supporting you through that and having investors that want to support you versus just like park their money with you when you're taking on such a risk yourself with a personal guarantee, you know, kind of warrants looking at the terms in a way that, that, that make them, uh, incentivized to wanna help.
+
+[00:40:19]
+Henry: Yeah, agreed. And yeah, exactly. And the, you know, the one situations where that you can be a little aggressive on the terms is like, like Athena said, if you've got, if you buy something for two x of course, or you achieve some amazing deal structure that you know is effectively a low multiple, that's great.
+
+Or if you are the perfect match for the business, uh, and you've really de-risked the operational side, that's the overtime that I've seen, uh, less good terms, uh, fly pretty okay with investors so it can be done. Cool. Um,
+
+[00:40:42]
+Athena: great.
+
+[00:40:43]
+Henry: Maybe just to kind of round this off, there are a few extra things that funds are gonna wanna see.
+
+[00:41:00]
+Henry: Um, I think most of them are driven out of the fact that they're a fund and they have a responsibility to their investors and, uh, uh, yeah. So may maybe the, uh, put option is probably the biggest one. So they're gonna look for a exit in five years that matches up with a lifetime of their fund that they've promised their investors.
+
+And so typically you'll see something in the contract that says, in five years, if there hasn't been an exit, we can sell our equity back to the company at the greater of five x trailing 12-month EBITDA or fair market value. And, you know, most funds, they don't really want to use this. Um.
+
+Their dream is that there is a, a great exit to private equity, but they're putting that in there to cover the risk that you as an operator say, I love this business and I just wanna run it forever.
+
+And they'd say, okay, that's [00:42:00] fine, but you know, we need to get out. And so it also presents an opportunity to the searcher to, uh, own 100% of the business, uh, at that point. Uh, so these are pretty common, especially when a fund is involved. One thing to be careful of is to structure it in a way that you're not gonna have, uh, an issue paying it, right?
+
+So it can be a significant cash chunk out of the business when, if that option is exercised. So finding a way to spread it out or, uh, protect yourself in the event that comes is, is kind of pretty important. And a good, a good attorney will make sure that you're covered on that as well.
+
+Um, okay, next one.
+
+QSBS versus LLC. So, um.
+
+I don't know how many of you guys know about this, but, um, a lot of the search deals can qualify for qualify as a small business. Uh, and they, they get the QSBS [00:43:00] tax exemption, and that means that there's no capital gains tax up to 10 million. And that's true for both the searcher and investors.
+
+So we always like to structure these if it applies. We actually model every deal out pre and post tax. Uh, it's typically beneficial for everyone to structure a deal as QSBS, I wanted to bring this up. 'cause often, uh, a searcher will come to us and they'll show us the deal and we'll show them, hey, this can be much better as QSBS, but there's only like two weeks left until closing.
+
+And so then it, it's too late in the game to convert it to QSBS. Um, so.
+
+Definitely look at QSBS, see if it doesn't work for every single business. Like for instance, consulting businesses, it doesn't apply to. Um, and there's lots of rules around it, but if, if you pull it off, uh, the outcomes are pretty huge.
+
+Um, so, and most funds are gonna push for that, um, [00:44:00] and try to get it if they can, but it's, it's, you know, it's a win for everybody.
+
+Uh, salary guard rail. So Athena was just mentioning salary earlier, right? That basically there was no, um, distributions until the return of capital, sorry, no distributions to the common stock until the return of capital on the preferred.
+
+Um, so theoretically, if you are a nefarious searcher, you could just say, okay, well that's fine. There's gonna be no free cash flow. I'm just gonna salary myself complete, you know, every, every dollar free cash flow. Um.
+
+Funds are gonna want some protection against that. They're just in a different boat to your friends and family where there's that, uh, relationship to, uh, rely on.
+
+And then lastly, uh, financials visibility. Um, so this is becoming a bit of a trend where I think, um, some funds have had issues where, uh, searchers have, um, had things where they aren't going so well and they, you know, they didn't tell their [00:45:00] investors. Um, so funds are gonna want some way of financial visibility, whether that's, uh, sharing quarterly financials, uh, read-only access to your accounting system.
+
+Um, it's kind of just basic housekeeping. Um, and again, you know, compared to friends and family, they're just gonna trust you. Um, so yeah, those are just like the little extra things I think funds are gonna, funds are gonna wanna see on your term sheet.
+
+[00:46:00]
+Henry: Okay, so putting together your deck, well actually your deck is just pretty much everything I just mentioned. Um, so they want to hear about you, the deal, your business plan, um, what's the structure and the terms. Um, I'll say when you're putting your deck together, if there's something bad about your deal, put it in there, like make it abundantly clear.
+
+I like so many times I smell a whiff [00:46:00] of customer concentration in the deck and I have to go and investigate it, and it's just not a good starting point. It feels like the searcher withheld pretty important information. Um, if you have aggressive terms and they're shit for investors, like put it in the deck and make it clear.
+
+It is so much better to be upfront about it than have, uh.
+
+Someone has to do some like reverse engineering of what a step up is, and then they find out it's 1.2 and then you've wasted their time and kind of diminish trust. So any bad stuff, put it in the deck. It's also a really good opportunity for you to say, Hey, this has got a lot of customer concentration, but don't worry about it.
+
+I've addressed it, um, via this seller note clause. Or here's five customers that we can replace them with. So it's a good opportunity to also demonstrate you've done your homework as well.
+
+And, um, you know, we, even if we're not [00:47:00] part of it deal, we're happy to help you guys put decks together. Um, we see a lot. Um, so if you guys have a draft deck and you want some feedback on it, feel free to send it to me. Um, okay. Courting investors, so you've put your deck together. Um, what to do next. So I.
+
+There's probably three main places of where to find investors. And also, uh, there's a bit of a question of when. So ideally you have a, a kind of a small network of investors that you really trust that you are even willing to talk with them a little bit before the LOIs. So make sure you got them under an NDA of course.
+
+And, you know, before you're on LOI, it's a good opportunity to show investors what you're looking at, get them excited about it, also get their input on it. Um, they're gonna be able to give you some great input because they've just seen more deals. Um, I probably wouldn't advise talking to a really broad investor [00:48:00] network before you're on the LOI, I think it's just not a good use of time.
+
+Um, but then as soon as you're under LOI, I would start courting investors. Um, one, it can take a while and, and two, you're gonna wanna make sure you can get the investor capital before you.
+
+Move on to expensive parts such as due diligence and, uh, attorney reviews and such. So it's healthy to bring them in and early.
+
+And also like, uh, you know, experienced investors will be able to help your deal succeed, help you negotiate and get the deal done smoother and cheaper as well. Um, so yeah, where to, where to find people. So for the dedicated funds I was mentioning earlier, there's Jamestown, Acquiring Minds Capital. There are others as well.
+
+Most of them are gonna have dedicated websites. It's kind of our job to be discoverable by you. So, um, maybe they do a nice podcast or something. Um, [00:49:00] Sam Rosati’s SMB Bootcamp is a great contributor to the space. They've built out an investor database that, uh, you can request access to. That's a good place to find people. Uh, and then lastly, you have your, your personal network as well. Um, generally we see cap tables as, you know, maybe you've got a dedicated fund and then you know, a few individuals that fill out the rest of the cap table. Um, so you're gonna want to tap on all of these.
+
+Um, in terms of gathering commitments. So there's a bit of a balancing act here. I would recommend raising more than you need. Firstly, 120% of your, what you need might actually turn out to be a hundred percent because your bank could come back and say, Hey, actually I wanna see more equity on this deal.
+
+It's, it's too levered. Also, investors, uh, can, can fold as well. [00:50:00] Um, maybe they discover something they don't like. Um, I've also seen investors not manage their liquidity properly and they say, I love this deal, but I, I just don't have the capital at this point in time. Um, it happens and you don't want your deal falling through.
+
+So over raise at at the same time. You don't wanna go crazy with this. Um, it doesn't, you know, it doesn't bode particularly well to kind of raise 200% and then have to kick off half your investors. So go a little bit over, but don't go crazy with it. Um, and, uh, you know, try to use your investors as well, right?
+
+They, they're, they're gaining an investment opportunity, but also you should gain, uh, knowledge for them. And as you're going through this process of, of gathering commitments, you're also gonna be in parallel learning more about the, the deal as well, and share that with the investors. Um, kind of like I was saying earlier on your day, share the [00:51:00] negative stuff as well.
+
+Hey, you know, actually the QoE didn't come back that good, but we're renegotiating with the seller. Um, it's a.
+
+For us, like we, we've seen this happen so many times on deals and, uh, actually we kind of, uh, enjoy the relationship that we develop with the searcher as as we go through it. And yeah, we all kind of can observe a searcher's resilience, uh, rather than like silently hold, uh, you know, solving problems.
+
+So it's good to reveal the, the good and the bad as, as stuff goes.
+
+Um, and then lastly, I, I would say, um, you know, I've had a few deals where people have pitched it to me and I, I, I pointed out, uh, issues with it and you kind of get like this, like, I think maybe at that point in the search, it's so fatigued, it's not, doesn't feel good to hear negative things about your deal.
+
+I would try to be open about it. Um, a lot of search, you know, a lot of investors have seen deals play [00:52:00] out and play out poorly. Uh, try to use their input. Um, you know, if they don't like your deal, it can of course beef for something specific, like for instance, Jamestown. If, uh, there's a deal where there isn't a tech opportunity, we probably wouldn't participate.
+
+That doesn't mean it's a bad deal. However, if the investor says, Hey, you know, this is way overpriced for what it is, you know, I can't invest, you know, it's not related to the deal terms, probably you wanna look at your deal, uh, critically, just fewer own, fewer own outcomes as well.
+
+[00:53:00]
+Henry: Um, so yeah, negotiating with investors. Um, so as I was saying earlier, don't start with all of the sliders to the left on your deal terms. Um, the process, you're gonna have probably one or two lead investors. Um, and those are gonna be negotiating terms on behalf of everyone else. Um, you know, friends and family.
+
+They're [00:53:00] just gonna basically get, uh, taken along with whatever, um, you know, the professional investors on the deal negotiate. Um.
+
+Highly advise, making sure you agree on the term sheet first. It's, it's very cheap. Uh, you almost could do it, uh, without an attorney. Just make sure you get all those bullet points.
+
+Um, get the, the difficult stuff out the way first, and then you'll draft an operating agreement later, um, to agree on the more, more tricky stuff. Um, yeah. Side agreements, they're on here, they're rare, um, but sometimes, uh, in investors will want something specific to themselves. I would say try to keep them to a minimum.
+
+Uh, they, they generate a lot of, uh, liability and complexity. Um, and so we, you know, we even avoid them, uh, on, on deals that run as well.
+
+[00:54:00]
+Henry: Okay. So closing the deal. Um.
+
+Basically, just share every document that comes along. Um, uh, investors are gonna, you know, good investors are gonna be pretty good at keeping track of all of their, uh, their filing. Um, I would say be very on top of the bank about what they need. So recently, the SBA introduced this beneficial ownership information where they're gonna unravel every investor, you know, up to the beneficial owner, which could be several layers of entities, um, and some, uh, for some funds that could be a lot of people.
+
+So, uh, just make sure that you're kind of getting ahead of what the bank needs. Um, the bank aren't the best about, like, proactively asking for things, uh, far in advance. So just try to make sure you as much pull from the bank what they need and, and request it from investors. Um.
+
+You are gonna sign all the docs before, uh, investors wire [00:55:00] funds.
+
+And, and it sounds almost obvious, but I've, I've had this on deals where, uh, it's like, Hey, can you wire funds? And I'm like, well, you know, not until we agreed on everything, which means there's signatures on everything. So, um, you know, just make sure you get all the docs signed. Otherwise you're gonna be asking people to wire funds at the 11th hour and they're just gonna say no.
+
+Um, little point here. Document QSBS. So QSBS, um, is that, uh, tax classification I was talking about. In order to qualify for that, there's certain things that need to be done on acquisition. There's also rules about all of the things that have happened during the lifetime of the ownership as well. And so when you come to exit and you are applying for that exemption from, from the IRS, you're gonna want all of the data from the acquisition.
+
+To prove that you're gonna qualify. It's a big, um, uh, tax [00:56:00] benefit. So there, you know, the IRS is not gonna give it out that easily. So you wanna make sure you've got all your documents from the acquisition to, um, to just, you know, show and not like, be trying to gather 5-year-old data later. Alright, post-closing.
+
+Um, so investors typically, uh, you know, the investors are, you know, to varying extents, some are gonna be completely passive. Jamestown’s fairly active. Um, at a minimum you should probably do quarterly calls with your investors even if you don't have to. I think it's actually just a really healthy exercise as an operator to once a quarter just sit down and say, how are things going?
+
+Let me put together some good stats. Um, I would say this doesn't need to be like the best presentation ever. You are.
+
+Investors are gonna prefer that you're spending lots of time running the business than making beautiful slides. But, you know, just getting something there, uh, in place and, um, you know, [00:57:00] investors are gonna want to help as well.
+
+So this is a good opportunity to say, Hey, you know, I need a new head of marketing. Do you know anyone? Um, I'm looking at making an acquisition. Can you keep an eye out? I need an intro to blah, blah, blah. So, you know, investors, they, of course, they, they want this to go well. So, you know, use them and tell them what to do.
+
+They often don't know what they should be doing to help you. And, uh, yeah, last bullet. Like if, you know, if you're in the same city as a, an investor, just grab a coffee, grab a beer, um, you don't know when you're gonna need them. If you need more capital, um, that long coffee that you had while you were on vacation with an investor is, uh, gonna go a long way.
+
+So.
+
+I know it's hard to think about that when you're in the search phase, but, uh, I just wanted to kind of do a, a complete coverage here. So anyway, that's, uh, that's everything I had to say is where you can find us. I'll pause here and kind of flip it over to everyone for some QA. [00:58:00]
+
+[00:58:02]
+Athena: That was awesome. Thank you so much for that. And, um, I'm gonna ask a few questions, but, um, those of you that are watching, if you have any questions, feel free to put your hands up and we'll make sure those get answered too. Um, so, so much good stuff in there and really appreciate you breaking it down.
+
+Um.
+
+You know, I think the, some of the stuff you were talking about, like how to raise money, um, made me think about my own experience. I don't know if you know this, but I raised $3 million over Labor Day weekend and five days for my deal. So, um, that comes from, you know, having done the raising and stuff for like startup world and, and some of those like, uh, things that I picked up along the way and, and the confidence that you give investors.
+
+And one of the big things I think that a lot of people miss is not starting to build that [00:59:00] group of investors around you early enough and just getting them to know who you are as, you know, an operator and socializing with them and getting them familiar with your process and your resilience and that sort of thing, as opposed to, I need money now, hitting them cold.
+
+And it's like, well, I gotta trust you and be willing to invest in you. So, um.
+
+Something that I did personally was I was so obsessed with ETA, I was just talking to everybody about it. Any conversation that someone would listen about it, I was like, this is amazing. And people are like, oh, I'm really interested in that.
+
+And I knew they were investors, so I'd just write 'em down on a list, you know? And, um, something that other investors have told me that they really like, it's like when they meet a searcher. Um, you know, they'll set up like a monthly newsletter and they'll send it out to all of their, like, invest potential investors that they've met.
+
+And it's like, here's an update on everything I've done on my search. Um, I haven't done that [01:00:00] necessarily, but when I, when I needed to raise the money, when, um, had this list of people that I knew expressed interest and that I knew were investors, and then I knew I could call up on Labor Day weekend and be like, Hey, I have this problem.
+
+You know. And something that I learned from my startup days that I think is so helpful is if you want.
+
+Advice, ask for money. If you want money, ask for advice. And so I went around to all these investors and I was like, Hey, I have this deal. I have a challenge with it. I'd love to run it past you and get your thoughts.
+
+And every single person, I told them what was going on. I told them how much money I needed to raise to be able to get the deal, ask 'em what they thought, and every single person was like, what's the minimum? I was like, oh, thanks for asking. It's 250. Um, so.
+
+The most of them were individuals, but the very final person was somebody that had scaled his business to a [01:01:00] billion.
+
+He was a very savvy investor. He ripped me an absolute new one on my terms on that call, and I was just like eating it up. I was like, God, thank you so much. Like I haven't learned the terms for this fund. And I was just really like, yes, give it to me. Thank you. Like, I totally understand it's not any, he was explaining, you know, investors look at the returns, right?
+
+So it's like if you're bringing them a deal, they're not necessarily just looking at like, is this business good? It's like, well, I have all these other decks on my desk to look at and I, I'm comparing the returns I'm gonna get and I'm also assessing the risk. Like what am, what am I thinking? Risk of you as an operator of this business, of how quickly I'm gonna get my money back.
+
+Like all those things that you just broke down. And, um, you know, it was such a helpful conversation for me and I was like, he's not gonna giving me money. And then after an hour of him ripping me a new one, he is like, how much do you need to close this around? And I was like, [01:02:00] 500. And he is like, put me down for it.
+
+I was like, oh, wow. You know. So, um, I'm just reiterating some of the points that Henry said, the being open and investors aren't in this space because they wanna rip you a new one. They wanna find someone they're excited about that they can back, that they can give that kind of advice to, and they'll listen to and take that directive and, and do something about it.
+
+Um, so anyways, to play off everything that you said there, what have you seen? Uh, searchers do that like you, because you've invested in a number of these deals now. So what were things that set people apart for you to be like, yeah, I'm willing to take this risk on this person, or what were things that they did throughout the process, if anything springs to mind?
+
+I know you used a couple examples that made you really confident in investing in someone, even if they weren't necessarily an operator before or hadn't bought a business before.
+
+[01:02:43]
+Henry: Right. Yeah. And just, sorry, just to respond to a few of the things you [01:03:00] said, like a newsletter is great. It kind of is just a very like, cheap way of, you know, letting investors know what's going on and they can read it and maybe they just literally just read it, but also maybe they're like, oh, that's something I can help with.
+
+Or, oh, you're looking at an HVAC business. Well I have another one of those. Let me connect you with the operator. Um, and so it's just a very easy way for investors to look at, at ways they can, ways they can help as well. And in terms of asking for advice, absolutely do it. One thing I would recommend is.
+
+Part of being a searcher is being resourceful. You're gonna have be super resourceful after you buy the business. So like, don't, uh, ask the investor for things that are in a book. Um, good point. That's, that's if you can research it yourself, like start there, um, and, you know, save the really nuanced or tricky questions that aren't in the books for the searchers.
+
+Uh, sorry for the investors. Um, yeah, I think for us, we [01:04:00] of course operational experience is, is great. Um, I think we personally, we look for people where we really share the vision on the business as well. Um, and that a little bit ties into our, our own technology involvement. And then we like to see, uh, searches that have a lot of grit, a lot of endurance.
+
+And um, I think, you know, I.
+
+I've hired a lot of people, uh, over my career in like hundreds. And you know, you can sit in an interview and say, you know, I'm driven, I've got grid, I have drive, right? I wanna work in a hundred hours a week, or whatever. But actually the search process is like a way to show that in, in so much more of a clear fashion, right?
+
+It's like, oh, this bank killed my deal. Don't worry. I've already got three more calls with banks lined up for tomorrow. Um, and you know, it's not, of course anyone can say, oh, they wanna invest in someone that has drive or, or et [01:05:00] cetera. But its seeing, seeing the, the operational seat after closing play out.
+
+You need it, it, it's super important. Um, you know, because the, the bank pulling back, pulling out, et cetera, like the equivalent things are gonna happen in the business. So because we really like to see like that endurance and being able to be upbeat after being beaten down, um.
+
+We, we almost like the deals that are difficult to get done because that lets, you know, reveals like, uh, a lot of positive qualities about the searcher as it as it occurs, and we get a front row seat for that.
+
+[01:05:35]
+Athena: Um, so I think it's, uh, the like good point. Sorry, I wanna, I see Peter has his hand up and then I'm gonna ask you my next question. Peter, what, what question or, or thought do you have for Henry?
+
+[01:06:26]
+Athena: So Henry, I'm interested on the SOP update and what, if any, uh, changes you had to make to your investment approach or, you know, the beneficial ownership stuff, like, did that end up causing issues for you all, as much as you're willing to share?
+
+But I mean, it, it obviously is gonna change the searchers that you can back now too, because they're having to bring in at least 5% themselves, right?
+
+[01:06:45]
+Henry: [01:07:00] Right. Yeah, I mean actually there's been three updates or three batches of updates in total. So the first one, uh, was back in March. That one was basically saying every beneficial owner.
+
+Uh, so even if you're invested in an entity and the entity owned by an entity and the that entity owned by people. Unravel little to top everyone. 100.0% of your equity ownership needs to be US citizen, US National, or, uh, licensed permanent resident. So green card holder. Um, we were very, very lucky that that guidance came out, um, before we closed our fund.
+
+And so that led us make sure that one, everyone, all of our investors are one of those categories. And secondly, we got all of the data that we need for the bank from the investors as well. Um, other funds, you know, I think they, they just, I'm luck, [01:08:00] I'm lucky on the timing. And they, uh, you know, have had to cash out certain investors so that they can keep going.
+
+Um, so for us, that ha that ha hasn't really been an issue. We, we kind of just very fortunate on when, when that was released. That was before we raised.
+
+There was a second batch of changes, uh, that occurred in April, and that batch, I think, is becoming active as of June 1st. Um, so there's a ton of changes in there, but the big one being that the seller note cannot count as equity, and so that obviously increases the total cash that just needs to be brought to the deal.
+
+Um, so generally we're seeing more deals are seeking investors, whereas previously, if you've got a wonderful seller note, you could give that to the SBA and and close it yourself. So you're seeing it, you know, basically you've had a removal of capital from the foreign investor change, [00:09:00] and then also now more deals are looking for capital as well because of that, uh, change in April.
+
+So those two things have just, um, yeah, you know, shifted supply demand, uh, where more investors are needed. Um.
+
+The good news is that, you know, there are, uh, also new investors coming into the space as well. So, uh, there are willing investors. I, you know, I, I generally tell searches if you, you know, if you've, uh, got a good deal and you're, you know, op, you know, a good operator, like you will get investors for your deal.
+
+It's closable. And then yesterday there was another batch of, uh, changes from the SBA, um, pretty targeted at search funds. So, uh, they had two categories. One, they don't want investors having control, but not the personal guarantee. Uh, we don't have that structure, so that's not a concern for us. But I, I guess some investors do.
+
+Um, and the second [01:10:00] category was basically saying if these investors are getting paid back, that return of capital before the personal guarantee is released, we can't classify that as equity, that's debt. Um, there's.
+
+A little bit of un clarity there in that if the payment of that, uh, return of capital is discretionary, is that still fine to count as equity?
+
+Um, you know, generally that's how a deal is done, as we, we talked about in the waterfall layer. But I think that one, I mean, it, it literally came out last night, so I think we'll see, uh, gonna be, how does the bank interpret it is gonna be the key thing. Mm-hmm.
+
+Uh, and I, I guess it, you know, my, my guess is that the SBA feels like they're the senior debt and then if you've got these investors that are junior but being paid first, they've kind of inverted the seniority.
+
+Um, so I guess that's what the SBA doesn't like, but I dunno, it depends [01:11:00] on the, uh, the bank's interpretation of I can voluntarily pay these investors whenever I want. Generally we see searches paying down the SBA debt first before paying out preferred, so.
+
+Uh, it probably won't impact deals by all that much.
+
+Providing the banks, uh, given their blessing
+
+[01:11:21]
+Athena: there was, there's a minimum contribution from the searcher now too. 5% correct. With these new updates.
+
+[01:11:26]
+Henry: I'm, when was that one? I'm not familiar with that one actually. That was
+
+[01:11:31]
+Athena: in the big, big one that came out. That was in the
+
+[01:11:34]
+Henry: April one.
+
+[01:11:35]
+Athena: Yeah. I haven't, I haven't, I haven't seen if there's updates in the one that ca, uh, came out yesterday.
+
+But that was like a big one that it was like the, 'cause it used to be like, you know, down to 2.5%. But from my, what I was being told from the lenders is like the highest default rates are actually coming from the searchers that had nothing to lose and we're backed by investors. Yeah, makes sense. So they've raised the minimum, uh, [01:12:00] equity injection requirement to 5%, but I can double check that on the new SOP and see if that Yeah, that still applies.
+
+Okay. Because all, all of our, our clients meet the 10% minimum on most of the deals. That's good. They're looking at, yeah. So,
+
+[01:12:14]
+Henry: yeah, I guess not surprising that the, uh, the highest default rates are the ones with no money down.
+
+[01:12:21]
+Athena: Right? Like just a searcher that's able to find the, the, um, it's, it's wild. Like the SOP, um.
+
+Changes and like how, how impactful that can be overall.
+
+[01:12:33]
+Henry: Yeah, it's, it's a little frustrating. Um, and I hope that they, they kind of stabilize for a bit, but at the same time, you know, this SBA program is facilitating this like, amazing transition of, of ownership that's, you know, creates a great opportunity for searchers, but also creates like a great opportunity for people that wanna retire as well.
+
+So, you know, it's great that the program's there and [01:13:00] I, I think that we, we should accept a bit of annoyance with it,
+
+[01:13:05]
+Athena: right? Yeah. I mean, I, I have, you know, there, there was some restrictive things that, that were eliminated. Um, like the look back, you know, and, and having rollover equity and it's like that's been reintroduced now, which is a shame because it just.
+
+Kind of eliminates so many opportunities for folks to take on businesses, especially where there's like licensing requirements in the business, you know? Um, yes. But I, I think there's some other things that, that potentially, you know, make it better and more solid. And it's like, well, if this program is gonna continue to exist than not pulling taxpayers money into cover all the default.
+
+Yeah. It needs to be, it's like we need to make sure that it's, it's self-sustaining, so, correct.
+
+[01:13:41]
+Henry: Yeah. And we look at deals in, uh, other countries as well and you know, where there isn't something like the SBA program in place and it, [01:14:00] it's just nowhere near as healthy of an ecosystem as we have here. So, you know, just, it's annoying, but how they handle it.
+
+But it's good that it exists,
+
+[01:14:09]
+Athena: right? Yeah. I mean, uh, like we, Canada, Australia, all these folks, they don't have anything like this. It's really hard for an individual to buy a business you're looking at. It's an amazing 14,
+
+[01:14:19]
+Henry: 15% interest rates. Right.
+
+[01:14:22]
+Athena: Um, so we were talking before about the J curve and you said you've seen it on a hundred percent of, of the deals that you've looked at.
+
+So is there a range of what you're seeing is, is J curve is there, there, you know, yeah.
+
+[01:14:35]
+Henry: It's
+
+[01:14:36]
+Athena: happening. So is there an amount in drop that you're saying? Is there an average there? What are you seeing in, in regards to that, that folks prepare for?
+
+[01:14:45]
+Henry: Yeah, I would, I would say that, uh, well, two things. I think firstly be prepared for a 10% drop or 20, even a 20% drop.
+
+Like make sure that your deal can [01:15:00] withstand that and you know, it's not gonna be the prettiest outcome, but you wanna make sure that you're not having to call the bank, uh, because you can't make payments. Mm-hmm.
+
+Uh, if, if, if those play out. And I think that you can also probably better estimate that, you know, obviously customer concentration can make those.
+
+That J curve much deeper as well. Right. Um, so yeah, just make sure, you know, you are able to withstand that kind of depth of the J curve. And I think actually the, the thing that we've been thinking about a lot more lately is how can we prep for the J curve? How can we make it shallower and shorter as well?
+
+Um, I don't believe that it's like fully possible to make it go away, but I think that by kind of anticipating some potential problems, you can kind of respond to them faster. So for instance, if you've got three [01:16:00] employees that are really important to you, just make a plan of how you're gonna rehire them.
+
+If any one of them quit, and then that way, you know, you get to save yourself a week post acquisition of that person quits. You know, you're not wondering what platform should I list? What's the appropriate salary I should advertise? What's the job description? You got it ready to go. You know, in general, probably, you know, if you have a acquired business of 10, 15 employees, probably one or two will leave.
+
+They just, you know, they like the previous owner, they're about to make it another change in their life. And this was just a nudge. Um, and the same is true of the customers, right? So if, if you're gonna lose a custom, you know, probably you'll lose some customers and, uh, that's fine. But just have, have a plan in place of how you can bring them back pretty quickly.
+
+And so these are things that you can think about before closing, um, and can just make that J curve a little bit nicer.
+
+[01:16:58]
+Athena: I love that. Like actually [01:17:00] having an operational plan pre-close of anything that might be a risk or just the common things that we see, like customer drops, employees leave, you know?
+
+[01:17:09]
+Henry: Right. So you, it's different, right? So you have normally your business plan, which is normally I'm gonna.
+
+I'm gonna hire a new sales guy and I'm gonna do all these great things. And then you've got your model right, where you can model a J curve. And I, so I see people do both those, like what I don't see so much is like plan, plan for the shit hitting the fan.
+
+Um, and that's, that's something where I, I think these J curves could get a lot nicer by doing that.
+
+[01:17:30]
+Athena: Awesome. Um, well this has been super helpful, amazing, uh, resource that we'll be able to give to folks too, to be able to watch back and, and kind of understand this. Um, we will give your contact details. So is the best place to get ahold of you going through the website?
+
+Do you want people to email you? How do you want people to contact you if they wanna follow up? Either for investment or [01:18:00] advice or to get some of your templates you offered?
+
+[01:18:04]
+Henry: Yeah, email is best. Um, it's henry.Carter@jamestowncapital.com. Um.
+
+And you can just go to the website and find my LinkedIn from there as well.
+
+[01:18:22]
+Athena: Great. Um, we'll, we'll grab it and, uh, I, I mean, I have it, so I'll make sure we add it to the replay too, so if folks can just find it there and then it'll live on the platform also. So, um, really appreciate your time. Yeah.
+
+Um, I think you should do this for the Austin community too. I don't know if you've done this yet, but
+
+[01:18:39]
+Henry: Yeah.
+
+I should I put together the slides now, so
+
+[01:18:42]
+Athena: Yeah, you have
+
+[01:18:43]
+Henry: the slides. I think, I think it's great and like this is a, you know, a lot of people don't know. How working with an investor works or what that looks like or how it would factor into their deal. So, um, I think it's a really great piece of content [01:19:00] and something that the community community could really benefit from too because I, I definitely know that our folks will have benefited.
+
+I learned some new things too as I was going through this, so I always love that. So thank you. Really appreciate it.
+
+[01:19:12]
+Henry: Yeah. Yeah. Thanks for having me. It was really fun.
+
+[01:19:16]
+Athena: Awesome. And if, if it's cool, I might send a model to you and see if you can stress test it for me, find so fun with it. Okay.
+
+[01:19:23]
+Henry: Alright. Okay.
+
+[01:19:26]
+Athena: Thanks so much. You take care.

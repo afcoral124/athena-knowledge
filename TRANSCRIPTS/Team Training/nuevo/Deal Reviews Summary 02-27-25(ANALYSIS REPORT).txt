@@ -1,0 +1,245 @@
+Segment Mapping (by timestamp)
+- 0:12-0:20 — REMOVE (meeting housekeeping; non-business)
+- 0:27-4:42 — KEEP (client success tactics, internal feedback, mediation)
+- 4:42-13:09 — KEEP (deal pipeline, client status, action items)
+- 13:09-13:37 — KEEP (client communication expectations)
+- 13:37-14:10 — BORDERLINE/MIXED (client-excuse framing; see Borderline #1)
+- 14:10-15:41 — REMOVE (personal health/traffic anecdotes; see Removal #2)
+- 15:41-27:41 — KEEP (client management, relationship-building tactics)
+- 27:44-47:55 — KEEP (active deals, financing strategy, lender vetting)
+- 47:57-1:06:21 — KEEP (deal sourcing, valuation strategy, negotiation positioning)
+- 1:06:21-1:07:50 — KEEP (brief wrap-up and assignments)
+
+Detected Transcription Errors
+
+---
+[Error #1 - Category: Misheard Acronym]
+Location: 10:26 / Speaker: AcquiMatch Team
+Transcript excerpt: "She was on vacation last week... You know, she got an SBA prequel. So, I just kind of talked her up..."
+Issue: "prequel" in lending context
+Likely intended: "SBA pre-qual" (prequalification)
+Confidence: High
+Reasoning: In acquisition financing, “pre-qual” is standard; “prequel” is a common ASR homophone error.
+Impact: Medium
+
+---
+[Error #2 - Category: Business Terminology Distortion]
+Location: 31:17 / Speaker: Athena Simpson
+Transcript excerpt: "And why are we not exploring a seller now on this one? If it's not financeable by SBA."
+Issue: "seller now" in financing context
+Likely intended: "seller note"
+Confidence: High
+Reasoning: “Seller note” is the standard term for seller financing; “seller now” is a frequent ASR mishear.
+Impact: High
+
+---
+[Error #3 - Category: Business Terminology Distortion]
+Location: 31:36 / Speaker: Luke Gillespie
+Transcript excerpt: "The broker said 10 to 20% seller knows it should be reasonable."
+Issue: "seller knows" in place of a financing instrument
+Likely intended: "seller notes" (or singular “seller note”)
+Confidence: High
+Reasoning: Fits seller financing discussion and is consistent with typical broker responses.
+Impact: High
+
+---
+[Error #4 - Category: Misheard Acronym]
+Location: 48:16 / Speaker: AcquiMatch Team
+Transcript excerpt: "Online business... around like four or five million dollars. That's doing about a million and e-bitter."
+Issue: "e-bitter" in financial performance context
+Likely intended: "EBITDA"
+Confidence: High
+Reasoning: EBITDA is the standard profitability metric; “e-bitter” is a typical ASR rendering.
+Impact: High
+
+---
+[Error #5 - Category: Misheard Acronym]
+Location: 56:43 / Speaker: Athena Simpson
+Transcript excerpt: "The report, the broker reports are lower. Like, if you look at the IVBA quarterly report..."
+Issue: "IVBA" in place of industry association acronym
+Likely intended: "IBBA" (International Business Brokers Association)
+Confidence: High
+Reasoning: IBBA produces well-known quarterly market reports; “IVBA” is incorrect.
+Impact: Medium
+
+---
+[Error #6 - Category: Entity Name]
+Location: 36:00-36:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "And then I just explained what Accuimatch does. We primarily look to utilize SBA..."
+Issue: Company name spelled phonetically/incorrectly
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Internal company name; consistent proper spelling elsewhere.
+Impact: Low
+
+---
+[Error #7 - Category: Entity Name]
+Location: 19:58-20:28 / Speaker: Athena Simpson
+Transcript excerpt: "He won't even go on acquiring mines... he won't do it because the guy was so concerned..."
+Issue: Proper noun for podcast misrendered
+Likely intended: "Acquiring Minds"
+Confidence: Medium-High
+Reasoning: “Acquiring Minds” is a known podcast in this space; “mines” is a phonetic error.
+Impact: Low
+
+---
+[Error #8 - Category: Omissions and Truncations]
+Location: 32:14-32:30 / Speaker: AcquiMatch Team
+Transcript excerpt: "...No, the seller so I think that's primarily because Fylender if they're if the seller of the buyer that they're Lending to needs to pursue a lawsuit..."
+Issue: Garbled phrasing ("Fylender", "seller of the buyer"), missing connectors
+Likely intended: "If a lender… if the seller or the buyer they’re lending to needs to pursue a lawsuit..."
+Confidence: Medium
+Reasoning: Multiple broken clauses indicate ASR dropouts and word substitutions.
+Impact: Medium
+
+---
+[Error #9 - Category: Financial and Numerical Error]
+Location: 47:21-47:28 / Speaker: AcquiMatch Team
+Transcript excerpt: "Help me be 7% and I'm, I mean, I'm not good. No, I'm saying they could tell me that..."
+Issue: Incoherent numeric statement around interest rate
+Likely intended: A comparison to typical SBA rates (~7-10%) or “It won’t be 7%...”
+Confidence: Medium
+Reasoning: Surrounding discussion is about non-SBA rates vs SBA; this line is nonsensical as transcribed.
+Impact: Medium
+
+---
+[Error #10 - Category: Omissions and Truncations]
+Location: 31:52 / Speaker: Athena Simpson
+Transcript excerpt: "Why want to qualify for SBA?"
+Issue: Missing modal/subject
+Likely intended: "Why won't it qualify for SBA?"
+Confidence: High
+Reasoning: Grammar and context (eligibility question) strongly suggest missing words.
+Impact: Low
+
+---
+[Error #11 - Category: Business Terminology Distortion]
+Location: 49:21-49:28 / Speaker: Athena Simpson
+Transcript excerpt: "Did he give you evaluation blocks together?"
+Issue: Nonsensical phrase in valuation context
+Likely intended: "Did he give you a valuation ballpark?" (or similar)
+Confidence: Medium
+Reasoning: Standard phrasing when probing price expectations; current text is incoherent.
+Impact: Low
+
+---
+[Error #12 - Category: Homophone/Nonsensical Phrase]
+Location: 55:50-56:00 / Speaker: Athena Simpson
+Transcript excerpt: "National for two, like in Nash Bot for two."
+Issue: Nonsensical; likely referencing Nash’s purchase multiple
+Likely intended: "Nash bought for two (x)" (or “Nash bought at 2x”)
+Confidence: Medium
+Reasoning: Surrounding discussion is about multiples and Nash’s deal terms.
+Impact: Low
+
+---
+[Error #13 - Category: Business Terminology Distortion]
+Location: 5:06-5:12 / Speaker: Luke Gillespie
+Transcript excerpt: "I have a call for a med spot tomorrow that will probably be a write up for DL."
+Issue: "med spot" in industry context
+Likely intended: "med spa"
+Confidence: High
+Reasoning: “Med spa” is the standard industry; “spot” is a common ASR swap.
+Impact: Low
+
+---
+[Error #14 - Category: Entity Name (Ambiguous)]
+Location: 28:24-28:31 / Speaker: Athena Simpson
+Transcript excerpt: "He got all the documents he needed from peanut so he submitted those to Wendy..."
+Issue: "peanut" appears to be a misheard proper noun or acronym
+Likely intended: Possibly a lender/bank name (e.g., Pinnacle/PNC) or “P&L” (unlikely in this grammatical slot)
+Confidence: Low-Medium
+Reasoning: “Peanut” is contextually implausible here; sentence refers to obtaining documents from an entity.
+Impact: Medium
+
+---
+[Error #15 - Category: Omissions and Truncations]
+Location: 13:18-13:22 / Speaker: Athena Simpson
+Transcript excerpt: "Are you feeling good? She was like, she was big."
+Issue: Word choice/omission yields nonsensical sentiment
+Likely intended: "She was upbeat" or "She was good"
+Confidence: Medium
+Reasoning: Response to an energy/commitment check; current wording is incoherent.
+Impact: Low
+
+---
+[Error #16 - Category: Semantic Inconsistency]
+Location: 35:54-36:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "This is how much the sellers can inject. This is how much that needs to be covered..."
+Issue: “Sellers can inject” conflicts with usual “buyer equity injection” concept
+Likely intended: "buyers can inject"
+Confidence: Medium
+Reasoning: Equity injection normally refers to buyer funds; rest of context supports that.
+Impact: Medium
+
+---
+[Error #17 - Category: Omissions and Truncations]
+Location: 41:29-41:40 / Speaker: AcquiMatch Team
+Transcript excerpt: "can you schedule a call with me jump on a call with them that what you guys think and I know this business."
+Issue: Missing connectors; sentence structure broken
+Likely intended: A request to schedule a vetting call before introducing to the client
+Confidence: High
+Reasoning: Multiple verbs without connectors indicate ASR dropouts.
+Impact: Low-Medium
+
+---
+[Error #18 - Category: Omissions and Truncations]
+Location: 1:01:00-1:01:06 / Speaker: AcquiMatch Team
+Transcript excerpt: "I'll, I'll, I'll, I'll make it work. I'll, I'll start with the two. And I'll stick about a set."
+Issue: Closing clause nonsensical
+Likely intended: "I'll stick with that" or similar
+Confidence: Medium
+Reasoning: Repetition and garble suggest ASR confusion at sentence end.
+Impact: Low
+
+Removals (Personal/Off-Topic)
+
+---
+[REMOVAL #1 - Type: Small Talk/Housekeeping]
+Location: 0:12-0:20
+Speakers involved: Athena Simpson, AcquiMatch Team
+Content excerpt:
+"Athena: I'm turning off the thousand videos, what do you guys think of that?
+AcquiMatch Team: Yeah, that's great. A little bit less chaotic."
+Reasoning:
+Meeting setup/housekeeping with no bearing on business content.
+Context impact: None—business discussion starts immediately after.
+Recommended action: REMOVE 0:12-0:20
+
+---
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: 14:10-15:41
+Speakers involved: AcquiMatch Team, Athena Simpson
+Content excerpt:
+"AcquiMatch Team: I food poisoning a lot when I drank alcohol... I've never had food poisoning since I stopped drinking...
+Athena: ...I simply stopped drinking... food poisoning... the most obvious...
+AcquiMatch Team: ...there's always lots of traffic...
+Athena: Austin is just so weird... it took me double the amount of time... I used to be pretty good about tripling all the times that Google Maps tells me..."
+Reasoning:
+Personal health/alcohol anecdotes and local traffic inconvenience; no business relevance.
+Context impact: Low—conversation returns to client management and deal work immediately after.
+Recommended action: REMOVE 14:10-15:41
+
+Borderline Segments (Requires Review)
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: 13:37-14:10
+Content excerpt: "No, you did a good job... sick is the best excuse for I got scared... she said food poisoning at one point..."
+Business relevance argument: Offers insight into interpreting client excuses and reinforcing expectations around responsiveness in time-sensitive deals.
+Personal content argument: Discusses “food poisoning” as code for hangover; veers into personal judgments.
+Recommendation: KEEP with discretion—useful for client management context; subsequent explicit personal anecdotes are already flagged for removal (see Removal #2).
+
+Speaker Attribution and Flow Notes
+- Overall speaker roles are consistent (Athena facilitates; team members provide updates; Luke contributes on deals). Some brief single-word interjections (“Right.” “Okay.”) may be misattributed but do not impair understanding—no action recommended.
+- Where ASR truncations cause incoherence (Errors #8, #9, #17, #18), reviewers should verify audio to restore intended meaning, especially around financing terms and interest rates.
+
+Patterns to Flag for ASR Improvement
+- Seller financing terms: “seller note(s)” frequently misheard as “seller now/knows”
+- Financing acronyms: “SBA pre-qual” → “prequel”; “EBITDA” → “e-bitter”; “IBBA” → “IVBA”
+- Proper nouns: “Acquiring Minds” → “acquiring mines”; “AcquiMatch” spelling
+- Sentence-end truncations and numeric phrases around interest rates (7%) becoming incoherent
+
+Notes on Context Preservation
+- The removals are confined to brief housekeeping and personal anecdote tangents. They do not disrupt the logic of the business discussion (client updates, financing strategy, valuation guidance).
+- The borderline segment preceding Removal #2 provides useful context on client management; recommend retaining that portion to avoid a jarring transition.

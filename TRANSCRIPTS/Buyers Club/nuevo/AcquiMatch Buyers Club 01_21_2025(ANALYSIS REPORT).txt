@@ -1,0 +1,253 @@
+Segment mapping (by timestamp)
+
+- 00:00:00–00:01:10 — Intro/greetings, agenda setup
+  - KEEP (brief greetings, sets context for call)
+- 00:01:10–00:07:30 — Ryan on on-market vs off-market, valuations, seller expectations
+  - KEEP (core process and strategy content)
+- 00:07:30–00:18:40 — Justin’s off-market deal walkthrough: rapport, LOI, APA, attorneys, terms
+  - KEEP (detailed acquisition process and lessons learned)
+- 00:18:40–00:22:10 — Rapport-building tactics, cadence of communication, golf/relationship context
+  - KEEP (relationship-building directly tied to deal execution)
+- 00:22:10–00:28:05 — Andrew Q&A on personality fit and trust-building
+  - KEEP (buyer strategy and risk considerations)
+- 00:28:05–00:37:35 — Jason’s off-market scenario, working capital, AR, seller note terms
+  - KEEP (deal structuring and negotiations)
+- 00:37:35–00:41:25 — Andrew’s negotiation framework (negative/positive present/future)
+  - KEEP (strategic negotiation/education)
+- 00:41:25–00:42:20 — Ryan’s wrap on negotiation approach
+  - KEEP
+- 00:42:20–00:55:05 — Chris’s roofing company model/valuation, multiples, DSCR, seller note, marketing spend
+  - KEEP (deal analysis and modeling)
+- 00:55:05–00:59:25 — Joe’s AC company update, LOI framing, seller note doc question
+  - KEEP (practical steps, documentation clarity)
+
+No segments recommended for removal. All personal references are in service of relationship-building for the acquisition process and provide necessary context.
+
+Detected transcription errors
+
+---
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:01:35 / Speaker: Ryan
+Transcript excerpt: "we have some people that are getting close to submitting some allies on some off market businesses"
+Issue: "allies" appears where LOIs are discussed
+Likely intended: "LOIs"
+Confidence: High
+Reasoning: The context is deal process; LOI (Letter of Intent) is standard; “allies” is a common ASR phonetic error.
+Impact: High — changes the meaning of a key M&A step
+
+---
+[Error #2 - Category: Business terminology distortion]
+Location: ~00:01:15 / Speaker: Ryan
+Transcript excerpt: "build on that conversation specifically towards the off market 1st on market conversations."
+Issue: "1st on market" is semantically off
+Likely intended: "off-market vs on-market conversations"
+Confidence: High
+Reasoning: Discussion contrasts off-market and on-market; “vs” can be misheard as “first”
+Impact: Medium — clarity of topic framing
+
+---
+[Error #3 - Category: Semantic inconsistency]
+Location: ~00:00:25 / Speaker: Ryan
+Transcript excerpt: "Hey, Polly. Just, thanks for growing into this call."
+Issue: "growing into this call" is nonsensical
+Likely intended: "joining this call"
+Confidence: High
+Reasoning: Standard phrasing in meetings is “joining”; “growing” is illogical here
+Impact: Low — minor, but noticeable
+
+---
+[Error #4 - Category: Business terminology distortion]
+Location: ~00:03:50 / Speaker: Ryan
+Transcript excerpt: "he just gave the seller the price of the old floor."
+Issue: "old floor" doesn’t fit pricing/listing context
+Likely intended: "the price they asked for" or "the price they were hoping for"
+Confidence: Medium
+Reasoning: In brokerage context, brokers sometimes accept seller’s desired price; “old floor” lacks meaning here
+Impact: Medium — muddles rationale for listing prices
+
+---
+[Error #5 - Category: Omission/Truncation]
+Location: ~00:05:55–00:06:05 / Speaker: Ryan
+Transcript excerpt: "I've seen people. This business is so out of line. There you"
+Issue: Incomplete/fragmented sentence breaks meaning
+Likely intended: A statement about a seller’s price being out of line
+Confidence: Medium
+Reasoning: Abrupt stop and restart suggests ASR drop
+Impact: Medium — interrupts narrative about pricing realism
+
+---
+[Error #6 - Category: Entity name/homophone]
+Location: ~00:10:15 / Speaker: Justin
+Transcript excerpt: "me and my Laura on the same page, kind of, uh, for both of us"
+Issue: "Laura" instead of "lawyer"
+Likely intended: "lawyer"
+Confidence: High
+Reasoning: Discussion is about attorneys on both sides
+Impact: Low — understandable but incorrect term
+
+---
+[Error #7 - Category: Omission/Truncation]
+Location: ~00:14:40 / Speaker: Ryan
+Transcript excerpt: "having them in a lawyer, as you can see. What Justin's referencing to here can make a huge difference."
+Issue: Ungrammatical/garbled phrase
+Likely intended: "having them use an M&A lawyer" or "having them have an M&A lawyer"
+Confidence: Medium
+Reasoning: The point is about importance of an M&A attorney; phrasing is broken
+Impact: Low — the gist is inferable
+
+---
+[Error #8 - Category: Omission/Truncation]
+Location: ~00:14:55 / Speaker: Ryan
+Transcript excerpt: "I don't know what about working capital just ended."
+Issue: Sentence does not make sense
+Likely intended: A comment about working capital repeatedly becoming an issue
+Confidence: Medium
+Reasoning: Topic transitions to working capital dispute; “just ended” is out of place
+Impact: Medium — disrupts the working capital point
+
+---
+[Error #9 - Category: Entity name (product)]
+Location: ~00:17:35 / Speaker: Justin
+Transcript excerpt: "I don't know if she wrote from scratch or she chat GBT did."
+Issue: Product name misspelled
+Likely intended: "ChatGPT'd it"
+Confidence: High
+Reasoning: Common tool and phrasing; ASR often splits “GPT”
+Impact: Low — minor brand accuracy
+
+---
+[Error #10 - Category: Misheard Acronym]
+Location: ~00:18:40 / Speaker: Ryan
+Transcript excerpt: "before you get started with the yellow. I, um, there's, you know."
+Issue: "yellow. I" in an M&A context
+Likely intended: "LOI"
+Confidence: High
+Reasoning: Fits the LOI discussion; “yellow” phonetic error recurs
+Impact: High — core document in process
+
+---
+[Error #11 - Category: Entity name (people vs role)]
+Location: ~00:21:15 / Speaker: Justin
+Transcript excerpt: "I just talked to Leonard this morning. I think realistically, um, a closing could be in mid March."
+Issue: “Leonard” likely misheard
+Likely intended: "lender"
+Confidence: High
+Reasoning: Prior lines refer to financing and a lender; no “Leonard” person introduced
+Impact: Medium — could confuse who is being referenced
+
+---
+[Error #12 - Category: Business terminology distortion]
+Location: ~00:35:50 / Speaker: Jason
+Transcript excerpt: "he's asking for a higher interest rate on the seller node. He wants to amortize over like 3, 4 years"
+Issue: "seller node" in finance context
+Likely intended: "seller note"
+Confidence: High
+Reasoning: Seller note is standard; node is unrelated
+Impact: High — key financing term
+
+---
+[Error #13 - Category: Financial/terminology error]
+Location: ~00:46:05 / Speaker: Chris
+Transcript excerpt: "2021 was a, was a bad year for them that they had negative revenue"
+Issue: Revenue cannot be negative in normal accounting usage
+Likely intended: "negative earnings/net income" or "negative EBITDA"
+Confidence: Medium
+Reasoning: Likely misheard financial metric; revenue seldom negative
+Impact: Medium — misstates financial performance
+
+---
+[Error #14 - Category: Misheard Acronym + Business terminology]
+Location: ~00:48:25 / Speaker: Chris
+Transcript excerpt: "the sim States that the seller is open to a purchase A note"
+Issue: "sim" and "purchase A note" are off
+Likely intended: "the CIM states that the seller is open to a seller note"
+Confidence: High
+Reasoning: CIM is standard; “purchase A note” not idiomatic
+Impact: High — refers to deal terms source and financing
+
+---
+[Error #15 - Category: Misheard Acronym + Omission/Truncation]
+Location: ~00:53:45–00:54:10 / Speakers: Ryan/Chris
+Transcript excerpt: "the sheet was coming at two point something... that might the DSR, the service that 2. something may be a little bit inflated there."
+Issue: “DSR” (missing C) and garbled clause
+Likely intended: "DSCR... that 2.something may be a little inflated"
+Confidence: Medium
+Reasoning: DSCR is the relevant metric; sentence breaks mid-thought
+Impact: Medium — could mislead on coverage ratio discussion
+
+---
+[Error #16 - Category: Speaker Misattribution]
+Location: ~00:00:55 / Speakers: Ryan (and likely Chris)
+Transcript excerpt: "Chris, how's it going doing? Well, cool. So today, um,"
+Issue: The “doing well” appears as part of Ryan’s line; likely Chris’s response
+Likely intended: Ryan asks; Chris replies “Doing well”
+Confidence: Medium
+Reasoning: Conversational pattern suggests a reply got merged into Ryan’s turn
+Impact: Low — minor, but affects who said what
+
+---
+[Error #17 - Category: Omission/Truncation]
+Location: ~00:04:55 / Speaker: Ryan
+Transcript excerpt: "we're going to be working on scheduling him with an off market. Um, start hopefully this week"
+Issue: “with an off market… start” is incomplete/garbled
+Likely intended: Scheduling with an off-market seller intro/start
+Confidence: Medium
+Reasoning: Sentence lacks object after “off market”
+Impact: Low — small clarity issue
+
+---
+[Error #18 - Category: Misheard Acronym]
+Location: ~00:39:35 / Speaker: Andrew
+Transcript excerpt: "It's definitely NLT stuff. Um, but, uh, or NLP"
+Issue: “NLT” appears first, then self-corrected
+Likely intended: "NLP"
+Confidence: High
+Reasoning: He self-corrects; NLP fits negotiation framing context
+Impact: Low — he corrects himself, but transcript preserves error
+
+---
+
+Patterns to note for ASR improvement
+- LOI consistently misheard as “allies” and “yellow I”
+- “seller note” transcribed as “seller node”
+- “lender” transcribed as “Leonard”
+- Acronyms/initialisms frequently distorted (CIM→sim, NLP→NLT, DSCR→DSR)
+- Occasional truncations when speakers pause or self-correct mid-sentence
+
+Segments recommended for removal
+
+None. There are no extended off-topic personal segments. Personal references (family, Florida home, golf, Sunday calls) explicitly support the core topic: building seller rapport in off-market acquisitions, negotiation dynamics, and transition planning. Brief greetings/closings are professional and minimal.
+
+Borderline segments (for review)
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: ~00:18:40–00:21:20
+Content excerpt: "I know he has a family, his daughters, his sons. I know he has a house in Florida... Maybe we go off on a Friday, play around the golf, catch up."
+Business relevance argument: Illustrates deliberate rapport-building with an off-market seller, which materially affects process, trust, and transition.
+Personal content argument: Mentions family, Florida home, and potential golf outing.
+Recommendation: KEEP — Directly supports strategy for progressing off-market deals and transition relationship.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:37:35–00:41:25
+Content excerpt: "there's this four quadrant thing... negative present, positive present, negative future, positive future..."
+Business relevance argument: Provides a negotiation framework to help a seller move forward; educational content relevant to buyer-seller negotiations.
+Personal content argument: Somewhat theoretical; not about a specific deal term.
+Recommendation: KEEP — Strategic advice that can influence deal progress and seller alignment.
+
+Speaker attribution validation
+
+- Primary roles align: Ryan moderates/advises; Justin/Jason/Chris/Joe share deal specifics; Andrew offers negotiation framing. The only notable misattribution is at ~00:00:55 where Chris’s “doing well” appears merged into Ryan’s line (Error #16).
+
+Cross-reference consistency checks
+
+- LOI appears inconsistently as LOI, “allies,” and “yellow I” (Errors #1 and #10): suggests systematic ASR issue.
+- Financial metrics: “negative revenue” likely intended as negative earnings/EBITDA (Error #13); DSCR labeled as DSR later (Error #15).
+- Document acronyms: CIM misheard as “sim” (Error #14); NLP initially misheard as “NLT” (Error #18).
+- Seller note consistently used elsewhere; “seller node” is a one-off error (Error #12).
+
+Context preservation notes
+
+- Do not remove rapport-related personal references; they underpin the off-market negotiation strategies discussed throughout.
+- Keep brief openings/closings to maintain flow. Removing would not add meaningful brevity relative to the insight density of the session.

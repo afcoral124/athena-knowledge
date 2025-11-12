@@ -1,0 +1,226 @@
+[Error #1 - Category: Business terminology distortion]
+Location: ~00:01:20 / Speaker: Athena
+Transcript excerpt: "on deck for today 'cause we're docking deal reviews Today I'm gonna be..."
+Issue: “docking deal reviews” is semantically off in this context.
+Likely intended: “doing deal reviews today”
+Confidence: High
+Reasoning: “Doing deal reviews” is a standard phrase for this meeting type; “docking” has no clear meaning here.
+Impact: Low-Medium
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:16:05 / Speaker: Justin
+Transcript excerpt: "I solicit a QFP, I put money down for these things..."
+Issue: “QFP” in diligence context is atypical.
+Likely intended: “QoE (Quality of Earnings)”
+Confidence: High
+Reasoning: In M&A, buyers “solicit a QoE,” not “QFP.” Matches prior references to “quality of earnings.”
+Impact: Medium-High (affects understanding of diligence steps)
+
+---
+[Error #3 - Category: Misheard Acronym]
+Location: ~00:21:05 / Speaker: Justin
+Transcript excerpt: "...feasible, like with respect to DCR R and all of that."
+Issue: “DCR R” is not standard.
+Likely intended: “DSCR (Debt Service Coverage Ratio)”
+Confidence: High
+Reasoning: DSCR is the common financing metric discussed for SBA/leveraged deals.
+Impact: High (key financing metric)
+
+---
+[Error #4 - Category: Misheard Acronym/Term]
+Location: ~00:23:10 / Speaker: Justin
+Transcript excerpt: "they wanted that in the LI and I. So I did write that in."
+Issue: “LI and I” is not a standard deal document.
+Likely intended: “LOI (Letter of Intent)”
+Confidence: High
+Reasoning: Context involves terms included in an LOI.
+Impact: Medium
+
+---
+[Error #5 - Category: Entity names (inconsistency)]
+Location: ~00:24:40 / Speaker: Justin; and ~01:07:30 / Speaker: Athena
+Transcript excerpt: 
+- Justin: "I used the, the Barlow Williams, uh, example..."
+- Athena: "What Barley Williams do is they're like, will your grandmother understand it?"
+Issue: Two different forms (“Barlow Williams” vs “Barley Williams”) likely refer to the same firm.
+Likely intended: A single consistent firm name (e.g., “Barlow Williams” or similar)
+Confidence: Medium
+Reasoning: Close phonetic variants in the same discussion suggest ASR inconsistency on the firm name.
+Impact: Medium (can cause confusion on references/templates)
+
+---
+[Error #6 - Category: Entity name + speaker/pronoun inconsistency]
+Location: ~00:18:00 / Speaker: Justin
+Transcript excerpt: "...the broker texted me, he is like... you could see Claudia, the broker..."
+Issue: Broker repeatedly referred to as “he,” but name given as “Claudia” (commonly female). Could be “Claudio” or a different name.
+Likely intended: “Claudio” (male) or consistent pronouns for “Claudia”
+Confidence: Medium
+Reasoning: Pronoun/name mismatch likely due to ASR on a proper noun.
+Impact: Low-Medium
+
+---
+[Error #7 - Category: Semantic inconsistency]
+Location: ~00:33:00 / Speaker: Michael
+Transcript excerpt: "he's on vacation, like head of the Switzerland."
+Issue: Ungrammatical phrase.
+Likely intended: “headed to Switzerland”
+Confidence: High
+Reasoning: Common phrasing in travel context; current wording sounds like ASR glitch.
+Impact: Low
+
+---
+[Error #8 - Category: Homophone/near-homophone]
+Location: ~00:33:40 and ~00:34:10 / Speaker: Michael
+Transcript excerpt: "the cash are closed is typically coming from that, from that lender"
+Issue: “cash are closed” is incorrect phrase.
+Likely intended: “cash at close”
+Confidence: High
+Reasoning: “Cash at close” is the standard term in offers.
+Impact: Medium
+
+---
+[Error #9 - Category: Business terminology distortion]
+Location: ~00:49:10 / Speaker: Athena
+Transcript excerpt: "we always work off the assumption that networking capital is gonna be included."
+Issue: “networking capital” misstates the financial term.
+Likely intended: “net working capital”
+Confidence: High
+Reasoning: Standard M&A concept; misstatement could confuse financial modeling points.
+Impact: Medium
+
+---
+[Error #10 - Category: Semantic inconsistency]
+Location: ~00:57:35-00:58:10 / Speaker: Athena
+Transcript excerpt: "we will do typically eight years after that. So it's over the life of the loan again. So over the 10 years"
+Issue: Amortization period alternates between 8 and 10 years in the same explanation.
+Likely intended: A single clear period (commonly 10 years to match SBA loan term), or 8 years if that’s an internal assumption—needs clarification.
+Confidence: Medium
+Reasoning: Conflicting figures in sequence likely an ASR or speaker slip.
+Impact: Medium
+
+---
+[Error #11 - Category: Word error]
+Location: ~01:07:30 / Speaker: Athena
+Transcript excerpt: "The LOI, the only part that is actually legally blind binding is the exclusivity..."
+Issue: “legally blind binding” is incorrect.
+Likely intended: “legally binding”
+Confidence: High
+Reasoning: Common legal phrasing around LOI enforceability.
+Impact: Low
+
+---
+[Error #12 - Category: Potential factual inaccuracy]
+Location: ~00:04:30 / Speaker: Athena
+Transcript excerpt: "Relay banking... you can set up, I think up to like 30 different accounts..."
+Issue: Relay has historically advertised a different cap (often 20), though features can change.
+Likely intended: A specific max number of sub-accounts (confirm current product limits)
+Confidence: Low-Medium
+Reasoning: Product limits vary; suggest verification.
+Impact: Low
+
+---
+[Error #13 - Category: Misheard term]
+Location: ~00:39:45 / Speaker: Lisa
+Transcript excerpt: "What is a vibe coder? This is a phrase, I don't know."
+Issue: “vibe coder” likely mishears the earlier “low-code/no-code” discussion.
+Likely intended: “no-code (or low-code)”
+Confidence: High
+Reasoning: Conversation context is software for low-code/no-code users.
+Impact: Low
+
+---
+[Error #14 - Category: Omission/Truncation]
+Location: ~00:28:45 / Speaker: Athena (and unclear speaker)
+Transcript excerpt: "Dunno if that got through to him. 'cause it was a little broken up. Yeah."
+Issue: Fragmented utterance and stray “Yeah.” suggest audio drop or misattribution.
+Likely intended: Acknowledgment of poor connection without the stray interjection.
+Confidence: Medium
+Reasoning: Preceded by known connection issues with Federico.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Logistics]
+Location: ~00:28:55-00:30:10
+Speakers involved: Athena, Federico, Cash
+Content excerpt:
+"Athena: ...we can find a time to go through because I wanna, that's gonna break up...
+Federico: This is three, 3:00 PM in the afternoon, and Tuesdays and Thursdays are not really perfect time for me...
+Athena: Oh, I think we lost him. Cash. Do you wanna send him a message?... 
+Cash: ...Federico picks his daughter up during buyer's club every day..."
+Reasoning:
+Scheduling logistics and personal note about picking up a daughter; not related to deal analysis or structuring.
+Context impact: None—business discussion resumes with Michael’s deal.
+Recommended action: REMOVE ~00:28:55-00:30:10
+
+---
+[REMOVAL #2 - Type: Personal aside]
+Location: ~00:51:40-00:52:05
+Speakers involved: Athena
+Content excerpt:
+"Oh, I got little Gamora. That's my little helper back here. She's helping with the financial modeling. Sorry."
+Reasoning:
+Brief personal aside unrelated to the business discussion.
+Context impact: None.
+Recommended action: REMOVE ~00:51:40-00:52:05
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:01:20-00:06:20
+Content excerpt:
+Discussion of books (Tax-Free Wealth, I Will Teach You To Be Rich, Profit First) and Relay banking setup for multiple accounts.
+Business relevance argument: Educational for buyers/owners on personal and business cash management, taxes, and profit allocation—useful operational context for acquirers.
+Personal content argument: Leans into general personal finance and bank product recommendations, not specific to any active deal.
+Recommendation: KEEP—Educational content relevant to small business owners and acquirers.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:06:10-00:08:05
+Content excerpt:
+Estate planning discussion (wills, trusts, probate concerns, seller’s business continuity).
+Business relevance argument: Directly relevant to business owners and sellers, touches on legal planning and continuity—core to exit readiness.
+Personal content argument: Includes anecdotal comments and generalized remarks about lawsuits in the US.
+Recommendation: KEEP—Materially relevant to owner-operators and succession planning.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: ~01:08:30-01:09:20
+Content excerpt:
+“On Thursday… Acquiring Minds episode/webinar… building your personal searcher brand… later, Midwest CPA session on financial statements 101…”
+Business relevance argument: Educational opportunities for buyers; supports learning on acquisition branding and financial statements.
+Personal content argument: Administrative announcements and scheduling; not part of deal analysis or client-specific content.
+Recommendation: REMOVE—If the goal is a tighter, deal-focused transcript. Context impact: Low.
+
+---
+
+Segment Mapping Summary
+- KEEP:
+  - 00:00:00-00:01:20 Introductions and agenda (brief, sets context)
+  - 00:01:20-00:06:20 Finance/operations education (books, Profit First, Relay) [Borderline, recommend Keep]
+  - 00:06:10-00:08:05 Estate planning topic and implications [Borderline, recommend Keep]
+  - 00:08:05-00:27:30 Justin’s roofing deal (LOI, QoE, DSCR, seller terms, performance note)
+  - 00:30:10-01:08:30 Michael’s software deal (declining revenue, low/no-code, competition, offer structure, QoE, performance-based forgivable note, SBA constraints, working capital, modeling)
+- REMOVE:
+  - 00:28:55-00:30:10 Scheduling/personal logistics re: Federico [Small Talk]
+  - 00:51:40-00:52:05 “Gamora” personal aside
+- BORDERLINE REMOVE (low impact):
+  - 01:08:30-01:09:20 Closing announcements about upcoming webinars
+
+Speaker Attribution Validation Notes
+- Potential name/pronoun mismatch for the broker (“Claudia” vs repeated “he”), suggesting an entity name ASR error (likely “Claudio”). Flagged above (Error #6).
+- One stray interjection “Yeah.” during a reported audio issue, likely misattributed (Error #14).
+
+Cross-Reference/Consistency Notes
+- QoE referenced multiple times but once misheard as “QFP” (Error #2).
+- DSCR referenced once as “DCR R” (Error #3).
+- Law firm name appears as two variants (Error #5).
+- LOI referred to incorrectly as “LI and I” once (Error #4).
+- Net working capital repeatedly discussed; one “networking capital” misstatement (Error #9).
+
+Patterns to Flag for ASR Improvement
+- Acronyms in M&A contexts (QoE, DSCR, LOI) frequently misrecognized.
+- Proper nouns (person names, firm names) inconsistently rendered.
+- Homophones around “cash at close” and “net working capital.”
+- Occasional truncations with remote participants (car/connection issues).

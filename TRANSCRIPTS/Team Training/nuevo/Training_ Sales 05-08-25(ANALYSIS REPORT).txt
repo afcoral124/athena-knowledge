@@ -1,0 +1,272 @@
+Below is a focused error and relevancy analysis of the provided transcript. I’ve prioritized high-impact ASR issues (acronyms/terms, numbers, entities) and mapped out non-business content for removal, plus a couple of borderline segments for review.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Financial/Numerical]
+Location: ~0:18 / Speaker: Austin Lortie
+Transcript excerpt: "if put a business in front you, that's two, five, but like meets all your criteria."
+Issue: "two, five" is ambiguous and ill-formed in a pricing context.
+Likely intended: "$2–5 million" purchase price range (i.e., “two to five”).
+Confidence: Medium
+Reasoning: Context is capital requirements for a business acquisition; ranges like “two to five million” are common.
+Impact: High - affects understanding of deal size.
+
+[Error #2 - Category: Semantic Inconsistency]
+Location: ~1:36 / Speaker: Austin Lortie
+Transcript excerpt: "…20k to signed LOI? Like, is that something that would move the needle for me?"
+Issue: “for me” doesn’t fit; he’s asking if the structure appeals to the client.
+Likely intended: “…move the needle for you?”
+Confidence: Medium
+Reasoning: Sales framing suggests checking whether the proposal helps the buyer.
+Impact: Medium
+
+[Error #3 - Category: Business Terminology Distortion]
+Location: ~3:02 / Speaker: Athena Simpson
+Transcript excerpt: "…adding a 20 pay or whatever, saying that they'd have to pay at signing LOI…"
+Issue: “20 pay” is likely a mishear.
+Likely intended: “20k”
+Confidence: High
+Reasoning: Prior discussion is explicitly about a $20k tranche.
+Impact: Medium
+
+[Error #4 - Category: Entity Names (Inconsistency)]
+Location: ~5:55–7:15 / Speakers: Athena and Austin
+Transcript excerpt: "…Like Nassam has a whole team…"; "…how he works with Masam."
+Issue: Inconsistent spelling of the same person/team ("Nassam" vs "Masam").
+Likely intended: Single consistent name (e.g., “Nassim”).
+Confidence: Medium
+Reasoning: Both references clearly point to the same off/on-market sourcing partner/team.
+Impact: Medium - potential confusion about who’s being referenced.
+
+[Error #5 - Category: Financial/Numerical + Semantic]
+Location: ~7:59–8:09 / Speakers: Austin/Athena
+Transcript excerpt: "Too great. 54, Yeah. Well, you're not a person is what I was thinking, but it's lower than that."
+Issue: Phrase is garbled; numbers and logic don’t track with preceding per-person cost breakdown.
+Likely intended: A simple check that per-person cost is “~$700/month” after $70k/14 months/7 people math.
+Confidence: Low-Medium
+Reasoning: Preceding statement calculates ~$700/person/month; this line reads as ASR noise.
+Impact: Medium - obscures pricing breakdown clarity.
+
+[Error #6 - Category: Business Terminology Distortion]
+Location: ~18:XX / Speaker: Athena Simpson
+Transcript excerpt: "…templates that we're using with Fathomarket sourcing."
+Issue: “Fathomarket” is not a known term.
+Likely intended: “off-market sourcing.”
+Confidence: High
+Reasoning: Entire section is about off-market deal sourcing process/templates.
+Impact: Medium
+
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~25:31 / Speaker: Athena Simpson
+Transcript excerpt: "Burger got kind of  with him, gave him some advice…"
+Issue: “Burger” misheard for “broker.”
+Likely intended: “Broker got kind of [upset/testy] with him…”
+Confidence: High
+Reasoning: Conversation is about broker interactions and working capital negotiation.
+Impact: High - changes the entity being referenced.
+
+[Error #8 - Category: Business Terminology Distortion]
+Location: ~26:18 / Speaker: Athena Simpson
+Transcript excerpt: "…we're giving you 30 days of networking capital…"
+Issue: Misheard term.
+Likely intended: “net working capital” (NWC) or simply “working capital.”
+Confidence: High
+Reasoning: Standard deal term is (net) working capital.
+Impact: High - critical financial term.
+
+[Error #9 - Category: Homophone/Near-Homophone]
+Location: ~26:18 / Speaker: Athena Simpson
+Transcript excerpt: "…after your accounts go through things, after my accounts go through things."
+Issue: “accounts” likely misheard for “accountants.”
+Likely intended: “…after your accountants… after my accountants…”
+Confidence: High
+Reasoning: In diligence context, accountants review working capital; “accounts” doesn’t fit.
+Impact: Medium
+
+[Error #10 - Category: Misheard Acronym/Term]
+Location: ~26:18 / Speaker: Athena Simpson
+Transcript excerpt: "So after QV, we'll be able to come to some middle ground about working capital."
+Issue: “QV” is likely a mishear.
+Likely intended: “QoE” (Quality of Earnings).
+Confidence: High
+Reasoning: QoE is the standard diligence step affecting WC adjustment discussions.
+Impact: High
+
+[Error #11 - Category: Omission/Truncation]
+Location: ~28:04 / Speaker: Athena Simpson
+Transcript excerpt: "…was about to accept an offer from private equity for $2 million more. However, a came back to him yesterday…"
+Issue: Missing noun after “However, a…”
+Likely intended: “However, PE came back to him yesterday…” or “they came back…”
+Confidence: Medium
+Reasoning: The antecedent is “private equity”; grammar requires a subject.
+Impact: Medium
+
+[Error #12 - Category: Business Terminology Distortion]
+Location: Multiple (e.g., ~20:08; ~23:54) / Speakers: Athena/Austin
+Transcript excerpt: "…getting SIMs, booking broker calls…"; "…reviews the full SIM."
+Issue: “SIM” is likely misheard for “CIM” (Confidential Information Memorandum).
+Likely intended: “CIM(s)”
+Confidence: High
+Reasoning: Standard M&A term is CIM; “SIM” is a common ASR error.
+Impact: High - core process document.
+
+[Error #13 - Category: Misheard Acronym]
+Location: ~14:22 and ~40:24 / Speakers: Austin/Athena
+Transcript excerpt: "…active in the EBIT communities…"; "…the EBIT WhatsApp group…"
+Issue: “EBIT” is a financial metric, not the community name.
+Likely intended: “ETA” (Entrepreneurship Through Acquisition).
+Confidence: High
+Reasoning: ETA communities/WhatsApp groups are common in SMB acquisition; EBIT would be atypical here.
+Impact: Medium-High
+
+[Error #14 - Category: Entity Name]
+Location: ~39:13 / Speaker: Athena Simpson
+Transcript excerpt: "…we get like a drip from acquiring lines."
+Issue: Entity name misheard.
+Likely intended: “Acquiring Minds” (podcast).
+Confidence: High
+Reasoning: “Renan’s episode” and lead drip context suggests Acquiring Minds podcast.
+Impact: Medium
+
+[Error #15 - Category: Entity Name]
+Location: ~40:15 / Speaker: Austin Lortie
+Transcript excerpt: "…create a new account with my AppleMatch email."
+Issue: Company name misheard.
+Likely intended: “AcquiMatch.”
+Confidence: High
+Reasoning: Company name of speakers.
+Impact: Medium
+
+[Error #16 - Category: Semantic Inconsistency/Entity Name]
+Location: ~8:45 / Speaker: Austin Lortie
+Transcript excerpt: "…our event, like really restricts. Like, look, man, I'm like, we do start to match up."
+Issue: Phrase is incoherent and likely wrong entity; later he mentions “at the event in Houston” and “Arvin/Arvind.”
+Likely intended: Reference to “Arvin/Arvind” or “the event,” but current line is garbled.
+Confidence: Low-Medium
+Reasoning: Flow suggests either the person’s name (Arvin[d]) or “the event” but current sentence is nonsensical.
+Impact: Medium
+
+[Error #17 - Category: Omission/Truncation]
+Location: ~20:51 / Speaker: Athena Simpson
+Transcript excerpt: "She remembers like every end. She signed too."
+Issue: Missing word.
+Likely intended: “every NDA she signed, too.”
+Confidence: High
+Reasoning: Conversation is about tracking NDAs and SIM/CIM logistics.
+Impact: Medium
+
+[Error #18 - Category: Entity Name]
+Location: ~51:42 / Speaker: Athena Simpson
+Transcript excerpt: "This is an Alex Formosi thing…"
+Issue: Proper name misspelled/misheard.
+Likely intended: “Alex Hormozi.”
+Confidence: High
+Reasoning: Well-known author/entrepreneur; common ASR error.
+Impact: Low-Medium
+
+[Error #19 - Category: Misheard Acronym/Term]
+Location: ~49:43 and ~50:32 / Speakers: Austin/Athena
+Transcript excerpt: "…buy side QAV."; "…Due diligence or QAV, right?"
+Issue: “QAV” misheard for “QoE.”
+Likely intended: “QoE” (Quality of Earnings).
+Confidence: High
+Reasoning: Standard diligence term; “QAV” is not standard in this context.
+Impact: High
+
+[Error #20 - Category: Entity Name (Minor)]
+Location: ~45:39 / Speaker: Austin Lortie
+Transcript excerpt: "…I've been to Live Oaks webinar…"
+Issue: Minor misnaming of lender.
+Likely intended: “Live Oak’s webinar.”
+Confidence: Medium
+Reasoning: Live Oak Bank is a well-known SBA lender.
+Impact: Low
+
+[Error #21 - Category: Homophone/Minor Grammar]
+Location: ~43:12 / Speaker: Athena Simpson
+Transcript excerpt: "That's why we haven't told it. Like, the rest of the team doesn't even know…"
+Issue: “told it” incorrect pronoun.
+Likely intended: “told them.”
+Confidence: Medium
+Reasoning: Refers to not telling the team yet.
+Impact: Low
+
+[Error #22 - Category: Semantic Inconsistency (Ambiguous)]
+Location: ~56:18 / Speaker: Austin Lortie
+Transcript excerpt: "…I'll probably run this by a couple of times. You're doing me a disservice."
+Issue: The statement conflicts with the appreciative context.
+Likely intended: Possibly “You’d be doing me a service” or “disservice by not asking”; unclear.
+Confidence: Low
+Reasoning: Preceding line thanks Athena; the “disservice” phrasing is likely ASR drift.
+Impact: Low
+
+[Error #23 - Category: Business Terminology (Unclear)]
+Location: ~51:04 / Speaker: Austin Lortie
+Transcript excerpt: "…and you're going to have RP in there as well."
+Issue: “RP” unclear in deal-cost context.
+Likely intended: Possibly “R&W [insurance]” or another fee; uncertain.
+Confidence: Low
+Reasoning: Not a standard shorthand; could be ASR mishear.
+Impact: Low
+
+
+SEGMENT MAPPING AND REMOVALS
+
+Overall mapping:
+- KEEP (Business-relevant): 0:18–41:39; 43:12–56:47 (deal financing, pricing, process, sourcing, referrals, negotiation strategy, SBA/project costs, LOI/working capital, operational/sales pipeline, action items)
+- REMOVE (Personal/off-topic): 41:46–43:12 (workplace gossip about a colleague’s resignation, secret wedding, and personal travel)
+- MIXED/BORDERLINE: brief pleasantries at 0:00–0:10; internal HR note at 32:51–33:03
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 41:46–43:12
+Speakers involved: Austin Lortie, Athena Simpson
+Content excerpt:
+"Austin: You're like, Kate, I thought you worked in a startup.
+Athena: I, I, we were, we were both, like, shocked. … 'Athena 911' … you're gonna do that to her right before her wedding without even a conversation? …
+Austin: When's her wedding? When's Anka getting married?
+Athena: Oh, you can't say anything to anyone … Ida doesn't know … 
+Austin: I don't get into workplace drama in general.
+Athena: … I'll be flying to South Africa next week … the rest of the team doesn't even know what's happening. She's going to tell everybody after…"
+Reasoning:
+Extended workplace gossip/personal life (secret wedding, travel) unrelated to business acquisition topics, client service, or training content.
+Context impact: Low—removal won’t affect understanding of the business discussion before/after.
+Recommended action: REMOVE lines 41:46–43:12
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 0:00–0:10
+Content excerpt: 
+"Austin: Doing well, how are you?
+Athena: I'm really good… I realized I left it open.
+Austin: You're good. Your dog's gonna be pushing it open anyway."
+Business relevance argument: Professional greeting is acceptable; extremely brief rapport.
+Personal content argument: Dog comment is personal and not business-related.
+Recommendation: KEEP—Brief pleasantries; removing would be unnecessary and could make the opening abrupt.
+
+[BORDERLINE #2 - Requires Review]
+Location: 32:51–33:03
+Content excerpt:
+"Athena: So Kate's decided she's not cut out for this. She gave notice yesterday… I'll be the point of… your point of… always was your point of contact…"
+Business relevance argument: Affects point-of-contact and workflow for sales/operations; some operational relevance.
+Personal content argument: Internal HR update not tied to client/deal topics.
+Recommendation: KEEP—Short, and it informs roles/process for upcoming contract/sales work.
+
+PATTERN NOTES (Useful for ASR improvement)
+- CIM consistently misheard as “SIM.”
+- QoE repeatedly misheard as “QV/QAV.”
+- ETA community misheard as “EBIT” community/group.
+- Off-market misheard as “Fathomarket.”
+- Proper nouns: “AcquiMatch”→“AppleMatch,” “Acquiring Minds”→“acquiring lines,” “Alex Hormozi”→“Formosi,” “broker”→“burger.”
+- Occasional garbled numerics/phrases in cost breakdown sections.
+- Entity name inconsistency (“Masam” vs “Nassam”).
+
+Speaker Attribution
+- No clear instances where speakers appear swapped. Exchanges generally align with roles (Athena explaining process/strategy; Austin reporting sales calls and asking process questions).
+
+Cross-Reference Consistency
+- Payment structure: 70k total; discussion of 30k upfront minimum; seven-to-eight month payment schedule—internally consistent.
+- SBA/project cost explanation appears consistent once terminology errors are corrected in review (QoE, accountants, CIM).
+- Partner names: “Andre” and “Dave Collinson” used consistently; “Masam/Nassam” inconsistent as noted.
+
+If you want, I can produce a condensed “clean map” of KEEP/REMOVE segments with timestamps to guide transcript refining.

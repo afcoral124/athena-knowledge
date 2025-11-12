@@ -1,0 +1,166 @@
+Segment mapping (approximate)
+- 00:00:00–00:01:05: Greetings and weather small talk. REMOVE
+- 00:01:05–00:03:10: Meeting purpose; recap of last session; intro of team member (David) and his role. KEEP
+- 00:03:10–00:13:20: Justin’s reflections on risk, leverage, early post-close moves; Athena on J-curve and financing structure differences (SBA vs 100% seller financing). KEEP
+- 00:13:20–00:21:30: Post-close integration: change management, brand timing, key employees, culture; preview of upcoming speaker (Nash). KEEP
+- 00:21:30–00:28:30: EOS/Traction and VTO overview; quarterly planning, prioritization. KEEP
+- 00:28:30–00:38:00: Polly’s small-business ops experience; change pacing; staff communication. KEEP
+- 00:38:00–00:44:30: Resiliency, worst-case planning, hard conversations, W-2 fallback; segue to BJJ black belt analogy. MIXED/Borderline (lean KEEP; see Borderline #1)
+- 00:47:00–00:51:10: Deal updates: Joe (HVAC and playground flooring LOIs). KEEP
+- 00:51:10–01:04:30: Jason updates (skylights deal status, lender outreach, office suites target, off-market dynamics). KEEP; brief puppy aside should be removed (see Removal #2)
+- 01:04:30–01:05:00: Closing logistics for next sessions; brief remark about Jason’s dog. MIXED (remove last line; see Removal #3)
+
+Detected transcription errors
+
+[Error #1 - Category: Entity names (proper noun inconsistency)]
+Location: 00:01:05–00:13:20 / Speakers: Athena, others
+Transcript excerpt: "...last week with Ranaan... update on the... after happily ever after from Renan... you know, we're not just took over the business as is..."
+Issue: The guest’s name appears as “Ranaan,” “Renan,” and is repeatedly rendered as “we’re not.”
+Likely intended: “Renan” (same person referenced throughout); “we’re not” should be “Renan.”
+Confidence: High
+Reasoning: Same individual is referenced; “we’re not” is a classic ASR substitution for a short, uncommon name. Intra-call references are inconsistent.
+Impact: Medium – causes confusion about the person discussed.
+
+[Error #2 - Category: Business terminology distortion]
+Location: ~00:18:10 / Speaker: Athena
+Transcript excerpt: “...he did a lot in terms of, like, structuring, para pursue, and the whole thing.”
+Issue: “para pursue” is not a recognized finance term in deal structuring.
+Likely intended: “pari passu” (equal ranking among creditors/instruments)
+Confidence: High
+Reasoning: “Pari passu” is common in deal structures; phonetic similarity explains the error.
+Impact: Medium – affects clarity of the financing structure described.
+
+[Error #3 - Category: Misheard acronyms/abbreviations]
+Location: ~00:12:00 / Speaker: Athena
+Transcript excerpt: “...I don't even know if they properly. Calculated like, A. R. E. A. P. working capital.”
+Issue: Garbled sequence of letters around working capital components.
+Likely intended: “A/R, A/P, working capital”
+Confidence: High
+Reasoning: Accounts receivable (A/R) and accounts payable (A/P) are standard working capital components; the transcript shows letter-by-letter misrecognition.
+Impact: High – obscures a core financial concept.
+
+[Error #4 - Category: Misheard acronym]
+Location: ~00:57:30 / Speaker: Athena
+Transcript excerpt: “...once the bank starts getting involved and the QV involved and that sort of thing.”
+Issue: “QV” in diligence context is uncommon.
+Likely intended: “QoE” (Quality of Earnings)
+Confidence: High
+Reasoning: QoE is the standard diligence term in SMB acquisitions; “QV” is likely an ASR slip.
+Impact: High – key diligence concept misrendered.
+
+[Error #5 - Category: Semantic inconsistency]
+Location: ~00:18:00–00:21:00 / Speaker: Athena
+Transcript excerpt: “...he did a 6 million dollar deal. Uh, it was 1.5 in, uh, earnings. So, and he got a 2x on it.”
+Issue: “Got a 2x on it” is unclear/inconsistent with the numbers provided (6.0 price vs 1.5 earnings implies ~4.0x multiple).
+Likely intended: Unclear – could refer to another metric (e.g., DSCR) or misstatement of multiple.
+Confidence: Low-Medium
+Reasoning: Without more context, “2x” could mean different things; however, as stated, it conflicts with the immediately cited figures.
+Impact: Medium – may mislead about valuation/multiple.
+
+[Error #6 - Category: Semantic inconsistency]
+Location: ~00:18:00–00:21:00 and ~00:36:30–00:37:30 / Speaker: Athena
+Transcript excerpt: “...transmission auto repair business... got rid of all the crazy folders... insurance claims and stuff like that with restoration.”
+Issue: Industry described as “transmission auto repair,” then later process references align more with a restoration company (insurance-claim-heavy workflows).
+Likely intended: Either (a) the business is “restoration,” not “transmission,” or (b) the insurance claim remark pertains to a different example.
+Confidence: Medium
+Reasoning: Insurance claims are central to restoration; less typical for a pure transmission shop. The internal inconsistency suggests an ASR or recall mix-up.
+Impact: Medium – may confuse the nature of the featured acquisition.
+
+[Error #7 - Category: Homophone/near-homophone]
+Location: ~00:51:40 / Speaker: Jason
+Transcript excerpt: “...and then we've got a mean schedule already.”
+Issue: “mean schedule” doesn’t fit context.
+Likely intended: “meeting scheduled already”
+Confidence: High
+Reasoning: Context is outreach and scheduling; “meeting scheduled” fits.
+Impact: Low – minor but noticeable.
+
+[Error #8 - Category: Business terminology distortion]
+Location: ~00:54:40–00:56:00 / Speaker: Jason
+Transcript excerpt: “...the office suite, uh, which the broker just doesn't seem to be on his game... they’re saying all the money's coming through the virtual assistant...”
+Issue: “virtual assistant” appears used where “virtual office/virtual address/mail services” are intended in an office suites context.
+Likely intended: “virtual office” (mailing address, receptionist services)
+Confidence: Medium
+Reasoning: In office suites, revenue commonly includes virtual office plans, not “virtual assistants.” Could be speaker usage, but likely ASR substitution given surrounding content.
+Impact: Medium – affects understanding of revenue streams.
+
+[Error #9 - Category: Omission/truncation]
+Location: ~00:52:40 / Speaker: Jason
+Transcript excerpt: “...There could be a potential win win here with the financials you have right now. And, uh, the other one is the, um, office suite, uh, which the broker just doesn't seem to be on his game.”
+Issue: Transition reads abrupt; likely missing a short connective phrase (e.g., “I also reached out...”).
+Likely intended: Minor connective words omitted; not critical.
+Confidence: Low
+Reasoning: Speech disfluencies vs ASR omission; content still understandable.
+Impact: Low
+
+[Error #10 - Category: Misheard phrase leading to role confusion (pattern note)]
+Location: Multiple (e.g., “we're not just took over the business as is”)
+Transcript excerpt: “we're not just took over the business as is.”
+Issue: “we’re not” used where a person’s name should be.
+Likely intended: “Renan just took over the business as is.”
+Confidence: High
+Reasoning: See Error #1; this form appears repeatedly and can mislead the reader into thinking it is a negation rather than a name.
+Impact: Medium
+
+Segments to remove (personal/off-topic)
+
+[REMOVAL #1 - Type: Small Talk (Weather)]
+Location: ~00:00:00–00:01:05
+Speakers involved: Athena, Polly
+Content excerpt:
+“Athena: ...Hey, Justin. Nice to see you. Hi, Polly. How's it going?... The sun is shining again here in Austin... Not acceptable weather at all...
+Polly: it's so beautiful here today. It's 76 degrees and sunny. I'm like, so happy. Just so happy.”
+Reasoning:
+Extended weather/personal mood small talk not related to acquisitions, financing, or deal analysis.
+Context impact: None—business discussion begins immediately after.
+Recommended action: REMOVE ~00:00:00–00:01:05
+
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: ~00:51:05–00:51:25
+Speakers involved: Jason, Athena
+Content excerpt:
+“Jason: I'm still here. Sorry, I got it. I got a puppy, so...
+Athena: Oh, my god, a cutie.
+Jason: He just peed on the floor, so my wife's losing it, so I gotta, I'm outside.”
+Reasoning:
+Purely personal anecdote about a pet and household situation; not business-relevant.
+Context impact: None—conversation immediately returns to deal status.
+Recommended action: REMOVE ~00:51:05–00:51:25
+
+[REMOVAL #3 - Type: Small Talk (Pet compliment at close)]
+Location: ~01:04:55–01:05:00
+Speakers involved: Athena
+Content excerpt:
+“Athena: Jason's dog is so cute. Oh my God. Bye.”
+Reasoning:
+Closing pleasantry unrelated to business content.
+Context impact: None.
+Recommended action: REMOVE ~01:04:55–01:05:00
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:44:00–00:45:30
+Content excerpt: Discussion of Renan earning a Brazilian jiu jitsu black belt and explanation by Ryan on the significance (10+ years; lifestyle; acknowledgment), followed by tying it to patience and extending timelines in business.
+Business relevance argument: Used as a direct analogy for persistence, delayed gratification, and timeline realism in acquisitions; reinforces strategic mindset.
+Personal content argument: Non-business personal achievement; could be seen as motivational tangent.
+Recommendation: KEEP — The analogy clearly supports the session’s core theme (resilience, extended timelines) and informs buyer mindset.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~00:19:00–00:21:30
+Content excerpt: “...he did a 6 million dollar deal... 1.5 in earnings... and he got a 2x on it...”
+Business relevance argument: Valuation/multiple context is central to deal analysis; useful if accurate.
+Personal content argument: N/A (not personal); the issue is potential inaccuracy/ambiguity.
+Recommendation: KEEP with NOTE — Flag for speaker clarification in follow-up (what “2x” refers to), but content is business-critical.
+
+[BORDERLINE #3 - Requires Review]
+Location: ~00:36:30–00:37:30
+Content excerpt: “...got them all involved in finding the solution... then they put in a solution... they have to do insurance claims and stuff like that with restoration.”
+Business relevance argument: Describes culture and process improvement approach—highly relevant.
+Personal content argument: N/A; the ambiguity is industry (transmission vs restoration).
+Recommendation: KEEP with NOTE — Flag the industry inconsistency (see Error #6) for clarification rather than removing.
+
+Additional notes/patterns for ASR improvement
+- Person name “Renan” was repeatedly misheard as “we’re not”; ensure custom vocabulary includes frequent guest/client names.
+- Financial abbreviations and deal terms are frequently misrendered (A/R, A/P; QoE; pari passu). Domain-adapted language models or custom lexicons would reduce these.
+- Homophones in scheduling contexts (“meeting” vs “mean”) should be bias-corrected using dialog context (e.g., mention of outreach, calls, calendars).

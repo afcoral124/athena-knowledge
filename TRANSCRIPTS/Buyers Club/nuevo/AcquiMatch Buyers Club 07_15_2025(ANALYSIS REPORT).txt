@@ -1,0 +1,213 @@
+[Error #1 - Category: Entity Name]
+Location: ~00:04:10 / Speaker: Athena
+Transcript excerpt: "it was really interesting to hear him say things that I was like, oh, I've heard Layla Hormoze say that..."
+Issue: Misspelled/mis-transcribed name of a well-known business figure.
+Likely intended: "Leila Hormozi"
+Confidence: High
+Reasoning: Leila Hormozi (Acquisition.com) is a prominent, relevant figure; “Layla Hormoze” is a common ASR misspelling.
+Impact: Medium - could hinder accurate reference or follow-up.
+
+---
+[Error #2 - Category: Entity Name]
+Location: ~00:13:35 / Speaker: Athena
+Transcript excerpt: "I actually sent it to Will from acquiring Mines too."
+Issue: Podcast name appears misspelled.
+Likely intended: "Acquiring Minds"
+Confidence: High
+Reasoning: The popular podcast is “Acquiring Minds” hosted by Will Smith; “Mines” is a frequent ASR homophone error.
+Impact: Medium
+
+---
+[Error #3 - Category: Misheard Acronym/Term]
+Location: ~00:41:25 / Speaker: Athena
+Transcript excerpt: "he's certainly looked at so many of them doing qv."
+Issue: “qv” likely a mis-transcription of a standard diligence term.
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: In M&A, QoE is the standard term. “qv” has no relevant meaning here.
+Impact: High - incorrect term could confuse due diligence context.
+
+---
+[Error #4 - Category: Misheard Acronym]
+Location: ~00:24:05 / Speaker: Athena and Justin
+Transcript excerpt: "I haven't heard back about the sp alternative stuff. You mean with like Stonehenge?"
+Issue: “sp” in financing context likely misheard.
+Likely intended: "SBA alternative"
+Confidence: High
+Reasoning: They are discussing financing options; SBA (Small Business Administration) loans/alternatives are typical; “Stonehenge” (capital provider) fits that context.
+Impact: High - affects understanding of financing track.
+
+---
+[Error #5 - Category: Business Terminology Distortion]
+Location: ~00:32:20 / Speaker: Steve
+Transcript excerpt: "apparently that LOI wasn't really a solid LLOI, so..."
+Issue: “LLOI” is likely an ASR duplication.
+Likely intended: "LOI"
+Confidence: High
+Reasoning: Standard term is LOI; duplication is a common ASR artifact.
+Impact: Low
+
+---
+[Error #6 - Category: Entity Name]
+Location: ~00:41:05 / Speaker: Athena
+Transcript excerpt: "So Elliot Hollands coming back on Thursday..."
+Issue: Mis-transcribed name of a known diligence expert.
+Likely intended: "Elliott Holland"
+Confidence: High
+Reasoning: Known figure in SMB/M&A (Guardian Due Diligence). The surname shouldn’t be pluralized; first name often spelled “Elliott.”
+Impact: Medium
+
+---
+[Error #7 - Category: Entity Name]
+Location: ~00:11:05 / Speaker: Steve
+Transcript excerpt: "There's a guy... Dan Martel... buy back your time..."
+Issue: Common misspelling of author’s name.
+Likely intended: "Dan Martell"
+Confidence: High
+Reasoning: Author of “Buy Back Your Time” is Dan Martell (two Ls).
+Impact: Low
+
+---
+[Error #8 - Category: Semantic/Word Error]
+Location: ~00:27:35 / Speaker: Gil
+Transcript excerpt: "he sounds very onic, very straight to the point, very one word answer kind of person."
+Issue: “onic” does not fit; likely a clipped/misheard adjective.
+Likely intended: "laconic"
+Confidence: Medium
+Reasoning: “Laconic” matches the described behavior (brief, to-the-point answers).
+Impact: Medium
+
+---
+[Error #9 - Category: Entity Name/Homophone]
+Location: ~00:27:25 / Speaker: Gil
+Transcript excerpt: "especially after listening to the call that looped in with him."
+Issue: “looped in” here likely a mishearing of a person’s name.
+Likely intended: "the call that Luke did with him"
+Confidence: Medium
+Reasoning: “Luke” is referenced elsewhere as a team member. “looped” could be ASR substitution for “Luke did.”
+Impact: Low
+
+---
+[Error #10 - Category: Omission/Truncation]
+Location: ~00:10:05 / Speaker: Athena
+Transcript excerpt: "I've started keeping A-A-C-E-O notebook for the business..."
+Issue: Stutter/hyphenation obscures phrase.
+Likely intended: "a CEO notebook"
+Confidence: High
+Reasoning: The surrounding context discusses a “CEO notebook.” The repeated hyphens appear to be ASR stutter capture.
+Impact: Low
+
+---
+[Error #11 - Category: Semantic Inconsistency]
+Location: ~00:08:55 / Speaker: Athena
+Transcript excerpt: "I thought it was like Tito. Create a service or whatever."
+Issue: “Tito” is out of place in the phrase.
+Likely intended: "to to create a service" or "to create a service"
+Confidence: Medium
+Reasoning: Likely disfluency “to, to” transcribed as “Tito.” Context: discussing the purpose of a business.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Meeting Admin]
+Location: ~00:00:00-00:01:15
+Speakers involved: Athena, Polly, Justin
+Content excerpt:
+"Athena: i'm curious to hear what you guys thought of John's presentation last week. Gil? I can't remember. Were you there also?
+Polly: Yes, I was there.
+Athena: Paul was there. Gil, were you there?
+Polly: No.
+Athena: Oh, okay, cool. Um, so Polly was there. I think maybe Justin was there. I think Justin's joining maybe.
+Polly: Um,
+Athena: lemme see if Steve, Steve, John,
+Polly: just lemme check real quick.
+... He said he is gonna be joining in a few, he's on a call right now. Steve is."
+Reasoning:
+Attendance/roll call and connection logistics with no business substance.
+Context impact: None—discussion transitions into substantive debrief immediately after.
+Recommended action: REMOVE ~00:00:00-00:01:15
+
+---
+[REMOVAL #2 - Type: Off-Topic/Personal Anecdote]
+Location: ~00:15:00-00:15:35
+Speakers involved: Athena
+Content excerpt:
+"...once a week, he, I think it's once a week. In his, like hometown in Canada where he lives, he hosts a hike. So anyone that wants to can just show up and like do a hike with Dan. But you have to go to this like remote random town in Canada to be able to do it."
+Reasoning:
+Influencer’s personal routine adds little to the business discussion on systems/delegation.
+Context impact: Low—removal doesn’t affect understanding of the Dan Martell framework discussion.
+Recommended action: REMOVE ~00:15:00-00:15:35
+
+---
+[REMOVAL #3 - Type: Scheduling/Admin]
+Location: ~00:59:20-01:00:00
+Speakers involved: Steve, Polly, Athena
+Content excerpt:
+"Steve: Are you around tomorrow afternoon? I can't remember.
+Polly: Um, yes I am. I'm gonna, I'm gonna be gone some of the day tomorrow for some coaching stuff... but I'll be back in time for our meeting... 
+Athena: Great. We'll see you both tomorrow. Thanks so much. Have a good night.
+Polly: Thank you.
+You too. Bye. Bye."
+Reasoning:
+Pure scheduling and meeting logistics; no business insights.
+Context impact: Low—brief closing can be retained if desired, but the scheduling details are unnecessary.
+Recommended action: REMOVE ~00:59:20-00:59:55; KEEP a brief closing.
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:10:55-00:11:10
+Content excerpt: 
+"Steve: ...this weekend we moved my youngest daughter back from college... Polly and I drove out together... I did my three and a half hours or four hours of binge YouTube listening... Dan Martel..."
+Business relevance argument: Leads directly into business-relevant insights about systems and checklists from Dan Martell—sets up the learning point.
+Personal content argument: The moving-daughter sentence is personal and not necessary for understanding the ensuing business points.
+Recommendation: KEEP from “I did my three and a half hours…” onward; REMOVE the single sentence about moving his daughter. Maintains flow into relevant content.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:55:45-00:56:20
+Content excerpt:
+"Athena: ...my poor boyfriend trying to move his number from one service provider to another... it's been 20 hours... drove three hours to a store... absolute nightmare..."
+Business relevance argument: Concrete example supporting the team’s broader point about the value of exceptional human customer service and where tech can fail—ties to strategy for SMB operations.
+Personal content argument: Personal anecdote referencing a partner; not directly tied to a deal or internal processes.
+Recommendation: KEEP—It illustrates a key customer experience principle that is central to the strategic discussion at this point.
+
+---
+
+Segment Mapping Summary
+
+- KEEP (Business-Relevant):
+  - ~00:01:15-00:15:00: Debrief on John’s presentation: customer service emphasis; coach vs consultant; systems; delegation; conductor analogy; Drucker “purpose of business”; CEO notebook for M&A learning.
+  - ~00:11:10-00:15:00: Dan Martell frameworks: checklists, Buy Back Your Time, hiring process (video cover letters), replacement ladder, owner time buy-back—implementation details.
+  - ~00:16:00-00:27:00: Justin’s roofing deal update: broker feedback, LOI with EBITDA adjustment structure, timeline/decision clarity; negotiating strategy; financing (SBA alternative/Stonehenge); coworking deal with declining revenue, performance note structure.
+  - ~00:27:00-00:28:30: Gil’s seller-direct call strategy and approach.
+  - ~00:28:30-00:36:00: Franchise diligence lessons: P&L inconsistencies, expense allocation, add-backs, flagship move risk, packaging—valuation implications.
+  - ~00:36:00-00:41:00: Additional deal anecdotes and negotiation dynamics; learning takeaways.
+  - ~00:41:00-00:44:00: Upcoming Financial Statements 101 session; focus topics: P&L, balance sheet, working capital, add-backs.
+  - ~00:44:00-00:53:30: Practical AI use in SMBs: agent concepts, low-hanging fruit, internal process automation; team “Athena bot” practices.
+  - ~00:53:30-00:59:20: Customer experience philosophy (human concierge + tech backbone); offshoring best practices ideas for future session.
+
+- REMOVE (Personal/Off-Topic):
+  - ~00:00:00-00:01:15: Roll call/logistics.
+  - ~00:15:00-00:15:35: Dan’s weekly hikes personal anecdote.
+  - ~00:59:20-00:59:55: Scheduling details for next day.
+
+- MIXED (Both):
+  - ~00:10:55-00:11:10: Family move anecdote leading into Dan Martell content. See Borderline #1—recommend trimming the first personal sentence.
+
+Speaker Attribution Validation
+- Early confusion around who attended (Athena/Polly/Justin) appears to be actual conversational overlap, not ASR speaker swap. No action needed.
+
+Cross-Reference Checks
+- Financing references consistent with SBA concepts; “sp alternative” is likely SBA alternative (Error #4).
+- LOI usage consistent; a spurious “LLOI” appears later (Error #5).
+- Due diligence/QoE referenced multiple times, once mis-transcribed as “qv” (Error #3).
+- Influencer and expert names recur with inconsistencies (Errors #1, #2, #6, #7).
+
+Patterns to Note for ASR Improvement
+- Acronyms: SBA, QoE, LOI frequently misheard or distorted.
+- Proper nouns: Influencers, podcast titles, and expert names often misspelled (Hormozi, Martell, Acquiring Minds, Elliott Holland).
+- Vocabulary homophones: “laconic” → “onic”; “Luke did” → “looped.”
+- Disfluency handling: “to to” turned into “Tito”; hyphenation stutters (“A-A-C-E-O”).
+
+Overall, the business content is strong and should be largely retained. Suggested removals focus on meeting admin, minor influencer lifestyle detail, and end-of-call scheduling to streamline the transcript while preserving all substantive deal, financing, diligence, and strategy insights.

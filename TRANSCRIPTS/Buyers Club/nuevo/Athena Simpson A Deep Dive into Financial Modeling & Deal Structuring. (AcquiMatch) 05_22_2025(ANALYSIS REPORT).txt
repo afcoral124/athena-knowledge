@@ -1,0 +1,160 @@
+[Error #1 - Category: Misheard Term (Acronym/Technical)]
+Location: ~00:18:30–00:21:00 / Speaker: Athena
+Transcript excerpt: "Then we're getting to the equity ejection amount... a minimum of 5% needs to go towards your equity ejection."
+Issue: "equity ejection" appears multiple times in a financing context
+Likely intended: "equity injection"
+Confidence: High
+Reasoning: In SBA and deal structuring, the standard term is equity injection (cash put into the deal). “Ejection” is not a term used in this context. The same concept is referenced repeatedly.
+Impact: High - could confuse critical financing requirements
+
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:06:30–00:07:10 / Speaker: Athena
+Transcript excerpt: "Some of you that are gonna be using a ROB strategy, you'll need to be setting up a C Corp."
+Issue: "ROB strategy" in SBA/tax structuring context
+Likely intended: "ROBS strategy" (Rollovers as Business Start-ups)
+Confidence: High
+Reasoning: ROBS is the standard acronym for rolling over retirement funds to finance a business; “ROB” is not used.
+Impact: High - affects understanding of entity/tax setup
+
+[Error #3 - Category: Misheard Acronym (COVID relief)]
+Location: ~00:10:10–00:10:45 / Speaker: Athena
+Transcript excerpt: "Or let's say they got PPE or, uh, not PPE, um, I can't remember the name of the, the program, but the... grants that businesses were getting during COVID..."
+Issue: “PPE” is mentioned, then self-corrected as not PPE; intended COVID relief program unclear
+Likely intended: "PPP" (Paycheck Protection Program) and/or "EIDL Advance"/"ERC"
+Confidence: Medium
+Reasoning: In financial adjustments, one-time COVID relief (PPP/EIDL/ERC) is commonly removed from revenue; PPE refers to equipment, not grants/relief.
+Impact: Medium - important to classify revenue adjustments correctly
+
+[Error #4 - Category: Misheard Acronym/Truncation]
+Location: ~00:26:10–00:26:25 / Speaker: Athena
+Transcript excerpt: "You might need to refinance the whole loan at, uh, year five in order to satisfy the. BA because they don't like the seller getting paid back before they do."
+Issue: “BA” appears where “SBA” is expected
+Likely intended: "SBA"
+Confidence: High
+Reasoning: Context is SBA seniority on repayment; truncation of the initial “S” is likely ASR error.
+Impact: Medium - could mislead about lender policies
+
+[Error #5 - Category: Misheard Acronym]
+Location: ~00:28:30–00:29:10 (also repeated ~00:41:00) / Speaker: Athena
+Transcript excerpt: "We always leave the deal estimate at about 5% of the purchase price. That'll be your SBA fees, your lawyer fees, um, your QV, that should cover kind of everything..."
+Issue: "QV" mentioned in diligence cost context
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: QoE is the standard diligence product in SMB/M&A; "QV" is not a standard term here.
+Impact: High - QoE is a key diligence concept
+
+[Error #6 - Category: Semantic/Word Substitution]
+Location: ~00:47:05–00:47:30 / Speaker: Athena
+Transcript excerpt: "Hey, Mr. Suer, uh, if you put 5%... then I'll pay you like 3.65 million..."
+Issue: "Mr. Suer" in seller negotiation context
+Likely intended: "Mr. Seller" (or “sir”); “Suer” is unlikely in context
+Confidence: Medium
+Reasoning: The discussion is about negotiating with the seller; “Suer” is a homophone-like misrendering.
+Impact: Low-Medium - clarity of who is being addressed
+
+[Error #7 - Category: Omission/Truncation]
+Location: ~00:42:45–00:44:30 / Speaker: Athena
+Transcript excerpt: "You could, as the buyer, you could inject as little as like 2.5% and sometimes 0%. So what was happening was cer, like investor investment groups were backing a searcher or an operator..."
+Issue: “cer” appears as a fragment before “investor investment groups”
+Likely intended: "searcher" (or “some,” but “searcher” fits next clause)
+Confidence: Medium
+Reasoning: “backing a searcher or an operator” aligns with SMB acquisition financing; “cer” suggests a truncation.
+Impact: Medium - improves comprehension of who is being backed
+
+[Error #8 - Category: Semantic Inconsistency/Audio Garble]
+Location: ~00:43:00–00:43:25 / Speaker: Athena
+Transcript excerpt: "Well, it was, it was on the loan program funded because these, these additional deal costs up there. Also going with the guarantee fees."
+Issue: Phrase is syntactically and semantically disjointed
+Likely intended: Statement about SBA loan program/guaranty fees and defaults causing changes (content garbled)
+Confidence: Medium
+Reasoning: The surrounding discussion covers SBA guaranty fees, defaults, and SOP changes; this sentence appears corrupted.
+Impact: Medium - muddles explanation of recent SOP rationale
+
+[Error #9 - Category: Misheard Term (Homophone)]
+Location: ~00:45:20–00:45:35 / Speaker: Peter
+Transcript excerpt: "I never even knew you could use seller financing as part of equity Objection."
+Issue: “equity Objection” in place of standard term
+Likely intended: "equity injection"
+Confidence: High
+Reasoning: Consistent with the topic; aligns with earlier “ejection”/“injection” confusion.
+Impact: Medium - keeps terminology consistent
+
+
+[REMOVAL #1 - Type: Small Talk/Personal Travel]
+Location: ~00:00:00–00:01:35
+Speakers involved: Athena, Peter
+Content excerpt:
+"Athena: ... quite a few people that are traveling, including myself, so hello from Cape Town.
+Peter: Wow...
+Athena: Actually, it's not... I'm not in Cape Town anymore... Have you been to South Africa? 
+Peter: No, that's on the list... 
+Athena: Cape Town is... stunning... scenery... nature..."
+Reasoning:
+Extended personal travel chat and pleasantries with no connection to business topics.
+Context impact: None—business discussion starts immediately after.
+Recommended action: REMOVE ~00:00:00–00:01:35
+
+[REMOVAL #2 - Type: Technical/Logistical Interruption]
+Location: ~00:21:45–00:23:15
+Speakers involved: Athena
+Content excerpt:
+"So we're buying the real estate for 1 million... 
+Well that's a wonderful time for my mouse to die. It just ran outta juice. Okay, we're gonna do it this way. Apologies."
+Reasoning:
+Technical hiccup and navigation chatter that does not add business content.
+Context impact: Low—removal does not affect understanding of the deal-structure explanation.
+Recommended action: REMOVE ~00:21:45–00:23:15
+
+[REMOVAL #3 - Type: Meeting Administration]
+Location: ~00:31:20–00:31:40
+Speakers involved: Athena
+Content excerpt:
+"I'm gonna pause. I know. Uh, let me see who's still here. Who is here so far? Peter's here."
+Reasoning:
+Attendance check; not business content.
+Context impact: None.
+Recommended action: REMOVE ~00:31:20–00:31:40
+
+[REMOVAL #4 - Type: Meeting Administration]
+Location: ~00:37:10–00:37:25
+Speakers involved: Athena, Luke
+Content excerpt:
+"Athena: Hey Luke... have we seen any sign from Justin?
+Luke: No, Justin has not joined yet."
+Reasoning:
+Scheduling/status update unrelated to deal content.
+Context impact: None.
+Recommended action: REMOVE ~00:37:10–00:37:25
+
+[REMOVAL #5 - Type: Technical Aside]
+Location: ~00:51:10–00:51:30
+Speakers involved: Athena, Peter
+Content excerpt:
+"Athena: I wasn't sharing my screen that whole time. Oh my goodness.
+Peter: That's fine."
+Reasoning:
+Meta-comment about screen sharing; no business value.
+Context impact: None.
+Recommended action: REMOVE ~00:51:10–00:51:30
+
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:38:00–00:39:00
+Content excerpt: "Next week we're gonna be bringing on Henry... investor 101... Then the following week we're gonna have Denise... horror story of buying a business..."
+Business relevance argument: Program content relevant to buyers seeking education on investor terms and lessons learned—useful context for the community.
+Personal content argument: Scheduling and promotional in nature; not directly tied to the modeling walkthrough.
+Recommendation: KEEP—still business/educational context for Buyers Club participants.
+
+BORDERLINE/Context notes:
+- Brief interjections like "Great. Great.", "Agreed." should be kept for flow; they are minimal and do not warrant removal per guidelines.
+
+Speaker attribution validation:
+- No clear speaker misattributions detected; Q&A roles align logically (Athena explains; Peter asks; Luke provides attendance update).
+
+Cross-reference and pattern flags:
+- Pattern: ASR consistently mishears "equity injection" as "equity ejection" (and once as “equity Objection”). Suggest targeted ASR tuning for “injection.”
+- Pattern: Acronyms frequently misrendered (ROBS→ROB; SBA→BA; QoE→QV). Recommend boosting vocabulary for SBA/M&A terms (ROBS, QoE, PPP/EIDL/ERC, SBA 7(a), 504, DSCR, SDE, EBITDA).
+
+Summary impact:
+- High-impact errors primarily involve financing terminology (equity injection, ROBS, QoE) and SBA references; correcting these will materially improve comprehension of deal structure and lender requirements.
+- Proposed removals trim non-business chatter and technical interruptions without affecting the educational/business content.

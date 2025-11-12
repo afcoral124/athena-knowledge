@@ -1,0 +1,224 @@
+[Error #1 - Category: Misheard Acronym]
+Location: Speaker: Bill (early section describing agenda)
+Transcript excerpt: "...we're going to jump into the yellow. I, and then there's going to be lots of discussions..."
+Issue: "yellow. I" appears where LOI is intended
+Likely intended: "LOI"
+Confidence: High
+Reasoning: The session is about LOI templates; “yellow” is also used for highlight color, but “yellow. I” as the object of “jump into” is nonsensical. LOI is a common ASR miss-hear.
+Impact: High - key document name mis-stated; could confuse readers
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: Speaker: James David (template walkthrough)
+Transcript excerpt: "this is the current version of the. Li template on the left..."
+Issue: "Li template" is likely LOI
+Likely intended: "LOI template"
+Confidence: High
+Reasoning: He is screen-sharing the letter of intent template; “Li” is a common ASR truncation of “LOI.”
+Impact: High - document name clarity
+
+---
+[Error #3 - Category: Misheard Acronym]
+Location: Multiple speakers (mid-late discussion)
+Transcript excerpt: 
+- "we're going to have a QB chat on January 9th"
+- "before we order the QB"
+- "the cost of the diligence provider, which is usually the key week"
+Issue: "QB" and “key week” in diligence context
+Likely intended: "QoE (Quality of Earnings)"
+Confidence: High
+Reasoning: QoE is standard in financial diligence; “QB”/“key week” are characteristic ASR errors for “Q-of-E.”
+Impact: High - core diligence concept misnamed
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: Speaker: James David (LOI price breakdown)
+Transcript excerpt: "If it needs to be on standby, you need to put that in here... if you need to count it for equity introduction for the SBA requirements..."
+Issue: "equity introduction" in SBA context
+Likely intended: "equity injection"
+Confidence: High
+Reasoning: SBA financing requires an equity injection; “introduction” is a common substitution error.
+Impact: High - changes technical meaning for SBA compliance
+
+---
+[Error #5 - Category: Entity names (companies)]
+Location: Speaker: Athena (intro)
+Transcript excerpt: "Bill and James David are William and Barlow law group."
+Issue: Firm name order/name appears incorrect
+Likely intended: "Barlow & Williams Law Group"
+Confidence: High
+Reasoning: Later, Bill says “Barlow and Williams… I’m Bill Barlow, that’s James David Williams.” The intro reverses/swaps names.
+Impact: Medium - brand/name accuracy
+
+---
+[Error #6 - Category: Entity names (media)]
+Location: Speaker: Athena (intro)
+Transcript excerpt: "They are now famous. Thanks to acquiring your mind."
+Issue: Misnamed podcast/media
+Likely intended: "Acquiring Minds"
+Confidence: High
+Reasoning: “Acquiring Minds” (host Will Smith) is a well-known SMB/M&A podcast/webinar; “acquiring your mind” is an ASR artifact.
+Impact: Medium - external reference accuracy
+
+---
+[Error #7 - Category: Misheard Acronym]
+Location: Speaker: James David (buyer identity)
+Transcript excerpt: "it's okay if this is just you as an individual... If you have your LOC form..."
+Issue: "LOC" in entity-formation context
+Likely intended: "LLC"
+Confidence: High
+Reasoning: Buyers form LLCs; “LOC” is a very common ASR swap for “LLC.”
+Impact: High - legal entity reference
+
+---
+[Error #8 - Category: Misheard Acronym]
+Location: Speaker: James David (stock/equity paragraph)
+Transcript excerpt: "if you're buying the equity, by the stock or membership units, or, you know, if it's an OFC..."
+Issue: "OFC" in entity-structure context
+Likely intended: "LLC"
+Confidence: High
+Reasoning: Standard U.S. structure is LLC; “OFC” is an ASR mis-hear.
+Impact: High - legal entity reference
+
+---
+[Error #9 - Category: Business terminology distortion]
+Location: Speaker: James David (deal structure)
+Transcript excerpt: "seller role, seller equity role... under SBA guidance"
+Issue: "role" vs. "roll" in equity rollover context
+Likely intended: "seller roll" / "seller equity roll"
+Confidence: High
+Reasoning: Term of art is “roll” (equity rollover). “Role” is a homophone error.
+Impact: Medium - technical term precision
+
+---
+[Error #10 - Category: Omission/Truncation]
+Location: Speaker: James David (boilerplate)
+Transcript excerpt: "these next few paragraphs... you'll be drafting the."
+Issue: Sentence truncation
+Likely intended: "you’ll be drafting the definitive agreement" or similar
+Confidence: Medium
+Reasoning: Prior sentence refers to definitive agreements; “the.” indicates clipped output.
+Impact: Low - local clarity issue
+
+---
+[Error #11 - Category: Omission/Truncation]
+Location: Speaker: Bill (real estate)
+Transcript excerpt: "if they're just leasing it, and you're continuing the lease, you don't really need to include that in the."
+Issue: Sentence truncation
+Likely intended: "...include that in the LOI."
+Confidence: Medium
+Reasoning: He’s listing what to include in the LOI; sentence ends abruptly.
+Impact: Low - local clarity issue
+
+---
+[Error #12 - Category: Semantic inconsistency]
+Location: Speaker: James David (governing law)
+Transcript excerpt: "We won't want governing law."
+Issue: “Won’t want” contradicts the purpose of the clause
+Likely intended: "We want governing law [to be X]" or "We would want..."
+Confidence: Medium
+Reasoning: Standard LOIs state governing law; phrasing likely an ASR slip.
+Impact: Low - minor clarity
+
+---
+[Error #13 - Category: Misheard phrase]
+Location: Speaker: Bill (firm intro)
+Transcript excerpt: "that’s sort of our schick."
+Issue: Nonstandard spelling/pronunciation for “shtick”
+Likely intended: "shtick"
+Confidence: Medium
+Reasoning: Common idiom; “schick” is likely ASR approximation.
+Impact: Low - does not alter meaning
+
+---
+[Error #14 - Category: Misheard phrase]
+Location: Speaker: James David (earnest money workaround)
+Transcript excerpt: "If I can't get you a commitment letter in 30 days, it laps up."
+Issue: “laps up” in timing context
+Likely intended: "it lapses"
+Confidence: High
+Reasoning: Standard phrase is “the agreement/exclusivity lapses” when a deadline passes.
+Impact: Low-Medium - readability
+
+---
+[Error #15 - Category: Speaker/Name inconsistency]
+Location: Early segment and later interjection
+Transcript excerpt: 
+- "we might need to mute Chris there, Anka."
+- "Anke: is"
+Issue: Inconsistent spelling of name and stray fragment line
+Likely intended: Consistent “Anke”; and the "is" line may be clipped/attributed incorrectly
+Confidence: Medium
+Reasoning: ASR commonly varies uncommon names; the one-word line suggests truncation or misattribution.
+Impact: Low - minor confusion
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: Opening greetings prior to business setup (first minute; initial lines after [00:00:00])
+Speakers involved: Athena, Andrew (brief), others referenced
+Content excerpt:
+"Athena: Hello. Hello. Hello... Hey, Andrew. Hey, Lindsay. Jason's here. Joe's here. Joe, that's a nice shirt. I don't often get to see you in the work wear... Hey, what's up? A nice mug... branding..."
+Reasoning:
+Pure social greetings and comments on attire/mugs/branding with no business content.
+Context impact: None—business content begins immediately after with session purpose and LOI topic.
+Recommended action: REMOVE opening small-talk lines through "...branding."
+
+---
+[REMOVAL #2 - Type: Small Talk (embedded)]
+Location: Early in Q&A when Andrew begins his first question
+Speakers involved: Andrew
+Content excerpt:
+"Andrew: ...It is funny. We all consume enough of this content. So it's like I'm talking to celebrities right now..."
+Reasoning:
+Personal/fan commentary not relevant to dealmaking or LOI content; the rest of Andrew’s question is business-relevant.
+Context impact: None—removing this sentence preserves the question flow.
+Recommended action: REMOVE the celebrity/fan-comment sentence only; KEEP the question that follows.
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: Closing administrative remarks
+Content excerpt: "We recorded this whole thing... it's going to go on your dashboard... We'll coordinate to get the LOI template... How can they best engage with you?"
+Business relevance argument: Provides actionable next steps, access to the LOI template, and how to engage counsel—useful for participants.
+Personal content argument: Administrative/logistical info may be extraneous in a cleaned transcript intended solely for educational content.
+Recommendation: KEEP—This admin content is operationally relevant for buyers and ties directly to using the discussed materials and services.
+
+---
+
+[BORDERLINE #2 - Requires Review]
+Location: Final closing pleasantries
+Content excerpt: "Thanks so much. We'll see you... Yay. Let's buy some businesses."
+Business relevance argument: Serves as meeting closure; minimal text, preserves natural end.
+Personal content argument: Pure pleasantry; no instructional value.
+Recommendation: KEEP (Low impact; very brief). Remove only if strict brevity is required.
+
+---
+
+Pattern/Cluster Notes for ASR Improvement
+- LOI consistently misrecognized as “yellow. I” and “Li,” especially when “yellow” highlights were mentioned. Train model to prefer “LOI” in M&A contexts, even when “yellow” appears nearby.
+- QoE repeatedly misrecognized as “QB” and even “key week.” Map “Q of E,” “Q-o-E,” and “quality of earnings” phonetics.
+- LLC frequently misrecognized as “LOC” and “OFC.” Reinforce entity acronyms in legal contexts.
+- “Equity injection” in SBA contexts misheard as “equity introduction.” Prioritize “injection” with SBA mentions.
+- Names/entities: “Barlow & Williams” vs “William and Barlow”; “Acquiring Minds” vs “acquiring your mind.” Improve proper noun detection for industry-specific entities.
+- Occasional sentence truncations suggest clipping at clause ends; review segmentation settings to reduce cutoffs mid-sentence.
+
+Segment Mapping (high level)
+- Opening greetings and chit-chat: REMOVE (see Removal #1)
+- Athena’s session overview, intro of lawyers/firms, purpose (LOI template, process): KEEP
+- When/How to engage attorneys; cost considerations: KEEP
+- LOI template walkthrough (structure, price breakdown, seller note, working capital, inventory, exclusivity, conditions): KEEP
+- Real estate/lease considerations; landlord consent risks: KEEP
+- Broker-provided forms and risks; “binding offer,” “neutral attorney”: KEEP
+- Common buyer mistakes (earnouts, working capital, overcomplication, SBA constraints): KEEP
+- Diligence retrade dynamics; multiples, metrics in LOI, accrual conversions: KEEP
+- Earnest money discussion and alternatives: KEEP
+- Market shifts and structures (SBA rule changes, equity roll, investors): KEEP
+- Stock vs asset deals and tax implications; price adjustments: KEEP
+- IOI vs LOI usage: KEEP
+- Engagement model and flat-fee milestones: KEEP
+- Closing/admin/logistics: KEEP (borderline but useful)
+
+Speaker Attribution Validation
+- One stray “Anke: is” line likely truncated/misattributed.
+- Otherwise Q&A flow largely coherent (questions from Athena/Andrew; responses from Bill/James David).

@@ -1,0 +1,224 @@
+Segment mapping overview
+- 0:17–1:56: Greetings; quick debrief; Jason timing and recent calls. KEEP (business setup and planning)
+- 1:56–4:35: Athena requests client-overview goals; HubSpot review plan; team performance feedback and sources for market updates. KEEP
+- 4:35–6:29: Off-market leads (content marketing biz; HVAC in OK); on-market list setup. KEEP
+- 5:56–7:29: High-priority pipeline items (HVAC, roofing price/valuation discussion). KEEP
+- 7:29–9:11: Flooring business concerns; broker follow-ups. KEEP
+- 9:19–17:29: Client unresponsive/sick; broker etiquette; plan to send holding messages (ChatGPT suggestion). KEEP (operational risk and broker relationship management)
+- 17:33–21:26: Gas station with contamination; environmental due diligence (Phase I/II) discussion. KEEP (educational/financing impact)
+- 21:32–24:03: Client Gil status; off-market write-up; expectation management. KEEP
+- 24:03–41:34: Client JJ/Jenny low deal flow; scope expansion (geography/online/absentee); broker outreach tactics; platforms (PE, Axial); internal deal team parameters. KEEP
+- 41:34–42:42: Efficiency/training; recording “smash sessions.” KEEP
+- 42:42–44:04: Jason LOI and other pipeline items (office suites; interior design/home remodeling). KEEP
+- 44:04–46:52: Client AH/Andrew in OK; unresponsive broker follow-up; O&G training deals. KEEP
+- 46:52–51:18: LOI/model feedback (equity injection, seller note %); fee treatment in model. KEEP (financing/structuring)
+- 51:51–53:27: SBA terms for deals with real estate >51% (rate and amortization). KEEP (educational)
+- 53:27–end: Final reminders and next steps. KEEP
+
+No segments recommended for removal. Brief pleasantries and light banter are minimal and interwoven with business content.
+
+Detected transcription errors
+[Error #1 - Category: Misheard Acronym]
+Location: 0:49 – Athena Simpson
+Transcript excerpt: "…remind me what you've already talked through the L.Y."
+Issue: “L.Y.” in deal context
+Likely intended: “LOI”
+Confidence: High
+Reasoning: LOI (Letter of Intent) is standard in M&A; “L.Y.” is nonsensical here.
+Impact: High
+
+[Error #2 - Category: Entity Name]
+Location: 2:32 – AcquiMatch Team
+Transcript excerpt: "…let's start with the half a spot."
+Issue: “half a spot” in CRM context
+Likely intended: “HubSpot”
+Confidence: High
+Reasoning: They immediately refer to opening/using HubSpot; phonetic confusion.
+Impact: Medium
+
+[Error #3 - Category: Entity Name]
+Location: 3:58 – Luke Gillespie
+Transcript excerpt: "…more sources than just listening to acquiring mine's episodes…"
+Issue: Podcast name distorted
+Likely intended: “Acquiring Minds”
+Confidence: High
+Reasoning: “Acquiring Minds” is a known ETA podcast; possessive/mishearing common.
+Impact: Low
+
+[Error #4 - Category: Omissions/Truncations + Semantic Inconsistency]
+Location: 0:27 – AcquiMatch Team
+Transcript excerpt: "…glad you were able to. Cover the Joe party, seem cheerful or glad that you."
+Issue: Fragmented sentence; “Joe party” unclear
+Likely intended: “cover the Joe [property/deal], seemed cheerful…”
+Confidence: Low-Medium
+Reasoning: They reference “the Joe one” later; fragmented phrasing suggests ASR drops.
+Impact: Medium
+
+[Error #5 - Category: Omissions/Truncations]
+Location: 7:11 – Athena Simpson
+Transcript excerpt: "…that’s in the do right up stage, up completed."
+Issue: Broken phrasing obscures status
+Likely intended: “That’s in the ‘do write-up’ stage, not completed.”
+Confidence: Medium
+Reasoning: Context: write-up in progress; “up completed” likely “not completed.”
+Impact: Medium
+
+[Error #6 - Category: Misheard Acronym]
+Location: 9:19 – Luke Gillespie
+Transcript excerpt: "…we just haven’t sent that over because she hasn’t signed. The India yet."
+Issue: “India” in NDA context
+Likely intended: “NDA”
+Confidence: High
+Reasoning: Standard confidentiality in deal processing.
+Impact: High
+
+[Error #7 - Category: Semantic Inconsistency]
+Location: 9:47 – AcquiMatch Team
+Transcript excerpt: "…she showed up to like one virus."
+Issue: “virus” nonsensical in attendance context
+Likely intended: “one of ours” (calls/meetings)
+Confidence: Medium
+Reasoning: Discussion is attendance on calls; “virus” is phonetic error.
+Impact: Medium
+
+[Error #8 - Category: Omissions/Truncations]
+Location: 12:04 – Athena Simpson
+Transcript excerpt: "I can see if I can get off the"
+Issue: Sentence cut off
+Likely intended: “get off the [message/update to brokers]”
+Confidence: Low
+Reasoning: Follows guidance on messaging brokers.
+Impact: Low
+
+[Error #9 - Category: Semantic Inconsistency]
+Location: 12:04–13:00 – Athena Simpson
+Transcript excerpt: "…this is somebody that we Sartime…"
+Issue: “Sartime” nonsensical
+Likely intended: “waste our time”
+Confidence: Medium
+Reasoning: Fits broker-relations context (not wanting brokers to feel time was wasted).
+Impact: Medium
+
+[Error #10 - Category: Business Terminology Distortion]
+Location: 19:41 – Luke Gillespie
+Transcript excerpt: "…squirrel samples have been improving…"
+Issue: “squirrel samples” in environmental context
+Likely intended: “soil samples”
+Confidence: High
+Reasoning: Environmental contamination testing uses soil samples; “squirrel” is classic ASR error.
+Impact: High
+
+[Error #11 - Category: Financial/Numerical]
+Location: 21:51 – AcquiMatch Team
+Transcript excerpt: "…I just need those 20 people of financials."
+Issue: Nonsensical phrase replaces a year reference
+Likely intended: “2024 financials”
+Confidence: High
+Reasoning: Earlier they say “2024 financials”; ASR garbled “twenty twenty-four.”
+Impact: Medium
+
+[Error #12 - Category: Entity Name]
+Location: 27:30 – AcquiMatch Team
+Transcript excerpt: "…we have told Hawkeye, anything that whatever it costs…"
+Issue: Team member name misheard
+Likely intended: “Anka”
+Confidence: High
+Reasoning: “Anka” is referenced repeatedly as team lead.
+Impact: Medium
+
+[Error #13 - Category: Semantic Inconsistency]
+Location: 30:02 – AcquiMatch Team
+Transcript excerpt: "…I was like, hey, I’m looking for deals. Can you help me? What do you have? I’m an active fire 18 wasn’t very helpful…"
+Issue: “active fire 18” nonsensical
+Likely intended: “active buyer; it wasn’t very helpful”
+Confidence: High
+Reasoning: Fits outreach to brokers; “fire 18” is phonetic/ASR artifact.
+Impact: Medium
+
+[Error #14 - Category: Semantic Inconsistency]
+Location: 31:30–31:34 – AcquiMatch Team
+Transcript excerpt: "…let’s do that. Let’s just- Yeah, already imprisoned that one."
+Issue: “imprisoned” nonsensical
+Likely intended: “already in process on that one” or “already implemented”
+Confidence: Medium
+Reasoning: They discussed purchasing/subscribing; “imprisoned” is phonetic error.
+Impact: Low-Medium
+
+[Error #15 - Category: Entity Names + Omissions]
+Location: ~43:00 – Luke Gillespie
+Transcript excerpt: "…hub spot list… been headed over… office rental crown office suites Eric Tom nary…"
+Issue: Multiple distortions (HubSpot, “handed over,” company and person names)
+Likely intended: “HubSpot list… handed over… Crown Office Suites… Eric [surname unclear]”
+Confidence: Low-Medium
+Reasoning: Garbled sentence; proper nouns likely misrendered.
+Impact: Medium
+
+[Error #16 - Category: Business Terminology Distortion]
+Location: 50:59 – Athena/Team
+Transcript excerpt: "…count towards your equity ejection."
+Issue: “equity ejection” incorrect term
+Likely intended: “equity injection”
+Confidence: High
+Reasoning: Standard financing term; “ejection” reverses meaning.
+Impact: High
+
+[Error #17 - Category: Financial/Numerical]
+Location: 48:46–49:10 – Athena Simpson
+Transcript excerpt: "…full amount of the hundred. 1,000."
+Issue: Broken number segmentation
+Likely intended: “$100,000”
+Confidence: High
+Reasoning: Context is 10% equity and fee model; $100k matches.
+Impact: Medium
+
+[Error #18 - Category: Business Terminology Distortion]
+Location: 51:51 – Luke Gillespie
+Transcript excerpt: "…doing the 25 year emerald for real estate…"
+Issue: “emerald” in loan terms
+Likely intended: “amort[ization]”
+Confidence: High
+Reasoning: SBA loans; amortization term length.
+Impact: High
+
+[Error #19 - Category: Omissions/Truncations]
+Location: 53:00 – Athena Simpson
+Transcript excerpt: "…current rates actually with what the current SBA will"
+Issue: Sentence cut off mid-thought
+Likely intended: “…current SBA rate [~10%] will be for the business portion…”
+Confidence: Low
+Reasoning: She was explaining separate terms for biz vs real estate.
+Impact: Low
+
+[Error #20 - Category: Entity Name/Semantic]
+Location: 53:30 – Luke Gillespie
+Transcript excerpt: "That that officer will deal with Jason."
+Issue: “officer will deal” likely wrong
+Likely intended: “that Office Suites deal with Jason”
+Confidence: Medium
+Reasoning: Ties back to “Crown Office Suites” mention.
+Impact: Low-Medium
+
+Patterns to note for ASR improvement
+- Misheard acronyms: LOI → L.Y.; NDA → India; equity injection → equity ejection; amortization → emerald
+- Entity names: HubSpot; Acquiring Minds; Anka → Hawkeye; Crown Office Suites; person surname (“Eric Tom nary”) garbled
+- Environmental terminology: soil samples → squirrel samples
+- Frequent truncations/omissions causing fragmented sentences (multiple locations)
+- Consistent “write up/right up” variability; occasionally flips intent (in progress vs completed)
+
+Removals
+- None recommended. All small talk is brief, transitional, or tied to client/deal operations, market education, or internal process.
+
+Borderline segments (requires review)
+[BORDERLINE #1 - Requires Review]
+Location: 3:17–3:38
+Content excerpt: "…fantastic job update today… really good explanation… well prepared…"
+Business relevance argument: Performance feedback tied to client-facing presentations and assigning industry update tasks.
+Personal content argument: Compliment-heavy and could be seen as rapport.
+Recommendation: KEEP — establishes accountability and leads directly to process improvements (industry updates, sources).
+
+Speaker attribution validation
+- Overall flows logically (Athena directs; Luke/Team report). A few garbled lines (e.g., ~43:00) reduce clarity but do not clearly indicate swapped speakers.
+
+Context preservation notes
+- No removals; flow remains intact.
+- Where errors are flagged as truncations, reviewers should check audio to restore full meaning (especially around environmental liability, modeling numbers, and platform names).

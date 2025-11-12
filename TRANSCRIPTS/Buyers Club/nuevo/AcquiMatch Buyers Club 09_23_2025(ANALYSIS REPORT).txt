@@ -1,0 +1,287 @@
+[Error #1 - Category: Misheard Acronym]
+Location: ~[00:14:05] / Speaker: Peter
+Transcript excerpt: "even a friendly SVA bank to finance it, I mean, I'm basically putting myself at like the limit..."
+Issue: "SVA bank" appears in a business financing context
+Likely intended: "SBA bank"
+Confidence: High
+Reasoning: SBA (Small Business Administration) lending is standard in small business acquisitions; "SVA" has no relevant meaning in this context. The call references SBA multiple times elsewhere.
+Impact: High - misstates a key financing source
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~[00:55:35] / Speaker: Athena
+Transcript excerpt: "...then allows you to unlock. SVA or other fund funding sources if you wanted to. Now that it's a US entity."
+Issue: "SVA" used again where SBA is expected
+Likely intended: "SBA"
+Confidence: High
+Reasoning: Consistent with common SBA refinancing after 2 years of US financials; "SVA" is not a recognized lending program.
+Impact: High
+
+---
+[Error #3 - Category: Business Terminology Distortion (Pattern)]
+Location: Multiple (e.g., ~[00:06:55], ~[00:07:30], ~[00:11:10], ~[00:16:45], ~[00:27:10], ~[00:47:10]) / Speakers: Athena, Peter, Jenny
+Transcript excerpt: 
+- "We say, you know, networking capital, which will be determined in due diligence."
+- "And that one... includes network and capital, right?"
+Issue: "Networking capital" / "network and capital" repeatedly used where "net working capital" is intended
+Likely intended: "net working capital" (NWC)
+Confidence: High
+Reasoning: In M&A, the correct term is “net working capital.” “Networking capital” is a common ASR distortion and changes the meaning.
+Impact: High - central to the discussion and calculations
+
+---
+[Error #4 - Category: Misheard Acronym/Term]
+Location: ~[00:34:50] / Speaker: Athena
+Transcript excerpt: "Here's a, here's a fun thing. Uh, adjusted ebitda and SDE mean the same thing."
+Issue: Conceptual conflation; while often aligned in small business contexts, adjusted EBITDA and SDE are not always identical
+Likely intended: Clarification that this model uses adjusted EBITDA/SDE equivalently; however, SDE typically includes owner salary/benefits, adjusted EBITDA may differ in larger companies
+Confidence: Medium
+Reasoning: In lower middle market, SDE ≈ adjusted EBITDA for owner-operated businesses, but they’re not strictly identical. Potential to confuse modeling.
+Impact: Medium
+
+---
+[Error #5 - Category: Misheard Term]
+Location: ~[00:03:35] / Speaker: Athena
+Transcript excerpt: "...as we pull up financials, talk about Lois, that sort of thing."
+Issue: "Lois" in a deal context
+Likely intended: "LOIs" (Letters of Intent)
+Confidence: High
+Reasoning: LOI is a standard M&A term referenced throughout the call.
+Impact: Medium
+
+---
+[Error #6 - Category: Entity/Name Inconsistency (Pattern)]
+Location: Multiple (e.g., ~[00:00:55], ~[00:48:50], ~[00:59:15]) / Speakers: Athena, Ida
+Transcript excerpt:
+- "let me know Eda..."
+- "Ida: Yeah."
+- "ONCA and EDA are here Friday..."
+Issue: Person/team names appear inconsistently as Eda/Ida/EDA and ONCA (likely “Anca”)
+Likely intended: Consistent names (e.g., Anca; Ida/Eda—one correct form)
+Confidence: Medium
+Reasoning: Internal team names vary across lines; likely ASR confusion with similar-sounding names and capitalization.
+Impact: Low-Medium - may cause confusion about who is doing what
+
+---
+[Error #7 - Category: Misheard Term]
+Location: ~[00:03:10] / Speaker: Peter
+Transcript excerpt: "...keeping the current co which is the owner's son..."
+Issue: "current co" ambiguous
+Likely intended: "current COO" (Chief Operating Officer)
+Confidence: Medium
+Reasoning: In context of staffing/continuity, COO is a common role; “co” is unclear.
+Impact: Medium
+
+---
+[Error #8 - Category: Financial/Numerical Error]
+Location: ~[00:10:55] / Speaker: Athena
+Transcript excerpt: "...taking a $2 million loan to get 50 KA year..."
+Issue: "50 KA year" formatting/units unclear
+Likely intended: "$50K a year"
+Confidence: High
+Reasoning: Common phrasing would be “$50K a year”; “KA” likely ASR concatenation.
+Impact: Low-Medium
+
+---
+[Error #9 - Category: Misheard Term/Numerical]
+Location: ~[00:10:30] / Speaker: Athena
+Transcript excerpt: "lender... estimated closing costs at like $3,000, which like never does that ever happen..."
+Issue: $3,000 all-in closing costs presented; could be accurately quoting the prequal doc, but likely low vs typical SBA deal costs
+Likely intended: Quoted prequal estimate likely “$30,000” or similar?
+Confidence: Low
+Reasoning: Typical SBA closing plus diligence/legal runs well above $3K; could be intentionally citing the lender’s (incorrect) figure. Ambiguous.
+Impact: Medium (if used in modeling)
+
+---
+[Error #10 - Category: Misheard Term]
+Location: ~[00:10:35] / Speaker: Athena
+Transcript excerpt: "depending on the relationships between the lenders and the brokers... they'll often... End up doing like pref flights to help them."
+Issue: "pref flights"
+Likely intended: "prequals" or "pre-flights" (preliminary underwriting reviews)
+Confidence: Medium
+Reasoning: In lending, “pre-quals” or “pre-flight” reviews are common; “pref flights” is nonstandard.
+Impact: Low
+
+---
+[Error #11 - Category: Misheard Term/Numerical]
+Location: ~[00:10:55] / Speaker: Peter
+Transcript excerpt: "is Wendy gonna lend me, you know, a 1,000,006 because I wink at her? ...or, or I'm sorry, six milk."
+Issue: "six milk" as a unit/value
+Likely intended: "1.6 mil" or "1.6 million"
+Confidence: High
+Reasoning: Common speech “mil” misheard as “milk.”
+Impact: Low-Medium
+
+---
+[Error #12 - Category: Semantic Inconsistency/Omission]
+Location: ~[00:12:25] / Speaker: Athena
+Transcript excerpt: "Like a 12, 2 24 monthly balance sheet so you can see the fluctuations..."
+Issue: Truncated/garbled quantity
+Likely intended: "12–24 months of monthly balance sheets"
+Confidence: High
+Reasoning: Standard diligence request is 12-24 months of monthly balance sheets; current phrasing is unclear.
+Impact: Medium
+
+---
+[Error #13 - Category: Misheard Acronym]
+Location: ~[00:28:30] / Speaker: Matt and Jenny confirmation
+Transcript excerpt: "they have a, a, um, factoring company that purchases their accounts receivable... at like 90% for a one and a quarter percent fee..."
+Issue: None with factoring; context note only. Not an error—this supports no AR on balance sheet.
+Likely intended: n/a
+Confidence: n/a
+Reasoning: Included for clarity that lack of AR is due to factoring; no action needed.
+Impact: n/a
+
+---
+[Error #14 - Category: Misheard Acronym]
+Location: ~[00:31:20] / Speaker: Athena
+Transcript excerpt: "This is the trailing 12 month periods, correct?"
+Issue: None. Just noting alignment. (No action)
+Likely intended: n/a
+Confidence: n/a
+Reasoning: n/a
+Impact: n/a
+
+---
+[Error #15 - Category: Misheard Acronym]
+Location: ~[00:39:35] / Speaker: Athena
+Transcript excerpt: "the only taxes that you add back on EBITDA numbers are if they paid federal taxes."
+Issue: Potentially misleading simplification
+Likely intended: Add back income taxes (depends on entity structure), not operating/state/local sales taxes; statement is directionally correct but oversimplified
+Confidence: Medium
+Reasoning: EBITDA convention excludes income taxes; state franchise/income taxes treatment varies. Not strictly an ASR error—flagging for reviewer clarity.
+Impact: Low
+
+---
+[Error #16 - Category: Financial/Numerical Error]
+Location: ~[00:40:55] / Speaker: Athena
+Transcript excerpt: "So 20 23, 706 or $64,000 in depreciation. That means they made a big capital expenditures purchase."
+Issue: Contradictory figures “706 or $64,000”
+Likely intended: A single depreciation figure (e.g., $706,000 or $764,000)
+Confidence: Medium
+Reasoning: Two close but different values spoken; context indicates one large number; unclear which is correct.
+Impact: Medium - affects CapEx assumptions
+
+---
+[Error #17 - Category: Misheard Acronym]
+Location: ~[00:26:55] and ~[00:43:40] / Speakers: Athena
+Transcript excerpt:
+- "who, who does qvs"
+- "you'll be able to normalize to that and probably have a retrade based on that if it's significant differences in, in your costs."
+- "...when you're looking at what the new costs are gonna be at doing your QV..."
+Issue: "QV"/"qvs" in diligence context
+Likely intended: "QoE" (Quality of Earnings)
+Confidence: High
+Reasoning: QoE is the standard term in M&A diligence; "QV" is likely misheard.
+Impact: Medium
+
+---
+[Error #18 - Category: Misheard Product Name]
+Location: ~[00:23:05] / Speaker: Athena
+Transcript excerpt: "I also like having these conversations with chat GBT in the style of, uh, Chris Voss."
+Issue: "chat GBT"
+Likely intended: "ChatGPT"
+Confidence: High
+Reasoning: Common ASR confusion.
+Impact: Low
+
+---
+[Error #19 - Category: Misheard Abbreviation]
+Location: ~[00:21:05] / Speaker: Peter
+Transcript excerpt: "that $60,000 would just open up, you know, that that's, you know, could be a 40%, you know, SD increase after year one"
+Issue: "SD increase" in valuation context
+Likely intended: "SDE increase"
+Confidence: High
+Reasoning: Discussion is about owner benefit; SDE is the relevant metric.
+Impact: Medium
+
+---
+[Error #20 - Category: Misheard Name]
+Location: ~[00:18:55] and ~[00:45:45] / Speaker: Athena
+Transcript excerpt:
+- "car care is, uh, in the air right now, but she had a. Deal with a client..."
+- "Caris will be back on online after she lands..."
+Issue: "car care is" vs. "Caris" (name)
+Likely intended: "Caris" (team member)
+Confidence: High
+Reasoning: Later reference clarifies name spelling/sound.
+Impact: Low
+
+---
+[Error #21 - Category: Typo/ASR Error]
+Location: ~[00:01:55] / Speaker: Peter
+Transcript excerpt: "this is my first Buyer'ss club of this version."
+Issue: "Buyer'ss" duplicated 's'
+Likely intended: "Buyers Club" or "Buyer's Club"
+Confidence: High
+Reasoning: Obvious duplication.
+Impact: Low
+
+---
+[REMOVAL #1 - Type: Small Talk]
+Location: ~[00:50:02-00:50:25]
+Speakers involved: Athena, Cash, Steve
+Content excerpt:
+"Athena: Steve, I almost didn't recognize you in all those fancy clothes.
+Steve: Every once in a while you put the big boy clothes on. So I was...
+Cash: I was literally just on a call with Steve and he has changed in about an hour here."
+Reasoning:
+Non-business personal banter about clothing/appearance unrelated to acquisitions or deal content.
+Context impact: None—conversation returns to the crypto/foreign-entity deal immediately after.
+Recommended action: REMOVE ~[00:50:02-00:50:25]
+
+---
+[REMOVAL #2 - Type: Administrative/Off-Topic]
+Location: ~[00:58:30-01:00:00]
+Speakers involved: Athena, Steve, Cash, Polly
+Content excerpt:
+"Athena: ...we are gonna be offline... special buyers club next Thursday... bringing back all of our learnings... Justin's gonna be here too... A A RP convention... We always take off the last Thursday of the month... the analyst team and myself will be offline from 4:00 PM Central..."
+Reasoning:
+Scheduling and internal availability; not related to deal analysis, financing, or strategy.
+Context impact: Low—removing this does not affect understanding of deal content.
+Recommended action: REMOVE ~[00:58:30-01:00:00]
+
+---
+[REMOVAL #3 - Type: Administrative/Housekeeping]
+Location: ~[00:15:50-00:16:25]
+Speakers involved: Athena, Peter
+Content excerpt:
+"Athena: ...ADA always reposts... these calls also get recorded and transcribed... you can grab transcripts... write yourself a script and go back to Mr. Broker."
+Reasoning:
+Internal process note about recordings/transcripts; not substantive to the deal discussion.
+Context impact: Low—useful internally but not necessary for a focused business transcript.
+Recommended action: REMOVE ~[00:15:50-00:16:25]
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: ~[00:07:55-00:09:15]
+Content excerpt: "Athena: ...I was looking at an event rental equipment business... $17 million in inventory... like a $17 million garage sale... educational anecdote about dead/old inventory and why it shouldn’t be included at face value."
+Business relevance argument: Illustrates inventory risk, valuation logic, and why excess/obsolete stock shouldn’t be priced into deals; supports the working capital/inventory stance.
+Personal content argument: Anecdotal story; could be seen as tangential.
+Recommendation: KEEP—directly reinforces a key deal concept (inventory valuation and consignment approach).
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~[00:23:00-00:23:25]
+Content excerpt: "Athena: I also like having these conversations with ChatGPT in the style of Chris Voss... can be helpful with talking points..."
+Business relevance argument: Negotiation strategy guidance relevant to buyer-broker discussions (anchoring around NWC and retrade risk).
+Personal content argument: Tool preference and style could be seen as tangential to the specific deal.
+Recommendation: KEEP—practical negotiation approach applicable to many buyer situations.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: ~[00:23:45-00:24:10]
+Content excerpt:
+"Cash: Peter. Welcome to Buyer's Club.
+Athena: Woo. Going the initiation... and Jenny's gonna get it next."
+Business relevance argument: Group dynamics and acknowledgment; minimal impact.
+Personal content argument: Purely social celebratory banter.
+Recommendation: REMOVE if brevity is prioritized; otherwise KEEP given brevity. Lean REMOVE for a cleaner transcript.
+
+---
+Additional Notes and Patterns:
+- Systematic “net working capital” → “networking capital” mishearing appears throughout; correcting this across the transcript will significantly improve clarity.
+- QoE is repeatedly rendered as “QV/qvs” and should be standardized to QoE for accuracy.
+- Names (Eda/Ida/Anca/ONCA) need verification for consistency.
+- The "six milk" and "706 or $64,000" moments suggest audio glitches or ASR confusion around numerals; reviewers should cross-check the original financials and audio.
+- No major speaker misattributions detected; dialog flow generally aligns with roles (rep explaining, buyers asking).

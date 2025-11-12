@@ -1,0 +1,297 @@
+Below is a focused error and relevance analysis of the provided transcript. I’ve used line numbers for precise locations and noted patterns that likely stem from ASR issues. I’ve also mapped segments to KEEP/REMOVE/MIXED as requested.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Semantic/Entity (name) distortion]
+Location: Line 10 / Speaker: Andrew
+Transcript excerpt: "Hey, if any edges on sorry, I can't be on video at the moment."
+Issue: Garbled phrase “if any edges on” in place of a direct address/intro.
+Likely intended: "Hey, Athena, just FYI, sorry I can't be on video at the moment."
+Confidence: High
+Reasoning: The phrase is nonsensical as-is; context suggests a quick apology to the host (Athena).
+Impact: Low
+
+[Error #2 - Category: Speaker Misattribution]
+Location: Lines 20 and 22 / Speakers: Attributed to Andrew but likely Joe
+Transcript excerpt:
+- 19 (Joe): “…follow up call with Ryan on the AC”
+- 20 (Andrew): “company that I have an LOI in for…”
+- 22 (Andrew): “not struggling with, but…”
+Issue: Content on lines 20 and 22 appears to be the continuation of Joe’s sentence/monologue about his LOI and negotiation.
+Likely intended: Lines 20 and 22 should be attributed to Joe.
+Confidence: High
+Reasoning: Continuity of thought; Joe introduces the topic (line 19) and continues uninterrupted; Andrew’s insertion breaks coherence.
+Impact: Medium (role confusion)
+
+[Error #3 - Category: Misheard Acronym/Term (QoE)]
+Location: Lines 138-149 (multiple instances)
+Transcript excerpt:
+- 138: “tour of a QAV report…”
+- 139/141: “tour of a QV report…”
+- 143: “take you on a tour of acuity…”
+Issue: QoE (Quality of Earnings) appears mis-transcribed as “QAV,” “QV,” and “acuity.”
+Likely intended: “QoE report” (Quality of Earnings)
+Confidence: High
+Reasoning: In M&A, financial due diligence reports are QoE; “QAV/QV/acuity” is a common ASR error for “Q of E.”
+Impact: High (core due diligence concept)
+
+[Error #4 - Category: Misheard Acronym/Term]
+Location: Line 142 / Speaker: Athena
+Transcript excerpt: “…it’ll adjust, you know, the SD and then you might have to retrain at that point.”
+Issue: “SD” and “retrain” in this context are likely incorrect.
+Likely intended: “SDE (Seller’s Discretionary Earnings)” and “retrade”
+Confidence: High
+Reasoning: In acquisition negotiations, “retrade” is the term for renegotiating price; SDE is the standard metric referenced.
+Impact: High (financial meaning)
+
+[Error #5 - Category: Omission/Truncation]
+Location: Line 66 / Speaker: Athena
+Transcript excerpt: “And like, we recommend all of you, like, when you get under, I start having a weekly meeting…”
+Issue: Missing the object after “get under.”
+Likely intended: “when you get under LOI, start having a weekly meeting…”
+Confidence: High
+Reasoning: Fits the context and subsequent usage throughout call.
+Impact: Medium
+
+[Error #6 - Category: Omission/Truncation]
+Location: Line 67 / Speaker: Athena
+Transcript excerpt: “…there’s a whole bunch of people you know, standing coffee date…”
+Issue: Awkward/ungrammatical phrase.
+Likely intended: “…set up a standing coffee date…”
+Confidence: Medium
+Reasoning: “Standing coffee date” is a common phrase; missing “set up a” causes confusion.
+Impact: Low
+
+[Error #7 - Category: Omission/Segmentation]
+Location: Lines 68-71 / Speaker: Athena then Joe
+Transcript excerpt:
+- 68: “They’re still”
+- 69: “there. Joe?”
+- 70-71: “Yes, I am…”
+Issue: Mid-sentence split produces “They’re still / there. Joe?” which is not a clean sentence.
+Likely intended: “You’re still there, Joe?”
+Confidence: High
+Reasoning: Typical host check-in; sentence split/broken by ASR.
+Impact: Low
+
+[Error #8 - Category: Entity/Terminology (profession) misheard]
+Location: Line 80 / Speaker: Athena
+Transcript excerpt: “I’m an ex Brody. That’s why all the music stuff is behind me…”
+Issue: “Brody” is likely “roadie” (music industry context).
+Likely intended: “I’m an ex roadie…”
+Confidence: High
+Reasoning: Music background reference makes “roadie” the standard term.
+Impact: Low
+
+[Error #9 - Category: Business terminology distortion]
+Location: Line 85 / Speaker: Athena
+Transcript excerpt: “…they don’t have CRM’s and texts and on goes and Ryan’s and Luke’s to help.”
+Issue: Garbled list; “texts and on goes” unclear.
+Likely intended: “CRMs and tech stack…” (followed by names Ryan and Luke)
+Confidence: Medium
+Reasoning: In context, distinguishing tools/support vs. individuals; “tech stack” commonly misheard as “texts.”
+Impact: Medium
+
+[Error #10 - Category: Grammatical/Semantic (obscures meaning)]
+Location: Line 104 / Speaker: Athena
+Transcript excerpt: “I’ve been put on like a cute outfit…”
+Issue: Unnatural phrasing.
+Likely intended: “I even put on a cute outfit…”
+Confidence: High
+Reasoning: Standard phrasing; improves clarity.
+Impact: Low
+
+[Error #11 - Category: Omission/Truncation]
+Location: Line 114 / Speaker: Athena
+Transcript excerpt: “You kind of just at the beginning, what was that?”
+Issue: Missing verb/object (“cut out”).
+Likely intended: “You kind of cut out at the beginning—what was that?”
+Confidence: Medium
+Reasoning: Fits a remote call context noting audio drop.
+Impact: Low
+
+[Error #12 - Category: Omission/Truncation (garbled aside)]
+Location: Line 152 / Speaker: Athena
+Transcript excerpt: “Andrew’s got the best of which I kind of figure out what zoom like. Can you still do the balloon? So you’d like to need to like…”
+Issue: Garbled Zoom-reaction comment.
+Likely intended: Comment about Zoom “balloon” reaction; current text is incoherent.
+Confidence: Medium
+Reasoning: Zoom reaction context; but current line is not intelligible.
+Impact: Low
+
+[Error #13 - Category: Entity (podcast) misheard]
+Location: Line 155 / Speaker: Athena
+Transcript excerpt: “…didn’t wanna go on acquiring mines…”
+Issue: Podcast name misspelled/misheard.
+Likely intended: “Acquiring Minds”
+Confidence: High
+Reasoning: Well-known podcast in SMB/M&A space.
+Impact: Medium
+
+[Error #14 - Category: Homophone]
+Location: Line 167 / Speaker: Andrew
+Transcript excerpt: “I couldn’t get my mask to cooperate.”
+Issue: “mask” vs “mic”
+Likely intended: “mic”
+Confidence: High
+Reasoning: Audio context; “mask” doesn’t make sense.
+Impact: Low
+
+[Error #15 - Category: Business terminology distortion]
+Location: Line 178 / Speaker: Athena
+Transcript excerpt: “…things like operates and like… understanding what triple net means…”
+Issue: “operates” likely incorrect term for real estate valuation context.
+Likely intended: “cap rates”
+Confidence: High
+Reasoning: Real estate value discussion (NOI, cap rates) fits; “operates” is nonsensical here.
+Impact: High (technical clarity)
+
+[Error #16 - Category: Omission/Word split]
+Location: Line 184 / Speaker: Athena
+Transcript excerpt: “…on SBA loans that can expand. Send your amortization…”
+Issue: Erroneous period/split; wrong verb.
+Likely intended: “…SBA loans that can extend your amortization…”
+Confidence: High
+Reasoning: Standard lending terminology.
+Impact: Medium
+
+[Error #17 - Category: Omission]
+Location: Line 189 / Speaker: Athena
+Transcript excerpt: “So do feel to come with deals…”
+Issue: Missing “free.”
+Likely intended: “do feel free to come…”
+Confidence: High
+Reasoning: Common expression; omission affects clarity.
+Impact: Low
+
+
+SEGMENT MAPPING
+
+Block 1: Lines 1-9
+- Content: Greetings and meetup chatter (“Are you going to the meetup tonight?”, “coveted Austin spot”)
+- Classification: REMOVE (Small Talk)
+- Reason: Extended social chat unrelated to deals/financing/operations.
+- Priority: Medium
+- Context preservation: None—business agenda starts at line 14.
+
+Block 2: Lines 10-13
+- Content: Quick check-ins (“can’t be on video”, “Running hot.”)
+- Classification: KEEP (Brief pleasantries)
+- Reason: Short, maintains flow into meeting.
+
+Block 3: Lines 14-17
+- Content: Meeting framing (AMA, deals, mindset, confidentiality)
+- Classification: KEEP (Business-relevant context)
+
+Block 4: Lines 18-27
+- Content: Joe’s LOI on an AC/HVAC company; negotiation mindset
+- Classification: KEEP (Deal discussion)
+
+Block 5: Lines 28-77
+- Content: HVAC market, off-market dynamics, multiples, negotiation reframes
+- Classification: KEEP (Deal analysis, strategy)
+
+Block 6: Lines 78-123 (Mindset discussion; includes personal anecdotes)
+- Classification: MIXED
+- Keep: Lines 78-103, 107-123 where mindset is tied to negotiation and buyer-seller interactions
+- Remove: Lines 103-106 (airport outfit and extended Texas driving/road rage specifics)
+  - Reason: Personal anecdotes not essential to business topic; can tighten without loss.
+  - Context impact: Low
+
+Block 7: Lines 125-128 (Compliment and vegan tacos anecdote)
+- Classification: BORDERLINE (see below)
+- Reason: Mentions Live Oak (relevant lender), but anecdote itself is personal.
+
+Block 8: Lines 129-137
+- Content: Seller interaction strategy; trust-building vs interrogation
+- Classification: KEEP (Strategy/education)
+
+Block 9: Lines 138-149
+- Content: Upcoming QoE session; working capital/WIP overview
+- Classification: KEEP (Educational content)
+
+Block 10: Lines 150-161
+- Content: Buyer speakers; post-acquisition learning requests; resources
+- Classification: KEEP (Program planning and educational relevance)
+
+Block 11: Lines 162-186
+- Content: Commercial lease/real estate negotiation, SBA lease terms, valuation concepts
+- Classification: KEEP (Deal structure/operations/financing)
+
+Block 12: Lines 187-194
+- Content: Housekeeping, next meetings, closing thanks
+- Classification: KEEP (Program context)
+
+
+REMOVAL RECOMMENDATIONS
+
+[REMOVAL #1 - Type: Small Talk]
+Location: Lines 1-9
+Speakers involved: Athena, Justin
+Content excerpt:
+"Athena: Welcome... Are you going to the meetup tonight?
+Justin: I will be there.
+Athena: Oh, cool...
+Athena: You'll get to wave the coveted Austin spot that none of them are going to get.
+Justin: There you go. I'll boast it proudly."
+Reasoning:
+Extended social chatter about a meetup; no business content.
+Context impact: None—meeting formally starts at line 14.
+Recommended action: REMOVE lines 1-9
+
+[REMOVAL #2 - Type: Personal anecdote]
+Location: Lines 103-106
+Speakers involved: Athena
+Content excerpt:
+“Athena: …I was traveling through the airport… I even put on a cute outfit…
+…in Texas like it is Wild west here… brights on all the time…”
+Reasoning:
+Personal travel/driving anecdotes that don’t add business value.
+Context impact: Low—mindset point remains clear without these specifics.
+Recommended action: REMOVE lines 103-106
+
+[REMOVAL #3 - Type: Small Talk/Garbled aside]
+Location: Line 152
+Speakers involved: Athena
+Content excerpt:
+“Andrew’s got the best of which I kind of figure out what zoom like. Can you still do the balloon?...”
+Reasoning:
+Garbled, off-topic Zoom reaction comment.
+Context impact: None.
+Recommended action: REMOVE line 152
+
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: Lines 126-128
+Content excerpt:
+“Joe: …Wendy at Live Oak… vegan tacos on the floor with her… feed off your energy…
+Athena: …not to brag… people want to be around good energy…”
+Business relevance argument: Mentions Live Oak (a key SBA lender) and underscores value of positive rapport in deal processes.
+Personal content argument: The “vegan tacos on the floor” story is purely personal/social.
+Recommendation: KEEP with discretion—It signals lender relationship strength and ties to professional rapport. If trimming is necessary for brevity, remove the “vegan tacos” detail within 126 while retaining the Live Oak reference.
+
+[BORDERLINE #2 - Requires Review]
+Location: Lines 98-103, 107-116 (Andrew’s barista/road rage examples; thought pattern interrupt)
+Content excerpt:
+Andrew’s “everyone is doing the best they can” and thought pattern interrupt examples; Athena asks to clarify “thought pattern interrupts.”
+Business relevance argument: Directly supports negotiation mindset and de-escalation strategies applicable to sellers/brokers.
+Personal content argument: Uses non-business examples (barista/road rage) to illustrate.
+Recommendation: KEEP—The illustrative examples support the stated purpose of the session (“mindset challenges”) and provide actionable negotiation techniques.
+
+
+ADDITIONAL NOTES AND PATTERNS
+
+- Systematic mishearing of QoE as “QV/QAV/acuity” recurs and should be a watch item for the ASR engine in finance/M&A contexts.
+- Deal terminology often distorted:
+  - SDE → SD (line 142)
+  - retrade → retrain (line 142)
+  - cap rates → operates (line 178)
+- Homophones and near-homophones:
+  - mic → mask (line 167)
+  - roadie → Brody (line 80)
+- Omission/truncation issues reduce clarity in several places (lines 66-67, 68-71, 114, 189).
+- Speaker misattribution notably around lines 19-23, where Joe’s monologue is split and partially attributed to Andrew.
+
+Overall, the business-relevant content is strong and should largely be preserved, with only a few personal or garbled segments recommended for removal.

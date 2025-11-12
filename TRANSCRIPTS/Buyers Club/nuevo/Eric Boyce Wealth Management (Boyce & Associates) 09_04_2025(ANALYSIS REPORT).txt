@@ -1,0 +1,239 @@
+Below is a structured analysis of likely ASR-induced errors and a map of business-relevant vs. removable segments. I’ve focused on misheard acronyms/terms, numerical/terminology clarity, entity names, omissions/truncations, and small talk removal opportunities.
+
+ASR Error Reports
+
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:00:50 / Speaker: Athena
+Transcript excerpt: "We met when I started going to the Texas Association of Business Brokers... at A-A-A-S-B-A lender out here host. Meetups as well."
+Issue: “A-A-A-S-B-A” and “host. Meetups” are garbled in a financing context.
+Likely intended: “an SBA lender out here hosts meetups as well.”
+Confidence: High
+Reasoning: SBA (Small Business Administration) is standard in this context; “A-A-A-S-B-A” suggests ASR letter repetition.
+Impact: Medium-High (confusing reference to a core financing concept)
+
+[Error #2 - Category: Entity Name (Company) + Awkward phrasing]
+Location: ~00:03:05 / Speaker: Eric
+Transcript excerpt: "a little bit about our firm, voice and Associates. Wealth Consulting is about an eight and a half year company."
+Issue: Firm name likely mis-capitalized/misheard; “eight and a half year company” is awkward.
+Likely intended: “[Firm Name] & Associates Wealth Consulting… about eight-and-a-half years old.”
+Confidence: Medium
+Reasoning: Capitalization and phrasing suggest ASR artifacts; exact firm spelling unclear.
+Impact: Low-Medium (identity clarity)
+
+[Error #3 - Category: Semantic Inconsistency]
+Location: ~00:05:20 / Speaker: Athena
+Transcript excerpt: "I'm just gonna type in verbally real quick too, folks..."
+Issue: Mixed modalities (“type in verbally”) unlikely intended.
+Likely intended: “chime in verbally” or “pipe in verbally.”
+Confidence: High
+Reasoning: Common idiom in live calls; “type in verbally” is nonsensical.
+Impact: Low
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~00:03:15 and ~00:01:45 / Speaker: Eric
+Transcript excerpt: "all of you are w twos..." and "When we're W twos..."
+Issue: “w twos” should be “W-2s” (W-2 employees).
+Likely intended: “W-2s/W-2 employees.”
+Confidence: High
+Reasoning: Standard US payroll term.
+Impact: Low
+
+[Error #5 - Category: Omission/Truncation]
+Location: ~00:05:45 / Speaker: Eric
+Transcript excerpt: "So as I am talking, I am. Sharing my"
+Issue: Sentence truncation likely due to screen/share start.
+Likely intended: “As I am talking, I am sharing my screen…”
+Confidence: High
+Reasoning: Typical live webinar transition line.
+Impact: Low
+
+[Error #6 - Category: Misheard Acronym (Agency)]
+Location: ~00:29:15 / Speaker: Kelly
+Transcript excerpt: "so that the boxes are checked with the IS."
+Issue: “IS” misheard for “IRS.”
+Likely intended: “IRS.”
+Confidence: High
+Reasoning: Tax compliance context clearly refers to IRS.
+Impact: Medium
+
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:46:15 / Speaker: Eric
+Transcript excerpt: "regulated under the employment, uh, retirement, uh, security Act, uh, erisa"
+Issue: The act’s name is misstated.
+Likely intended: “Employee Retirement Income Security Act (ERISA).”
+Confidence: High
+Reasoning: Correct statutory name; common ASR slip.
+Impact: Medium (regulatory reference)
+
+[Error #8 - Category: Misheard Form/Number]
+Location: ~00:46:40 / Speaker: Eric
+Transcript excerpt: "prepare a a 5,500 return"
+Issue: Misstatement of the plan reporting form.
+Likely intended: “prepare a Form 5500.”
+Confidence: High
+Reasoning: Standard ERISA reporting (Form 5500).
+Impact: Medium
+
+[Error #9 - Category: Misheard Acronym]
+Location: ~00:54:20 / Speaker: Eric
+Transcript excerpt: "company can, um, uh, you can put it in, you know, uh, life insurance, what they call, uh, Coley or company owned life insurance"
+Issue: “Coley” likely misheard.
+Likely intended: “COLI (corporate-owned life insurance).”
+Confidence: High
+Reasoning: Common acronym in non-qualified plan funding.
+Impact: Medium-High (key product/strategy reference)
+
+[Error #10 - Category: Misheard Plan Name]
+Location: ~00:45:25 / Speaker: Eric
+Transcript excerpt: "Keo plan"
+Issue: Plan name misspoken/misheard.
+Likely intended: “Keogh plan.”
+Confidence: High
+Reasoning: Established retirement plan term.
+Impact: Low-Medium
+
+[Error #11 - Category: Misheard Acronym/Homophone]
+Location: ~00:43:15 / Speaker: Eric
+Transcript excerpt: "simplified employee pension or the set"
+Issue: “set” should be “SEP.”
+Likely intended: “SEP (Simplified Employee Pension).”
+Confidence: High
+Reasoning: Common retirement plan acronym; “sep” misheard as “set.”
+Impact: Medium
+
+[Error #12 - Category: Omission/Truncation + Semantic Inconsistency]
+Location: ~00:18:10 / Speaker: Eric
+Transcript excerpt: "three quarters of business owners roughly sell to a third party and three quar, 70% or so of business owners..."
+Issue: Truncated “three quar” and mixed use of “three quarters” vs. “70%.”
+Likely intended: “three quarters (~70%)…”
+Confidence: Medium
+Reasoning: Sentence loses coherence mid-figure; likely a restart that ASR fused.
+Impact: Low-Medium
+
+[Error #13 - Category: Minor Glitch]
+Location: ~01:08:10 / Speaker: Athena
+Transcript excerpt: "Edit's, kind of doing, uh, control of like who's, whose faces are showing."
+Issue: “Edit’s”/“It is” confusion; doubled “who’s/whose.”
+Likely intended: “It’s kind of controlling whose faces are showing.”
+Confidence: Medium
+Reasoning: ASR pronoun/verb confusion common in live calls.
+Impact: Low
+
+
+Segment Mapping (KEEP / REMOVE / MIXED)
+
+High-level blocks
+- 00:00:00–00:02:05 Introductions and session framing
+  - MIXED: Includes extended greetings (removable) plus substantive intro to topic and presenters (keep).
+- 00:02:05–00:20:15 Eric: Owner readiness, planning mindset, risks, succession overview
+  - KEEP: Core educational content.
+- 00:20:15–00:33:05 Kelly: Separate business/personal wealth, emergency funds, insurance (life, disability, key person), CPA/estate planning
+  - KEEP with a brief small aside removal (office proximity comment).
+- 00:33:05–01:01:10 Eric (+Kelly): Debt management, diversification, long-term care, qualified and non-qualified plans (401k/SEP/SIMPLE/Keogh/solo-k; 162 bonus, SERP, NQDC, split-dollar, COLI), plan design/ERISA, cadence of planning
+  - KEEP: Dense, high-value content.
+- 01:02:00–01:27:00 Q&A (Lisa): Umbrella vs. umbrella metaphor; key person; % of profits; book refs; CPA strategy; trusts/holding co; buy-sell; SBA life insurance mention; “cash flow is king”
+  - MIXED: Largely business-relevant; a few brief social asides (color-of-clothes banter; audio narrator preferences) removable.
+- 01:27:00–01:30:00 Closing/motivation/logistics about next session
+  - KEEP: Relevant wrap plus next steps.
+
+Removals (Small Talk/Off-Topic)
+
+[REMOVAL #1 - Type: Small Talk/Greetings]
+Location: ~00:00:00–00:00:35
+Speakers involved: Athena
+Content excerpt:
+"Hello? Hello? Hey Gil. Welcome. Hey Josh, how's it going? Welcome to your first Buyers Club, Josh, Polly and Justin. Great to see you. Um, I think Lisa might be here too. So excited to see you. Hey Lisa. Welcome."
+Reasoning:
+Extended greetings/roll call without business substance.
+Context impact: None—topic introduction follows immediately.
+Recommended action: REMOVE ~00:00:00–00:00:35
+
+[REMOVAL #2 - Type: Small Aside]
+Location: ~00:21:00–00:21:12
+Speakers involved: Kelly, Athena
+Content excerpt:
+"…I'll do a little finger move that'll tell you."
+"A-Okay… we're in the same office, by the way. He's just in another space, another room, so I could just holler it."
+Reasoning:
+Purely logistical/banter; no business relevance.
+Context impact: None—Kelly’s substantive section begins immediately after.
+Recommended action: REMOVE ~00:21:00–00:21:12
+
+[REMOVAL #3 - Type: Small Talk]
+Location: ~01:05:15–01:05:40
+Speakers involved: Athena, Eric
+Content excerpt:
+"I'm glad y'all got the memo that today was like, wear red day."
+"I missed that obviously… kind of, but I got the red there."
+Reasoning:
+Clothing color banter; no business relevance.
+Context impact: None—Q&A resumes immediately.
+Recommended action: REMOVE ~01:05:15–01:05:40
+
+[REMOVAL #4 - Type: Small Talk]
+Location: ~01:12:15–01:12:40
+Speakers involved: Kelly, Eric, Tom
+Content excerpt:
+"I'm a big audible person… Profit First is a better read than it is a listen…"
+"Usually the author reading is probably not the way to go…"
+"Now they have AI narration…"
+Reasoning:
+Audio narrator preferences; tangential to the business content. The earlier book recommendations are useful; this sub-thread is not.
+Context impact: Low—educational recommendations remain intact without this aside.
+Recommended action: REMOVE ~01:12:15–01:12:40
+
+[REMOVAL #5 - Type: Small Aside]
+Location: ~01:08:08–01:08:14
+Speakers involved: Athena
+Content excerpt:
+"Edit's, kind of doing, uh, control of like who's, whose faces are showing."
+Reasoning:
+Platform UI/stream comment; no business relevance.
+Context impact: None.
+Recommended action: REMOVE ~01:08:08–01:08:14
+
+
+Borderline Segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~01:08:45–01:12:10
+Content excerpt:
+Athena’s “book lady” comment and recommendations of Profit First, Tax-Free Wealth, and a personal finance book; rationale about learning basics to be a better client.
+Business relevance argument: Supports buyers’ financial literacy, directly aids selection/use of advisors (CPA/financial planner); tied to topics discussed.
+Personal content argument: Includes personal preference and meta-commentary on learning style.
+Recommendation: KEEP—Educational, actionable, and on-topic for new business owners.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~01:14:45–01:16:10
+Content excerpt:
+Athena’s policy-oriented frustration about being taxed on reserves and year-end spending incentives for owners.
+Business relevance argument: Discusses real cash/tax planning constraints that affect SMB operations and year-end decisions.
+Personal content argument: Contains emotive editorializing (“angry at this country”), drifting toward social commentary.
+Recommendation: KEEP—It frames a real planning problem and transitions to practical strategy talk.
+
+[BORDERLINE #3 - Requires Review]
+Location: ~01:27:05–01:29:20
+Content excerpt:
+Eric’s motivational close about enjoying the journey, not being a miser, balancing work and life, celebrating wins.
+Business relevance argument: Retention/performance and owner psychology tie back to “owner readiness” pillar and long-term planning.
+Personal content argument: Inspirational tone; light on technical content.
+Recommendation: KEEP—Consistent with owner psychology/value pillar; aligns with stated session theme.
+
+
+Speaker Attribution Validation
+- No clear speaker swaps detected. Q&A flows logically: Lisa asks; Kelly/Eric respond; Tom adds a caution about flexibility; Athena moderates.
+- Responses consistently address preceding questions.
+
+Cross-Reference/Pattern Checks
+- Acronym/term ASR issues recur: SBA, SEP, Keogh, ERISA, Form 5500, COLI, IRS. Suggest tracking these terms for ASR model tuning.
+- Occasional truncations when transitioning (e.g., screen share) and mid-sentence restarts (e.g., “three quar, 70%…”).
+- Numerical references are mostly qualitative; the only ambiguous figure is the “three quarters/70%” line, which reads truncated.
+
+Context Preservation Notes
+- The recommended removals are short, self-contained asides. Deleting them will not disrupt topic continuity or Q&A coherence.
+- Where business relevance blends with personal remarks (books, policy frustration, motivational close), content adds context or practical framing—recommended to keep.
+
+Summary
+- High-impact errors involve misheard acronyms/terms central to M&A/retirement planning (SBA, IRS, ERISA, Form 5500, COLI, SEP, Keogh).
+- Small talk removals focus on greetings, office/location asides, clothing color banter, and audio narrator preferences.
+- Educational and strategic content should be retained in full; personal anecdotes that inform business perspective are preserved.

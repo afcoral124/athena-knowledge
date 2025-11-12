@@ -1,0 +1,195 @@
+Segment mapping summary
+- 00:00:00–00:01:00 Opening greetings and color/sports banter: MIXED (contains small talk to remove; keep meeting setup)
+- ~00:01:00–~00:08:05 Justin updates (Hometown deal, taxes, off‑market strategy, financing): KEEP
+- ~00:08:05–~00:08:35 Brief “power cord”/camera logistics: REMOVE (small talk/logistics)
+- ~00:08:35–~00:23:30 Steve updates (dumpster business LOI pressure/ghosting; crypto site deal; structure, seller financing reality, valuation/seasonality): KEEP
+- ~00:20:00–~00:21:20 Internet Marketing Party/advisory network resource: BORDERLINE (recommend KEEP—relevant advisory resource)
+- ~00:23:30–~00:52:25 Michael LOI negotiation (working capital peg, QoE, performance note structure, SBA seller note standby, negotiation strategy): KEEP
+- ~00:51:55–~00:52:25 Michael’s aside re boss calling: REMOVE (personal/logistical)
+- ~00:52:25–~00:53:00 Housekeeping/education announcements: KEEP
+
+Detected transcription errors
+
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:02:35 / Speaker: Justin
+Transcript excerpt: "So, I'm, uh, CB, D We'll, we'll find out what's going on."
+Issue: "CB, D" is not a meaningful acronym in context
+Likely intended: "TBD"
+Confidence: High
+Reasoning: Common phrase in these calls; fits his preceding uncertainty about taxes and financials.
+Impact: Low
+
+[Error #2 - Category: Homophone/Word Substitution]
+Location: ~00:03:35 / Speaker: Justin
+Transcript excerpt: "curious to hear more specifically around the, some of the financials and light items there."
+Issue: “light items” in finance context
+Likely intended: “line items”
+Confidence: High
+Reasoning: Standard financial terminology; “line items” is expected.
+Impact: Medium
+
+[Error #3 - Category: Omission/Truncation + Terminology Distortion]
+Location: ~00:02:55–00:03:10 / Speaker: Athena
+Transcript excerpt: "unless there's like, uh, accrual or project updates or whatever ones, if they only have the count, it give it a once over once a year."
+Issue: Garbled sentence; missing key noun(s)
+Likely intended: “unless there’s accrual or project updates… if they only have the accountant give it a once‑over once a year…”
+Confidence: Medium
+Reasoning: Context is accounting practices affecting prior year adjustments; “accountant” fits.
+Impact: Medium
+
+[Error #4 - Category: Misheard Acronym]
+Location: ~00:06:05 / Speaker: Justin
+Transcript excerpt: "maybe there's a potential outside of SBL together for something like this."
+Issue: “SBL” not standard; context is SBA financing
+Likely intended: “SBA”
+Confidence: High
+Reasoning: SBA loans discussed repeatedly; “SBL” is a common ASR slip.
+Impact: High
+
+[Error #5 - Category: Misheard Acronym/Entity]
+Location: ~00:06:55 / Speaker: Justin
+Transcript excerpt: "I also, a, a confirmed it is in, uh, TAB, so… given the currency exchange."
+Issue: “TAB” in currency context
+Likely intended: “CAD” (Canadian dollars)
+Confidence: High
+Reasoning: Immediately references 25–27% exchange differential; matches CAD↔USD.
+Impact: High (affects modeling and valuation)
+
+[Error #6 - Category: Entity Capitalization/Name]
+Location: ~00:07:20 / Speaker: Athena
+Transcript excerpt: "like 95% of the clients are us."
+Issue: “us” instead of “US”
+Likely intended: “U.S.”
+Confidence: High
+Reasoning: Refers to client geography and USD/CAD conversion.
+Impact: Low
+
+[Error #7 - Category: Entity Name (Unclear addressee)]
+Location: ~00:01:05 / Speaker: Athena
+Transcript excerpt: "Edit if you wanna let him back in."
+Issue: “Edit” likely not a name; unclear addressee
+Likely intended: “Ed, if you wanna let him back in.” (or “Edit” = ASR artifact)
+Confidence: Low-Medium
+Reasoning: Sounds like she’s addressing a person to re‑admit a participant.
+Impact: Low
+
+[Error #8 - Category: Misheard Acronym/Typo]
+Location: ~00:24:10 / Speaker: Michael
+Transcript excerpt: "I submitted an LOII stuck to the traditional template language…"
+Issue: “LOII” likely extraneous “I”
+Likely intended: “LOI, I stuck to…”
+Confidence: Medium
+Reasoning: Phrase structure suggests “LOI, I…”
+Impact: Low
+
+[Error #9 - Category: Semantic Inconsistency/Unclear Phrase]
+Location: ~00:12:35 / Speaker: Steve
+Transcript excerpt: "the broker told me bar none or topa. He is, um, not willing to do a, uh, any kind of seller financing…"
+Issue: “bar none or topa” unclear/incoherent
+Likely intended: “bar none, nope…” or similar emphatic refusal
+Confidence: Low-Medium
+Reasoning: Fits sentiment of broker’s stated refusal; “topa” has no clear meaning here.
+Impact: Medium (minor clarity issue in a key negotiation point)
+
+[Error #10 - Category: Omission/Word Boundary]
+Location: ~00:12:10 / Speaker: Steve
+Transcript excerpt: "even in the Simit talks about, well, yeah."
+Issue: “Simit” likely two words
+Likely intended: “SIM, it talks about…”
+Confidence: Medium
+Reasoning: “SIM” (or CIM) document is referenced throughout.
+Impact: Low
+
+[Error #11 - Category: Misheard Name (Negotiation Expert)]
+Location: ~00:45:45 / Speaker: Michael
+Transcript excerpt: "a little more on the CRI boss approach."
+Issue: Misheard proper name
+Likely intended: “Chris Voss approach”
+Confidence: High
+Reasoning: Chris Voss is a well‑known negotiation reference; phonetic match.
+Impact: Medium
+
+[Error #12 - Category: Misheard Name (Industry Expert)]
+Location: ~00:48:30 / Speaker: Athena
+Transcript excerpt: "This is an Elliot Hall thing…"
+Issue: Misheard proper name
+Likely intended: “Elliott Holland”
+Confidence: Medium
+Reasoning: Elliott Holland (Guardian Due Diligence) is a frequent reference in SMB M&A.
+Impact: Low-Medium
+
+[Error #13 - Category: Misheard Name (Public Figure)]
+Location: ~00:20:30 / Speaker: Athena
+Transcript excerpt: "he's had Alex Ozzi speak there…"
+Issue: Likely misrendered surname
+Likely intended: “Alex Hormozi”
+Confidence: Medium-Low
+Reasoning: Alex Hormozi is a prominent, commonly cited internet marketing figure; phonetic overlap.
+Impact: Low
+
+[Error #14 - Category: Omission/Truncation]
+Location: ~00:08:20 / Speaker: Athena
+Transcript excerpt: "well we have, this is now"
+Issue: Sentence cut off
+Likely intended: “well we have… this is now working…” or similar
+Confidence: Low
+Reasoning: Follows Steve’s tech issue; fragment offers no meaning.
+Impact: Low
+
+[Error #15 - Category: Consistency/Capitalization]
+Location: Multiple (Steve, others)
+Transcript excerpt: "sim" vs "SIM/CIM"
+Issue: Acronym capitalization/consistency
+Likely intended: “SIM” (or “CIM” depending on convention)
+Confidence: Medium
+Reasoning: Industry docs typically capitalized; some say CIM. Hard to know preferred term here.
+Impact: Low
+
+Removals
+
+[REMOVAL #1 - Type: Small Talk]
+Location: ~00:00:05–00:00:40
+Speakers involved: Athena, Others
+Content excerpt:
+"Athena: Hey, Michael. Hey, Lisa. Loving the purple today. Is that, is that a sports team? Oh, it's Northwestern. Yeah. Okay, cool. I don't know the colors. Hey Justin, can you guys hear me? Yes. Yeah, we can hear you just fine."
+Reasoning:
+Color/sports banter and audio check; no business relevance.
+Context impact: Low—meeting agenda begins immediately afterward.
+Recommended action: REMOVE ~00:00:05–00:00:40
+
+[REMOVAL #2 - Type: Small Talk/Logistics]
+Location: ~00:08:05–~00:08:35
+Speakers involved: Athena, Steve
+Content excerpt:
+"Athena: I saw Steve's camera go off. Steve, are you still there?
+Steve: Steve had to find the, uh, power cord.
+Athena: Good… I know you're always on the run.
+Steve: …working right now, so I don't know how long I'll be here…"
+Reasoning:
+Tech/power‑cord chatter; no bearing on deals or strategy.
+Context impact: None.
+Recommended action: REMOVE ~00:08:05–~00:08:35
+
+[REMOVAL #3 - Type: Personal/Off-Topic]
+Location: ~00:51:55–~00:52:25
+Speakers involved: Michael
+Content excerpt:
+"Michael: my actual boss called me on this phone and I was like, I needed to probably pick it up… I probably do need to, um, give him a chat back…"
+Reasoning:
+Personal scheduling aside; unrelated to the deal or negotiation strategy.
+Context impact: None; removal does not affect understanding of preceding guidance.
+Recommended action: REMOVE ~00:51:55–~00:52:25
+
+Borderline segments requiring review
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:20:00–~00:21:20
+Content excerpt: "I'm very close with the founder of… Internet Marketing Party… anyone who's anyone in internet marketing… when you get further along… I can ask him who's the best person… he's had Alex Ozzi speak there… connected me to my final investor…"
+Business relevance argument: Provides advisory network/resource directly relevant to evaluating and operating an internet marketing/digital property business.
+Personal content argument: Contains personal connections and anecdote about investor intro.
+Recommendation: KEEP—Materially supports buyer’s capability plan; relevant to diligence/operations.
+
+Additional notes/patterns
+- Acronym/name confusions recur (SBA→SBL; CAD→TAB; Chris Voss/Elliott Holland misheard). Consider boosting ASR vocabulary for SMB M&A terms and notable industry names.
+- Currency context is critical in this call; ensure CAD/USD references are captured accurately to avoid valuation/modeling errors.
+- SIM/CIM capitalization inconsistency likely benign but worth standardizing for clarity.

@@ -1,0 +1,388 @@
+TRANSCRIPT - CORRECTED VERSION
+Call Date: 05/22/2025
+Participants:
+- Athena
+- Peter
+- Luke
+Purpose: Buyers Club session – walkthrough of financial modeling template and SBA deal structure Q&A
+---
+
+[~00:01:36]
+Athena: So, uh, today what I was planning on doing was going through the financial modeling template, um, the new updates to it. So I think it'd be good to start introducing you to it anyway. And then what, what we usually do for these is record it so then people can refer back to it. To go through it.
+
+Okay. And then I think Justin. Be hopping on at like half past. Um, and we're gonna, like, we actually pulled some p and ls from a deal that he was looking at to just start looking at like modeling techniques and how to model different things. So, um, how comfortable are you with the modeling side of things?
+
+How much did you get into that with your experience so far?
+
+Peter: I, I don't, I don't even know, I mean. It's like I have a very, my world is just very simplified in terms of, you know, cash in and cash out, right? So it's not like I am uncomfortable, but some, I know, you know, some of this stuff gets really technical and I'm like, like with, you know, cash moving outta the bank, that's all everybody wants to see anyway, right?
+
+Like, I know people act like there's a lot more going on. I get that there is, but let's be real. Right. Like nobody got into trouble because they're like, oh, you know what, there was a zero missing on, you know, my QuickBooks account, but in my bank, if they added a zero, nobody was ever like, gee, I'm, I'm losing sleep over this.
+
+No reverse. Lot of sleep loss. Right. So I get it. Yeah, I get it.
+
+Athena: Yeah. So the modeling, uh, template that we put together, we're on version four now, but, um. Basically when I was searching myself, there wasn't really any, any help out there to figure out like, well, how do you do everything that the lenders want that you need to see?
+
+Yeah. To figure out how much cash was in the bank, like how to, yeah. Decipher all the different financial statements that you get and like what's important from there. So basically like Got it. So it distills down the important things and then also puts all these tool, like I call 'em like tools in the toolkit for how you can like financially model something.
+
+So, um, I'll do a tour of the new spreadsheet as if it's like brand new. It's a helpful video to. We have version four. Sure. Um, and if you have questions as I'm going through it, just like feel free to be like, what do you mean there? Or what is that? Because if you have a question Sure. Like, this is the thing that, that clients have requested the most is like more financial modeling.
+
+More financial modeling. Mm-hmm. Because. Banks want to see that you've done this sort of stuff. Um, now when you go through your application and it also helps you figure out debt service coverage ratio, what the cash flow to you is. Um, and yep. So yeah, I'll just walk through like tab by tab, kind of where we're at now, and then as I go through, if there's anything that's unclear, grab me otherwise, you know, sit back and enjoy the financial modeling show.
+
+Um, but this, uh, this template, um. Is a big labor of love and, and hopefully something, you know, what we've tried to design it as is to be as plug and play as possible for everybody so that you can like, do some pretty, like, heavy, heavy like financial modeling, but you're not having to like actually figure out all those calculations and things yourself.
+
+Sure. And it gives you a whole bunch of tools to be able to like model different scenarios out. So, um, how's that sound?
+
+Awesome. Okay, cool. I'm gonna share my screen. Let's see. Um, I'm just gonna do the screen in case Justin comes on 'cause I have his things up. So.
+
+[~00:05:00]
+Athena: Okay, welcome to the Financial Modeling Template version four. Um, I'm gonna go through tab by tab, uh, even though some of you have seen this before, just to kind of point out some things, um, and any nuances or new things that have come through.
+
+So the very first tab is this general tab, and there's not very many things for you to input here. Um. But you wanna put the company name in, you wanna put what you have as the most recent year end and then. The also the important thing in this column, in the financials tab ends up being the most important 'cause it's what, it pulls the calculations from a trailing 12 month period.
+
+So basically, what's the most recent 12 months that you have available? And we're kind of, you know, edging towards the end of Q2 now. So you might have some Q1 financials, you might have up to April, or you might still have up to 2024.
+
+If you only have up until 2024, you wanna put the exact same thing here so that the um, tabs on this financial tab. Use the correct years. So we'll just be duplicating 2024 if that's the most recent one that you have. Um, then this is a really important one, uh, that can really alter the cash flow to you is whether you're doing an asset or a stock purchase. So always default, you know, settings are typically asset, uh, purchase.
+
+You know, you're gonna form it as an S corp ideally. Uh, well, you know, not ideally, but that's usually the most, uh, uh, advantaged for tax purposes. But some of you that are gonna be using a ROBS strategy, you'll need to be setting up a C Corp. So you'll be selecting the corporation there. Um, and then the corporation tax rate, uh, usually 37.5 is just leaving you on the most conservative side so that you might end up finding some fat on the bone later.
+
+Um. And then whether the financial statements and the tax statements are cash or accrual. So, um, this, we, we haven't spent a lot of time on the tax return tab, but when you start getting the tax returns, you can, uh, note how the seller did their tax returns. Did they, did it do it on a cash or accrual basis?
+
+You can input that there and then see if there's any discrepancies. So, uh, normally you're gonna be getting accrual statements. That's kind of the one for you to be able to see the, the financial health of, you know, when they, they booked in revenue, um, and money that went out. Um, then we go into the financials tab.
+
+This is probably where you're gonna be spending the most of your time inputting and, and interpreting. P and l statements. Everything in this column is an example column, um, just to kind of show you where it should be a minus and where it should be a plus. Um, so really easily all you need to do is go into the p and l statements.
+
+You can copy what is their revenue or their total income, and add that in here. Now I'm gonna show you what it looks like if we only have your end. So I'm just gonna go back here and copy this here. Which means that these tabs or these columns, excuse me, are gonna be. The same numbers, but you wanna make sure that this column on the right is filled out.
+
+Otherwise, it's not gonna calculate anything. Now, um, revenue, uh, is pretty straightforward. That'll be total income. Then you do cost of goods sold, uh, deducting that, and that's what's gonna be your gross profit. You wanna kind of note if there's any massive jumps in terms of the percentages from year to year.
+
+Then the operating expenses, like the total expenses under cost of goods, gold. These are both gonna be minuses. You just write it as a minus, add it there. Um, other income. You wanna read what they're counting as other income? Sometimes I won't put it here because it's not something that you will get on a regular basis.
+
+Uh, so you know, kind of if you're, if they've counted it, if the brokers counted it on the sim as other income, then I would add it here. Because first what I do when I come to the financials tab is I try to get the numbers that they have on the sim. So I want to try to get to the SDE that they have. With all the add backs.
+
+So here you're gonna add your add backs and this blue you can change these things. So I like it to be, you know, reflective of what you're seeing in the SIM or the financials. So if you're adding an add back in, please do put what the add back is on the left hand side. It makes it a lot easier when you start sending this to lenders.
+
+And when you have me or the team look over your financials, um, and, uh. Uh, just tell us what it actually is here. Um, so you can edit these cells. Then we've, uh, changed this one because the revenue adjustments was like right under the add-backs and some of you were adding revenue adjustments, um, in as add-backs.
+
+So we've split this out and what revenue adjustments are. Are things that will actually affect the revenue, not the EBITDA or the SDE or the profit. So if there's something that you need to deduct from the revenue, like a one time thing that they got, um, or let's say they got PPP or, uh, not PPP, um, I can't remember the name of the, the program, but the, um.
+
+Grants that businesses were getting during COVID, you would add that you would do a negative add back here so that you're pulling it off the revenue, because sometimes that's showing up as revenue. That's not real revenue. Um, and then you're gonna get your adjusted ebitda, SDE here. Now if you are, for example, going to be buying, uh, the real estate, then you might wanna put a, uh.
+
+Rent add back here because the deal structure tab is gonna be calculating the multiple based on this adjusted EBITDA and SDE. But this pro forma adjustments is things that you're gonna do as a new owner, like either a salary that you're gonna pay yourself. Or other things that you're gonna get back, you know, add backs that they didn't necessarily add themselves or rent, that you're gonna start paying yourself if you're buying the property in the deal.
+
+But you don't want that to, um, unnecessarily inflate what the SDE is or deduct it you wanna be doing, um, your valuations based on what is, you know, what they're seeing is the add backs. So, like I said, I always try to get this number to what they're seeing first in the sim and then later I can decide whether I think that is a reasonable add back or not.
+
+Let me just come here to interest depreciation, amortization, taxes, and talk about that for a second. So, interest is going to be interest expenses that they had. So maybe they paid, uh, they took out loans and they had interest expenses. Um, so you're gonna wanna add that back because you don't know what interest that you are necessarily gonna pay or if you're gonna be paying the same amount of interest.
+
+Depreciation is a really important line item to pay attention to because it's usually indicative of the investments that they're making into capital expenditures. So to put that in plain words, like some of these businesses need things to be bought every year, or maintained equipment, for example, vehicles, for example, in order to run the business.
+
+And sneakily, those investments are considered, uh, investments into the business. They do not come off the profit and loss statement. They go onto the balance sheet. So it is a way for us to get an indication of what the average annual investment you are going to have to make into equipment to keep the business running.
+
+So if there is depreciation in the p and Ls, you absolutely want to put it here so that we can start seeing what the average is. And then amortization, you're gonna add, um, you are gonna be able to, if you do an asset sale or, uh, in, in other circumstances, be able to amortize. Uh, some of your deal expenses and some of the costs or some of the goodwill that you are buying.
+
+So when you're buying in, in the assets, the goodwill that you're buying, you'll be able to amortize that over time. Um, so that's why we add that back. So typically you don't see amortization on a seller's p and l, but just add it back if you do. And then taxes. So just to clarify here, we're not adding.
+
+Back things like property taxes, sales tax, franchise tax, like all of that stuff is gonna be expenses that you will incur as a business owner. The only taxes that we should be adding back in the EBITDA section are if they paid income taxes out of the business or back taxes, for example. Um, so that's where you would add that back in, and that's how we get to ebitda.
+
+Okay, so, um, pretty straightforward here. Um, you're able to see, you know, what the differences are year over year, what the margins are, and then what the percentage differences are. And it's gonna highlight, um, where there are large swings year to year. Um, then we're gonna get into the deal structure tab.
+
+So this looks pretty similar to what it's been so far. Um, and you are gonna be able to choose when we get to purchase price, whether you want to do a purchase price based off of multiple. Or whether you want to add in just a purchase price that you write on your own, and it will tell you the model. So let's say that you wanna buy this business for $3.5 million, um, then you would put that there and you would switch this to B.
+
+So that's how it'll calculate it. So we're seeing that's a 2.47 multiple. Um, these blue boxes are not boxes, uh, that you have to fill out in terms of getting the, uh. Um, calculations to work, but it's just, um, available for you to kind of add in some extra things to see where you're at. Like what are your monthly expenses that you need to cover, um, what are your liquid assets available for the transaction?
+
+But these aren't necessarily like crucial to do the calculations. Then the maintenance CapEx that I talked about, we're gonna pull through the average depreciation. So this is a new feature that we've added to this one. Where you can see, okay, well this is what the depreciation average is from the financials tab, and then when we're calculating.
+
+This into our projections. If there is gonna be, let's say in this example, the seller was making $30,000 worth of investments every year into, uh, what would be considered capital expenditures, um, to keep the business running. It wouldn't come off the p and l, but it's real cash coming out of your business.
+
+So that's what we wanna make sure that we capture. And this new little feature here allows you to select whether you want. The average to be calculating in the spreadsheet, or if you talk to the seller and they're like, oh no, uh, I was actually doing personal purchases and you won't need to buy that or whatever, then you can put an input there.
+
+So, um, I will change that so it doesn't give you all a warning, but uh, you can change it to input. And then you can write the number in there. So let's say, actually we think it's gonna be more like, Ooh, that would be, that would be rough. Let's say we think it's gonna be more like 45,000. So we've added it there.
+
+Now, um, this is still set up as no change. Best case. Worst case. So it allows you to just look at three different scenarios. So the first one is always like, if nothing changes in the business, and you keep running it as is. The second one is like. Best case scenario. So what is your waving a magic wand or you're looking into the future or the exciting things that you think the potential of this business has.
+
+That's where you can put in your best case. And then your worst case is where you put, like if, if things go really bad, what will my financial situation be? Um. These cells here, you also wanna make sure that you are thinking about working capital, right? So how much money are you gonna need on day one to pay the bills of that business and keep paying the bills and keep the lights on until you get cash from the new, uh, customers that you brought in from day one?
+
+So. To, um, give an example that actually Wendy gave a really great example from Live Oak is when you buy a business, it's like buying a vehicle and you need a full tank of gas to get where you're going to go. But if you buy a business and the gas tank is, then you're gonna have to go and buy gas to get that vehicle to function.
+
+So. The seller might be like, well, I'll give you a half a tank gas. And you're like, well actually I need a full tank of gas to be able to get to my destination to be able to refuel again. You know, um, so, or that's how long it is before I can get to the next gas station. So I. You know, it might be that you require $50,000.
+
+I keep adding an extra zero today, $50,000 in order to get, um, to the next gas station. The seller's only leaving you 25,000. I. So this is gonna add then working capital to the project costs and you'll see it up here. So it's gonna automatically pull out what your working capital needs are. So it's really important to make sure that you're thinking about working capital when you do the structure, 'cause it can materially change, uh, both your equity injection and the overall numbers, cash flow, debt service coverage ratio, et cetera.
+
+Um, then we're getting to the equity injection amount. This hasn't changed. For those of you that have seen this spreadsheet before, um, you have method A or B, you can choose a percentage or you can choose an amount. So with the new S-B-A-S-O-P guidelines, um, 10%, uh, well, it's always been 10% needs to be put in in cash.
+
+Um, or we used to be able to use seller notes towards the equity injection, and they had to be on standby for two years. Now they're saying it's the full life of the loan. So typically most of you are gonna be putting in 10% on your own. You can also bring in investor capital, but a minimum of 5% needs to come from the buyer.
+
+So a minimum of 5% needs to go towards your equity injection. Now, if you have real estate in a deal, you can add it in here. So let's say there's um, a million dollars in real estate. It is gonna tell you whether it's eligible based on this deal structure to include it in your seven a loan or not. Now what that means is if you add the real estate to the same loan as your business purchase, you can spread the entire loan over the course of 25 years.
+
+Now, some lenders are doing blended rates, even if it's not over the 51% threshold. Um, but basically what it means is. If your real estate is, uh, at least 51% of the loan value, then you can include it in the seven A. So let's say. This real estate is worth 3.7. Now it's eligible to be included. Now on the seven a loan portion, you can choose whether you want to include it or not.
+
+If you select yes, then you wanna change the years to 25 years. Um, and the interest rate will be at the business interest rate. So that's just something to consider. But it allows you to spread the business loan payments also over 25 years. Um, let's say we're keeping it at 1 million. It is not eligible for seven A, so we're gonna say no.
+
+We're gonna set it back to 10 years here, and we're gonna take out a separate 5 0 4 loan for a million dollars down here that will automatically calculate, um. Here. So we're gonna see two different line items for the loans, the SBA seven A and 5 0 4 separately there. Now, um, I'm gonna put the real estate back into the seven A so I can show you the new feature that we got, which a couple of you had requested.
+
+Um, but before that, you always wanna make sure that you're getting a line of credit with your deal. Um, you don't, uh, pay interest on it until you pull it down, but. If you need the money after you buy the business, it's very hard to get a line of credits. You always wanna get a line of credit included in the loan, and the amount of line of credit that you're getting will calculate the debt service coverage ratio on the next tabs if you were to pull it down and also pull it down when you start getting into, uh, scary zone with the business on the like, worst case scenario.
+
+So, um. We put a hundred thousand in here, but you, you know, you can typically get up to 500,000 depending on the, uh, loan size that you're doing for the seven A and the lender and your personal situation. So we had it, oh, actually I'm gonna take it out. So we're gonna to 1 million here.
+
+[~00:23:15]
+Athena: Now, um, we have three different types of seller notes here. Now, we used to be able to apply the, um, some of the seller note towards the equity injection in the business, which lowered your down payment amounts because we had them on full standby for two years.
+
+But with the new SOP change, they're now seeing that the seller. It must be on full standby for the life of the loan if the seller note is being applied towards your equity injection, towards your 10% that you need to bring to the deal. Now I'm getting some insider information that people are structuring deals to be a little over asking, um, and putting the seller on full standby for the life of the loan.
+
+So they're still getting the cash at close that they wanted, but they also have a note that's gonna be on standby for 10 years, which allows the buyer to put, uh. Less of an equity injection in. So, um, I'm waiting to hear whether this actually gets funded or not. Uh, but I thought it was a pretty clever tool in the toolkit to overcome some of you that might be on the tight, uh, equity injection.
+
+I. Um, side for some of these deals, it sounds like there might be an opportunity to, um, still come in with a little bit less equity injection and have the seller contribute, but it means you're gonna be overpaying. So you'll need to make sure that the valuation will stand up and that will all work. So I'll give you more information as I find out about it, hot off the presses.
+
+Um, but the main one that most of you are gonna be using is. It's just a straight up seller note, so we're just having them take a portion of the loan as a seller note. Um, usually you'll start making payments after year one, um, and it will be replayed over the life of the loan. So you kind of want these two here to add up to 10.
+
+If we're doing a 10 year loan. Um, I started like five or 6% on the interest rate for sellers. Um, and then the balloon payment's always been there. Uh, so you can choose to do a balloon payment or not, but you might need to refinance the whole loan at, uh, year five in order to satisfy the SBA because they don't like the seller getting paid back before they do.
+
+Um, then performance notes. We use these a lot to mitigate risk or to incentivize a seller or when we're seeing like variable numbers over time and we're worried that it won't be there or we want them to get back to where they. Did in the previous years. Um, so the performance note will be based on performance.
+
+So I've gone through this in past videos, but very quickly, there is two scenarios. There's a Target and Prorata. Prorata basically means if they hit, let's say you want them to achieve a 20% growth rate. Oops.
+
+There we go. Um, then if they achieve between 0.1 and 20%, then they will be paid a percentage of that portion of the note. Uh, in a target scenario, they only get paid the note if they hit 20%, and then the percentage here is based. On the, uh, percentage of the total purchase price that you're going to make towards that performance note, and then payment year one in year two.
+
+Uh, you might want to have this dependent on two years of performance. So then you would put 50 50, or you're not gonna start paying it until they've achieved this in two years. So you can select the percentage of the loan that you wanna pay out after year one's performance in year two's performance, uh, and then the repayment period after those performance metrics are hit.
+
+So you can also do a balloon payment. Potentially in this. I'm not gonna spend too much time on the investor seller equity today, but if any of you are considering, um, using investor money, which we're gonna have Henry here next week, who's going to kind of break down investor terms for these types of deals, what they look for, uh, how to approach investors, just investor 1 0 1 on a deal where you are gonna be, um, the primary equity holder, but maybe you wanna bring in some additional capital to go after a bigger deal.
+
+Um, and then seller rollover equity, that one's kind of not really gonna be a tool that many of us are gonna be able to use. Because, um, it is going to make the seller be, uh, totally liable for the totality of the loan for the first two years of the loan. Many are not gonna be willing to do that, unfortunately, so we're not gonna see a lot of that if you are using SBA.
+
+Um, and then depending on where you're at and how much you've paid us already. And then we always leave the deal estimate at about 5% of the purchase price. That'll be your SBA fees, your lawyer fees, um, your QoE, that should cover kind of everything and additional expenses. So those are kind of the new features in here.
+
+We're just giving you more firepower in like how you're choosing to do the seller notes. The real estate has been cleaned up, so it's pretty simple. You can have two different loans. You can include the real estate, it's gonna tell you exactly when you can include it. You can potentially do blended rates as well, so you can still override, even if it says not eligible to include.
+
+Some lenders might be like, well, I'll give you a 15 year term. Um. If you put the real estate into the deal, so you can still override that here, and the seven A is gonna be the main one that most of you are using. Okay. So in this scenario, we are doing a. 2.47 XI believe. Um, I haven't covered this too specifically in the past, but what lenders look at is they look back at your debt service coverage ratio to see if the business could have supported the loan payments that you yourself are trying to pay.
+
+So if they look back over the last couple years and the debt service couldn't be covered, it's unlikely that they're going to be comfortable with you taking over a business that even. Under the seller's, uh, guidance wouldn't have been able to make those loan payments. So there's three different levels here of the debt service coverage ratio.
+
+The first one is what the lenders are really looking at, which is senior debt, which is SBA, uh, then the next one is to put all of the debt in there so all of the seller notes. Could the business still pay that? And then the last one that some lenders look at, some don't, is the debt service coverage ratio if you were to include the line of credit fully drawn.
+
+So we wanna see definitely the top line above 1.5, the second line, ideally above 1.5 in the no change scenario for the foreseeable. Some of you noticed that this gets slightly less over time, even though nothing has changed in this scenario. And that is because, um, as you pay your loan down, I. Your, um, not your interest that you're paying is going to be less over time.
+
+And interest is something that we can, um, say is a tax, is a, uh, expense, which reduces our tax liability. So this spreadsheet is gonna calculate what your tax liability is. Um, what the interest payments are going to be, uh, what your maintenance CapEx is going to be. All of those things, and this is the most important line for you to pay attention to here is the free cash flow to owners.
+
+So does the cash flow to you after all of these expenses, the debt payments. Everything else makes sense. Does it work for you? Are you going to be able to pay yourself and have money to reinvest with the business? So this, in my opinion, is the most important line for you to pay attention to. Obviously we wanna see a healthy debt service coverage ratio, but if you have a 1.5 and you're only walking away with 50 grand a year, that's not gonna be as enticing.
+
+Right? So, um, okay. That's kind of the walkthrough.
+
+Athena: What do you think, Peter?
+
+Peter: Very, I mean, very thorough. When I, when I compare this to the spreadsheet that I, I mean like nine 90% of. I was missing 90%. Whatever decisions I was making seven years ago, I was missing 90% of whatever's in the sheet.
+
+So, you know, I go, great. But you
+
+Athena: still doing all right. So yeah, it's a, it's a huge upgrade now. Um, and while you're here, I'll show you this, uh, this forecast assumption. So, um, this allows you to look at, like, one of the things that I was struggling with with my old templates that I was cobbling together from other people was like, well, I wanna look at like, what if nothing changes?
+
+What is my best case scenario? What is my worst case scenario? I have to keep re recreating like new templates, um, to get the formulas to work. So we've, we've allowed it for y'all to put it in like three different scenarios. I've put in just kind of like base rates. So like no change really is like you just, percentage wise, 0% change year over year for both expenses and revenue.
+
+Um, and that's what I kind of look at first. It's like if nothing changed in the business and it just continued operating as it is, what do the numbers look like? Then obviously I'm an optimist of buying this business 'cause I'm excited about its potential. Like what do I think its potential could be in terms of, you know, revenue growth year over year and maybe increasing or decreasing some of the, uh, expenses or keeping them the same over the first couple years.
+
+And then worst case is where I think everybody should spend a lot of time is looking at like, what's the threshold? So a deal that looks good on no change, like how far can you go down before you're like super in the red? I. Um, so this is, you know, where you can start stress testing, well at 10% drop in revenue.
+
+Where am I at? 20% drop in revenue, where I'm at and accounting for the J curve here. So negative 10% is what I've set is just kind of standard in yours, one and two. Then maybe like no growth in the next. Three years and then 3% growth conservatively over the next five years. You know, like that's not ideal, but could the business survive that with also having some like expense increases as well?
+
+And, and Peter, I know you've experienced, I think you experienced the J curve just like everyone else does. So I think that's important that we're just kind of, when we're modeling these out, we get really excited about it, but also like, where's the floor in terms of when, when, when are we stop? When are we not able to pay the bills anymore?
+
+Peter: I think that that actually having been, I'm, I'm like living a J curve right now, uh, in reality. And so there was, there was, there was no J curve planning. It was just like, well, of course I'm, I'm a genius. Of course, as soon as I put my hands on this business, it can only go in one direction, uh, not down.
+
+Uh, that was the assumption. So, yeah.
+
+Athena: Well, um. I, so in terms of, I, I think that's kind of the first time you've seen a walkthrough there. Any questions or anything in there that you're just like, I have no idea what that was or does, does it all seem pretty plug and play for you?
+
+Peter: It, it all seems, it all seems plug and play. Um, so it's just a matter of getting a live, I mean, everything's easier when you have like an actual live deal you're looking at and just saying, okay.
+
+Um, you know, how does, um. How does it sort of play out? Uh, as I think about different things I could do with the business, right. Because, um, you know, one of the things I've definitely realized going from the real world to excel and back to the real world and back is yeah, you know, you can get really creative and excel and, and do all sorts of magic that I.
+
+Don't quite work the same way in the real world. So it's, it's really, it's really getting, you know, much tighter on, all right, what is, what, what, what's more reasonable in the real world? And then that's the number you use in Excel versus, oh, Excel allows me to just do a hundred multiple on my revenue.
+
+Like I'm gonna do this all day long. Yeah.
+
+Athena: Um, yeah, the, I saw that a lot in the startup days too, like when, when we were like putting startups in front of investors for, you know, you just make up numbers, literally just make up numbers, and we can do that with our projections too. It's literally just made up numbers, you know, a hundred percent, I guess by like, about existing businesses is like, well, you can look through the trends and see like, well, what's their revenue growth looking like?
+
+And then also assuming I'm gonna have a drop in the first couple years, then could I somehow mimic the growth that they were having? Um, but I think this levels levels you out when you can like put the three scenarios side by side. 'cause we don't wanna put the advantageous numbers in there, right? Like the potential numbers.
+
+But if the, those are the only ones that we're looking at, then it can get pretty dangerous, pretty quick.
+
+Peter: Agreed.
+
+Athena: Okay, cool. Well, um, so I think that will be a good little overview. Don't wanna keep you unnecessarily. Peter, just talk at you unless you have any, uh, questions about modeling or anything like that. Um, next week we're gonna be bringing on, um, Henry, who has been a really amazing active member of the community.
+
+He's an investor. He invests into searchers that need a little bit of an equity check into their deal. Um, so he's gonna be coming and doing a 1 0 1. Um, you know, what do investors look for in these deals? What are the kind of terms that you'll need to wrap your head around? How does it work when you're bringing investors into it?
+
+That sort of thing. So that'll be fun. First out outside Expert you've seen on the Buyer's Club, but I do have a bit of a fireside with them. Oh no, you were here for Wendy. Nevermind. You've seen others. Um, so yeah, any questions that you or anybody that's watching the replay have about. Bringing investors into the deal and what does that look like and how, how are you managed by the investors?
+
+How do you have to answer to them? Like obviously every investor's gonna be different, but I really have loved Henry's been actively building a community in Austin, so I know him quite well. We have very much same value set around deals, deal making, searchers, et cetera. So I'm really excited he's coming to share.
+
+Um, and then the following week we're gonna have Denise Montenegro, who's gonna talk about her. Horror story of buying a business, everything that went wrong there, and actually how they came out of it. So, pretty amazing story. Uh, really scary, also really encouraging in terms of the resilience and the, the problem solving and everything, and like the positivity at the end.
+
+So that'll be a fun one. Um, and then on Tuesdays we'll be just going through deals that people are working and stuff now too. So, um.
+
+Peter: Great. Great. I, I actually have a question about, um, the equity injection. Uh, yeah, I know you, you mentioned that I, so let's say, let's say it's a a million dollar purchase price, so
+
+Athena: mm-hmm.
+
+Peter: The 10 percent's a hundred grand. Um, and in the past you were able to. Get 50 grand from the seller as well as a part of the SBAs.
+
+10% rule is that, but now they're saying, no, you can't do that anymore. So you outside of seller, have to come up with you. Your investors have to come up with that a hundred grand. And then,
+
+Athena: yes. Let me, let me actually show you what it looked like in the, um, in the sheet. Sorry, carry on with the rest of your question.
+
+Peter: Yeah. And then, um. Banks aren't loaning 90% though. Right. So you, there's still another 10% that's still seller financing, but it's just not, or I guess Oh, okay.
+
+Athena: Yeah, that's, so, uh, the SBA will guarantee 75% of the loan.
+
+Yeah.
+
+Um. So you bring 10%, which basically leaves the bank exposed at like 15%, right? So that's where they're like kind of underwriting the risk and also your personal ability to pay the loan, that whole thing.
+
+So, um, you only need to bring 10%. Of the per of the, of the loan value, the project cost. So even though the purchase price might be a million, so like in this scenario here, lemme Oh, if you roll
+
+Peter: in, all right, so if the bank will say, Hey, I'll, I'll loan you 1,000,002 because we know you're gonna need another 200 grand for a bunch of stuff.
+
+That's a, that's why 1,000,002 is the project cost that's being loaned again. So then,
+
+Athena: yeah. Okay. So then in, in this scenario now.
+
+So in this scenario, like we have a purchase price of 3.5 million. However, we're estimating that the legal, the QoE, uh, the SBA loan fee guarantees all of their expenses is gonna be an additional 1 75. And we're gonna need, uh, 25,000 in working capital. And then for all of our clients, we have the consultancy fee from us that gets.
+
+Packaged in. So even though it's a $3.5 million, um, purchase price, your total project cost will be 3.8.
+
+Peter: So you'll need 280,000, not 250,000.
+
+Athena: Exactly. So in in our model, it's gonna calculate 10% of the project cost for you. Yeah,
+
+yeah.
+
+If you're doing a seller note. Typically they're not gonna be cool with doing 10% of like all of your additional expenses too.
+
+So this spreadsheet actually calculates 10% of the purchase price to them. Yeah.
+
+Yeah. And, and so,
+
+but to answer your question, what we used to be able to do, so like here, you know, equity injection, 10% needed to be injected into the loan. It needed to come from somewhere. Um.
+
+You could, as the buyer, you could inject as little as like 2.5% and sometimes 0%. So what was happening was searcher, like investor investment groups were backing a searcher or an operator. They were writing the equity and check, but the person. The searcher themselves, the operator was putting the personal guarantee on the loan, but they had no assets. So those loans are in very high default because the person that was taking out the loan had nothing to lose and they were being backed by like an investor that was like, here, I'll write you a check, and you go out and utilize SBA money.
+
+So now they've changed it. So it is fully on the government,
+
+Peter: right.
+
+Athena: Well, the SBA loan program is funded by those guaranty fees.
+
+Peter: Yeah, exactly right. Got it. So those guarantee fees that that they charged were to cover defaults, but the default rate was going so high that for the first time, right? It went outside the model. Yep. Got right. Got it. The loan program was like in a deficit. Right. So it was costing taxpayers money. Why They did all these like mass.
+
+Changes. Um, got it.
+
+Athena: So yeah, so now the minimum that the buyer has to come up with is 5%. The other 5% can come from an investor. Yeah. It can also come from the seller.
+
+But here's, here's the kicker. So let's, in, in this scenario, this, we still have it built in that you can do like two different types of seller notes. So, um,
+
+Peter: okay. So let's, that's where I was getting confused with Tina. So there's, there's a seller note for. Outside of the 10% from of me and there's a seller note for inside of the 10% for me.
+
+Is that the idea? Like, okay, my question then. Yeah. So like you could just have, I understand that now
+
+Athena: you have the seller Yeah. Hold 10% of the purchase price as, as a loan. Just a straight up loan. But like, it's like you have two loans now. You have one with the bank, one with the seller. The seller's only ha holding 10%.
+
+Um, but they're gonna start collecting interest in getting paid usually. You know, six months in or the first year. Yeah. Yeah. But with this equity injection, what we used to be able to do was like, you could put in 5%, you could get the seller to put in 5%. You could say, Hey, I'm going to have you take 5% as a note, you're gonna be on full standby for.
+
+Two years. Um, and then I'm gonna start making payments after that.
+
+Yeah.
+
+And then if you do that, uh, sorry, my numb lock is not working. That's why it's getting weird. Okay. Two years, and then the repayment period was gonna be over eight years. So they'd still get paid back over 10 years, but they wouldn't start receiving payments until you're two.
+
+And then that could count towards your 10% that you needed to bring to the bank to get the loan. So it meant that, you know, you, instead of 380,000, you could bring 175,000. No. Is my mouth correct on that? Half of 380,000. Sorry it's late. My brain doesn't work.
+
+All good. Um.
+
+And then the seller was contributing to your equity injection.
+
+So it meant that whatever you had to apply to your business, if you doubled it, that was basically like your purchase power. So if you only had a hundred thousand dollars, you could buy a $2 million business if you got the seller to take a two year standby. But with this new SOP. They are now saying like, no, it's not gonna be, um, it's not gonna be, uh, two years.
+
+They have to wait for 10.
+
+Peter: That, that's only with the seller financing and the equity of the 10%. Yep. If you're
+
+Athena: trying to use it as part of your equity injection.
+
+Peter: Got it. If you're not trying to use it as part of your accurate injection and just doing a deal structure, that's, that's way more flexible.
+
+Athena: Exactly.
+
+Peter: Got it. All right. So I, that's where I was getting confused. I I never even knew you could use seller financing as part of equity injection. Like I always understood it as the 10%, you and vulture capitalists are just you. That's how I always understood
+
+Athena: Vulture capital. Yeah. Right. Um.
+
+Yeah, but they, they did change it a couple years ago that you could do that.
+
+Now, what I am watching, and I've got some insiders that are, are currently putting deals through with this kind of structure is they are, let's say, okay, if, if we're not asking the seller for equity injection, we're saying 3.5 purchase price. But we're like, Hey, Mr. Seller, uh, if you put 5% on, um. 10 year stand by, then I'll pay you like 3.65 million or whatever.
+
+You know, a 5% increase on the purchase price would be to incentivize them to take a. You know, 5% note at 10 years. So the cash it close to them is, is gonna be the same. Oh.
+
+Peter: It's just a bonus to give me more flexibility on the front end. Right, because you're, you're basically, which then,
+
+Athena: instead of the, the 395,000 that you would need to come up with, you'd only need to come up with 200,000.
+
+Peter: Yep. Got it, got it, got it, got it, got it. And, and you're just paying back all that money over a longer period of time, over 10 years.
+
+Athena: Well, yeah, so you, the interest would accrue on that 5% note. You couldn't pay anything. You couldn't pay interest or principal, you'd have to pay it all in year 10 after the SBA was pulled, paid back.
+
+Oh, so
+
+Peter: it would be a balloon. You're gonna,
+
+Athena: yeah. However you decided to do it with them. But probably a balloon, right? Like Yeah, I don't know. Mini sellers, it would be like, yeah,
+
+Peter: she'd balloon $194,000 in 10 years. But
+
+Athena: it would give
+
+Peter: you,
+
+Athena: yeah, this 82 plus interest, you'd balloon it at like 10 years, but it would bring your, it would
+
+Peter: allow you to get your foot in the door with a larger deal that you otherwise would do today.
+
+And that's always like, so it's like it's, it's basically like the classic, no free lunch. It just basically means okay. You know, if you're going to, you know, do a larger deal today with less of your own money, the money's gotta come from somewhere else and this is just another way for the money to come from somewhere else.
+
+Got it. Okay. Correct. All this is making sense. Um, all, all right. So like, that's, that's, well, it doesn't even matter. Like I'm, I guess the way I learned how to do, the way, the way I learned how to think about this stuff is exactly what it switched to anyway. So, you know, you know, I just, I'm like, oh wait, you could do that.
+
+Oh. I mean, that's like, that's so much of what I'm asking right now is I hear these rule changes. I'm like, oh, that's not how I remember it. Well, you could do that for a little bit of time, but yeah, it's obvious why it's like. Some of these, the combo of these incentives backfired in terms of debt repayment?
+
+Athena: Yeah. Well, I mean, I liked the seller note equity injection actually, because then it kept the seller, I. You could, you could apply. You know, it used to be that they, they just had to wait for two years and then that 5% that they were injecting in was what you could use for reps and warranties, right? So like you never wanna give 'em a hundred percent of the cash at close because what if you get in there and there's fraud or something wrong?
+
+There's no way for you to claw anything back. So I was a fan of the 5% equity injection. Just 'cause it meant that, you know, if you, you could write it in a way that if there was fraud or something wrong or whatever, that instead of paying it to them that, that you'd get a portion of that note back to cover legal costs or the fraud or whatever, you know.
+
+Yeah.
+
+[~00:50:00]
+Athena: And it allowed you to go for a little bit bigger of a business, which the larger businesses are typically more stable, um, than the smaller ones. And it helped people make. Most of their equity injection. So I'm interested to see if this play that I'm hearing about, like increasing the per purchase price minimally to get somebody to be like, yeah, sure, I'm gonna get the same amount of cash I was expecting at close, and then I'll get a nice little sum of money in 10 years.
+
+Peter: Yeah, yeah. But it helps.
+
+Athena: Helps the, the equity injection. Come down significantly, but you're still in that scenario. It's like, okay, well do the numbers still work? Is it, is the debt service coverage ratio still gonna be okay doing that? You know, you're highly leveraged at that point, only putting in 5%. So, um, it will definitely be deal dependent.
+
+But I think one of the things I love the most about this world is how creative we can be with these, these deal structures. You know, the way that we put the deal together. Um, and, you know, rather than just like straight up. 10% equity injection seller gets a hundred percent at close and that's it.
+
+Peter: So yeah.
+
+And, and that's all new to me because my deal was like 10% me 10%. Oh,
+
+Athena: I had this speed up and I was like going around and
+
+Peter: I, I, I know exactly having watched the video. Okay, great. I know exactly. Yeah. Um, you know, my deal was like 10% me, 10% self financing, 80% Wells Fargo.
+
+Like, I didn't know any, I, like, I, I didn't know any other way to do that deal. Right. Uh, and so I quite quickly, I Well, that's the
+
+Athena: best way to do it, you know, I mean, as long as there's some seller note in, in the mix, like what I don't like to see is them getting a hundred percent cash day one. Yeah, I agree.
+
+Like what's I agree. Incentive. Do they have to send you off in a good way?
+
+Peter: Yep. So that's, that's where I think I can learn. Just what, what, what other ways to think about the structure of this stuff. Um, so that'll be interesting. Yeah. I'm a total
+
+Athena: nerd for it. I love it so much. That's my favorite part. Well, I love so many parts about this, but the structuring is definitely one of my favorite parts for sure.
+
+Peter: Nice. Cool. That, that was helpful.
+
+Athena: Awesome.

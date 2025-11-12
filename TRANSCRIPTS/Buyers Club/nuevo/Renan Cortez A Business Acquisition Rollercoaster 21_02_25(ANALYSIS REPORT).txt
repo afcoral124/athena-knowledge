@@ -1,0 +1,222 @@
+---
+[Error #1 - Category: Entity name]
+Location: ~00:00:35 / Speaker: Athena
+Transcript excerpt: "This is Renata Cortez, who I now consider a dear friend. He's been a huge supporter..."
+Issue: First name appears as “Renata,” but the guest is referred to as “Renan” throughout.
+Likely intended: "Renan Cortez"
+Confidence: High
+Reasoning: Subsequent references consistently use “Renan,” and the guest self-identifies as Renan.
+Impact: Medium - could confuse identity early on
+
+---
+[Error #2 - Category: Business terminology distortion]
+Location: ~00:08:00 / Speaker: Renan
+Transcript excerpt: "I got approved SBA and this is at a time before all the interest rates..."
+Issue: “SBA” used without “loan,” creating ambiguity; later also says “SBA alone.”
+Likely intended: "I got approved for an SBA loan"
+Confidence: High
+Reasoning: In acquisition financing, SBA almost always refers to an SBA loan; “alone” appears as a homophone error.
+Impact: Medium - may confuse readers unfamiliar with SBA context
+
+---
+[Error #3 - Category: Entity name]
+Location: ~00:27:10 / Speaker: Renan
+Transcript excerpt: "kind of like a SurPro or Paul Davis."
+Issue: “SurPro” likely misheard brand name of major restoration franchise.
+Likely intended: "SERVPRO"
+Confidence: High
+Reasoning: SERVPRO is the well-known brand in restoration; “SurPro” is a common ASR miss.
+Impact: Medium - brand identification
+
+---
+[Error #4 - Category: Entity name]
+Location: ~00:27:40 / Speaker: Renan
+Transcript excerpt: "we ended up going with a system called Accelerate."
+Issue: Restoration platform name likely misspelled/misheard.
+Likely intended: "Xcelerate"
+Confidence: Medium
+Reasoning: The industry platform is “Xcelerate Restoration Software”; ASR often converts to “Accelerate.”
+Impact: Low - does not impede understanding but misidentifies vendor
+
+---
+[Error #5 - Category: Financial/numerical inconsistency]
+Location: ~00:05:50 and ~00:09:00 / Speakers: Athena, Renan
+Transcript excerpt: 
+- Athena: "100 percent seller financing on an 8 million acquisition..."
+- Renan: "it was an 8. 6 million business."
+Issue: Purchase price alternates between $8M and $8.6M; later his calculator shows $8M financed.
+Likely intended: Either $8.0M or $8.6M consistently; calculator example uses $8.0M.
+Confidence: Medium
+Reasoning: Multiple figures cited; could be rounding vs. specific. Flag for clarification.
+Impact: Medium - affects deal economics discussion
+
+---
+[Error #6 - Category: Omission/Truncation]
+Location: ~00:29:25 / Speaker: Renan
+Transcript excerpt: "we had APA's drawn up for him all Barlow and, uh, and, you know, Bill Barlow."
+Issue: Garbled phrasing; entities and prepositions unclear.
+Likely intended: "we had APAs drawn up [by/from] Bill Barlow..."
+Confidence: Medium
+Reasoning: Bill Barlow is later referenced as the M&A attorney; “for him all Barlow” is nonsensical.
+Impact: Medium - obscures who prepared documents
+
+---
+[Error #7 - Category: Financial/numerical inconsistency]
+Location: ~00:17:40 / Speaker: Renan
+Transcript excerpt: "It's hilarious. It's I've been doing this two and a half months and they're like, we're super interested."
+Issue: “Two and a half months” conflicts with earlier/later timeline (ownership ~2 years).
+Likely intended: "two and a half years"
+Confidence: Medium
+Reasoning: He references two years of ownership elsewhere; 2.5 months is unlikely in this context.
+Impact: Low - minor timeline confusion
+
+---
+[Error #8 - Category: Homophone/Misheard word]
+Location: ~00:21:05 / Speakers: Renan, Athena
+Transcript excerpt: 
+- Renan: "I'm sorry. Is this a clean pocket? I don't know."
+- Athena: "Yeah. Yeah. It costs all the time."
+Issue: “clean pocket” and “costs” are likely mishears in a profanity context.
+Likely intended: "clean podcast" / "I/we cuss all the time"
+Confidence: High
+Reasoning: They proceed to acknowledge swearing; “podcast/cuss” fits context.
+Impact: Low - minor clarity
+
+---
+[Error #9 - Category: Entity name]
+Location: ~01:01:35 / Speaker: Athena
+Transcript excerpt: "What is BNII, I don't know if I'm familiar with that."
+Issue: Organization name for networking group misheard.
+Likely intended: "BNI" (Business Network International)
+Confidence: High
+Reasoning: Renan repeatedly said BNI; BNI is a common networking org.
+Impact: Low
+
+---
+[Error #10 - Category: Entity name]
+Location: ~01:05:40 / Speaker: Renan
+Transcript excerpt: "we got on, um, like, preferred status for USA for NJM, which is a local insurance for New Jersey."
+Issue: “USA” likely misheard for “USAA”; also awkward with NJM.
+Likely intended: "USAA and NJM"
+Confidence: Medium
+Reasoning: USAA is a major insurer; NJM (New Jersey Manufacturers) is accurate. “USA for NJM” is semantically odd.
+Impact: Medium - insurer relationships matter operationally
+
+---
+[Error #11 - Category: Entity name (inappropriate homophone)]
+Location: ~01:02:40 / Speaker: Renan
+Transcript excerpt: "I'm getting my company is a preferred restoration for 4 dicks in New Jersey."
+Issue: “4 dicks” is almost certainly misheard.
+Likely intended: Possibly "four districts" or "four Dick's [Sporting Goods] stores"
+Confidence: Medium
+Reasoning: In context of chambers/contracts, “districts” or a named chain are plausible; “dicks” is inappropriate and unlikely intended.
+Impact: High - offensive/incorrect; changes meaning significantly
+
+---
+[Error #12 - Category: Entity name]
+Location: ~00:55:15 / Speaker: Renan
+Transcript excerpt: "we had like... sponsor the Philadelphia of freaking Eagles... I'm a giants fan. So that hurt me..."
+Issue: Player name later cited as “Sequan Barkley”
+Likely intended: "Saquon Barkley"
+Confidence: High
+Reasoning: Proper spelling/pronunciation of the NFL player is Saquon.
+Impact: Low
+
+---
+[Error #13 - Category: Misheard acronym]
+Location: ~01:09:35 and ~01:10:05 / Speaker: Athena
+Transcript excerpt: "what made you even consider going back to your WTU? ... most people's idea of like... going back to your WTU."
+Issue: “WTU” likely misheard for “W-2”
+Likely intended: "W-2"
+Confidence: High
+Reasoning: W-2 is the common U.S. tax form shorthand for salaried employment.
+Impact: Low
+
+---
+[Error #14 - Category: Entity name]
+Location: ~01:27:40 / Speaker: Renan
+Transcript excerpt: "we're doing warranty work for like Lenar."
+Issue: Homebuilder name likely misspelled/misheard.
+Likely intended: "Lennar"
+Confidence: High
+Reasoning: Lennar is a major national homebuilder; “Lenar” is a common ASR miss.
+Impact: Low
+
+---
+
+[REMOVAL #1 - Type: Small Talk/Administrative]
+Location: ~00:00:05–00:00:25
+Speakers involved: Athena
+Content excerpt:
+"hello. Hello, everyone. Nice to see you. Um, welcome welcome. Hey, Gil. Hey, Justin. I think Polly is logging in, um, probably have a few more join..."
+Reasoning:
+Opening greetings and attendee roll call; no business content.
+Context impact: None—conversation transitions immediately to speaker introduction and deal content.
+Recommended action: REMOVE ~00:00:05–00:00:25
+
+---
+[REMOVAL #2 - Type: Small Talk/Off-topic]
+Location: ~00:21:05–00:21:13
+Speakers involved: Renan, Athena
+Content excerpt:
+"Renan: I'm sorry. Is this a clean pocket? I don't know.
+Athena: Yeah. Yeah. It costs all the time."
+Reasoning:
+Brief aside about swearing that does not contribute to business discussion.
+Context impact: None—returns to first-year operations immediately afterward.
+Recommended action: REMOVE ~00:21:05–00:21:13
+
+---
+[REMOVAL #3 - Type: Administrative/Community Scheduling]
+Location: ~01:35:10–01:36:00
+Speakers involved: Athena
+Content excerpt:
+"...we'll see you all next week. Nash is going to be here next Thursday... he's going to be sharing all the nitty gritty... That'll be next Thursday too..."
+Reasoning:
+Program scheduling and announcements; not part of the substantive deal/operations discussion.
+Context impact: Low—removal does not affect understanding of Renan’s story.
+Recommended action: REMOVE ~01:35:10–01:36:00
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:39:30–00:44:30
+Content excerpt: Discussion of severe anxiety, Lexapro, brother (NYPD) temporarily taking firearms, need for support system, advice on checking in with entrepreneurs.
+Business relevance argument: Offers critical insight into entrepreneurial risk, leadership resilience, and support systems during distressed operations—valuable strategic/educational content for buyers/owners.
+Personal content argument: Contains detailed personal mental health and family references.
+Recommendation: KEEP—Despite personal nature, it provides meaningful lessons tied directly to running and saving a business under stress.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:55:00–00:56:00
+Content excerpt: "we put like almost a hundred grand down to sponsor the Philadelphia... Eagles... I'm a giants fan. So that hurt me especially..."
+Business relevance argument: The ad spend and ROI discussion is highly relevant to marketing decisions and capital allocation.
+Personal content argument: The note about team loyalty is a personal aside unrelated to business.
+Recommendation: KEEP segment; consider trimming only the sentence "I'm a giants fan. So that hurt me especially." if brevity is needed.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: ~00:20:00–00:21:00
+Content excerpt: "I went away for a week to Tahoe to ski... and that month we made a million dollars..."
+Business relevance argument: Illustrates operator-led structure functioning without owner present—relevant to management and systems.
+Personal content argument: Vacation detail is personal.
+Recommendation: KEEP—Vacation mention directly supports the operational point about management depth.
+
+---
+
+Patterns/Notes for ASR Improvement:
+- Consistent confusion of common business/finance terms (loan vs. alone; podcast vs. pocket).
+- Multiple proper noun errors in brands and entities (SERVPRO, Xcelerate, Lennar, USAA, BNI, Saquon Barkley).
+- Occasional numeric/timeline drift (8 vs 8.6 million; 2.5 months vs years).
+- Inappropriate homophone substitution (“4 dicks”)—high priority to filter/correct such cases.
+
+Speaker Attribution:
+- Speakers generally correctly labeled. No clear instances where Q/A roles appear swapped.
+
+Cross-Reference Consistency:
+- EBITDA and price references vary; recommend confirming final agreed purchase price (8.0 vs 8.6M) for accuracy.
+- Calculator demo shows $8M principal and 12-year/7% example; aligns with narrative of seller-financed structure.
+
+Context Preservation:
+- Recommended removals are brief and do not interrupt narrative flow.
+- Borderline segments are recommended to keep due to strong educational value and ties to business operations/leadership.

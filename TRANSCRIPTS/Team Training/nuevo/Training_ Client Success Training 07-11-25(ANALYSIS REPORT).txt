@@ -1,0 +1,215 @@
+Below is a focused error analysis and business-relevance mapping for the provided transcript. I’ve prioritized high‑impact ASR issues (names, business terms, numbers/timings) and clearly marked non‑business small talk for removal, while preserving all deal/process/role training content.
+
+Segment mapping (by timestamps)
+- 0:00–1:34 — Personal small talk (weekend/friends/house/dinner) — REMOVE
+- 1:37–1:06:40 — Role/training/processes/onboarding/client service, gifts, playbook, cadences, action items — KEEP
+- 1:06:41–1:11:00 — Break/admin filler (bio/return) — REMOVE (low priority)
+- 1:11:00–1:13:23 — Coffee/pumpkin drink chat — REMOVE
+- 1:13:23–1:20:34 — Client servicing extras (models, access, agendas, cadence) and weekly vs. bi‑weekly calls — KEEP
+- 1:20:34–1:49:12 — Extended discussion about ex-employee (HR/feelings/history) — MIXED (mostly REMOVE; see Borderline)
+- 1:49:12–2:09:00 — Back to client‑service urgency triage, role start/bandwidth, hiring, titles, wrap‑up — KEEP
+
+Transcription error reports
+
+[Error #1 - Category: Business terminology distortion]
+Location: 2:33 / Speaker: Athena
+Transcript excerpt: “...she's focused on hearing people and stuff like that...”
+Issue: “hearing” is likely wrong in hiring/staffing context
+Likely intended: “hiring people”
+Confidence: High
+Reasoning: Conversation is about building team capacity and onboarding; “hiring” fits.
+Impact: High (changes operational meaning)
+
+[Error #2 - Category: Semantic inconsistency]
+Location: 2:33 / Speaker: Athena
+Transcript excerpt: “...It's still a lot of brain spray space.”
+Issue: Non-idiomatic phrase; reads as garble
+Likely intended: “brain space” or “headspace”
+Confidence: High
+Reasoning: Common expression in workload context; “spray” is unlikely.
+Impact: Medium
+
+[Error #3 - Category: Entity name]
+Location: 9:57 / Speaker: Athena
+Transcript excerpt: “...two bookmarks. They're branded bookmarks like Aquimatch.”
+Issue: Company brand misspelled
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Company name is AcquiMatch; consistent branding is important.
+Impact: Medium
+
+[Error #4 - Category: Semantic inconsistency]
+Location: 10:43 / Speaker: Athena
+Transcript excerpt: “...it got sent back to my postdoc. And now I'm paying an extra...”
+Issue: “postdoc” is not logical in mailing context
+Likely intended: “post office” or “PO box”
+Confidence: High
+Reasoning: Discussion is about mail returns and reshipping.
+Impact: Medium
+
+[Error #5 - Category: Omission/garble]
+Location: 8:47 / Speaker: Athena
+Transcript excerpt: “Okay. Okay. Okay. Bye. Bye. Bye. Bye. Does she have one?...”
+Issue: Repeated “Bye” appears to be ASR artifact/filler from crosstalk
+Likely intended: Simple “Okay…” with no “Bye” repetitions
+Confidence: Medium
+Reasoning: In-conversation, no departure; likely false positives from overlap.
+Impact: Low
+
+[Error #6 - Category: Homophone/near-homophone]
+Location: 28:11 / Speaker: Ida
+Transcript excerpt: “...the JG1, where I add the Fathom node...”
+Issue: “node” likely wrong given Fathom note/annotation workflow
+Likely intended: “Fathom note”
+Confidence: Medium
+Reasoning: Fathom produces call notes/highlights; “note” fits.
+Impact: Medium
+
+[Error #7 - Category: Entity name + business term distortion]
+Location: 29:20 / Speaker: Ida
+Transcript excerpt: “Loop in loop to assess flex-based network brokers.”
+Issue: “loop in loop” duplication + unclear broker network phrase
+Likely intended: “Loop in Luke to assess [Flexbase/Flex-based?] network brokers”
+Confidence: Low-Medium
+Reasoning: Team member “Luke” frequently referenced; “flex-based network brokers” unclear term.
+Impact: Medium (actionable routing ambiguity)
+
+[Error #8 - Category: Misheard phrase]
+Location: 50:08 / Speaker: Athena
+Transcript excerpt: “Michael also asked about a skier portal...”
+Issue: “skier portal” nonsensical in client security context
+Likely intended: “secure portal”
+Confidence: High
+Reasoning: Immediately discussed data security/visibility concerns; “secure portal” fits.
+Impact: High (changes meaning of client request)
+
+[Error #9 - Category: Entity name (book title)]
+Location: 56:18 / Speaker: Athena
+Transcript excerpt: “So is By Then Build done? Are you done with that one?”
+Issue: Book title misheard
+Likely intended: “Buy Then Build”
+Confidence: High
+Reasoning: Common ETA book in SMB acquisitions; referenced elsewhere.
+Impact: Low-Medium
+
+[Error #10 - Category: Semantic inconsistency]
+Location: 31:14 / Speaker: Athena
+Transcript excerpt: “Putting the bike in gear?”
+Issue: Idiom appears mis-transcribed
+Likely intended: “putting the [back/brain] in gear?”
+Confidence: Medium
+Reasoning: Discussing decision‑making style; “back in gear” is typical.
+Impact: Low
+
+[Error #11 - Category: Entity names (people) - inconsistency]
+Location: Multiple (e.g., 6:15, 4:56) / Speakers: Ida, Athena
+Transcript excerpt: “Anke and I haven't touched base on that...” / “I had to contact Unc and Ryan...”
+Issue: Inconsistent spellings for “Anka” (Anka/Anke/Unc)
+Likely intended: “Anka”
+Confidence: High
+Reasoning: Person repeatedly referenced elsewhere as Anka; “Unc” very likely ASR error.
+Impact: Medium (role clarity)
+
+[Error #12 - Category: Semantic inconsistency/unknown term]
+Location: 36:00 / Speaker: Athena
+Transcript excerpt: “They've just been filling out the live out doc...”
+Issue: “live out doc” unclear; likely wrong noun
+Likely intended: Possibly “Live Oak doc” or “LOI doc” or specific “Google Doc”
+Confidence: Low-Medium
+Reasoning: Surrounding context is client intake/buyer profile/Google Doc; “live out” unlikely.
+Impact: Medium (document/process reference)
+
+[Error #13 - Category: Business terminology distortion]
+Location: 58:39 / Speaker: Athena
+Transcript excerpt: “...a lot of people are going into, there, Butterfly. Bye. Bye. Bye. LOIs.”
+Issue: Severe garble around “LOIs”
+Likely intended: “...a lot of people are going into their LOIs.”
+Confidence: Medium-High
+Reasoning: Section about lender intros/referrals when clients reach LOI.
+Impact: High (misleads on stage count)
+
+[Error #14 - Category: Entity name (person)]
+Location: 1:19:08 / Speaker: Athena
+Transcript excerpt: “So when Brian was looking after the clients...”
+Issue: Person likely misnamed; elsewhere the ex-employee is “Ryan”
+Likely intended: “Ryan”
+Confidence: Medium
+Reasoning: The role/behavior described matches earlier “Ryan” discussion; no “Brian” elsewhere.
+Impact: Medium
+
+[Error #15 - Category: Entity name (company) - consistency]
+Location: Throughout / Speaker: System/various
+Transcript excerpt: “Acquimatch / Aquimatch” appears in places
+Issue: Brand capitalization/spelling inconsistencies
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Official company capitalization.
+Impact: Low-Medium
+
+Content removal recommendations
+
+[REMOVAL #1 - Type: Personal/Small Talk]
+Location: 0:00–1:34
+Speakers involved: Athena, Ida
+Content excerpt:
+“Athena: I'm excited. Wendy and her family are coming over later.
+Ida: Oh, Wendy from Live Oak? ... Are cooking something up or making something special?
+Athena: ...she wants to see the house... then we're all going to go out to dinner...”
+Reasoning:
+Extended personal chat about friends, house, dinner plans. No connection to business processes or client work.
+Context impact: None — conversation transitions into training/business right after.
+Recommended action: REMOVE 0:00–1:34
+
+[REMOVAL #2 - Type: Admin/break filler]
+Location: 1:06:41–1:11:00
+Speakers involved: Athena, Ida
+Content excerpt:
+“Athena: Let's take a five minute break... I'll see you in a sec.
+[Return]”
+Reasoning:
+Scheduling/comfort break chatter; no business content.
+Context impact: None — training resumes afterward.
+Recommended action: REMOVE 1:06:41–1:11:00
+
+[REMOVAL #3 - Type: Personal/Small Talk]
+Location: 1:11:58–1:13:23
+Speakers involved: Ida, Athena
+Content excerpt:
+“Ida: ...butternut coffee... is that something you guys do in America?
+Athena: Pumpkin spice is like usually October... I don't like pumpkin spice...”
+Reasoning:
+Food/drink small talk. Not relevant to training or client process.
+Context impact: None.
+Recommended action: REMOVE 1:11:58–1:13:23
+
+[REMOVAL #4 - Type: Personal/Off-Topic/HR venting]
+Location: 1:20:34–1:49:12
+Speakers involved: Athena, Ida
+Content excerpt:
+“...That was a lot of picking up you had to do... [long discussion of ex-employee’s behavior, emotions, doubts, severance, non-compete, personal impact, therapist, etc.] ...please keep this between us...”
+Reasoning:
+Extended discussion about former employee, emotions, interpersonal dynamics; limited relevance to the training objectives. Contains minor pockets of process/compliance relevance (see Borderline #1).
+Context impact: Low — removing this reduces length without losing training instructions. Keep the brief compliance note (Borderline #1) if desired.
+Recommended action: REMOVE 1:20:34–1:49:12 (but see Borderline #1 for a short keepable compliance excerpt)
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 1:32:09–1:32:30
+Content excerpt: “Yeah, we're not brokers. We can't negotiate deals in certain states... negotiating in another country where we don't even know the laws... put the whole company at risk.”
+Business relevance argument: Compliance and scope-of-service clarity are core to operations and client risk management.
+Personal content argument: Embedded within a largely personal/HR venting section about an ex-employee.
+Recommendation: KEEP — This brief compliance statement is business-relevant (legal/regulatory boundaries) and useful to include even if the surrounding HR discussion is removed.
+
+Notes on context preservation
+- Removing the small talk and HR-venting blocks will not disrupt the flow of the operational training content. The conversation cleanly resumes to process and role-related instructions after each removable section.
+- If you remove REMOVAL #4 entirely, consider retaining BORDERLINE #1 to preserve the compliance reminder. Otherwise, no essential business guidance is lost.
+
+Patterns/ASR considerations to flag for system improvement
+- Repeated brand/person name errors: “AcquiMatch” vs “Aquimatch”; “Anka” vs “Anke/Unc”; “Ryan” vs “Brian”.
+- Garbled filler duplication around overlaps: “Bye. Bye. Bye.” and similar.
+- Homophones near domain terms: “Fathom node” vs “note”; “skier portal” vs “secure portal”.
+- Mailing terms: “postdoc” vs “post office/PO box”.
+- LOI segment mangling (“Butterfly... LOIs”) around key deal stage terminology.
+
+This analysis aims to preserve all client-service, onboarding, process, cadence, compliance, and action‑item content, while stripping purely personal chatter and lengthy off-topic HR discussion.

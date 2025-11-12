@@ -1,0 +1,356 @@
+TRANSCRIPT - CORRECTED VERSION
+Call Date: 2025-04-24
+Participants:
+- Athena (AcquiMatch)
+- Steve (Participant)
+- Gil (Participant)
+Purpose: SBA SOP changes overview and financial modeling walkthrough
+---
+
+[00:00:00]
+Athena: Hello. Hello. Welcome. Hey. How is it going? I think a few more people are joining. Steve and Justin. Hello. Hello. Cool, welcome. Um, so excited for today. Plan was to go through financial modeling, which we will still do. Um, but as you may have heard, there's some pretty significant SBA SOP guideline changes that are going to come into effect June 1st.
+
+Um, so there was pretty significant, uh, exploration into the SOP. Um, and that was mostly due like how we got here to the SOP being looked at. Uh, obviously there's new administration, but they're also looking at many ways to save taxpayer dollars. So. The SBA program has largely been, you know, outside of any cuts because it has been a self-funding mechanism.
+
+So how that works is when you do an SBA loan, you pay what's called a guarantee fee, and that's based on the loan size. Now, all of those guarantee fees that people pay when they get an SBA loan goes into a pot that then covers the guarantee that the SBA makes to lenders. So. It's meant to cover its own expenses.
+
+Like if somebody defaults on a loan, then the SBA guarantee fee pot that everybody pays, pays for, you know, the lender to get paid back up to the, the 75% guarantee on loans above 150,000. Now what happened was a couple years ago, the, uh, regulations were relaxed around specifically what fees were collected and, uh, who could borrow and, and what, you know, equity injection needed to be and that sort of thing.
+
+Um, and what happened, and I'm replaying this in, you know, kind of real time. So, uh, I'll, I'll caveat with everything that I'm sharing is. Interpretations of the SOP, we're gonna be getting firmer and firmer guidelines as people and lenders and everyone digests. Uh, the 450 page document that was just released.
+
+Um, so I. With the, the, the reasons for this is it seems that, um, there was $400 million, uh, deficit in terms of what was in that guarantee pot and what had to be paid out in terms of defaults. And what my sources are telling me is that most of those defaults came from people that. Didn't have a lot of equity into the deal, right?
+
+So they brought in an investor to write the equity check, and then they were the operator taking the personal guarantee. Um, so it seems like they're trying to tighten up on that. We already knew that they were reintroducing fees on the smaller size loans, which, you know, didn't really impact or change things for any of you all.
+
+They did this, uh, about a month ago. Um, but now they've introduced this new SOP, which, uh, does have some impacts for the, um. Loans and the types of deals that y'all can do. So I'm gonna summarize my understanding as it impacts you now, but I will say that we're gonna constantly be on top of this. Um, I'm personally going through the document myself as well as speaking to all of my very, uh.
+
+Uh, great contacts, uh, different SBA lenders and kind of discerning how it impacts you all. Um, with the SOP, it's, it's usually the interpretation of the lender too, and how they interpret the SOP. Um, so they all kind of have different interpretations and how they as a bank are going to enact the new SOP guidelines.
+
+Um, so I hope that all makes sense. It's basically like, you know, there's a big caveat that this is all just the first kind of look and interpretation of it, but these things can change and it will be at the behest of the lender themselves in most instances. But some of these things are actual SBA guidelines that every lender is going to have to follow.
+
+So, um, I'll make sense so far. I'm gonna read each one out and then I'll open it up if you have any questions or wanna chat about each of these individual things as we go through them. Um, so let me get up my notes. So the biggest one that will impact, uh, you know, the types of loans that we put together is that there is a change to the seller being able to contribute to the equity injection.
+
+So for most of the deals that we put together with you all, we said you can put 5% down and then have the seller put 5% down towards the equity injection. But that has to be on full standby for two years. With this new SOP guideline, it has to be on full standby for the entire term of the loan. So unfortunately what that means is that's a tool that's been taken out of our financial structuring toolkit, uh, because most sellers are not gonna be cool with waiting to get paid for 10 years, uh, on the 5% note that they're gonna take.
+
+Now, I know that sounds like a lot, but that. That is going to impact absolutely everybody. So it means that deals are either purchase price is gonna have to come down or things are gonna have to be restructured because everyone that's using an SBA loan is gonna be impacted by this. So what we also. Want to look at is where we can use other tools in the toolkit such as, you know, doing a straight up seller note so you can still do seller notes as normal, right?
+
+And do different terms on those. Uh, you can delay payments on those to try to help your debt service coverage ratio. We can look at performance notes when certain things are in place, you know, variable financials and that sort of thing. And we still have the, you know, Covid, uh, regulation, the Covid. Um, variance that actually opens up performance notes in a lot of cases because there was a catch up after Covid, which was, uh, an irregular spike, but it allows us to add in performance notes and forgivable performance notes.
+
+Um, so any questions on the 10% equity injection requirement and the elimination of the seller being able to do a two year standby? No. Thumbs up getting it so far. Okay. That's the biggest bummer. That's, that's the biggest bummer I'd say of all of this. Um, but, uh, there's a few other things that you wanna bear in mind depending on the deal itself.
+
+Now, we don't typically, uh, talk to you all about doing equity rollovers, which is leaving the owner with a percentage of the business. Um, you know, typically we're looking at you doing a hundred percent buyout. Now, where this can come into play is if you have a business that you're looking at where a license is required.
+
+And usually SBA lenders want the owner to retain like at least 1% of equity in order to keep that license in the business. Well, uh, what they're doing now is that the seller must personally guarantee the SBA loan for two years post-closing and be listed as a co-borrower.
+
+Okay, so, uh. With the rollover most sellers. And, and this was, this was a thing that was like eliminated and now it's being brought back. So when I was negotiating deals, there was this, this in there that the seller, if they were retaining equity, would have to, um, personally guarantee the loan.
+
+Um, so most sellers are not gonna be willing to do that unless you have a exceptional relationship with them. So if we're looking at businesses where licenses are involved, then you may have to get a key employee to hold the license in the business. Or you may decide that you don't want to look at businesses that require licenses because it complicates you, what you're able to do with the SBA.
+
+Have a think about it. I'm gonna be meeting with all of you next week so we can eliminate that from your deal box if it just feels like that's a two complicated thing to have in the mix. Um, so, uh, it is still possible to get someone, um. To license or qualify the business. So most states require a license holder to be a W2 employee or an equity owner of the entity.
+
+Um, but there are some states that have like MSOs where you can like lease the license. Um. So, you know, it's, it's kind of nuanced. So if you're considering businesses where there might be licenses involved, like, let's just have a, a chat about it and see if that's something that you still wanna explore.
+
+Or if there's ways to make sure that there's a license holder in the business that's not the seller, so that they don't have to personally guarantee (PG). Um. So some of you may be considering getting investor money in the mix or getting someone to help write an equity check. There's different interpretations going on right now of whether they have to personally guarantee or not.
+
+It looks like it is not the case if it's less than 20% ownership, which which has always been that way. Um, but some lenders are interpreting it as that they need to. Um, so I'll keep you all posted. If you're ever considering bringing in an investor, um, what that looks like, if they would need to personally guarantee.
+
+So what it was before is that as long as somebody had less than 20% equity, that they wouldn't have to personally guarantee and be a co-borrower. But some, like I said, interpretations are saying that anybody who's gonna share in the equity of the business will have to personally guarantee. Um, so I'm getting two conflicting, very strong, reliable sources right now, so I'll update you on that.
+
+But that is something that's in play right now in terms of how investor equity, um, is gonna get treated in terms of a, um, personal guarantee. Um. There's some things around franchises, but most of you don't look at those. But as, and when it comes up, we'll be able to advise you on it. Um, and then, you know, something that's been, uh, going into play was, and we, we kind of knew this already, and it was, it was, uh.
+
+Um, announced is that, you know, there's like loans must go to businesses fully owned and controlled by US citizens, lawful permanent resident or qualified US nationals. Um, so that shouldn't be an issue, but you know, if you're considering bringing someone onto your cap table, that is not a US citizen. Or green card holder, it's something for you to think about.
+
+Um, so that's the main stuff right now. Um, I think, you know, like I said, the big thing is that the equity rollover and how that impacts licenses, um, as well as the equity injection from the seller. So, any questions or thoughts?
+
+[00:11:55]
+Athena: Steve, I see you have a question. 
+
+[00:12:00]
+Steve: Yeah, I have a question. So, um, uh, hypothetical, right? Let's say you, you had an owner that still wants to do an equity injection, you know, retain some ownership, can, can that be accomplished? Let's say you have a separate holding company and then they're basically investing in the holding company that way. And is that, is that possible or is that still. 
+
+Athena: It's a good question. The way the interpretations are coming through right now is that no, like even if you create a new entity and that owner shares in it, that's still considered a form of rollover and they would need to personally guarantee. 'Cause they're gonna look at, um, they're gonna do what's called a look back on every person that has an equity in that business.
+
+And sometimes it's six months, sometimes it's up to two years. So I'll clarify exactly when that is. But when they do that, and, and this was, you know, something I ran into on my deal back in 2023, right before they changed this, was that that look back meant that even if I gave them equity in the new entity, they were gonna look back six, 12 months to see.
+
+I, I can't remember exactly the timeline. Like if they were a previous owner of the business, then they would still have to personally guarantee.
+
+Does that answer your question? 
+
+[00:12:58]
+Steve: Yeah, I think so. I think it'll get more clear as it rolls out. So, 
+
+[00:13:02]
+Athena: yeah. And again, you know, there's interpretations of this, so let me just look at my notes real quick and see if there was a look back.
+
+Um, I.
+
+The SOP also makes it clear that multi-step partial buyouts asset deal with equity rollover are no longer allowed. Um, so it sounds like there will be a look back, but I'll, I'll get more specifics on exactly what that looks like.
+
+Sound good. That makes sense. Cool. Anyone else have questions about all this? So, uh, what it means, and, and I'll have conversations with you all individually when we catch up, but we'll just look again at like what, um, your personal situation is, what you're comfortable with, and then like what other tools we can put in the financing toolkit to make sure that the deals that we're looking at for you are able to be financed or, you know, if you're open to investor money.
+
+Et cetera. So we'll adjust the deal boxes accordingly. And also we still have other things that we can put in the mix to make the structuring advantageous and mitigate your risks, such as incorporating maybe larger seller notes or doing performance based notes, um, those sorts of things. So, uh, I am. One of my favorite things about this stuff is like, there's always a way, you know, when you find a great deal in a great business, and because it's an SOP change, it is going to impact everybody that is using SBA.
+
+So it doesn't necessarily put any of you at a competitive disadvantage because everybody has the same playing field when it comes to, um. You know, using SBA, what, what I'm super interested in and what I'm watching closely is investor money, because if investors have to personally guarantee a loan using SBA, there's no way they're gonna do that, which means it's almost, you have more of a competitive advantage of being able to write your own equity check.
+
+Because other people are using investors to do that and maybe making larger offers or more competitive offers because they have those equity checks behind them. So that's what I'm, I'm kind of watching most closely because it almost potentially gives you all a competitive advantage in that regard that they can't do that anymore and.
+
+Um, it does anyway because they're saying that 5% of the cash does have to come. 5% of the cash of the equity injection has to come from the borrower where it used to be 2.5%. So it is going to make it a little bit harder for those searchers that are raising equity that can at least bring 5%. So it's a good thing for y'all because it means that you will have that little bit of an edge, bringing your own equity checks to these deals.
+
+[00:16:40]
+Steve: I have another question. 
+
+Athena: Yeah, Steve, 
+
+Steve: just because you've got me thinking now 
+
+Athena: and I just 
+
+Steve: don't, I just dunno the rule here. So we, but we just got by the LOI piece, so we haven't gotten this far down the road. So, but is there anything against, let's say you closed the SBA loan, take over the business and you have an investor, can you sell any equity once everything is in transfer?
+
+That business or is there stipulations that say you can't sell any of the equity until the loan is paid off? 
+
+[00:17:00]
+Athena: Um, that's a really good question. So my understanding, and again, let me fact check this, so don't take this as, as, uh, gospel, but um, when, when you take over the business. Uh, and do an SBA loan. Any material changes in ownership they need to be notified of and approved of.
+
+Right? That the, that you're not doing something like telling the seller like, Hey, I'm gonna give you equity as soon as this loan closes. So they do have oversight, um, and you do have to deliver, uh, financial statements, tax returns, everything every year as part of the loan. So there is some like auditing and that sort of thing.
+
+So you can't, that's not a like back door to be able to do it. But, um, if you are, you know, getting investment or whatever, so long as the loan's protected and they're getting their loan payments and it is like a random new investor and, um. I'm kind of thinking through logically, like if they weren't a US citizen, could that preclude you from like bringing them in because the business is benefiting from an SBA loan and that sort of thing.
+
+So it's a really good point, Steve, and let me get that clarified with my sources and, and find out what, if any, limitations after buying the business. There might be in bringing in, uh, equity investors. Did that, did I summarize kind of where your thought process was going? 
+
+[00:18:24]
+Steve: Yeah, it did. And you know where, where I was going with it is basically, okay, let's say you don't necessarily wanna tie up all your cash, but you're willing to take a loan on.
+
+You might have investors that aren't willing to take that personal guarantee. How can you kind of, uh, I hate to use the word back door, but, you know, bring them through, you know, through a legal entity. They're, they don't have put the personal guarantee, but now you're pulling the cash back out, so you've got just, uh, oops.
+
+Whoever using it. So again, so you're not tying up as much. 
+
+[00:18:53]
+Athena: Yeah. I mean, so the, from my understanding and the way I'm interpreting it. Um, if they have less than 20% equity, like they won't have to personally guarantee if it's a new investor that's different than if they were a previous owner. So there's a distinction in there, right?
+
+Um, but like from, from the way that I've, I've kind of understood the SOP, it's like if it's an investor bringing a check. As long as it's less than 20% equity. They don't need to personally guarantee, but you still need to come up with 5% of the equity injection yourself, so you could potentially split the equity injection with an investor and you know, even if you were doing a 2x step-up.
+
+Or even a 3x step-up, at 5% equity they would only be getting 15% ownership and three is like the top that I've ever seen. So, um, but I'll get that all clarified. I just wanted to kind of put it on all of your radars. Um, these changes also don't go into effect until June 1st, but I typically don't see loans closed, um, before 45 days of, you know, you getting under LOI and getting your term sheet.
+
+So it will likely impact everybody here. Um. Good questions. Any other questions that have come up from this?
+
+Cool. Okay. Like I said, I'm meeting with you all individually, so we'll go through just, you know, revisit the deal box and everything and make sure that with these SOP changes that we're looking at, deals that work for you. Um, any concerns that you have about the SOP changes or anything like that? Like let's talk it through.
+
+Um, 'cause everybody's gonna have an individual scenario too for what makes them feel comfortable. But, uh, if there are no other SBA questions. I want to get back to our regular schedule program, which is, uh, bringing up the financial modeling template. And what I thought I could do was, and I I, I haven't done this with y'all specifically yet, is to bring up a sim and show you how I kind of look at the financials and put them into the financial modeling.
+
+Um, and the things that I'm looking out for as I do it. And then also just show you a little updates. So, um, we are gonna need to just update some of the language around the, uh, SOP and the equity injection. Like got the tool added to the spreadsheet now. I can't use it anymore. You can, right? If you like have a seller that's super young and they're like, yeah, I'll wait 10 years.
+
+Because what is, what, what it does look like can happen is if you put 'em, you know, on standby for the term of the loan, then, um, here's, here's two ways you could make that work. Let's say you put 5% on full standby towards your equity injection. Um, you could refinance your five. But you'd have to go through the whole loan process again and refi the whole thing and you'd get them out of their 5%.
+
+Um, or let's say you have a young seller, right, that that is not worried about whether they have another 10 years. It looks like they can accrue interest on that loan the entire time. So, you know, if they were willing to wait 10 years and. Collect interest on that 5% over 10 years, then you could pay it at the term of the loan.
+
+So it's not completely off the table. But again, this is gonna be like hugely relationship dependent on the, on the seller. Um, and or if you were like, you know what, I, I could refi the whole loan in five years. Um, but even then, it's like, you know, having that in writing or whatever, we'd have to consult with the lawyers to see if that would work, but.
+
+I'm gonna be thinking through and the team's all gonna be researching what our options are and what the new tools and the financial toolkit look like, um, following these SOP changes. So, um, cool. Okay. So financial template gonna pull that up. Um, please, please, please stop me as I go through this if you're like, I don't understand that part because when we've done this before, it's been really helpful for you all to just say, I don't understand this concept, or.
+
+How do you look at this? So this is, you know, meant to be kind of interactive, but I also just wanted to show you my thought process as I'm going through a sim. The example we have is not the cleanest and not the, uh, most awesome one either. So I thought that would be good, you know, for me to kind of point out like, okay, I'd wanna figure out this and I'd wanna figure out that.
+
+Um, so, uh, let me pull up my screen and. Let me grab the right tabs here.
+
+[00:25:10]
+Athena: Okay, great. Um, so when we're on this financials tab. Um, there's some really key things that we wanna make sure that we're entering in here. Um, particularly this, this depreciation number can, um, can be a gotcha if, if you're looking at a business that has a lot of capital expenditures and stuff, but oftentimes the sim doesn't include a lot of that information.
+
+So I'm just gonna delete all this so we have a clean place to start from. Um, and I'm just gonna do the most recent year. So if you don't have trailing 12, then you'll just do the most recent year here. Um, so we have this business that has an asking price of 1.2 million. Um. As we can already see, they, they haven't included cogs, so I'm like, why is there no cogs in the business?
+
+Um, but this broker just decided to lump cogs and expenses altogether. But luckily we have, um, an overall, uh, statement. Um, so this looks like it's just YTD (January to April), not TTM. Um, I'm gonna go ahead and pull their most recent year and skip the TTM for now so we can just look at what a year looks like.
+
+Um, so gross sales, you know, that is also revenue. So 4 3, 5 9, 5 5, 4, 4. That's where that one goes now. Um. Cost of goods sold. We wanna kind of split that out, you know, even if they lump it in, we wanna make sure that we're splitting it out so we can see what that margin is. So 2 8 7 2 6 5 9. And we wanna make sure we put a minus.
+
+7, 2, 6, 5, 9. So that minus is really important. So we should land at 1.486, which is what they've got there. So I'm always kind of checking that my numbers at each of these levels add up to what they're doing so that I know I entered it. Right. Um. Operating expenses, uh, and other income. We'll check that out.
+
+So here's all the expenses and super helpfully. Um, this, uh, broker has put the adjustments all like, kind of layered in, um, and it looks, it appears like they're treating all of these as add-backs too. Um, which is kind of wild, right? Like, uh. Oh, here we go. Partners, profit sharing. Okay, so it looks like this.
+
+Add-backs that they're, they're putting in, are coming out of cogs, um, which is like what, like what's going on there? Um, so if there's add-backs in cogs, I'm like immediately, like what? You know, why aren't they on payroll? How are they paying themselves? That's a really weird thing there. But as you can see in this one, they're, they're just added a column here, um, for adjustments.
+
+Uh, and then it's kind of totaling up down here, which is how they're arriving at their overall SDE. So they're saying their total expenses are 4, 7, 4, 8, 8, 6. Again, we wanna do that as a negative. 
+
+[00:28:05]
+Athena: Um, and then this other income is typically like if they get interest, you know, or random things that aren't directly related to revenue.
+
+So, um, and in case you didn't know what that is, it's usually what it is. Um, and then the interest here for EBITDA's interest that they've paid. So if they took out a loan. Then those interest payments are something that you can deduct from taxable income. So in the model you might see that, like even in the no change scenario, that there's a very slight decline in debt service coverage ratio every year.
+
+Have you any of you noticed that if you're doing the no change and you're like, why is that? Well, your, uh, taxable income changes over the life of the loan because you are paying less in interest over time and more in principal repayment, and you can only deduct the interest from your taxable income.
+
+That's something that you can put on your P&L as an expense, but you can deduct principal, so that's why it gets just a little bit worse because there's less money every year as you pay down the loan. You're paying more in principal, less in interest. However, you're able to deduct less as far as interest is concerned.
+
+So, wanted to point that out 'cause I, I thought that was interesting. Um, so you might not necessarily have interest payments here. Uh, let's see if they've included any. Oh yeah, there we go. Uh, 5 4 1 1. So we'll add that back. Because you in, in theory, will not have those interest payments. Now, let's see if they put depreciation in here, they did not, which is strange because they've got automobiles.
+
+Um, you know, there's freight. So if there's no depreciation, then I'm wondering, well, what equipment do they have? Right? Because depreciation is typically an indication of what maintenance. Capital expenditures you will need to make. And what that means is the amount of money you're gonna have to spend every year on equipment just to keep it running.
+
+And that confusingly does not come off the P&L. Like if somebody buys a piece of equipment for the business. It goes on their balance sheet so it doesn't hit the P&L. So you don't necessarily see that, but it's going to be a real cashflow expenditure for you, which is why you always want to put in the depreciation numbers here.
+
+That's gonna average out for you here, and then you'll add it. I haven't done it automatically into this one. So you wanna make sure that you understand what the annual maintenance CapEx requirements are. If they don't have depreciation in the financials, which this one doesn't, but based on what I'm seeing, grounds maintenance, automobile truck expense, workers' compensation materials, and like.
+
+Are they literally buying no equipment? Are they only renting it? Like, come on. So that's where I would go back to the broker and be like, Hey, are they buying equipment or can I have a look at the balance sheet? Um, so that you can see if there's investments into equipment in the business, because that's real money you are going to have to spend when you take over the business.
+
+So they don't have depreciation here. So I'm like, what's going on with that? And the other thing is taxes. So let's see if they've done anything there. It doesn't look like they have an add back there. Um, okay, now we're into add-back land. So this is, you know, you can change all of these columns here and, um, you know, put in what they add as add-backs.
+
+I like to do the add-backs that they say first, and then I can, you know, make a decision whether I wanna, you know, uh. Say that I don't think it's a valid add-back or not. And also, as you'll remember, um, from Chris's QOV presentation, like they will determine what they feel is an acceptable add-back during the QOV.
+
+The bank will also determine what they accept is a a, a reasonable add-back during. Like their process. So before you even get to QOV, the bank's gonna tell you what they are like okay with as an add back and what they aren't. And it's gonna be based on what they also reported in the tax returns. So like this number here.
+
+That's a big number and it's coming outta cogs, right? So if that wasn't reported on tax returns, then it's very unlikely that the lender is going to accept that as an add back for you to use your calculations on, which means you'll have to make your offer based on. Without that number, if that makes sense.
+
+So, uh, feel free to raise your hand or shout out if I am losing you on any of this stuff. Um, so we're gonna put, okay, so it looks like they've spent 73,621 on other owner, 73,621 on other, uh, owner things. And then, um, we also have a pretty significant. Add back here, which is essentially what I'm assuming they're paying themselves.
+
+4 6 6 2 0 1, and it says partners. So then I wanna know, is that two people, right? Or is that one person? If it's two people, then we need to do a negative add back to adjust for the person you're gonna have to hire to. Um, replace two people. Um, then we also have the healthcare expense of the officer. This is a normal add-back.
+
+It's actually quite low if it is one person. Um, so let's see. We'll just call it life insurance for now. 8 4 8 1. See if I remembered that correctly. Eight four. Eight, one. Yeah. Okay. So we should be somewhere in the 1 0 2 5 900 range. Uh, looks like I am off somewhere. So we've got 500 total adjustments.
+
+We've got 1 0 1, 2 oh,
+
+total pauses. Okay. This is where I went wrong here, so I wasn't coming out of this column. 3, 4, 1, 2, 4, 8, 1. Let's do that. 4, 3, 4, 1, 2, 4, 8, 1, 3, 4.
+
+See if that, yeah, there we go. Okay. So see how I do that? I always just go back and check that my numbers match their numbers here. Um, we're just a little bit off, which can sometimes happen, but pretty much in the range within, uh, $1. Yeah, so it's 3 cents difference and it's probably because they know what the, the, um, percentages are and they didn't add that here.
+
+Okay. Any questions so far of how I inputted the numbers into the model? Doesn't sound like it, so let me see. There's anything in the sim. Okay. So they have not told us whether it's two owners by the looks of things. No reason for sale employees full-time. Nine managers two. Owned 55. So it's been in existence for a really long time.
+
+Um, to save you all. Uh, the trouble of watching me trying to remember numbers and input, 'em, I'm not gonna do the previous years, but you would assume that you'd go through the exact same thing that I just did for each of these previous columns. And if you wanna get even more specific than we do, uh, year end of, uh, 12.
+
+31, 20 23 company year end date.
+
+So then it's just kind of pull through on the financials, the correct years here, because that was the year that we did. Now, if you wanted to put the TTM in, which is a little hard when you have a partial year. This is just a partial year. It's a year to date. It's not a TTM. So I would also ask for a TTM or a monthly P&L from um, 2023.
+
+Um, so what that means is year to date is a partial year. It's only like what they've done so far. But in order to get a TTM, which is trailing 12 months, it's a 12 month snapshot. But we can't do that when we just have this annual return from 2023 'cause we don't know. Uh, what was made from April to December to be able to give us a 12 month snapshot.
+
+So I would go back to the broker and I'd be like, how many owners are there? Like, how many people are leaving the business? Um, and could we potentially get a monthly or a trailing 12 months so that I can compare, you know, two 12 month periods to each other? Um. Or if we get a monthly, then you can look at how they're tracking in the first four months versus, uh, the year before.
+
+Now this, our financial model is annual, but you can just look at it and see like, does this look like they're doing about the same this year as they were last year? Um, if they have, in fact, two owners. And they're adding back all of those salaries, naughty, naughty, for the broker to not do a negative add back, which would be like, let's say you need to bring in somebody, um, to replace one of those owners and their market salary is one 50, then you would be adjusting what you were determining as the SDE in that regard.
+
+Also, let's say there's like 50,000 in CapEx that you found out like they're buying 50,000 or repairing $50,000 worth of stuff every year on average, and they're just not depreciating it, which is a huge tax loss for them. Um, but that's where you would put this when you start doing the um, modeling and then they're asking 1.2.
+
+Here. So first I put in their asking price before I start thinking, like, before I start saying what I think the business is worth, I always like to mess around with what they're asking. Price is, well, gee, even if I do reduce it, it's only 1.2. So then I'm like, well, what's going on there? Like, why? And that's when I took 150 out.
+
+So they've got a million indiscretionary earnings supposedly. But they're only asking 1.2. So then I'm like, why? What's going on there? And I'm guessing it's because the owner's salaries were coming out of cogs and there's probably a lot of those add-backs that they're saying is there that is not able to be, um, confirmed by SBA.
+
+So I wonder what the multiple is if I remove this.
+
+It's about a two. So it's an interesting one, right? And that, that's where every time I get a deal and something that's good practice for you all is like, I just start, I enter the numbers. I don't even have to do all of the previous numbers, just the most recent years. And I put it in here and start getting an idea of like what the structuring would look like, you know?
+
+Um, what kind of equity would I need to put into it? What kind of multiple are they asking? So, you know, Luke and the team do a top line kind of calculation for you, but, um, you know, in less than 10 minutes I was able to input those numbers and be able to start playing around with this. So I think it's good practice for everybody to just make a new copy of the template.
+
+And getting in here and start seeing, you know, as you, um, go through the numbers, you'll start picking up on things like, well, hang on a minute. That's weird. Um, and, and that's really how I learned was just doing this over and over and over again and watching a lot of things and seeing where there was issues.
+
+Um, so I think it's one of the best ways to learn. Um, so in terms of the little updates that we've had here. This real estate section was just a little bit confusing the way we had it formatted before. So now it's a little bit more common sense. It was, it was kind of like opposite answers for what it was.
+
+So now it's, it's pretty straightforward. Um, so if the real estate ends up being more than 51%, it's gonna tell you yes, you can include it. Um, and then you can include it here and it will add it to the total of the loan. Or if you wanna keep it separate, then you just wanna make sure that you add the real estate price here.
+
+So don't assume, just 'cause you put the fair market value here, that it is automatically gonna calculate a loan for you. Um, so this is the newer version too. So if you, you just wanna make a copy every time you're doing financials, make a copy of the template off your dashboard, so you have the most up-to-date one.
+
+Um, there and. There are some things that have been cleaned up just in terms of, um, you know, forecasting and stuff like that. I think that was the main thing though, and I, I thought I had more to say about it, but we're just trying to make this a little bit more straightforward. So if you put the real estate value here and you say yes, then it's gonna add it up here.
+
+And that's including it in the 7(a) loan, right? So that's where you're gonna wanna change the amortization period to 25 years if you're including it in your 7(a) loan. But if you are not including it in the loan, or let's say it's not eligible, it's less than 51%, then you would say no. And you would add, let's say it's $2 million.
+
+Then you would add your interest rate here, probably about 6%. Let's say a 25 year am and then it's gonna pull it out as a separate line item up, up here. Um, oh, did I include it? There we go. Yeah. Oh, that's gone on there.
+
+I think I've done something with the seller notes that I haven't updated yet. But anyways, it works when you look through all of the debt structures. So, um, any questions on this so far?
+
+Or is this making sense? 
+
+[00:43:00]
+Gil: Um, I have a question. Two questions. Yes. Uh, the first one is about the owner's salary. Uh, what's the difference between putting it in the, in the, uh, uh, add-backs versus putting it into the forecast? 
+
+Athena: Yeah. Um, so tell me more about what you're saying in terms of putting it into the forecast.
+
+Gil: So, in the forecast there is, if you go to forecast assumptions. 
+
+Athena: Yep. 
+
+Gil: Just 
+
+Athena: one sec. 2 0 1. 
+
+Gil: There we go. Okay. Yep. And you scroll down a bit. Yeah. There is a scenario for, for salaries, right? You can add a salary there. 
+
+Athena: Okay. So you, are you referring to a new owner's salary or the existing owner's salary? 
+
+Gil: If I need to bring in someone to replace one of the owners, if there's two owners.
+
+Athena: Yeah. Okay. Great question. I understand where you're going with that. So the reason why you would wanna put it in here is because it's gonna adjust this number, which you are making your purchase price modeling off of. Right. This adjusted EBITDA, this seller's discretionary earning is what we apply a multiple to.
+
+So if they put two owners' salaries in and you do in fact need to replace a salary, then you would say like, I know that you say that your SDE is one point, whatever, but I'm calculating it as 8, 7, 5 because I would need to bring in somebody to replace owner number two. Makes sense. That's That makes sense.
+
+Makes sense. That's how you make the Makes sense. Yeah. 'Cause you're gonna have to, like, if there's two owners and they're both leaving and they're both full-time, you have to replace that person. So it is naughty of the broker not to have made a market rate salary adjustment in the add backs anyway. Like that is standard.
+
+You're only supposed to add back one salary when you're making an SDE estimation. Now if you're saying I want to hire a salesperson. That's where you would put it in the forecast assumptions. Right? Right. Yeah. Because that's, that's something, that's a business decision that you are choosing to make, but it is not, you know, something that they felt was necessary as they were running the business.
+
+So it's just a matter of like if they took out two salaries and they didn't add one back in, then you would do that yourself because you can't replace two people. And that is just industry standard that. They can't add back both owner salaries unless owner number two was a wife that they put on the payroll but was doing absolutely nothing in the business.
+
+Gil: Right? 
+
+Athena: Which happens, right? Like that's just being tax advantaged and that sort of thing. But if there was two active owners, then they have to do, they don't have to, but you wanna make sure you're adding in. A, uh, market rate salary replacement figure into your add backs here, so that this number is what you're doing your forecast assumptions off of.
+
+Gil: Okay. Makes 
+
+Athena: perfect sense. Or what, what you're doing, your multiple and your purchase price assumptions off of. Yeah. Because you're gonna have to replace them. Okay. If you wanna add a salary in for yourself, you can add that in here. Right. And you input it as a negative number. Like let's say you wanna pay yourself this much and you wanna see what debt service looks like, if you're gonna pay yourself that much.
+
+Um, so when we go to a no change scenario, like at the multiple that they're asking, this is still really healthy. And even after you pay yourself 150 in this deal, you're looking at $300,000 in. Cash flow. Um, I'm thinking what broke the, the setup before was because I removed the owner salary. So let me see, um, the structure.
+
+Yeah. Um, so let's say that, um. That we couldn't add back those salaries and you still wanted to pay yourself 150,000 a year, then we're looking at, well, can, can we actually afford that? Still looks like yes, you know, because the multiple was so low. So even if you, like SBA didn't see the 466,000 as a valid add back, you could pay yourself $150,000 salary and still have, you know, this much money left over after debt service and all your payments.
+
+So that's how you can play around with it to see, you know, um, in the deal structure. Uh, or sorry, in the, um, financials, you adding this in won't change the multiple. It will just change like the, the forecasting in terms of cash flow. Does that make sense? 
+
+Gil: Yeah. 
+
+[00:47:40]
+Athena: So this, this SDE can't remember. It's 4 6 6 something. Um, 4 6 6 2 0 1. This will be what you, your multiple is applied to, but this will be, you know, your proforma adjusted EBITDA. So proforma is like the changes you're gonna make after you take it over. Then if you're like, okay, I want to hire a salesperson, and that's where you'd add it into here, it would be a onetime expense.
+
+And then, you know, you would, the, the calculations would include that every year going forward with whatever the margin increase was gonna be.
+
+Gil: Okay, great. Um, can I ask a second question? 
+
+Athena: Absolutely. 
+
+Gil: Uh, about the real estate and the deal structure. 
+
+Athena: Yep. 
+
+Gil: Um, was this a change from the previous model? Uh, from the previous sheet that I was working off of under deal structure. That. Yeah, we, 
+
+Athena: we had this setting, so it was all, all fine. So it's all forecasting fine and yours, but we've just changed it in the one, so you'll just wanna make sure when you go to the deal structure that these, these numbers all add up if you have real estate.
+
+So we do have settings in yours. Ryan and I both double checked yours, so it's all fine. It just wasn't like, understandable. The guess is where you would like intuitively want to put a no. So we have it set in the one that we've been working on with you, so it's fine. Um, but if you're ever unsure, you just like, is the 7(a) and the real estate all adding up to the number that I think it's supposed to be altogether?
+
+Gil: Yeah. Okay, 
+
+Athena: perfect. Thank you. Yeah, sorry about that. It was, we, when we got into it with your guys, we were like, oh, like we, it's set as like, no, but actually intuitively you'd wanna put yes. So we, we just cleaned that up. So hopefully it's a little bit more intuitive in that regard. Cool. Thanks. No worries.
+
+Good questions. Awesome. Uh, anyone else got any questions about this or, you know, just financial statements, balance sheets, CapEx, working capital, whatever questions that you have around modeling. I know it's so much to try to learn when you're looking at these deals. Uh, more than happy to answer questions.
+
+'cause if you have 'em, probably everybody else does.
+
+Sounds like everybody's in a good place.
+
+Sweet. Um, well, uh, I'm excited. The evolution of the modeling template is awesome, and now I have to, uh, you know, put 10 years on the, um, on the equity injection. But like I said, there's always, always ways we can bob and weave around that to make the deals. So, um, excited to always share this with you, and I think everybody's been doing pretty exceptional with getting the modeling together and stuff, and I hope it's a tool that's been useful for you.
+
+So if there's ever any edits or confusion. While you're in there, that you're coming across, let me know. Um, and I'll have that updated. 'Cause we wanna, you know, it's such a complicated thing to try to do modeling on deals like this. And we're trying to make a very comprehensive model, very simple and easy to do inputs on.
+
+And, and sometimes that's hard to do. So if you run into roadblocks, challenges, questions, confusion, let me know. And I'm always gonna look for ways to try to clean that up and make it easier. Um. Also, just to give you a heads up. So next Tuesday we'll do the same thing. We'll talk through deals, see where you're at, if you wanna bring up modeling and that sort of thing and talk through that stuff.
+
+Um, then we can do that on Tuesday, Thursday we've got confirmation, right? Anka from Valerie. And Matthias, yes. Confirmation. Great. Okay, so Valerie and Matthias, uh, from, um, Pioneer Capital, they are SBA brokers. They're gonna be joining the call next week and we'll have an ask me anything with them. So I'm sure they will have a lot of their interpretations of the SOP guidelines.
+
+They have a ton of lender conversations too. Quite a few of you are moving close to, you know, making offers and or getting under offers, so. SBA is gonna be top of mind for everybody. So they are next Thursday. Then the following Thursday, we're gonna have Wendy from Live Oak Bank. Um, so she is an actual lender herself.
+
+I want her to talk you all through how they look at you, the borrower, the things that they're having conversations about. Um, how you can work best with a lender, um, and, you know, just insights from one of the highest volume best known banks as well. So, I know you all have a relationship from her from getting a pre call, but she's gonna do an ask me anything as well.
+
+And I'm gonna kind of guide us through the conversation so you can get. Insight from behind the scenes, like what actually happens when they're going through the process of doing underwriting and getting you approvals and looking at deals in this way. I'm sure she'll be able to tell her, uh, updates on how they're interpreting the SOP guidelines as well.
+
+Um, and then we've got some, uh, great people on deck that we'll be dialing in, so we're gonna have some. Um, investors come on and talk about how they view these. It'll also be interesting to hear their thoughts, uh, with these SOP guidelines and how they're gonna be changing their investment thesis if, if at all.
+
+Um, have an amazing guy that I've been wanting to bring on who talks about transition and he's actually like a transition business coach. Um, and this is after being a, I think 40 years in the, in the trenches of being a business owner. Um, and, you know, buying, selling businesses. Uh, and he's phenomenal, very inspirational.
+
+So just coming in and talking about what to think about when there is transitions, um, and lots more folks like that that will be bringing through. So again, if there's any, any person in particular or any topic in particular. That you wanna know more of, let us know. 'Cause we're always looking for ideas of people that we can bring into Buyer's Club that help you on your journey, give you all the information that you need.
+
+Um, and yeah, looks like we're ending pretty much right on time. So super excited to, uh, catch up with all of you personally next week. As always, we're in the channels too, and supporting you. The deal is firing out a lot of deals right now. It's pretty awesome watching the deal flow and there's some exciting stuff happening.
+
+There. So more deals are always coming, um, but if there's anything we can do to, uh, help you in this process, please let me know and I'm excited to catch up with all of you next week. So thank you. Have an amazing weekend. Um, keep us posted on your deals. I know a lot of you are working on active deals right now, so just keep us posted and we're here to support and feedback, uh, on the timely ones.
+
+Um, all of them, but on the timely ones, we know they're timely, so we wanna get you that feedback. And have a great rest of your day. Thank you.
+
+[00:55:00]
+Multiple: Thanks all. See you later. Thanks. Bye.

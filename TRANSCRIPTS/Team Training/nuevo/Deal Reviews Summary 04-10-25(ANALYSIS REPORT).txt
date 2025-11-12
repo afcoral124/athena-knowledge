@@ -1,0 +1,287 @@
+Below is a focused error and relevance analysis of the provided transcript. Overall, this call is a deal/operations review and is overwhelmingly business-relevant. I found multiple high-impact ASR errors (especially around LOI/NDA/broker terminology and several garbled lines) and only minimal, low-impact personal chatter suitable for removal.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Misheard Acronym]
+Location: 12:36-12:59 / Speaker: Anke Badenhorst
+Transcript excerpt: "...they're putting out their submitting L.O. eyes. Like that is the equivalent of putting a man on the moon..."
+Issue: “L.O. eyes” appears in an M&A context.
+Likely intended: “LOIs” (Letters of Intent)
+Confidence: High
+Reasoning: LOI is standard in M&A; “L.O. eyes” is a common ASR mishearing.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym]
+Location: 33:38-34:03 / Speaker: Athena Simpson
+Transcript excerpt: "...a broker that's not going to let you ever talk to him unless you submit an ally."
+Issue: “ally” in acquisition context
+Likely intended: “an LOI”
+Confidence: High
+Reasoning: Fits deal process usage; same pattern as Error #1.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: 47:26-47:43 / Speaker: Athena Simpson
+Transcript excerpt: "...it is not only a financial risk, but a reputational risk to lose clients before we've gotten them under Alawai."
+Issue: “Alawai” in deal milestone context
+Likely intended: “an LOI”
+Confidence: High
+Reasoning: “Under LOI” is standard; recurring pattern.
+Impact: High
+
+[Error #4 - Category: Misheard Acronym]
+Location: 13:00-13:08 / Speaker: Luke Gillespie
+Transcript excerpt: "...they'd still be signing one India every since months, you know."
+Issue: “India” in context of signing disclosures
+Likely intended: “NDA”
+Confidence: High
+Reasoning: NDA (non-disclosure agreement) is standard; “India” is a phonetic mishear.
+Impact: High
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: 34:38-34:49 / Speaker: Athena Simpson
+Transcript excerpt: "Hey, know, burgers come in all shapes and sizes. This one's a little light..."
+Issue: “burgers” in context clearly about brokers
+Likely intended: “brokers”
+Confidence: High
+Reasoning: Entire section is about brokers; “burgers” is a common ASR mishear.
+Impact: Medium
+
+[Error #6 - Category: Business Terminology Distortion]
+Location: 34:46-34:56 / Speaker: Luke Gillespie
+Transcript excerpt: "...that's normally exactly how it works with the workers. No, no reason."
+Issue: “workers” where “brokers” is intended
+Likely intended: “brokers”
+Confidence: High
+Reasoning: Continues the broker discussion; “workers” is nonsensical here.
+Impact: Medium
+
+[Error #7 - Category: Semantic Inconsistency]
+Location: 20:34-20:43 / Speaker: Athena Simpson
+Transcript excerpt: "...Elliot could be a really great object hit and resource and partner for us."
+Issue: “object hit” does not fit context
+Likely intended: “advocate” (or “asset”)
+Confidence: Medium
+Reasoning: Refers to someone who could champion/partner; “advocate” fits.
+Impact: Medium
+
+[Error #8 - Category: Omissions/Truncations (Severely Garbled)]
+Location: 21:27-21:40 / Speaker: Anke Badenhorst
+Transcript excerpt: "...he had a song steam to a backdiding of all of the active deals in those new parameters about, uh, what did you do David two or three months..."
+Issue: Phrase is unintelligible; meaning lost
+Likely intended: Something like “he had a system to backdate/review all active deals in the new parameters for the past 2–3 months”
+Confidence: Medium
+Reasoning: Surrounding lines discuss expanding parameters and pushing RFIs for the last 2–3 months; this line should describe that workflow.
+Impact: High
+
+[Error #9 - Category: Business Terminology Distortion]
+Location: 23:02-23:09 / Speaker: Athena Simpson
+Transcript excerpt: "...look at your guys' conversion rate of like RFI to write up or eat us for Jason..."
+Issue: “eat us” in conversion metrics
+Likely intended: “LOIs”
+Confidence: High
+Reasoning: Conversion chain is typically RFI → write-up → LOI. “eat us” is a mishear.
+Impact: High
+
+[Error #10 - Category: Semantic Inconsistency]
+Location: 28:26-28:36 / Speaker: Athena Simpson
+Transcript excerpt: "...Because Ryan is not reputable at the moment. I have very limited bandwidth..."
+Issue: “not reputable” is wrong in this context
+Likely intended: “not available” or “not reachable”
+Confidence: Medium
+Reasoning: The topic is team bandwidth/availability, not reputation.
+Impact: Medium
+
+[Error #11 - Category: Semantic Inconsistency]
+Location: 33:37-33:45 / Speaker: Luke Gillespie
+Transcript excerpt: "The brain biosphere."
+Issue: Nonsensical answer to “what are our clients coming to us for?”
+Likely intended: “our brain trust/expertise” (or “deal flow”)
+Confidence: Medium
+Reasoning: He immediately re-answers appropriately (“to help deal with the broker…”). “biosphere” is a mishear.
+Impact: Medium
+
+[Error #12 - Category: Speaker Misattribution]
+Location: 16:17-16:29
+Transcript excerpt:
+16:17 - Athena Simpson: “Fantastic. Okay...”
+16:24 - Luke Gillespie: “So Luke, I'm assuming you're jumping on those. Yep.”
+Issue: Line attributed to Luke reads like Athena addressing Luke and Luke replying “Yep.”
+Likely intended: 16:24 should be Athena speaking, followed by Luke’s “Yep.”
+Confidence: High
+Reasoning: Role-consistent turn-taking; attribution is reversed on this line.
+Impact: Medium
+
+[Error #13 - Category: Entity Names]
+Location: 11:56-12:09 / Speaker: Luke Gillespie
+Transcript excerpt: “S.T.” (in response to “who did it come from?”)
+Issue: Client initials inconsistent with rest of call where “S.P.” and “Steve and Polly” are used
+Likely intended: “S.P.”
+Confidence: High
+Reasoning: Multiple subsequent references are to S.P. (Steve & Polly); “S.T.” is likely an ASR mishear.
+Impact: Medium
+
+[Error #14 - Category: Business Terminology Distortion]
+Location: 12:33-12:40 / Speaker: Anke Badenhorst
+Transcript excerpt: “...poly, take the step. Take the meaning. Just take the meaning.”
+Issue: “meaning” should be “meeting”
+Likely intended: “Take the meeting”
+Confidence: High
+Reasoning: They are discussing pushing clients to take meetings; repeated “meaning” is an ASR mishear.
+Impact: Medium
+
+[Error #15 - Category: Business Terminology Distortion]
+Location: 43:41-43:55 / Speaker: Anke Badenhorst
+Transcript excerpt: “...we are doing the extra sequences for doing an additional IV tasting for her as well.”
+Issue: “IV tasting” in context of outreach optimization
+Likely intended: “A/B testing”
+Confidence: High
+Reasoning: Fits marketing/outreach process; “A/B testing” referenced elsewhere in similar contexts.
+Impact: High
+
+[Error #16 - Category: Entity/Tool Name Distortion]
+Location: 44:42-44:52 / Speaker: David R
+Transcript excerpt: “We created the hops for some pain for her. a three weeks ago.”
+Issue: Garbled reference to system/campaign
+Likely intended: “We created the HubSpot campaign for her three weeks ago.”
+Confidence: High
+Reasoning: “HubSpot campaign” fits common tooling and context (off-market outreach).
+Impact: High
+
+[Error #17 - Category: Semantic Inconsistency]
+Location: 28:28-28:33 / Speaker: Luke/Athena sequence
+Transcript excerpt: “So let's use these awesome tools at Earth Slack and remind clients...”
+Issue: “Earth Slack” is incorrect
+Likely intended: “our Slack”
+Confidence: High
+Reasoning: They are discussing Slack features; “Earth” is a typical ASR substitution for “our.”
+Impact: Low
+
+[Error #18 - Category: Entity Name]
+Location: 53:24-53:31 / Speaker: Athena Simpson
+Transcript excerpt: “Wonka, where would be the best place for us all to collaborate on this?”
+Issue: “Wonka” used as a person’s name
+Likely intended: “Anka/Anke”
+Confidence: High
+Reasoning: The operations lead is Anke; “Wonka” is a phonetic error.
+Impact: Low
+
+[Error #19 - Category: Minor Terminology]
+Location: 53:30-53:40 / Speaker: Anke Badenhorst
+Transcript excerpt: “I'll make taps for each different client...”
+Issue: “taps” in the context of a Google Doc layout
+Likely intended: “tabs”
+Confidence: High
+Reasoning: She’s describing document organization; “tabs” is the proper term.
+Impact: Low
+
+[Error #20 - Category: Omission/Word Substitution]
+Location: 49:49-49:58 / Speaker: Athena Simpson
+Transcript excerpt: “...everything that happened in the client panels.”
+Issue: “panels” appears instead of channel context
+Likely intended: “client channels”
+Confidence: Medium
+Reasoning: They are discussing Slack summaries; “channels” is the relevant term.
+Impact: Low
+
+[Error #21 - Category: Entity Name]
+Location: 41:13-41:22 / Speaker: Athena/Luke/Anke sequence
+Transcript excerpt: “Anchor, David, any insights for me?”
+Issue: “Anchor” used as a person’s name
+Likely intended: “Anke”
+Confidence: High
+Reasoning: Addressing Anke; “Anchor” is a phonetic mishear.
+Impact: Low
+
+[Error #22 - Category: Omission/Truncation]
+Location: 19:13-19:20 / Speaker: Anke Badenhorst
+Transcript excerpt: “...one Jason Sims or the other one I was judging.”
+Issue: “judging” does not fit; suggests review context
+Likely intended: “reviewing”
+Confidence: Medium
+Reasoning: Prior and following lines discuss reviewing Sims/CIMs.
+Impact: Low
+
+[Error #23 - Category: Omission/Truncation]
+Location: 19:26-19:33 / Speaker: Luke Gillespie
+Transcript excerpt: “...waiting for the broker to get by his financials in this scene.”
+Issue: Garbled; meaning unclear
+Likely intended: “...waiting for the broker to get me his financials and the CIM.”
+Confidence: Medium
+Reasoning: Context is awaiting information from broker; CIM is standard.
+Impact: Medium
+
+[Error #24 - Category: Omission/Truncation]
+Location: 1:02:21-1:02:27 / Speaker: Luke Gillespie
+Transcript excerpt: “I can send them your doors when I will.”
+Issue: Nonsensical phrasing
+Likely intended: “I can send you those” or “send them your way”
+Confidence: Medium
+Reasoning: Context is acknowledging sending items; “doors” is a mishear.
+Impact: Low
+
+[Error #25 - Category: Entity Name]
+Location: 0:11-0:15 / Speaker: Luke Gillespie
+Transcript excerpt: “Hi, the anchor here.”
+Issue: “anchor” as self-reference
+Likely intended: “Hi, Luke here.”
+Confidence: Medium
+Reasoning: Speaker tag is Luke; “anchor” is likely ASR substitution.
+Impact: Low
+
+[Error #26 - Category: Word Choice/Terminology]
+Location: 32:05-32:12 / Speaker: Athena Simpson
+Transcript excerpt: “...if I become an editor, no, when you become an ogre, right?”
+Issue: “ogre” in a professional development context
+Likely intended: “editor” (or “owner”)
+Confidence: Medium
+Reasoning: Earlier they discussed “editor” access/training; “ogre” is an ASR artifact.
+Impact: Low
+
+
+REMOVALS (Personal/Off-Topic)
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 1:11:58–1:12:14
+Speakers involved: Athena (closing remarks), Anke, Luke
+Content excerpt:
+“Athena: ...I'm getting lunatic Athena now because it's end of the day my brain stopped working so thank you you all later I appreciate you. I'm feeling really good this week...”
+Reasoning:
+This is purely end-of-day personal commentary and emotional state; it adds no business value and occurs after actionable content is finished.
+Context impact: None—this is end-of-call pleasantry and can be safely removed without affecting the understanding of action items or processes.
+Recommended action: REMOVE 1:11:58–1:12:14
+
+
+BORDERLINE SEGMENTS (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 28:08–28:22
+Content excerpt: “...I hate typing, especially now that I wear these ridiculous nails on my hand...”
+Business relevance argument: Supports the operational policy push toward voice notes by explaining practical user friction, promoting tool adoption that improves response times.
+Personal content argument: Contains a personal anecdote (nails) that could be seen as non-essential.
+Recommendation: KEEP—It directly supports the rationale for a business process change (voice notes) and client experience improvements.
+
+[BORDERLINE #2 - Requires Review]
+Location: 52:14–52:28
+Content excerpt: “I am going to be off moving into my new home on Monday.”
+Business relevance argument: Availability notice tied to handover planning; relevant for resourcing and continuity.
+Personal content argument: Mentions a personal life event (moving) without additional business detail.
+Recommendation: KEEP—It explains Monday availability and precipitates the formal handover plan, which is important operationally.
+
+
+NOTES ON CONTENT RELEVANCE
+
+- Overall, this meeting is a business operations/deal review call: KEEP almost all content.
+- Extensive discussion on write-up counts, tracking, HubSpot/Notion, Slack workflows, voice-note policy, off-market pipeline, client management (Jason, JJ, SP/Steve & Polly), lender capabilities (SBA for Canadian businesses), and handover planning are all business-critical: KEEP.
+- Celebratory “wins” and client satisfaction comments are strategic morale updates and client success context: KEEP.
+
+PATTERNS WORTH FEEDING BACK TO ASR/QA
+
+- LOI consistently misheard as “L.O. eyes,” “ally,” “Alawai,” “a law.”
+- NDA misheard as “India.”
+- “Broker(s)” misheard as “burger(s)” and “worker(s).”
+- Common M&A tooling/terms garbling: HubSpot campaign, A/B testing, CIM/review lines.
+- Names/tags: Frequent mishearing of “Anke” (as Onka/Wonka/Anchor); inconsistent client initials (S.T. vs S.P.).
+- Multiple severely garbled lines that obscure meaning (e.g., “song steam to a backdiding...”, “send them your doors...”, “brain biosphere”).
+
+These errors materially affect comprehension of deal flow, client names, and action steps; prioritizing model/domain adaptation around M&A lexicon (LOI/NDA/CIM/SBA/HubSpot/A/B testing) and team/client names should significantly improve transcript quality.

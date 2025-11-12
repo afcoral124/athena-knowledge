@@ -1,0 +1,363 @@
+Below is a structured analysis of the transcript focused on (1) likely ASR/transcription errors and (2) segment mapping with recommended removals of personal/off-topic content. Line numbering below refers to each timestamped speaker turn as it appears in your transcript (one line per timestamped block).
+
+SEGMENT MAPPING (Keep/Remove/Mixed)
+- KEEP: Lines 1-21 (internal debrief on participation, pipeline planning, client coaching approach)
+- MIXED: Line 23 (contains both personal/attendance notes and business capacity/territory policy)
+- KEEP: Lines 24-26 (scheduling/logistics with business context)
+- REMOVE: Lines 27-29 (clothing/red dress anecdote)
+- KEEP: Lines 30-41 (deal flow updates, client fit, calibration strategy)
+- KEEP: Lines 42-57 (sales role framing for owners, industry-fit discussion)
+- KEEP: Lines 58-62 (client-interest vetting for pet grooming; positioning)
+- KEEP: Lines 63-74 (outreach strategy, lead handling, website opportunity)
+- BORDERLINE (recommend KEEP): Lines 75-79 (OKC population banter that leads into market strategy idea on line 80)
+- KEEP: Lines 80-116 (client pipeline, SBA pre-qual discussions, IOI vs LOI guidance, off-market glass)
+- REMOVE: Lines 117-121 (mob anecdote about family; off-topic)
+- KEEP: Lines 122-143 (re-engagement strategy, APA/terms negotiation plan, process lessons, closing)
+
+TRANSCRIPTION ERROR REPORTS
+
+[Error #1 - Category: Misheard Business Term]
+Location: Line 16 / Speaker: Luke Gillespie
+Transcript excerpt: "...he's looking at a 3.5x and he's disappointed in that. I don't think I've ever even seen an H back at less than a 4x..."
+Issue: “H back” in a context clearly referring to the HVAC industry
+Likely intended: “HVAC”
+Confidence: High
+Reasoning: Industry shorthand; HVAC is standard. “H back” is a common ASR slip.
+Impact: High - industry reference clarity
+
+[Error #2 - Category: Misheard Acronym]
+Location: Line 31 / Speaker: Luke Gillespie
+Transcript excerpt: "...include real estate that could qualify for the the 504 low or 25 year amort..."
+Issue: “504 low” appears where a loan product is referenced
+Likely intended: “SBA 504 loan”
+Confidence: High
+Reasoning: The SBA 504 loan is a standard acquisition/real estate product; “low” is a phonetic error.
+Impact: High - financing details clarity
+
+[Error #3 - Category: Truncation/Omission]
+Location: Line 31 / Speaker: Luke Gillespie
+Transcript excerpt: "...25 year amort..."
+Issue: “amort” is truncated
+Likely intended: “25-year amortization”
+Confidence: High
+Reasoning: Standard financing terminology was clipped.
+Impact: Medium
+
+[Error #4 - Category: Financial/Numerical Ambiguity]
+Location: Line 31 / Speaker: Luke Gillespie
+Transcript excerpt: “They have 10 locations... Like a million dollars even done but only listed at $3.2 million asking price.”
+Issue: “a million dollars even done” is unclear; likely missing SDE/EBITDA
+Likely intended: “~$1.0M SDE (or EBITDA)”
+Confidence: Medium
+Reasoning: Deal comparisons typically cite SDE/EBITDA; “even done” likely misheard.
+Impact: High - valuation/multiple interpretation
+
+[Error #5 - Category: Inconsistent Initials/Entity Reference]
+Location: Line 33 / Speaker: Luke Gillespie
+Transcript excerpt: “For the BL, one thing that I noticed...”
+Issue: Client initials “BL” inconsistent with earlier “DL”
+Likely intended: “DL”
+Confidence: Medium
+Reasoning: The surrounding context is clearly about DL; earlier and later references say “DL”.
+Impact: Medium
+
+[Error #6 - Category: Omission/Homophone]
+Location: Line 35 / Speaker: Luke Gillespie
+Transcript excerpt: “To be honest, I still a lot of RFIs, and we just haven't gotten that many cents for them...”
+Issue: Missing verb and “cents” homophone
+Likely intended: “I still sent a lot of RFIs, and we just haven’t gotten that many since” (or “responses”)
+Confidence: Medium
+Reasoning: Grammar and context indicate sending requests and awaiting responses.
+Impact: Medium
+
+[Error #7 - Category: Truncation/Omission]
+Location: Line 36 / Speaker: Athena Simpson
+Transcript excerpt: “And they said they were in the auto body on their.”
+Issue: Sentence is incomplete
+Likely intended: “...in the auto body space on their industry sheet.”
+Confidence: Medium
+Reasoning: Immediately prior/after discuss industry fit and sheet.
+Impact: Medium
+
+[Error #8 - Category: Misheard Business Term]
+Location: Line 41 / Speaker: Athena Simpson
+Transcript excerpt: “...out of a body and sales...”
+Issue: Misheard “auto body”
+Likely intended: “auto body”
+Confidence: High
+Reasoning: The thread is about an auto body shop.
+Impact: Medium
+
+[Error #9 - Category: Homophone/Semantic]
+Location: Line 43 / Speaker: Athena Simpson
+Transcript excerpt: “And they're looking at service sitting on their hands.”
+Issue: “service” appears wrong in context
+Likely intended: “instead of sitting on their hands”
+Confidence: Medium
+Reasoning: Discussion is about waiting vs acting; phrase idiomatically fits as “instead of.”
+Impact: Low-Medium
+
+[Error #10 - Category: Semantic Inconsistency]
+Location: Line 44 / Speaker: AcquiMatch Team
+Transcript excerpt: “I think I can make it crazy in a way that would be okay... If you get an accident with a car, you need to. placed.”
+Issue: Several phrases are incoherent (“make it crazy”; “you need to. placed.”)
+Likely intended: “phrase/frame it,” “replaced,” etc.
+Confidence: Medium
+Reasoning: Context suggests framing the pitch; body shop work is replacement-focused.
+Impact: Medium
+
+[Error #11 - Category: Homophone (Name)]
+Location: Line 46 / Speaker: AcquiMatch Team
+Transcript excerpt: “And then look, you can still make the video...”
+Issue: “look” is likely the name “Luke”
+Likely intended: “Luke”
+Confidence: High
+Reasoning: Addressing Luke in context of producing a video.
+Impact: Low
+
+[Error #12 - Category: Misheard Name]
+Location: Line 58 / Speaker: AcquiMatch Team
+Transcript excerpt: “I was just looking up kill Yeah...”
+Issue: “kill” used where client name appears
+Likely intended: “Gil”
+Confidence: High
+Reasoning: Gil is the active client in this thread.
+Impact: Medium
+
+[Error #13 - Category: Semantic/Omission]
+Location: Line 58 / Speaker: AcquiMatch Team
+Transcript excerpt: “...it says you're interested in all of the pets. What's interesting to do about that?”
+Issue: Phrase is ungrammatical
+Likely intended: “What’s interesting to you about that?”
+Confidence: High
+Reasoning: Standard question structure.
+Impact: Low
+
+[Error #14 - Category: Misheard Word]
+Location: Line 59 / Speaker: Athena Simpson
+Transcript excerpt: “...the potholes that just end up being like rainbows...”
+Issue: “potholes” likely misheard in pet grooming context
+Likely intended: “poodles”
+Confidence: High
+Reasoning: Pet grooming examples commonly reference “poodles” dyed/styled; “potholes” is nonsensical here.
+Impact: Medium
+
+[Error #15 - Category: Omission/Misheard Name]
+Location: Line 66 / Speaker: Luke Gillespie
+Transcript excerpt: “Yeah. Yeah. Right. I are planning on talking tomorrow...”
+Issue: “Right. I are” is ungrammatical; missing “Ryan and I”
+Likely intended: “Ryan and I are planning...”
+Confidence: High
+Reasoning: Frequent collaboration references to Ryan.
+Impact: Low
+
+[Error #16 - Category: Omission/Truncation]
+Location: Line 70 / Speaker: AcquiMatch Team
+Transcript excerpt: “I'm looking promising now to and we're small and the third one is just a few times not picking up.”
+Issue: Multiple omissions render it incoherent
+Likely intended: Status update about 3 leads; one promising, one small, third not picking up
+Confidence: Medium
+Reasoning: Follow-on sentences clarify outreach/SMS attempts.
+Impact: Medium
+
+[Error #17 - Category: Homophone/Word Error]
+Location: Line 79 / Speaker: Luke Gillespie
+Transcript excerpt: “...maybe don't person Wikipedia though. It says my hometown is the 63 third largest...”
+Issue: “don’t person Wikipedia” and “63 third” are incorrect
+Likely intended: “don’t trust Wikipedia” and “63rd”
+Confidence: High
+Reasoning: Common expression; ordinal formatting error.
+Impact: Low
+
+[Error #18 - Category: Truncation/Omission]
+Location: Line 80 / Speaker: Athena Simpson
+Transcript excerpt: “I mean, . Like, could we run an event...”
+Issue: Missing words after “I mean,”
+Likely intended: N/A (filler) then event strategy
+Confidence: High
+Reasoning: ASR often drops filler; the substance follows.
+Impact: Low
+
+[Error #19 - Category: Misheard Acronym]
+Location: Line 87 / Speaker: Luke Gillespie
+Transcript excerpt: “...and then sometimes it says to be determined and Ryan's close with the Andrew... He says that basically means no when it says TV.”
+Issue: “TV” likely “TBD”
+Likely intended: “TBD”
+Confidence: High
+Reasoning: Common listing status; “TV” not used in this context.
+Impact: Medium
+
+[Error #20 - Category: Word Choice/Omission]
+Location: Line 92 / Speaker: AcquiMatch Team
+Transcript excerpt: “Okay, sounds like a little wrong.”
+Issue: “a little wrong” doesn’t fit context of last call timing
+Likely intended: “a little long” (or “a little while”)
+Confidence: Medium
+Reasoning: The question was timing (“when’s the last time”).
+Impact: Low
+
+[Error #21 - Category: Truncation/Omission]
+Location: Lines 95-97 / Speaker: Athena Simpson
+Transcript excerpt: “We're like, yeah, but I don't think we're doing. If we could say that there was no fault in our sourcing. Then we could say that.” and “don't think we're. Experts and literally like...”
+Issue: Multiple incomplete sentences
+Likely intended: Full points about sourcing capacity and expertise
+Confidence: Medium
+Reasoning: Rapid speech clipped by ASR.
+Impact: Medium
+
+[Error #22 - Category: Word Choice]
+Location: Line 103 / Speaker: Athena Simpson
+Transcript excerpt: “What does he keep doing I.O.I.s?”
+Issue: “What does he” likely “Why does he”
+Likely intended: “Why does he keep doing IOIs?”
+Confidence: Medium
+Reasoning: The next lines argue against IOIs; “why” fits query intent.
+Impact: Low
+
+[Error #23 - Category: Homophone]
+Location: Line 109 / Speaker: Athena Simpson
+Transcript excerpt: “...he should have submitted an IOI to show you a series.”
+Issue: “series” used where seriousness is intended
+Likely intended: “serious”
+Confidence: High
+Reasoning: Conventional phrase is “to show you he’s serious.”
+Impact: Low
+
+[Error #24 - Category: Semantic Inconsistency]
+Location: Line 111 / Speaker: Athena Simpson
+Transcript excerpt: “...Next time he wants to make an IOI, I'd be like, so let's do an IOI.”
+Issue: Inconsistent with prior directive to avoid IOIs and push LOIs
+Likely intended: “...so let’s do an LOI.”
+Confidence: High
+Reasoning: Context two lines earlier: “Stop submitting IOIs.”
+Impact: High - changes instruction
+
+[Error #25 - Category: Misheard Acronyms/Terms]
+Location: Line 131 / Speaker: AcquiMatch Team
+Transcript excerpt: “...asset value would be determined by the during the QF. ... during a Q and D... that’s endemic vacation...”
+Issue: Multiple misheard legal/financial terms (QF, Q and D, endemic vacation)
+Likely intended: “QoE (Quality of Earnings)” and/or “DD (due diligence)”, and “indemnification”
+Confidence: High
+Reasoning: Standard deal terms; these are common ASR confusions.
+Impact: High - legal/financial accuracy
+
+[Error #26 - Category: Entity Name (Company)]
+Location: Line 131 / Speaker: AcquiMatch Team
+Transcript excerpt: “...owner's name, which is called Ghettoitz Landscaping...”
+Issue: Company name likely misspelled/misheard
+Likely intended: A different spelling (e.g., Getowitz/Getoetz, unknown)
+Confidence: Low
+Reasoning: Uncommon spelling; ASR often distorts proper nouns.
+Impact: Medium
+
+[Error #27 - Category: Numerical/Temporal Term]
+Location: Line 131 / Speaker: AcquiMatch Team
+Transcript excerpt: “...he can only use the owner's name... for six months... they put in there... only use the name in the third six months.”
+Issue: “third six months” likely “first six months”
+Likely intended: “first six months”
+Confidence: Medium
+Reasoning: Brand transition windows typically reference “first X months.”
+Impact: Medium
+
+[Error #28 - Category: Misheard Terms]
+Location: Line 132 / Speaker: Athena Simpson
+Transcript excerpt: “...QV... command and letter... he's using a wire... commit the letters.”
+Issue: Multiple misheard terms
+Likely intended: “QoE” (or “Q of E”), “commitment letter,” “lawyer,” “commitment letters”
+Confidence: High
+Reasoning: Standard M&A vocab; all are plausible ASR mistakes.
+Impact: High
+
+[Error #29 - Category: Perspective/Semantic]
+Location: Line 18 / Speaker: AcquiMatch Team
+Transcript excerpt: “...we accepted another offer because he was dragging it out.”
+Issue: “we accepted” seems inconsistent perspective if referring to seller’s action
+Likely intended: “they accepted another offer”
+Confidence: Medium
+Reasoning: The speakers are advisors; seller would accept offers.
+Impact: Medium
+
+[Error #30 - Category: Misheard Acronym]
+Location: Line 18 / Speaker: AcquiMatch Team
+Transcript excerpt: “...don't take too long because we saw having to even Eli”
+Issue: “Eli” in deal context likely meant LOI
+Likely intended: “LOI”
+Confidence: High
+Reasoning: Consistent with the discussion of offers/letters.
+Impact: High
+
+[Error #31 - Category: Word Error]
+Location: Line 31 / Speaker: Luke Gillespie
+Transcript excerpt: “...It just came into the end box today...”
+Issue: “end box” vs “inbox”
+Likely intended: “inbox”
+Confidence: High
+Reasoning: Email context
+Impact: Low
+
+[Error #32 - Category: Entity Names]
+Location: Line 21 / Speaker: Athena Simpson
+Transcript excerpt: “...Austin's searcher of it... He shares... mean shares... Dave Collinson... Dave Collins...”
+Issue: Multiple possibly misheard names/venues
+Likely intended: Event name/venue, person “Dave Collins” (unclear)
+Confidence: Low
+Reasoning: Several phonetic distortions; later reference shifts from Collinson to Collins.
+Impact: Medium (entity clarity)
+
+REMOVAL RECOMMENDATIONS (Personal/Off-Topic)
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: Lines 27-29
+Speakers involved: Athena Simpson, AcquiMatch Team
+Content excerpt:
+“Athena: All right, get myself ramped up. I'm wearing red and leopard print to get all my power patterns and color ready to go.
+AcquiMatch Team: ...story about how you wore the red dress... I told that story to my girlfriend...
+Athena: ...my recent post had the picture of me... wearing the exact same dress...”
+Reasoning:
+Extended clothing/dress anecdote and social sharing unrelated to dealmaking, clients, or strategy.
+Context impact: None—business resumes on line 30 with meeting flow.
+Recommended action: REMOVE lines 27-29
+
+[REMOVAL #2 - Type: Personal/Off-Topic]
+Location: Lines 117-121
+Speakers involved: Athena Simpson, AcquiMatch Team
+Content excerpt:
+“Athena: ...fun fact, my grandfather owned a glass repair... my cousin swears he was like mob adjacent.
+AcquiMatch Team: So like the mob would go and bust in... classic mob story.
+Athena: My mom... hates it... 
+AcquiMatch Team: I just thought he was making it up.
+Athena: I'm like, yeah, but glass repair in my family.”
+Reasoning:
+Personal family/mob anecdote unconnected to current deals or client guidance.
+Context impact: Low—discussion returns to re-engagement strategy on line 122.
+Recommended action: REMOVE lines 117-121
+
+MIXED/BORDERLINE SEGMENTS
+
+[BORDERLINE #1 - Requires Review]
+Location: Line 23
+Content excerpt: “Thanks. Maria's coming, my boyfriend's coming, Justin's coming... and then there’s two potential clients... we only take one Austin client at a time...”
+Business relevance argument: The policy about taking only one Austin client at a time and the presence of potential clients are relevant to capacity/territory strategy and pipeline.
+Personal content argument: Listing who is attending (boyfriend, Maria) is personal/social and adds no business value.
+Recommendation: KEEP the sentence(s) explaining the one-Austin-client policy and potential client attendance; REMOVE the purely personal attendance details (“Maria's coming, my boyfriend's coming, Justin's coming...”). Context remains clear.
+
+[BORDERLINE #2 - Requires Review]
+Location: Lines 75-79
+Content excerpt:
+“Luke: ...Oklahoma City is the 20th largest city... ahead of Nashville... Atlanta.
+Team: That's not possible.
+Luke: Maybe it's not...
+Athena: Especially with as many businesses as we get from Atlanta...
+Luke: ...don’t person Wikipedia... 63 third largest...”
+Business relevance argument: They are brainstorming why OKC deal flow is thin; population comparisons can inform market outreach strategy (which they discuss on line 80 with a potential event).
+Personal content argument: The population ranking banter and joking are tangential and contain inaccuracies.
+Recommendation: KEEP (Low priority to remove). It serves as a segue to a concrete strategy idea (hosting a local event). If trimming for brevity, consider removing lines 76-79 but retain line 75 and line 80.
+
+ADDITIONAL NOTES/PATTERNS FOR ASR IMPROVEMENT
+- Acronyms: LOI/IOI/QoE/DD/504 frequently misheard (“Eli,” “QF,” “Q and D,” “low”). Train ASR on common M&A/SBA terminology.
+- Legal terms: “indemnification” repeatedly distorted (“endemic vacation”).
+- Industry terms: “HVAC” rendered as “H back.”
+- Proper nouns: Company/person/venue names (“Ghettoitz,” “Dave Collinson/Collins,” “mean shares”) are unstable; consider custom vocabulary boost for known clients/partners.
+- Homophones and filler: “look” vs “Luke,” “series” vs “serious,” “poodles” vs “potholes,” frequent truncation after fillers (“I mean,”).
+
+This analysis prioritizes preserving all deal, client, financing, legal, and strategy content while removing non-business personal anecdotes and flagging high-impact transcription errors that could mislead reviewers.

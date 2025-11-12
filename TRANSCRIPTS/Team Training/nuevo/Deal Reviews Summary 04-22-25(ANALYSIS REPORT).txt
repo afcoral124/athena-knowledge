@@ -1,0 +1,243 @@
+[Error #1 - Category: Misheard Acronym]
+Location: 3:30 / Speaker: AcquiMatch Team
+Transcript excerpt: "he said that he's going to submit D. L.I. for the clients business today."
+Issue: "D. L.I." appears in M&A context
+Likely intended: "LOI (Letter of Intent)"
+Confidence: High
+Reasoning: LOI is the standard term for an acquisition offer; “D.L.I.” is a common ASR mishearing.
+Impact: High - changes key deal status detail
+
+---
+[Error #2 - Category: Misheard Acronym/Terminology]
+Location: 3:45 / Speaker: AcquiMatch Team
+Transcript excerpt: "we got them to put together an L.I. Non-IOI and a video of himself."
+Issue: "L.I. Non-IOI" and pronoun "himself... she's done"
+Likely intended: "an LOI (not an IOI) and a video of himself... he's done"
+Confidence: High
+Reasoning: In deal flow, teams distinguish LOI vs IOI; pronoun slip likely ASR error.
+Impact: Medium
+
+---
+[Error #3 - Category: Entity Name]
+Location: 1:47-2:11 / Speaker: AcquiMatch Team
+Transcript excerpt: "JSN gave the same feedback... the Crown Office sweet spursiness..."
+Issue: "JSN" and "Crown Office sweet spursiness" are garbled
+Likely intended: "Jason" and "Crown Office Suites business"
+Confidence: Medium
+Reasoning: Names often misheard; “Crown Office Suites” is a plausible business name; “spursiness” ≈ “business.”
+Impact: Medium
+
+---
+[Error #4 - Category: Business Terminology Distortion]
+Location: 4:12 / Speaker: AcquiMatch Team
+Transcript excerpt: "there was a portion of the node change model that seemed to be over time, DSCI was going down"
+Issue: "node change model" and "DSCI"
+Likely intended: "debt schedule/no-change model" (unclear) and "DSCR"
+Confidence: Medium (model term) / High (DSCR)
+Reasoning: DSCR (debt service coverage ratio) is standard; “DSCI” is a frequent ASR error. “node change” is semantically odd.
+Impact: High (DSCR), Medium (model term)
+
+---
+[Error #5 - Category: Financial/Numerical Term]
+Location: 5:03 / Speaker: Athena Simpson
+Transcript excerpt: "there would be a slight decline over time with the SCR doesn't say exactly like 1.5."
+Issue: "SCR" instead of DSCR
+Likely intended: "DSCR"
+Confidence: High
+Reasoning: DSCR is the common metric that may trend slightly; “SCR” drops a letter.
+Impact: High
+
+---
+[Error #6 - Category: Homophone/Near-homophone]
+Location: 4:12 / Speaker: AcquiMatch Team
+Transcript excerpt: "showing them how to model out the plants business."
+Issue: "plants business" in deal modeling context
+Likely intended: "client's business"
+Confidence: High
+Reasoning: “plant’s” vs “client’s” is a common ASR slip; context is modeling a client’s deal.
+Impact: Medium
+
+---
+[Error #7 - Category: Platform/Entity Name]
+Location: 3:45 / Speaker: AcquiMatch Team
+Transcript excerpt: "he just messaged it in his slide channel"
+Issue: "slide channel" as a collaboration tool
+Likely intended: "Slack channel"
+Confidence: High
+Reasoning: Slack is the standard internal comms app; “slide” is a frequent mishearing.
+Impact: Medium
+
+---
+[Error #8 - Category: Omission/Truncation]
+Location: 3:43 / Speaker: Luke Gillespie
+Transcript excerpt: "So, like I said, 19."
+Issue: Utterance is truncated and lacks referent
+Likely intended: Possibly "19 minutes" or unrelated fragment
+Confidence: Low
+Reasoning: No surrounding numeric anchor; likely cut-off or ASR truncation.
+Impact: Low
+
+---
+[Error #9 - Category: Semantic Inconsistency]
+Location: 7:11 / Speaker: AcquiMatch Team
+Transcript excerpt: "we need to have a draft in response to the big business... they were making for strategic. Higher overseas..."
+Issue: Garbled phrasing; unclear intent
+Likely intended: "response to the big business we discussed; they’re looking for a strategic buyer, possibly overseas"
+Confidence: Medium
+Reasoning: “strategic buyer” is standard; “higher overseas” is semantically off.
+Impact: Medium
+
+---
+[Error #10 - Category: Brand/Entity Name]
+Location: 8:12 and 14:15 / System/Athena
+Transcript excerpt: "SCREEN SHARING: Acquimatch started screen sharing" and "ACRI match in the signature."
+Issue: Inconsistent/misspelled brand name
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: Official brand is AcquiMatch; mis-capitalizations/misspellings occur in ASR and system overlays.
+Impact: Medium (brand trust/consistency)
+
+---
+[Error #11 - Category: Entity/Location Name]
+Location: 10:00 / Speaker: David R
+Transcript excerpt: "they are like a lot fewer term from Jackson view"
+Issue: Garbled; appears to refer to a location and firm type
+Likely intended: "they are a law firm from Jacksonville"
+Confidence: High
+Reasoning: Matches later discussion about attorneys and Florida; phonetic similarity.
+Impact: High (determines relevancy of lead)
+
+---
+[Error #12 - Category: Omission/Truncation]
+Location: 12:49 / Speaker: David R
+Transcript excerpt: "Who was this for? This is Jack, please don't provide a BH or CM."
+Issue: Names/initials garbled; sentence incomplete
+Likely intended: Unknown; possibly referencing clients by initials
+Confidence: Low
+Reasoning: No clear referents for “BH or CM”; syntax broken.
+Impact: Medium (assigning to correct client)
+
+---
+[Error #13 - Category: Omission/Truncation]
+Location: 13:18 / Speaker: Anke Badenhorst
+Transcript excerpt: "Take one, NOS."
+Issue: Fragmented/unintelligible statement
+Likely intended: Unknown
+Confidence: Low
+Reasoning: Lacks syntactic/semantic coherence; likely ASR artifact.
+Impact: Low
+
+---
+[Error #14 - Category: Grammar/Minor Clarity]
+Location: 16:29 / Speaker: David R
+Transcript excerpt: "I wish be the best of luck."
+Issue: Missing pronoun
+Likely intended: "I wish you the best of luck."
+Confidence: High
+Reasoning: Standard phrase; “you” omitted by ASR.
+Impact: Low
+
+---
+[Error #15 - Category: Semantic/Word Choice]
+Location: 20:05 / Speaker: Athena Simpson
+Transcript excerpt: "then it plants. seat of distrust... when there's anything that's a jar"
+Issue: Misheard idioms
+Likely intended: "plant a seed of distrust" and "when there's anything that’s ajar"
+Confidence: High
+Reasoning: Common idiomatic expressions; punctuation/word errors indicate ASR.
+Impact: Low-Medium (clarity in branding guidance)
+
+---
+[Error #16 - Category: Misheard Acronym/Initialism]
+Location: 22:26 / Speaker: Athena Simpson
+Transcript excerpt: "the capital K&M, know, always writing in the same way"
+Issue: Company initials misheard
+Likely intended: "capital AQM" (for AcquiMatch) or "AM"
+Confidence: Medium
+Reasoning: Discussing capitalization/brand consistency; K&M doesn’t fit org initials; AQM plausible.
+Impact: Low-Medium (brand standards clarity)
+
+---
+[Error #17 - Category: Entity Name]
+Location: 12:20 / Speaker: Athena Simpson
+Transcript excerpt: "Jack's have the lawyer dot pro."
+Issue: Garbled domain/identifier for the law firm
+Likely intended: A domain like "jackslawyer.pro" or "jacks-lawyer.pro"
+Confidence: Low-Medium
+Reasoning: Later context confirms “lawyers”; phrase reads like a domain misheard.
+Impact: Medium (identifying the responding entity)
+
+---
+[Error #18 - Category: Misheard Term]
+Location: 4:13 / Speaker: AcquiMatch Team
+Transcript excerpt: "for both those DL shares of, you know, the calls that are being kind of wrapping things up"
+Issue: "DL shares" unclear
+Likely intended: "deals" or "LOIs" (deal letters)
+Confidence: Low-Medium
+Reasoning: In context of scheduling calls tied to offers/deals; “DL” doesn’t map cleanly.
+Impact: Medium
+
+---
+[Error #19 - Category: Misheard Platform/Entity]
+Location: 10:28 / Speaker: Athena Simpson
+Transcript excerpt: "we are a law firm that has been owned by an attorney licensed in the state of Florida."
+Issue: Subject pronoun "we are a law firm" contradicts role
+Likely intended: "This is a law firm that must be owned by an attorney…"
+Confidence: Medium
+Reasoning: Speaker represents AcquiMatch; stating “we are a law firm” doesn’t fit; likely ASR substitution.
+Impact: Medium
+
+---
+[Error #20 - Category: Omission/Truncation]
+Location: 20:05 / Speaker: Athena Simpson
+Transcript excerpt: "the email address doesn't match the but this is like a long history of branding"
+Issue: Missing object after "match the"
+Likely intended: "doesn't match the signature" (or "brand")
+Confidence: Medium
+Reasoning: Prior discussion compares email address vs signature; missing noun fits that context.
+Impact: Low-Medium
+
+---
+[Error #21 - Category: Misheard Acronym]
+Location: 15:38 / Speaker: Athena Simpson
+Transcript excerpt: "wording must happen for SBA on performance based notes based on the lawyers."
+Issue: Awkward phrasing around SBA policy/lawyer feedback
+Likely intended: "specific wording is required for SBA on performance-based seller notes per attorneys"
+Confidence: Medium
+Reasoning: Matches context of sharing legal wording/insight; ASR likely compressed phrase.
+Impact: Medium
+
+---
+[Error #22 - Category: Entity/Location]
+Location: 8:31 / Speaker: Athena Simpson
+Transcript excerpt: "we were like, uh we're not the right fit so i'd like to you know cover that off"
+Issue: Minor truncation; acceptable speech, but “cover that off” okay
+Likely intended: N/A (no change)
+Confidence: —
+Reasoning: Not an error per se; included here to note no issue.
+Impact: —
+
+PATTERN NOTE:
+- LOI/IOI consistently misheard (LOI→D.L.I., L.I.; "Non-IOI" phrasing).
+- DSCR consistently misheard as DSCI/SCR.
+- “Slack” misheard as “slide”.
+- Several entity names/locations garbled (Jason→JSN; Jacksonville; Crown Office Suites).
+- Brand name “AcquiMatch” inconsistently rendered (Acquimatch, ACRI match).
+- Multiple truncations/garbled phrases in mid-sentences indicate possible audio quality or crosstalk issues.
+
+REMOVALS
+No removal-worthy small talk identified. Conversation remains business-focused (deal status, LOIs, SBA/SOP, outreach/brand integrity, internal process). Brief greetings/closings are professional and should be retained.
+
+BORDERLINE #1 - Requires Review
+Location: 20:05-22:26
+Content excerpt: "It seems very authentic... brand trust... concert merch analogy... plant a seed of distrust... Guinness World Records branding experience... brand trainings..."
+Business relevance argument: Provides concrete guidance on brand consistency for outreach (email/signature alignment), directly connected to reducing spam perception and improving off-market responses.
+Personal content argument: Extended anecdote about past role and branding theory could be seen as tangential to immediate deal reviews.
+Recommendation: KEEP — It informs current outreach strategy and client perception; valuable internal training context.
+
+BORDERLINE #2 - Requires Review
+Location: 16:54-18:50
+Content excerpt: "own it with the law firm... humanize the error... potential referral network... draft as Athena..."
+Business relevance argument: Directly shapes response strategy to a mis-targeted outreach and explores referral opportunities; process guidance for future responses.
+Personal content argument: Light humor (“tech gone wrong,” “oopsies”) and tone coaching could be seen as stylistic.
+Recommendation: KEEP — Materially affects how team handles off-market replies and builds referral channels.

@@ -1,0 +1,189 @@
+Segment mapping (high-level)
+- 00:00:00–00:00:40: Greetings/attendance housekeeping. REMOVE (non-business pleasantries)
+- 00:00:40–00:33:15: Main setup + core leasing concepts (NOI, lease types, $/sf math). KEEP
+- 00:33:15–00:51:30: SBA lease term, ROFR, options, triple-net due diligence. KEEP
+- 00:51:30–01:09:10: Finding/qualifying local CRE advisors; fees/alternatives. KEEP (one brief joke removable)
+- 01:09:10–01:19:30: Risk/retentability, market/cap rate conditions, tariffs. KEEP
+- 01:22:00–01:25:00: Admin on future sessions and an off-color Tuesday joke. REMOVE (off-topic admin/small talk)
+
+Detected transcription errors
+
+[Error #1 - Category: Misheard Acronym]
+Location: Speaker: Andrew (leasing definitions)
+Transcript excerpt: "what's the net operating income, which is commonly referred to as the N. O. Y."
+Issue: NOI is mis-transcribed as "N. O. Y."
+Likely intended: "NOI"
+Confidence: High
+Reasoning: NOI (Net Operating Income) is the standard term in CRE; “NOY” is not used.
+Impact: High
+
+[Error #2 - Category: Business Terminology Distortion]
+Location: Speaker: Andrew (lease rate discussion)
+Transcript excerpt: "sometimes they'll use the language market, right? I want to make sure I put some parameters..."
+Issue: "market, right" instead of "market rate"
+Likely intended: "market rate"
+Confidence: High
+Reasoning: “Market rate” is the correct leasing term; “market right” is nonsensical here.
+Impact: Medium
+
+[Error #3 - Category: Entity Name]
+Location: Speaker: Andrew (listing platforms)
+Transcript excerpt: "you can go to websites such as like CREXI.com... Oklahoma City. We do not have a huge craxy following"
+Issue: “CREXI” inconsistently rendered as “craxy”
+Likely intended: "CREXI"
+Confidence: High
+Reasoning: CREXI is a known CRE marketplace; “craxy” is a phonetic misrendering.
+Impact: Low
+
+[Error #4 - Category: Entity Name/URL Distortion]
+Location: Speaker: Andrew (listing platforms)
+Transcript excerpt: "Loop net, like L O O P N E N E T dot net dot com..."
+Issue: Spelling and domain garble (".net dot com"; “N E N E T”)
+Likely intended: "LoopNet.com"
+Confidence: High
+Reasoning: LoopNet is the public site (owned by CoStar) at loopnet.com; transcript muddles letters and domain.
+Impact: Medium
+
+[Error #5 - Category: Business Terminology Distortion]
+Location: Speaker: Andrew (lease rights)
+Transcript excerpt: "I want an option to purchase or a right of first refusal... I want to negotiate a row for... writer 1st refusal refusal"
+Issue: ROFR (Right of First Refusal) rendered as “row for” and “writer 1st refusal refusal”
+Likely intended: "ROFR (Right of First Refusal)"
+Confidence: High
+Reasoning: Standard legal/lease term; repeated phonetic/typing errors.
+Impact: Medium
+
+[Error #6 - Category: Financial and numerical errors (Units)]
+Location: Speaker: Andrew (Family Dollar case study)
+Transcript excerpt: "I'm getting 33 bucks a month. The market's like, 15 to 20..."
+Issue: Unit confusion; lease rates are per square foot per year, not “per month”
+Likely intended: "$33/sf/year versus $15–$20/sf/year"
+Confidence: High
+Reasoning: All prior math uses $/sf/year; “per month” conflicts and misleads.
+Impact: Medium-High
+
+[Error #7 - Category: Entity/Term]
+Location: Speaker: Andrew (case study setup)
+Transcript excerpt: "family dollar retail listing and VFE Oklahoma"
+Issue: “VFE” instead of the slang “BFE”
+Likely intended: "BFE"
+Confidence: High
+Reasoning: Common colloquialism “BFE” (rural/remote). “VFE” is nonsensical here.
+Impact: Low
+
+[Error #8 - Category: Semantic Inconsistency]
+Location: Speaker: Andrew (cap rate discussion transition)
+Transcript excerpt: "Power to suit. So."
+Issue: Phrase is incoherent in context
+Likely intended: A transition like “Power to sum it up” or similar
+Confidence: Low-Medium
+Reasoning: Doesn’t fit grammar or flow; likely ASR glitch
+Impact: Low
+
+[Error #9 - Category: Semantic Inconsistency]
+Location: Speaker: Andrew (screen share)
+Transcript excerpt: "All right. Can you guys see that Brad? Okay"
+Issue: Random “Brad” appears with no referenced person
+Likely intended: "Can you guys see that? Right/okay?"
+Confidence: Medium
+Reasoning: No “Brad” participant referenced; sounds like ASR mishearing “that, right?”
+Impact: Low
+
+[Error #10 - Category: Financial and numerical errors]
+Location: Speaker: Andrew (Family Dollar returns)
+Transcript excerpt: "my yearly profit on that is 91,000. So my return on the cash invested is 818 percent..."
+Issue: ROI magnitude off by a factor of 100
+Likely intended: "18% ROI"
+Confidence: High
+Reasoning: $91k / $500k ≈ 18.2%; he immediately references “18 percent” in next sentence.
+Impact: High
+
+[Error #11 - Category: Speaker Misattribution]
+Location: Near session end
+Transcript excerpt: 
+  Ryan: "Yeah, happy to help. I got examples for days. So if anybody has questions..."
+  Andrew: "[continues the same thought]"
+Issue: The “happy to help/examples for days” line likely belongs to Andrew, not Ryan
+Likely intended: Swap attribution for that line to Andrew
+Confidence: Medium
+Reasoning: Content matches Andrew’s role and prior statements; follows Athena thanking Andrew.
+Impact: Medium
+
+[Error #12 - Category: Entity Name]
+Location: Speaker: Andrew (data sources)
+Transcript excerpt: "LoopNet is owned by costar"
+Issue: Brand capitalization inconsistency
+Likely intended: "CoStar"
+Confidence: High
+Reasoning: Proper brand stylization
+Impact: Low
+
+
+Segments recommended for removal
+
+[REMOVAL #1 - Type: Small Talk/Housekeeping]
+Location: Opening lines (immediately after 00:00:00)
+Speakers involved: Athena, Anke
+Content excerpt:
+"Athena: Hello, hello. Welcome, welcome... Hey, Gil, how's it going?... Looks like Joe is here and Destin is here. Hey, Joe.
+Anke: Hey, good afternoon.
+Athena: Cool. Good afternoon. Well, as always, this will be recorded..."
+Reasoning:
+Pure greetings/attendance chatter and recording notice. No business substance.
+Context impact: None—topic begins right after.
+Recommended action: REMOVE opening pleasantries up to “It is, uh, An episode of the buyers club...”
+
+[REMOVAL #2 - Type: Small Talk/Joke]
+Location: Mid-session (advisor sourcing discussion)
+Speakers involved: Andrew
+Content excerpt:
+"Bars, divorce attorneys. I'm just kidding."
+Reasoning:
+Throwaway joke; not needed for business understanding.
+Context impact: None.
+Recommended action: REMOVE that sentence.
+
+[REMOVAL #3 - Type: Administrative/Off-Topic + Small Talk]
+Location: Closing section (final ~3 minutes)
+Speakers involved: Athena, Anke, Ryan
+Content excerpt:
+"Athena: We are scheduling some exciting sessions to come on Tuesday... bring your deals... new Rolls Royce financial modeling templates... add rent increase...
+... I always laugh when I say that because I know what it stands for living in the UK for a long time. Sorry, said a bad word...
+... Have a great weekend... Thanks again, Andrew...
+Anke: yeah
+Ryan: So,
+Anke: yeah."
+Reasoning:
+Session scheduling, template logistics, and a non-business profanity joke. Not relevant to CRE education or deal analysis.
+Context impact: Low—conversation is already concluding.
+Recommended action: REMOVE this closing admin/small talk block.
+
+
+Borderline segments (requires review)
+
+[BORDERLINE #1 - Requires Review]
+Location: Market/tariff/politics discussion (later section)
+Content excerpt: "Now, the new administration's getting in there... tariffs... what does that do to construction inputs... bring manufacturing back..."
+Business relevance argument: Directly tied to CRE market conditions, build costs, cap rates, and risk—useful for buyers planning deals.
+Personal content argument: Mentions politics broadly; could be seen as off-topic.
+Recommendation: KEEP—Clear connection to market dynamics affecting deals.
+
+[BORDERLINE #2 - Requires Review]
+Location: Advisor-finding humor
+Content excerpt: "Do not ask somebody who does both residential and commercial. They do not know what they're talking about."
+Business relevance argument: Practical advisor-selection guidance for CRE due diligence.
+Personal content argument: Strongly worded generalization.
+Recommendation: KEEP—Actionable guidance; tone aside, content is valuable.
+
+Patterns to flag for ASR system improvement
+- NOI frequently misheard as “NOY”
+- “Market rate” rendered as “market right”
+- CREXI misrendered as “craxy”
+- LoopNet.com domain spelling/formatting errors
+- ROFR (Right of First Refusal) mangled (“row for” / “writer 1st refusal”)
+- Random proper-noun insertions (“Brad”) during transitions
+- Unit labels omitted or wrong (per month vs per square foot per year)
+- Occasional numeric magnitude errors (e.g., “818%” vs 18%)
+
+Speaker attribution notes
+- The “Yeah, happy to help. I got examples for days...” closing line appears misattributed to Ryan; content fits Andrew’s role/voice. Consider swapping attribution for clarity.

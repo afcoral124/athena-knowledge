@@ -1,0 +1,288 @@
+Below is a structured analysis of transcription errors and content relevance for the provided call. I’ve prioritized high-impact ASR issues (acronyms, financials, key terms, entities) and clearly mapped which transcript portions to keep vs. remove.
+
+TRANSCRIPTION ERRORS
+
+[Error #1 - Category: Misheard Acronym]
+Location: 0:45 / Speaker: Athena Simpson
+Transcript excerpt: "he's bought two businesses using SBA one. wants to get rid of, but he's locked in with SBA..."
+Issue: “SBA one” in a financing context
+Likely intended: “SBA loan”
+Confidence: High
+Reasoning: In ETA/M&A, “SBA loan” is standard; “SBA one” is a common ASR slip.
+Impact: High
+
+[Error #2 - Category: Business Terminology Distortion]
+Location: 0:45 / Speaker: Athena Simpson
+Transcript excerpt: "...I would love to come and talk to your crew. And I'm like, awesome. I've been wanting to bring a, you know, acquirer on to talk three things."
+Issue: “talk three things” is semantically off
+Likely intended: “talk through things”
+Confidence: High
+Reasoning: Phrase fits the context of inviting an acquirer to speak with the team.
+Impact: Medium
+
+[Error #3 - Category: Semantic Inconsistency]
+Location: 1:34 / Speaker: Luke Gillespie
+Transcript excerpt: "How would the new eyes?"
+Issue: Ungrammatical question formulation
+Likely intended: "How are the new eyes?"
+Confidence: High
+Reasoning: Follows Athena saying she needs to put in eyedrops; natural check-in.
+Impact: Low
+
+[Error #4 - Category: Semantic Inconsistency]
+Location: 2:09 / Speaker: Anke Badenhorst
+Transcript excerpt: "Why don't you turn off the um the the back side if it's already you."
+Issue: Phrase nonsensical
+Likely intended: “turn off the backlight” or “turn down the background light”
+Confidence: Medium
+Reasoning: Follows discussion about lighting and it getting dark; “backlight” fits.
+Impact: Low
+
+[Error #5 - Category: Entity Name (Film Title)]
+Location: 2:58 / Speaker: AcquiMatch Team
+Transcript excerpt: "there's maybe called my know ready report"
+Issue: Misheard film title
+Likely intended: "Minority Report"
+Confidence: High
+Reasoning: Subsequent description of eye/identity scene aligns with the film.
+Impact: Low
+
+[Error #6 - Category: Misheard Term (Medication)]
+Location: 2:13–2:58 (multiple instances) / Speaker: Athena Simpson
+Transcript excerpt: "They give you value though... I had like a hangover all weekend from the volume..."
+Issue: “value/volume” in context of surgery sedation
+Likely intended: “Valium”
+Confidence: High
+Reasoning: Valium is commonly given pre-eye surgery; “volume”/“value” are ASR artifacts.
+Impact: Low
+
+[Error #7 - Category: Misheard Term (Product)]
+Location: 4:57 / Speaker: Athena Simpson
+Transcript excerpt: "now I have blue walkers that I can wear..."
+Issue: “blue walkers” in context of eye protection
+Likely intended: “blue blockers”
+Confidence: High
+Reasoning: Blue-blocking glasses are commonly referenced post-eye surgery.
+Impact: Low
+
+[Error #8 - Category: Business Terminology Distortion]
+Location: 10:28 / Speaker: Luke Gillespie
+Transcript excerpt: "like a write-up list of how many riders we've got."
+Issue: “riders” in place of “write-ups”
+Likely intended: “write-ups”
+Confidence: High
+Reasoning: They are tracking client write-ups; “riders” is off-topic.
+Impact: Medium
+
+[Error #9 - Category: Misheard Business Term/Entity]
+Location: 12:50 / Speaker: Luke Gillespie
+Transcript excerpt: "Yes, we got a couple JJ Simpson today, I believe."
+Issue: “JJ Simpson” likely misheard
+Likely intended: “a couple CIMs (sims) for JJ”
+Confidence: High
+Reasoning: Team repeatedly refers to “SIMs/CIMs” (information memoranda) for JJ; “Simpson” conflicts with client initials.
+Impact: High
+
+[Error #10 - Category: Omissions/Truncations; Semantic Inconsistency]
+Location: 13:00 / Speaker: AcquiMatch Team
+Transcript excerpt: "We'll open up our geographic location. We've got a couple of steps we're opening up our geographic location. Gosh, we've sent them back today..."
+Issue: Disfluent, missing connective words; unclear referents
+Likely intended: Summary about broadening geography and sending materials back
+Confidence: Medium
+Reasoning: Preceding/following lines discuss SIMs and criteria; here it’s garbled.
+Impact: Medium
+
+[Error #11 - Category: Misheard Place Name]
+Location: 32:09 / Speaker: AcquiMatch Team
+Transcript excerpt: "It's kind of like glauma and then straight down to Texas."
+Issue: “glauma” as a location
+Likely intended: “Oklahoma”
+Confidence: High
+Reasoning: Entire thread is about Oklahoma vs. Dallas/Fort Worth.
+Impact: Medium
+
+[Error #12 - Category: Business Terminology Distortion]
+Location: 33:16 / Speaker: Athena Simpson
+Transcript excerpt: "Are we getting invited the market for him?"
+Issue: Phrase doesn’t fit
+Likely intended: “Are we getting [in] off-market for him?” or “invited to the market”
+Confidence: Medium
+Reasoning: That section is about off-market vs. on-market deal flow.
+Impact: Medium
+
+[Error #13 - Category: Industry Term Misheard]
+Location: 33:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "...set up with an interview tomorrow with a case back."
+Issue: “case back” doesn’t fit
+Likely intended: “HVAC”
+Confidence: High
+Reasoning: Immediately followed by clear references to HVAC and meeting an HVAC owner.
+Impact: Medium
+
+[Error #14 - Category: Misheard Acronym]
+Location: 16:49 / Speaker: AcquiMatch Team
+Transcript excerpt: "...we're gonna send an L.I ... Map on an L.I. looks like good..."
+Issue: “L.I.” repeatedly
+Likely intended: “LOI”
+Confidence: High
+Reasoning: Letter of Intent is central in context; “L.I.” is a recurring ASR error.
+Impact: High
+
+[Error #15 - Category: Misheard Acronym]
+Location: 22:38 / Speaker: AcquiMatch Team (and elsewhere)
+Transcript excerpt: "...she's doing RIs or you're doing RIs..."
+Issue: “RIs” in workflow context
+Likely intended: “RFIs”
+Confidence: High
+Reasoning: Team consistently refers to “RFIs” (Requests for Information) with brokers.
+Impact: Medium
+
+[Error #16 - Category: Misheard Place Name]
+Location: 38:41 / Speaker: Athena Simpson
+Transcript excerpt: "...exterior painting company where the dude was running it from Uncle Homer..."
+Issue: “Uncle Homer” as a place
+Likely intended: “Oklahoma”
+Confidence: High
+Reasoning: Ongoing discussion about OK vs. DFW markets.
+Impact: High
+
+[Error #17 - Category: Business Terminology Distortion]
+Location: 49:16 / Speaker: Athena Simpson
+Transcript excerpt: "...model is calculating the multiple based on the performer rather than the adjusted EBITDA."
+Issue: “performer” in finance context
+Likely intended: “pro forma”
+Confidence: High
+Reasoning: Valuation multiples typically reference pro forma/adjusted EBITDA.
+Impact: Medium
+
+[Error #18 - Category: Business Terminology Distortion]
+Location: 53:05 / Speaker: Athena Simpson
+Transcript excerpt: "It needs to be networking capital..."
+Issue: “networking capital”
+Likely intended: “net working capital”
+Confidence: High
+Reasoning: In LOI terms, “net working capital” is the standard term.
+Impact: High
+
+[Error #19 - Category: Semantic Inconsistency]
+Location: 54:14 / Speaker: Athena Simpson
+Transcript excerpt: "And. Not appreciation, huh? There's no capital expenditure in the business."
+Issue: “Not appreciation” mixed with CAPEX/Depreciation
+Likely intended: “No depreciation?” (or clarifying CAPEX separately)
+Confidence: Medium
+Reasoning: CAPEX vs. depreciation terms may have been conflated.
+Impact: Low
+
+[Error #20 - Category: Semantic Inconsistency]
+Location: 56:49 / Speaker: Athena Simpson
+Transcript excerpt: "Okay. I'll read the two different people. She wants to give them a $50,000 raise."
+Issue: Unclear phrase preceding salary discussion
+Likely intended: “Are we talking about two different people?”
+Confidence: Medium
+Reasoning: Previous line references two separate 50k increases.
+Impact: Low
+
+[Error #21 - Category: Misheard Place Name]
+Location: 0:29 / Speaker: Athena Simpson
+Transcript excerpt: "The one in urban that I'm supposed to meet."
+Issue: “urban” as a place name
+Likely intended: Possibly “Irving” (DFW) or another city
+Confidence: Low
+Reasoning: Later conversation centers around DFW; “Irving” is plausible.
+Impact: Low
+
+[Error #22 - Category: Semantic Inconsistency]
+Location: 13:54 / Speaker: Luke Gillespie
+Transcript excerpt: "...remember how much she loves wood from her own boarding poles..."
+Issue: Nonsensical phrase
+Likely intended: Unclear (possibly “own flooring/panels”)
+Confidence: Low
+Reasoning: Context is a wood products manufacturer; this phrase is garbled.
+Impact: Low
+
+[Pattern Note]
+Across the transcript, LOI is repeatedly rendered as L.I./L.O.Y.; CIMs are alternately “sims” and misheard as “Simpson”; RFIs rendered as “RIs.” These are systematic ASR issues likely due to audio/acronym pronunciation.
+
+CONTENT RELEVANCE: SEGMENT MAPPING
+
+Segment A
+Location: 0:09–1:15
+Label: KEEP
+Rationale: Business-relevant chat about client interaction, a prospect excited about a roofing business, off-market/on-market status, referral source, searcher community, SBA-backed acquisitions. Valuable pipeline/context.
+
+Segment B
+Location: 1:18–4:57 (first portion; see MIXED split below)
+Label: REMOVE (High Priority)
+Rationale: Extended personal health/eye surgery, medication details, film discussion, glasses/contacts discomfort, nail salon goggles. Purely personal/off-topic.
+
+Segment C (MIXED — requires line-level split)
+Location: 4:57 / Speaker: Athena Simpson (long turn)
+Content excerpt (start to remove): "...now I have blue walkers that I can wear so and I look like an absolute weirdo at the nail salon wearing like ski goggles yesterday so I didn't get any like that admitted my eyes..."
+Content excerpt (keep from here): "...Well I know we ran a little bit over... we need to wrap up at five... just some updates on my side, I met Brian, who worked at Athletic Greens..."
+Action: REMOVE the personal portion up to “...my eyes”. KEEP from “Well I know we ran a little bit over...” onward (this begins business updates about growth marketing/off-market lead gen).
+
+Segment D
+Location: 4:57 (from “just some updates on my side…”) – 26:26
+Label: KEEP
+Rationale: Business updates: off-market lead strategy, direct mail/Facebook retargeting, geo-fencing, buyer profiles, LLC data pulls, resourcing, client pipeline status, write-ups, SIMs, RFIs/throughput.
+
+Segment E
+Location: 26:41–29:00 (approx.)
+Label: KEEP
+Rationale: Coaching a new buyer (Gil): overthinking, owner-involvement risk, learning process, broker/seller calls. Educational and client management content.
+
+Segment F
+Location: 31:01–45:38
+Label: KEEP
+Rationale: AH’s geographic constraints (OK vs DFW), off-market/on-market approach, absentee vs. relocatable/operator options, process tuning with Edah, resource scaling, action items. High relevance to deal flow strategy.
+
+Segment G
+Location: 45:41–58:06
+Label: KEEP
+Rationale: JJ roofing deal pro forma: adjusted EBITDA vs pro forma, salary replacement assumptions, listing price vs offer range, working capital treatment in LOI, CAPEX/financials diligence, recommend attorney review of LOI. Highly material to active deal.
+
+REMOVAL RECOMMENDATIONS
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 1:18–4:57 (up to the phrase “…at the nail salon wearing like ski goggles yesterday so I didn't get any like [...] my eyes”)
+Speakers involved: Athena Simpson, Luke Gillespie, Anke Badenhorst, AcquiMatch Team
+Content excerpt:
+"Athena: These are expert series... So I have to put some eyedrops in, give me a sec.
+Luke: How would the new eyes?
+Athena: ...It's like looking through really dirty glasses...
+Anke: Why don't you turn off the... back side...
+[...eye surgery experience, Minority Report discussion, medication mix-ups, contacts/glasses, blue blockers, nail salon goggles...]"
+Reasoning:
+Extended, purely personal health/surgery/meds and movie talk unrelated to M&A, clients, or operations.
+Context impact: Low — business resumes cleanly when Athena pivots to “just some updates on my side…”
+Recommended action: REMOVE times 1:18–4:57 (first personal portion). KEEP from “Well I know we ran a little bit over… just some updates on my side…” onward.
+
+BORDERLINE SEGMENTS
+
+[BORDERLINE #1 - Requires Review]
+Location: 0:34–1:15
+Content excerpt: "I love him so much. He's been a huge supporter... latest client is the result of him recommending us... really active in the searcher community... bought two businesses using SBA loan..."
+Business relevance argument: Identifies a key referral source, credibility in searcher community, and SBA-backed acquisition experience; directly relevant to pipeline and future expert session plans.
+Personal content argument: Includes personal enthusiasm (“I love him so much”) and tone.
+Recommendation: KEEP — The business value (referral source, community ties, content for expert session) outweighs the personal tone.
+
+[BORDERLINE #2 - Requires Review]
+Location: 7:23–7:37
+Content excerpt: "He's connecting back. — Sorry. — No worries."
+Business relevance argument: Minimal but relates to call continuity; extremely brief.
+Personal content argument: Operational filler unrelated to deals.
+Recommendation: KEEP — Brief pleasantries/operational asides are acceptable and maintain conversational coherence.
+
+NOTES ON CONTEXT PRESERVATION
+
+- Removing the personal section (1:18–4:57) will not confuse readers; business resumes clearly with “just some updates on my side” and the introduction of Brian/growth marketing.
+- The borderline referral discussion early on provides useful context for a new client source and upcoming expert session content; keeping it helps explain later strategy references.
+
+SUMMARY OF KEY ASR PATTERNS TO IMPROVE
+
+- Acronyms: LOI → L.I./L.O.Y.; RFIs → RIs; CIMs → sims/Simpson; SBA loan → SBA one
+- Financial/Deal Terms: pro forma → performer; net working capital → networking capital
+- Place Names: Oklahoma → Uncle Homer/glauma; Irving → urban (uncertain)
+- General garbling: Several long stretches with omissions/truncations that break meaning, especially around 13:00–14:40 and some parts of 16:00–19:00.
+
+These corrections and removals should help produce a much cleaner, business-focused transcript while preserving all deal-critical content and process context.

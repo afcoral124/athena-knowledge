@@ -1,0 +1,233 @@
+Below is a focused error and relevance analysis of the provided transcript. I’ve prioritized true ASR-impacting errors and mapped segments for KEEP/REMOVE, with borderline sections called out for review.
+
+ERRORS
+
+---
+[Error #1 - Category: Misheard Acronym]
+Location: 19:58–22:00 and 35:37–36:53 / Speaker: Athena Simpson (and Austin)
+Transcript excerpts:
+- “...then it’s doing your QB, then it’s getting a purchase agreement drafted.”
+- “Are you having buyers do QAV on every opportunity?”
+- “...once we’ve got term sheets... then I would like, okay, we sign... and alongside that are going to have them do a QV...”
+Issue: “QB,” “QAV,” and “QV” appear to be mis-transcriptions of “QoE” (Quality of Earnings).
+Likely intended: “QoE”
+Confidence: High
+Reasoning: In SMB/M&A context, “post-LOI” diligence typically includes a Quality of Earnings (QoE). “QAV/QB/QV” are not standard terms.
+Impact: High - Acronym errors mislead on the diligence process.
+
+---
+[Error #2 - Category: Business Terminology Distortion]
+Location: 16:46 / Speaker: Athena Simpson
+Transcript excerpt: “Because Lehman’s skill is like gone now on the buy side.”
+Issue: “Lehman’s skill” is not a known term in this context.
+Likely intended: “Lehman scale” (aka Lehman formula)
+Confidence: High
+Reasoning: The Lehman scale is the standard broker success-fee formula. It’s often discussed re: fee structures and regulatory changes.
+Impact: High - Changes understanding of fee/compliance discussion.
+
+---
+[Error #3 - Category: Financial/Numerical Error]
+Location: 10:10 / Speaker: Athena Simpson
+Transcript excerpt: “Yeah, we need people bought in for $12,000. So their timeline is pretty less than that.”
+Issue: Dollar amount vs. time commitment mismatch.
+Likely intended: “We need people bought in for 12 months.”
+Confidence: High
+Reasoning: The surrounding discussion is about 12-month commitments, not fees at this point.
+Impact: High - Misstates pricing/commitment model.
+
+---
+[Error #4 - Category: Misheard Acronym]
+Location: 33:46 / Speaker: Athena Simpson
+Transcript excerpt: “The S&P guideline, so. We’re done.”
+Issue: “S&P guideline” in SBA context is incorrect.
+Likely intended: “SOP guidelines” (SBA Standard Operating Procedure)
+Confidence: High
+Reasoning: Prior and subsequent references are to SBA SOP changes that affect fee structures.
+Impact: Medium - Could confuse regulatory basis of changes.
+
+---
+[Error #5 - Category: Business Terminology Distortion/Homophone]
+Location: 36:53 / Speaker: Athena Simpson
+Transcript excerpt: “...having like a good idea of your networking capital...”
+Issue: “Networking capital” is incorrect in finance.
+Likely intended: “Working capital”
+Confidence: High
+Reasoning: Standard term in deal diligence is “working capital.”
+Impact: High - Financial concept is misstated.
+
+---
+[Error #6 - Category: Speaker Misattribution]
+Location: 39:47 / Speakers: Attributed to Athena, likely Austin
+Transcript excerpt: 
+“Athena: Was it a podcast, just on LinkedIn, or how’d you find out about us?”
+Issue: The “where did you hear about us” follow-up question appears to be by Austin (the interviewer), not Athena (the mock client).
+Likely intended: Speaker should be Austin.
+Confidence: High
+Reasoning: In the roleplay, Austin is driving discovery. The next line is Athena answering that question.
+Impact: Medium - Confuses flow and roles in the mock call.
+
+---
+[Error #7 - Category: Entity Name]
+Location: 1:16:31 / Speaker: Austin Lorte
+Transcript excerpt: “So what we do at Aquamatch...”
+Issue: Company name appears as “Aquamatch.”
+Likely intended: “AcquiMatch”
+Confidence: High
+Reasoning: Brand name established elsewhere as AcquiMatch; “Aqua” vs “Acqui” is a common ASR slip.
+Impact: Medium - Brand accuracy matters.
+
+---
+[Error #8 - Category: Business Phrase Distortion]
+Location: 43:16 / Speaker: Austin Lorte
+Transcript excerpt: “We bypass performance, not future opportunity.”
+Issue: Phrase doesn’t make sense in context of evaluating businesses.
+Likely intended: “We buy past performance, not future opportunity.”
+Confidence: High
+Reasoning: Common ETA maxim (emphasizing historical performance over speculative growth).
+Impact: Medium - Affects clarity of value proposition.
+
+---
+[Error #9 - Category: Semantic Inconsistency/Truncation]
+Location: 3:46–4:16 / Speaker: Athena Simpson
+Transcript excerpt: “So. Can I fire, like, ten questions at you? And then we can. I’m like, if you haven’t had memories, for sure.”
+Issue: Broken/garbled sentence (“haven’t had memories”) disrupts meaning.
+Likely intended: A transition to agenda/questions (e.g., “if you haven’t had time”).
+Confidence: Medium
+Reasoning: Phrase is nonsensical; likely ASR truncation.
+Impact: Low - Localized confusion only.
+
+---
+[Error #10 - Category: Minor Grammar/Truncation]
+Location: 0:28 / Speaker: Austin Lorte
+Transcript excerpt: “I am having a hard time. I’m hearing you.”
+Issue: Broken sentence structure.
+Likely intended: “I’m having a hard time hearing you.”
+Confidence: High
+Reasoning: Standard phrase during audio troubleshooting.
+Impact: Low - Does not affect business content.
+
+---
+[Error #11 - Category: Business Terminology Distortion]
+Location: 30:16 / Speaker: Athena Simpson
+Transcript excerpt: “...the intro call is basically, like, setting and then the ex-flow call is closing...”
+Issue: “ex-flow call” is unclear.
+Likely intended: “exploration call”
+Confidence: Medium
+Reasoning: Matches earlier references to an “exploration” call as the second step.
+Impact: Low - Minor terminology clarity.
+
+---
+[Error #12 - Category: Semantic Inconsistency]
+Location: 6:10–6:12 / Speakers: Austin/Athena
+Transcript excerpt:
+Austin: “That’s the enterprise sales guy, yeah.”
+Athena: “No, that’s Justin. Andrew is based in Oklahoma...”
+Issue: Brief identity confusion between Justin and Andrew.
+Likely intended: Austin mislabeled; Athena corrects.
+Confidence: Medium
+Reasoning: Speaker content shows correction immediately after.
+Impact: Low - Clarified by the next line.
+
+---
+
+SEGMENT MAPPING (KEEP/REMOVE/MIXED)
+
+- 0:00–0:02: Greeting (KEEP - brief professional courtesy)
+- 0:02–3:46: Weekend/nails/beauty salon/personal banter, stereotypes (REMOVE - extended personal small talk; no business value)
+- 0:26–0:40: Audio troubleshooting (REMOVE - technical housekeeping; no business value)
+- 3:46–4:16: Transition to agenda; plan for intro practice; off-market call mention (KEEP - sets meeting purpose, business pipeline activity)
+- 4:16–9:02: Off-market seller concerns, Canadian deal, LOI hesitancy, financing options (KEEP)
+- 9:02–16:48: Pricing model (70k/30k), 12-month commitment vs 6-month option, SBA/SOP and fee structure constraints (KEEP)
+- 16:48–17:47: Compliance positioning vs competitors; SOP change (KEEP)
+- 17:47–23:08: Post-LOI support model, advisory boundaries (not brokering), off-market workload, Buyer’s Club structure (KEEP)
+- 24:12–33:16: Trackers, prospecting channels, Searchfunder, EBIT WhatsApp, content pause, setter/closer flow (KEEP)
+- 33:16–35:37: Agreement/SOP update, success-fee objection handling (KEEP)
+- 35:37–38:32: QoE timing, lender term sheets, negotiation cadence strategy (KEEP)
+- 38:32–1:18:50: Mock intro call (KEEP; training content)
+  - Borderline personal: see BORDERLINE #1–#2 below
+- 1:18:50–1:23:28: Immediate feedback on mock, framing expectations (KEEP)
+- 1:23:28–1:28:24: Discovery flow improvements, cost-handling, re-education notes (PE vs SMB), deal evaluation coaching (KEEP)
+- 1:28:24–1:29:37: “Remarkable” device cleaning/sensitivity, contact support (REMOVE - device small talk/tech issue)
+- 1:29:37–1:41:54: Financing assets (401k/ROBS, HELOC), search scoping, sourcing breadth, undue emphasis coaching, deal structure/door #2/3, HubSpot/scheduling/action items (KEEP)
+- 1:41:54–1:42:05: Plan for objections refinement (KEEP)
+
+REMOVALS
+
+---
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 0:02–3:46
+Speakers involved: Austin, Athena
+Content excerpt:
+“Austin: How’s your weekend? ... I like Austin. Austin’s fun...
+Athena: ...doing my nails and my spray tans stuff... not found a replacement yet... getting tortured all day.
+Austin: Beauty is painting. Athena, that’s what my wife tells me.
+Athena: ...works of art... very expensive... found this place in Austin... once a month...
+Austin: Do you do gel or acrylic, Athena?
+Athena: They’re acrylic.
+Austin: Nice.
+[... continued extended nails/salon/family/restaurant talk ...]”
+Reasoning: Extended personal small talk about nails/beauty routines, local preferences, and family anecdotes. No connection to business topics.
+Context impact: None - business agenda begins after this segment.
+Recommended action: REMOVE 0:02–3:46
+
+---
+[REMOVAL #2 - Type: Technical/Housekeeping]
+Location: 0:26–0:40
+Speakers involved: Athena, Austin
+Content excerpt:
+“Athena: I’m going to turn on my speaker.
+Austin: I am having a hard time. I’m hearing you.
+Athena: There we go. I think that’s better. Say something for me.”
+Reasoning: Purely technical audio troubleshooting; not relevant to business content.
+Context impact: None
+Recommended action: REMOVE 0:26–0:40
+
+---
+[REMOVAL #3 - Type: Off-Topic/Small Talk]
+Location: 1:28:24–1:29:37
+Speakers involved: Athena, Austin
+Content excerpt:
+“Athena: Remarkable, you were letting me down today... get in touch with their team... losing sensitivity...”
+Reasoning: Device troubleshooting and vendor support discussion unrelated to dealmaking/training content.
+Context impact: None - feedback and process coaching resume immediately before/after.
+Recommended action: REMOVE 1:28:24–1:29:37
+
+BORDERLINE SEGMENTS (Requires Review)
+
+---
+[BORDERLINE #1 - Requires Review]
+Location: 41:19–41:35 (during mock intro call)
+Content excerpt: 
+“Austin: How many kids do you have, by the way?
+Athena: I’ve got one. He’s 17.
+Austin: Are you married currently? ... What’s your kid’s name?”
+Business relevance argument: In a live discovery call, brief personal context can inform motivations (time freedom, family obligations) and help qualification/rapport.
+Personal content argument: Direct family details are personal and not strictly necessary for training notes.
+Recommendation: KEEP with discretion—these lines illustrate discovery technique around motivation.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: 1:06:11–1:06:47 (during mock intro call)
+Content excerpt:
+“Athena: I love Jiu-Jitsu.
+Austin: ...I love Jiu-Jitsu... very engaging sport... Do you go to his matches...?”
+Business relevance argument: Shows rapport-building and lifestyle context; can influence time availability and motivation in discovery.
+Personal content argument: Sports talk is personal and not directly tied to acquisition process.
+Recommendation: KEEP (low priority) as part of illustrating relationship-building technique; remove only if needing a tighter transcript.
+
+PATTERN/ASR NOTES FOR SYSTEM IMPROVEMENT
+
+- Consistent mishearing of “QoE” as “QB/QV/QAV” across multiple instances (post-LOI, lender/commitment discussions).
+- “Lehman scale” → “Lehman’s skill” (domain-specific term distortion).
+- “SOP guidelines” → “S&P guideline” (acronym confusion).
+- “Working capital” → “Networking capital” (homophone error).
+- Common ETA phrase “We buy past performance...” → “We bypass performance...” (semantic distortion).
+- Company name “AcquiMatch” → “Aquamatch” (entity error).
+- Occasional speaker misattribution in Q&A sections (notably 39:47).
+
+These errors materially affect meaning in an M&A/SBA financing context and should be prioritized in ASR model tuning and human QA.
+
+CONTEXT PRESERVATION NOTES
+
+- Removing the extended opening small talk (0:02–3:46) and brief tech/device chatter (0:26–0:40; 1:28:24–1:29:37) will not impact the understanding of business content. The agenda, training aims, pricing, SOP/regulatory updates, post-LOI advisory boundaries, prospecting strategy, and the mock call are fully intact afterward.
+- The borderline family/Jiu-Jitsu elements occur within a discovery roleplay and help illustrate rapport/motivation techniques; consider retaining for training value.

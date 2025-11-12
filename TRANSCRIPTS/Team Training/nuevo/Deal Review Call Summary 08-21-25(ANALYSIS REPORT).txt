@@ -1,0 +1,363 @@
+Below is a focused analysis of likely ASR transcription errors and a mapping of business-relevant vs. removable small talk. I prioritized high-impact business terminology, acronyms, numbers, names, and semantic breaks. I also flagged sections to remove and one borderline section for review.
+
+ERRORS
+
+[Error #1 - Category: Business Terminology (CIM misheard)]
+Location: 14:26 / Speaker: Luke Gillespie
+Transcript excerpt: "you’re seeing a lot of Quiet Light Sims that are saying not going to qualify for SBA."
+Issue: "Sims" used where the industry term is "CIMs" (Confidential Information Memorandums).
+Likely intended: "Quiet Light CIMs"
+Confidence: High
+Reasoning: In M&A, brokers share CIMs; "Sim" is a common ASR error for CIM.
+Impact: High - Impacts understanding of what document is being referenced.
+
+[Error #2 - Category: Business Terminology (CIM misheard)]
+Location: 16:17 / Speaker: Ryan Cash
+Transcript excerpt: "Sometimes these quite like Sims have some kind of detail..."
+Issue: "quite like Sims" likely "Quiet Light CIMs."
+Likely intended: "Quiet Light CIMs"
+Confidence: High
+Reasoning: Quiet Light is a known brokerage; "CIMs" is the correct artifact.
+Impact: High
+
+[Error #3 - Category: Misheard Acronym]
+Location: 26:33 / Speaker: Charis Siau
+Transcript excerpt: "signing the MBA process in the playbook right now"
+Issue: "MBA" (Master of Business Administration) in context of document signing.
+Likely intended: "NDA process"
+Confidence: High
+Reasoning: They discuss sending/understanding NDAs throughout the call.
+Impact: High
+
+[Error #4 - Category: Entity Name (Person)]
+Location: 13:29 / Speaker: Anke Jordaan
+Transcript excerpt: "Kara is asking or mentioning something about the bar profiles."
+Issue: "Kara" likely misheard for "Charis"; "bar profiles" likely "buyer profiles."
+Likely intended: "Charis ... buyer profiles"
+Confidence: High
+Reasoning: Participant name is Charis; buyer profiles are a recurring topic.
+Impact: Medium
+
+[Error #5 - Category: Entity Name (Person)]
+Location: 20:22 / Speaker: Athena Simpson
+Transcript excerpt: "Awesome. Paris, you're up."
+Issue: "Paris" misheard for "Charis."
+Likely intended: "Charis"
+Confidence: High
+Reasoning: Matches known participant.
+Impact: Medium
+
+[Error #6 - Category: Misheard Acronym/Entity]
+Location: 12:13 / Speaker: Athena Simpson
+Transcript excerpt: "SM Bash, the top like ETA conference that exists..."
+Issue: Event name likely "SMBash" (styled as SMBash), not "SM Bash."
+Likely intended: "SMBash"
+Confidence: Medium
+Reasoning: SMBash is a known ETA/SMB event; spacing error common in ASR.
+Impact: Low-Medium
+
+[Error #7 - Category: Entity Name (Company)]
+Location: 19:38 / Speaker: Athena Simpson
+Transcript excerpt: "over trans world and everybody else"
+Issue: Likely "Transworld" (business brokerage) not "trans world."
+Likely intended: "Transworld"
+Confidence: High
+Reasoning: Transworld Business Advisors is a known brokerage brand.
+Impact: Low
+
+[Error #8 - Category: Omission/Truncation]
+Location: 4:42 / Speaker: Luke Gillespie
+Transcript excerpt: "So brokers  a lot and will tell you there's going to be a deadline..."
+Issue: Missing verb after "brokers."
+Likely intended: "brokers do this a lot" or "brokers bluff a lot"
+Confidence: Medium
+Reasoning: Context implies a habitual broker behavior regarding deadlines.
+Impact: Medium
+
+[Error #9 - Category: Misheard Word]
+Location: 6:16 / Speaker: Athena Simpson
+Transcript excerpt: "but like Luke said, burger's . Two LOIs isn't that many."
+Issue: "burger's" is nonsensical; likely "brokers."
+Likely intended: "brokers"
+Confidence: High
+Reasoning: Broker deadlines context; "burger's" is a common ASR phonetic error.
+Impact: Medium
+
+[Error #10 - Category: Omission/Truncation]
+Location: 9:47 / Speaker: Athena Simpson
+Transcript excerpt: "You handle He it really well."
+Issue: Extra/garbled pronoun; sentence malformed.
+Likely intended: "You handled it really well."
+Confidence: High
+Reasoning: Praise for handling client wobble; grammar otherwise obstructs meaning.
+Impact: Medium
+
+[Error #11 - Category: Semantic Incoherence]
+Location: 0:00 / Speaker: Ryan Cash
+Transcript excerpt: "The that I'm sure that the content, I'm like a 90s kid..."
+Issue: Opening clause is incoherent.
+Likely intended: Casual small talk about microplastics; first clause garbled.
+Confidence: Medium
+Reasoning: Off-topic banter; ASR often mangles beginnings.
+Impact: Low (also in removable section)
+
+[Error #12 - Category: Omission/Truncation]
+Location: 0:09 / Speaker: Charis Siau
+Transcript excerpt: "Oh yeah, we're all ."
+Issue: Missing final word(s) completing sentiment.
+Likely intended: "we're all full of them" or similar.
+Confidence: Low
+Reasoning: Small talk; incomplete utterance.
+Impact: Low
+
+[Error #13 - Category: Nonsense Insertions]
+Location: 0:45 / Speaker: Ryan Cash
+Transcript excerpt: "Brian. Thank I second So, know, Yeah, we'll see."
+Issue: Nonsensical fragment inserted between coherent sentences.
+Likely intended: No such interjection; ASR artifact.
+Confidence: High
+Reasoning: Breaks flow; no "Brian" present in this context.
+Impact: Medium
+
+[Error #14 - Category: Entity/Term Distortion]
+Location: 0:45 / Speaker: Ryan Cash
+Transcript excerpt: "So, yeah, Michael's, the power line machinery show. Yeah."
+Issue: Phrase is incoherent; likely a deal name mis-transcribed.
+Likely intended: Possibly "Michael’s [looking at] the Powerline Machinery [deal]" or similar.
+Confidence: Low-Medium
+Reasoning: Discussing a specific deal; "show" doesn’t fit; "Powerline Machinery" could be entity.
+Impact: Medium (confuses which deal is referenced)
+
+[Error #15 - Category: Misheard Phrase]
+Location: 2:00 / Speaker: Ryan Cash
+Transcript excerpt: "If you're fired, I have any questions at all. I'll be open for a call."
+Issue: "If you're fired" doesn’t fit; likely "If you're fired up" or "If you have any questions."
+Likely intended: "If you have any questions at all, I'll be open for a call."
+Confidence: Medium
+Reasoning: Standard offer of availability to broker/client on weekend.
+Impact: Medium
+
+[Error #16 - Category: Omission]
+Location: 4:22 / Speaker: Athena Simpson
+Transcript excerpt: "Luke, you've got a ton of experience with this. want to feed in?"
+Issue: Missing subject/auxiliary ("Do you").
+Likely intended: "Do you want to feed in?"
+Confidence: High
+Reasoning: Typical conversational prompt.
+Impact: Low
+
+[Error #17 - Category: Omission]
+Location: 7:39 / Speaker: Ryan Cash
+Transcript excerpt: "And, you know, are going to, especially with this being like a first call..."
+Issue: Missing subject ("we/you").
+Likely intended: "we are going to"
+Confidence: Medium
+Reasoning: Sentence otherwise incomplete.
+Impact: Low
+
+[Error #18 - Category: Minor Grammar]
+Location: 8:13 / Speaker: Athena Simpson
+Transcript excerpt: "when you're signing to NDAs."
+Issue: Extra "to."
+Likely intended: "signing NDAs"
+Confidence: High
+Reasoning: Standard phrasing.
+Impact: Low
+
+[Error #19 - Category: Omission/Truncation]
+Location: 8:13 / Speaker: Athena Simpson
+Transcript excerpt: "before you. making an offer on a deal."
+Issue: Truncated sentence boundary.
+Likely intended: "before you’re making an offer on a deal" or "before you make an offer"
+Confidence: Medium
+Reasoning: Fits the expectations-setting context.
+Impact: Low
+
+[Error #20 - Category: Entity/Name Consistency]
+Location: Multiple (16:17; 31:13; 31:40)
+Transcript excerpt: Variants: "Steve and Polly" / "Steven Pauly" / "Pauly"
+Issue: Inconsistent spelling of client names.
+Likely intended: "Steve and Polly" (pair of clients)
+Confidence: Medium
+Reasoning: Same client duo referenced with multiple spellings.
+Impact: Medium (can cause confusion in records)
+
+[Error #21 - Category: Numerical/Terminology Precision]
+Location: 17:36 / Speaker: Athena Simpson
+Transcript excerpt: "Usually that needs to be bigger deals, like million and EBITDA plus."
+Issue: Ungrammatical metric; likely "a million in EBITDA plus."
+Likely intended: "≥ $1M in EBITDA"
+Confidence: Medium
+Reasoning: Private debt typically targets larger EBITDA; phrasing is off.
+Impact: Medium
+
+[Error #22 - Category: Omission/Truncation]
+Location: 27:59 / Speaker: Luke Gillespie
+Transcript excerpt: "I totally agree. I with you from the sell side."
+Issue: Missing verb.
+Likely intended: "I agree with you from the sell side."
+Confidence: High
+Reasoning: Common omission.
+Impact: Low
+
+[Error #23 - Category: Semantic Incoherence]
+Location: 13:29 / Speaker: Anke Jordaan
+Transcript excerpt: "Real estate, why this best peer review is an AI."
+Issue: Phrase is nonsensical; list of agenda items mis-transcribed.
+Likely intended: Agenda list (real estate; [topic]; peer review; AI)
+Confidence: Medium
+Reasoning: She’s enumerating agenda; this garbles multiple items.
+Impact: Medium
+
+[Error #24 - Category: Duplication/Repetition]
+Location: 40:23 / Speaker: Athena Simpson
+Transcript excerpt: "ACTION ITEM: Start peer reviewing write-ups..." (repeated 3x consecutively)
+Issue: Identical action item duplicated three times.
+Likely intended: Single action item.
+Confidence: High
+Reasoning: ASR/notes system duplication.
+Impact: Medium (adds clutter; could confuse action tracking)
+
+[Error #25 - Category: Omission/Truncation]
+Location: 43:26 / Speaker: Athena Simpson
+Transcript excerpt: "so I'm not like making up  about the buyers."
+Issue: Missing word; likely "stuff" or similar.
+Likely intended: "making up stuff about the buyers"
+Confidence: Medium
+Reasoning: Context of using buyer profiles to avoid guessing.
+Impact: Low
+
+
+SEGMENT MAPPING
+
+Segment A
+- Location: 0:00-0:32
+- Content: Microplastics banter among Ryan, Charis
+- Classification: REMOVE
+- Rationale: Pure small talk unrelated to business topics.
+
+Segment B
+- Location: 0:32-1:58
+- Content: Late start, NDAs, broker update on IOIs/LOIs and Monday deadline
+- Classification: KEEP
+- Rationale: Deal status, process coordination.
+
+Segment C
+- Location: 1:58-4:22
+- Content: Plan for client call, NDAs, write-up expectations, deadline urgency
+- Classification: KEEP
+
+Segment D
+- Location: 4:22-6:06
+- Content: Clarify IOI vs LOI deadline; broker deadline skepticism; messaging to client
+- Classification: KEEP
+
+Segment E
+- Location: 6:16-12:13
+- Content: Client speed, missed opportunities, expectation management (Dustin & Lindsey, Federico)
+- Classification: KEEP
+
+Segment F
+- Location: 12:13-13:29
+- Content: Meeting logistics/timing; screen sharing
+- Classification: KEEP (operational flow)
+
+Segment G
+- Location: 13:29-14:26
+- Content: Agenda overview; topics include Quiet Light CIMs, buyer profiles, Falcon deal, real estate, peer review, AI
+- Classification: KEEP (agenda)
+
+Segment H
+- Location: 14:26-20:22
+- Content: Quiet Light CIMs; SBA eligibility; private debt; seller financing; broker reputation
+- Classification: KEEP
+
+Segment I
+- Location: 20:22-26:33
+- Content: SBA SOP on owner involvement post-close; consulting vs equity; APA language
+- Classification: KEEP
+
+Segment J
+- Location: 26:33-30:05
+- Content: Buyer profile process debate (links vs form fill), client vs broker service balance
+- Classification: KEEP
+
+Segment K
+- Location: 30:05-33:58
+- Content: Falcon deal reassignment; need written pass from client; process caution
+- Classification: KEEP
+
+Segment L
+- Location: 33:08-33:18
+- Content: "thingy" timing signal between Anke and Athena; meta-timekeeping banter
+- Classification: REMOVE
+- Rationale: Off-topic; does not add business value.
+
+Segment M
+- Location: 34:08-36:37
+- Content: Falcon fit for Steve (trading PCs); strengths; enthusiasm
+- Classification: KEEP
+
+Segment N
+- Location: 35:14-43:26
+- Content: Peer-review process design; async reviews; trial run; action items
+- Classification: KEEP
+
+Segment O
+- Location: 43:26-44:21
+- Content: What to include when posting write-ups; cross-coverage; opportunistic deal sharing
+- Classification: KEEP
+
+Segment P
+- Location: 44:21-45:23
+- Content: Closing remarks; next topics (real estate, tax); brief pleasantries
+- Classification: KEEP
+
+
+REMOVALS
+
+[REMOVAL #1 - Type: Small Talk/Personal]
+Location: 0:00-0:32
+Speakers involved: Ryan Cash, Charis Siau
+Content excerpt:
+"Ryan: The that I'm sure that the content, I'm like a 90s kid, do you know how much my body is filled with microplastics?
+Charis: Oh yeah, we're all .
+Ryan: Raised on microplastics. Multi-colored microplastics, that neon, neon-colored microplastics from the 90s are just like circulating everywhere."
+Reasoning:
+Pure small talk unrelated to deals, financing, or client processes.
+Context impact: None—the conversation shifts directly to meeting logistics and deals afterward.
+Recommended action: REMOVE 0:00-0:32
+
+[REMOVAL #2 - Type: Off-Topic/Meta-Banter]
+Location: 33:08-33:18
+Speakers involved: Anke Jordaan, Athena Simpson
+Content excerpt:
+"Athena: ...why do you keep doing the thingy?
+Anke: Because I don't want to cut you off.
+Athena: Are you saying that because you want to say something?
+Anke: No, I'm saying that to keep you on track of the time you have listening."
+Reasoning:
+Meta-timekeeping banter; not related to deal analysis, clients, or process substance.
+Context impact: Low—the surrounding discussion on passing deals and client communications stands alone.
+Recommended action: REMOVE 33:08-33:18
+
+
+BORDERLINE SECTIONS
+
+[BORDERLINE #1 - Requires Review]
+Location: 40:23 (within Athena’s block about next week)
+Content excerpt: "So my mother's coming to town tomorrow, and I'm going to be out for like an event, my mom next week, something else. So I'm pretty much going to be..."
+Business relevance argument: Explains Athena’s limited availability and directly sets up the peer-review trial run and action items for the team.
+Personal content argument: Mentions family visit; personal scheduling detail.
+Recommendation: KEEP — Provides necessary context for the operational change (peer review trial) and timing expectations.
+
+
+ADDITIONAL PATTERN NOTES
+
+- Repeated mishearing of "CIM(s)" as "Sim(s)" when referring to Quiet Light materials. Consider an ASR vocabulary boost for CIM, LOI, IOI, NDA, APA, SOP, SBA, Transworld, Quiet Light, SMBash.
+- Frequent name errors for "Charis" (heard as "Kara," "Paris") and inconsistent spelling of "Steve and Polly/Pauly." Consider custom speaker profiles and client name dictionaries.
+- Occasional truncations/omissions mid-sentence and stray filler insertions; likely due to overlaps or latency in audio. Review timestamps with overlapping talk.
+
+SPEAKER ATTRIBUTION CHECKS
+
+- 20:30 block: The line "It's not disqualified." attached to Charis conflicts with the question Charis is asking and is immediately corrected by Athena in the next line. This may be an ASR fragment or misattribution. Flag for manual review at 20:30-21:05 to ensure the Q/A flow is intact.

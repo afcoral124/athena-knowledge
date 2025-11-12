@@ -1,0 +1,252 @@
+[Error #1 - Category: Entity Name (Person)]
+Location: ~00:00:10 / Speaker: Gil
+Transcript excerpt: "Readings,"
+Issue: "Readings" appears to be an ASR error during greeting.
+Likely intended: "Greetings"
+Confidence: High
+Reasoning: "Greetings" is a common salutation; "Readings" is nonsensical in this context.
+Impact: Low
+
+---
+[Error #2 - Category: Entity Name (Person)]
+Location: ~00:00:45 / Speaker: Athena
+Transcript excerpt: "Hey Federica. Welcome. ... How are you to Fire Club?"
+Issue: Two issues: (a) Name rendered as "Federica" but later speaker is "Federico"; (b) phrase "How are you to Fire Club?" is garbled.
+Likely intended: (a) "Federico"; (b) "How are you? Welcome to Buyer's Club."
+Confidence: High (name), Medium (phrase)
+Reasoning: The participant later speaks as "Federico." The phrase as transcribed is ungrammatical and mismatched to context.
+Impact: Medium (name consistency aids clarity)
+
+---
+[Error #3 - Category: Entity Name (People)]
+Location: 00:01:00–00:03:00 / Speakers: Athena, Polly, Gil
+Transcript excerpt: "poll's here. Hey Polly." / "Pauly and Gil" / "Paul and Gill"
+Issue: Inconsistent renderings of names: "Polly/Pauly/Paul" and "Gil/Gill"
+Likely intended: "Polly" and "Gil"
+Confidence: High
+Reasoning: Subsequent references settle on “Polly” and “Gil.” Alternates are likely ASR spelling variants.
+Impact: Medium
+
+---
+[Error #4 - Category: Semantic Inconsistency / Omission]
+Location: ~00:02:20 / Speaker: Athena
+Transcript excerpt: "Any anyone Spring The ability to rewatch is great."
+Issue: Garbled phrase with extraneous word “Spring.”
+Likely intended: "Anyone? The ability to rewatch is great."
+Confidence: Medium
+Reasoning: Nearby context is discussing rewatching past sessions; "Spring" is out of place.
+Impact: Low
+
+---
+[Error #5 - Category: Misheard Acronym]
+Location: ~00:05:40 / Speaker: Athena
+Transcript excerpt: "like an earnout. But we can't do earnouts with SBI."
+Issue: "SBI" in an SBA lending context.
+Likely intended: "SBA"
+Confidence: High
+Reasoning: SBA (Small Business Administration) governs these loan rules; SBI is not applicable here. Common ASR error.
+Impact: High
+
+---
+[Error #6 - Category: Misheard Acronym / Entity Name]
+Location: ~00:11:40 / Speaker: Athena
+Transcript excerpt: "if you were on Elliot's call or you rewatch Elliot Holman's call"
+Issue: Likely mis-rendered name; well-known SMB due diligence expert is "Elliott Holland."
+Likely intended: "Elliott Holland"
+Confidence: High
+Reasoning: Industry context (due diligence) strongly suggests Elliott Holland; “Holman” is likely an ASR slip.
+Impact: Medium
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:21:30–00:22:30 / Speaker: Athena
+Transcript excerpt: "Cast your accrual." / "cash to approval adjustment."
+Issue: Garbled accounting terms.
+Likely intended: "cash to accrual adjustment"
+Confidence: High
+Reasoning: Converting cash-basis books to accrual-basis is standard; “approval” and “cast your” are ASR substitutions.
+Impact: Medium
+
+---
+[Error #8 - Category: Business Terminology Distortion]
+Location: ~00:19:10 / Speaker: Athena
+Transcript excerpt: "August benefits, monthly support services."
+Issue: "August benefits" is likely a mishear.
+Likely intended: "Owner's benefits" (or "Owner benefits")
+Confidence: Medium
+Reasoning: In add-backs, “owner’s benefits” is standard; “August benefits” is contextually implausible.
+Impact: Medium
+
+---
+[Error #9 - Category: Misheard Acronym]
+Location: ~00:36:40 / Speaker: Athena
+Transcript excerpt: "There’s a section in the LOI template..." and prior references to "qv"
+Issue: Repeated references to “qv” for quality of earnings.
+Likely intended: "QoE" or "Q of E"
+Confidence: High
+Reasoning: Standard acronym for Quality of Earnings is QoE; “qv” is an ASR artifact.
+Impact: Medium
+
+---
+[Error #10 - Category: Speaker Misattribution / Nonsensical Insert]
+Location: ~00:52:50–00:53:20 / Speaker: Ida
+Transcript excerpt: "Yeah. 1, 1, 2, structure. One, one. It might be pulling These numbers here."
+Issue: Fragmented, likely system/assistant notes mistakenly attributed as a speaker.
+Likely intended: Not part of the spoken content (or belongs to Athena thinking aloud).
+Confidence: Medium
+Reasoning: Content is incoherent and interrupts modeling flow; appears like transcription glitch or background assistant.
+Impact: Low
+
+---
+[Error #11 - Category: Misheard Acronym]
+Location: ~00:22:40 / Speaker: Athena
+Transcript excerpt: "SBA loans off tax returns."
+Issue: Awkward phrasing; likely missing preposition.
+Likely intended: "SBA loans are underwritten off tax returns" or "based on tax returns"
+Confidence: Medium
+Reasoning: Common phrasing in SBA lending; “off tax returns” without a verb is an ASR truncation.
+Impact: Low
+
+---
+[Error #12 - Category: Semantic Inconsistency]
+Location: ~00:01:30 / Speaker: Athena
+Transcript excerpt: "it should be a fun when we're putting me on the spot"
+Issue: Word choice/structure off; “fun when” likely “fun one” and “we’re” vs “you’re.”
+Likely intended: "It should be a fun one; you're putting me on the spot"
+Confidence: Medium
+Reasoning: More natural phrasing in context of being featured to demo modeling.
+Impact: Low
+
+---
+[Error #13 - Category: Entity Name (Person)]
+Location: ~01:14:20 / Speaker: Athena
+Transcript excerpt: "so Edita, let's look into that..."
+Issue: Earlier interjections from "Ida;" name appears inconsistently as "Ida" vs "Edita."
+Likely intended: One person (either "Ida" or "Edita"), consistent name needed
+Confidence: Medium
+Reasoning: The two forms appear to reference the same assistant; inconsistent ASR capture.
+Impact: Low
+
+---
+[Error #14 - Category: Misheard Term]
+Location: ~00:44:20 / Speaker: Athena
+Transcript excerpt: "you can pretty much do whatever you want in terms of the terms. Um, and negotiate with them on insurance or, uh, on interest rates"
+Issue: “insurance” likely misheard for “terms” or another deal component (e.g., “interest”).
+Likely intended: "and negotiate with them on interest rate"
+Confidence: Low
+Reasoning: “Insurance” is unlikely in the immediate sentence after “terms” and before “interest rates”; may simply be a duplicated concept.
+Impact: Low
+
+---
+
+Segment Mapping (KEEP/REMOVE/MIXED)
+
+Segment 1
+- Location: 00:00:00–00:01:10
+- Mark: REMOVE
+- Content excerpt:
+"Athena: Hello? Hello. Hey, Gil
+Gil: Readings,
+Athena: how's it going?
+Gil: Good. Good, good. How are you?
+Athena: I'm good. Thank you. Alright, we got a few more folks joining us today. Hello Michael. Hello.
+Hello. Welcome to your first Buyer's Club."
+Reasoning: Extended greetings and pleasantries with no substantive business content.
+Context impact: None—session transitions into introductions and agenda afterwards.
+Recommended action: REMOVE 00:00:00–00:01:10
+
+---
+Segment 2
+- Location: 00:01:10–00:04:00
+- Mark: KEEP
+- Content excerpt:
+"…we've got a few new joiners… Buyer's Club… advice… the ability to rewatch is great… favorites…"
+Reasoning: Orientation to the program, value of sessions, and learning approach; supports business education context.
+
+---
+Segment 3
+- Location: ~00:08:40–00:09:05
+- Mark: REMOVE
+- Speakers involved: Athena
+- Content excerpt:
+"Oops, wait. Me, I'm trying to get the, there we go. Videos. All the videos outta the way so I can move this around. There we go."
+Reasoning: Screen-management chatter; not relevant to business content.
+Context impact: None.
+Recommended action: REMOVE ~00:08:40–00:09:05
+
+---
+Segment 4
+- Location: ~00:15:15–00:15:35
+- Mark: REMOVE
+- Speakers involved: Athena
+- Content excerpt:
+"You guys are seeing how bad I am with keyboard check shortcuts. Luckily I have short nails this time, so I am not, uh, misfiring on all the keys."
+Reasoning: Off-topic aside unrelated to business analysis.
+Context impact: None.
+Recommended action: REMOVE ~00:15:15–00:15:35
+
+---
+Segment 5
+- Location: ~01:11:10–01:12:10
+- Mark: KEEP
+- Content excerpt:
+"…cash is looking at a deal where there’s all these like crazy add backs… lenders will throw out a lot of add-backs…"
+Reasoning: Directly relevant to due diligence and valuation practice.
+
+---
+Segment 6
+- Location: ~01:12:40–01:13:40
+- Mark: KEEP
+- Content excerpt:
+"…next Tuesday… expert on 21st… tax planning… how acquisitions are taxed…"
+Reasoning: Educational and strategically relevant to buyers.
+
+---
+Segment 7
+- Location: ~01:09:50–01:10:35
+- Mark: KEEP
+- Content excerpt:
+"…cash free, debt-free… paying off vehicle loans with proceeds…"
+Reasoning: Important deal structure and valuation principle.
+
+---
+
+BORDERLINE segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:02:05–00:03:20
+Content excerpt: "…what's been your favorite so far? …Denise’s was a fan favorite… Netflix episode… Matt Marlow was a good one…"
+Business relevance argument: Provides guidance on high-value sessions for learning; promotes rewatching educational content.
+Personal content argument: Conversational preferences; not directly about a current deal.
+Recommendation: KEEP—Helps new members focus on useful materials; minimal time cost.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~01:05:35–01:07:20
+Content excerpt: "…working capital… brokers old-school vs internet gold rush of buyers…"
+Business relevance argument: Contextualizes current market practices affecting working capital negotiations.
+Personal content argument: Includes anecdotal commentary on broker sophistication.
+Recommendation: KEEP—Improves understanding of negotiation dynamics and expectations.
+
+---
+
+Speaker Attribution Observations
+
+- Several brief entries by "Ida" appear to be transcription artifacts or backstage prompts (e.g., “year by year,” “1, 1, 2, structure”). Consider verifying if these belong to Athena or should be removed as noise. Confidence: Medium.
+
+---
+
+Patterns to Flag for ASR Improvement
+
+- SBA consistently misheard as “SBI” in at least one critical spot.
+- Accounting terms “cash to accrual” repeatedly distorted (“cast your accrual,” “cash to approval”).
+- Owner-related add-backs “owner’s benefits” misheard as “August benefits.”
+- Inconsistent name spellings (Polly/Pauly/Paul; Gil/Gill; Federico/Federica; Ida/Edita).
+- Proper name “Elliott Holland” misrendered as “Elliot Holman.”
+
+---
+
+Summary Impact
+
+- High-impact errors: SBA→SBI; “cash to accrual adjustment” distortions; Elliott Holland name; name consistency for participants.
+- Recommended removals focus on greetings and technical screen-management chatter to streamline transcript without losing business content.
+- All key business discussions (financial modeling, add-backs, working capital, SBA standby change, seller notes, performance notes, DSCR, LOI assumptions) should be KEPT.

@@ -1,0 +1,284 @@
+[Error #1 - Category: Misheard Acronym]
+Location: ~00:04:55 / Speaker: Elliot
+Transcript excerpt: "one is a deal that got consummated and we can go through the sim on the income statement and the balance sheet..."
+Issue: "sim" appears in the context of broker materials
+Likely intended: "CIM" (Confidential Information Memorandum)
+Confidence: High
+Reasoning: In M&A, “CIM” is the standard term for the broker’s information package. “Sim” is a common ASR miss.
+Impact: High - affects correct identification of a core document
+
+---
+[Error #2 - Category: Misheard Word]
+Location: ~00:04:30 / Speaker: Elliot
+Transcript excerpt: "the second one is one that didn't really have a sim, you know, it's like those two pages and the text returns that you get sometimes."
+Issue: "text returns" in a finance/tax context
+Likely intended: "tax returns"
+Confidence: High
+Reasoning: “Tax returns” are standard diligence documents; “text returns” is nonsensical here and a frequent ASR slip.
+Impact: High - critical diligence document identification
+
+---
+[Error #3 - Category: Misheard Acronym/Business Term]
+Location: ~00:06:45 / Speaker: Elliot
+Transcript excerpt: "You'll see financial analysis like this. So p um, since we're having fun..."
+Issue: "p um" in context of financial statements
+Likely intended: "P&L" (Profit & Loss statement)
+Confidence: High
+Reasoning: He’s teaching financial statements; “P&L” aligns with context and the surrounding discussion.
+Impact: Medium - clarity on which statement is discussed
+
+---
+[Error #4 - Category: Entity Name]
+Location: ~00:18:05 / Speaker: Elliot
+Transcript excerpt: "You guys familiar with Worlds? Worlds World? World And it's no different than..."
+Issue: Entity name garbled
+Likely intended: "IBISWorld" (industry research reports)
+Confidence: High
+Reasoning: IBISWorld publishes industry benchmarks like gross margins; “Worlds” repetition indicates ASR confusion.
+Impact: Medium - misidentifies a source for benchmarks
+
+---
+[Error #5 - Category: Entity Name]
+Location: ~00:33:30 / Speaker: Elliot
+Transcript excerpt: "So Bruce Marks at First Bank of Elect, you can't do deals with cash payments."
+Issue: Bank name misheard
+Likely intended: "First Bank of the Lake"
+Confidence: Medium
+Reasoning: “First Bank of the Lake” is a well-known SBA PLP lender; “Elect” is phonetically similar but not a bank name.
+Impact: Medium - misidentifies a lender and reduces credibility
+
+---
+[Error #6 - Category: Entity Name]
+Location: ~00:32:10 / Speaker: Elliot
+Transcript excerpt: "If we start bartering Aquamacs for Guardian, there's no way you're gonna get the both of us in the room."
+Issue: Company name misheard
+Likely intended: "AcquiMatch"
+Confidence: High
+Reasoning: The host organization is AcquiMatch; “Aquamacs” is an unrelated software project; likely ASR swap.
+Impact: High - brand/name accuracy of the host company
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:29:20 / Speaker: Elliot
+Transcript excerpt: "from a quantitative valid audit, like quality of learning, I'm not gonna be able to validate this stuff."
+Issue: "quality of learning" in a diligence context
+Likely intended: "quality of earnings (QOE)"
+Confidence: High
+Reasoning: He repeatedly discusses QOE; “learning” is a near-homophone error.
+Impact: High - central diligence concept mislabeled
+
+---
+[Error #8 - Category: Omission/Truncation]
+Location: ~00:09:10 / Speaker: Elliot
+Transcript excerpt: "Nine 90, so not bad. They had 1.2 owner and we higher."
+Issue: Sentence truncated/garbled; missing key nouns
+Likely intended: Likely referring to revenue ~$990K, “1.2 [something] owner” (e.g., owner’s comp/owner add-backs) and “we [something] higher”
+Confidence: Low
+Reasoning: Multiple missing words obscure meaning; context suggests summary of revenue/owner earnings/add-backs.
+Impact: Medium - impairs understanding of financial baseline
+
+---
+[Error #9 - Category: Semantic Inconsistency]
+Location: ~00:18:40 / Speaker: Elliot
+Transcript excerpt: "the average gross margin or gross profit is in October. So about."
+Issue: "in October" does not fit numerical/benchmark context
+Likely intended: A percentage figure (e.g., “is about X%”) not a month reference
+Confidence: Medium
+Reasoning: He’s discussing industry gross margins; “October” is out of place and suggests ASR substitution for a number/percent.
+Impact: Medium - obscures a comparative benchmark
+
+---
+[Error #10 - Category: Business Terminology Distortion]
+Location: ~00:50:05 / Speaker: Elliot
+Transcript excerpt: "work in progress, which is technically Steve a work in capital."
+Issue: “work in capital” phrasing incorrect
+Likely intended: “working capital”
+Confidence: High
+Reasoning: Standard term is “working capital”; speaking about WIP’s impact on working capital.
+Impact: Low - minor, but could confuse terminology
+
+---
+[Error #11 - Category: Entity Name]
+Location: ~00:32:35 / Speaker: Elliot
+Transcript excerpt: "I met Athena in April at the Esen Bash."
+Issue: Event name misheard
+Likely intended: "SMBash"
+Confidence: Medium
+Reasoning: SMBash is a known SMB conference; “Esen Bash” is phonetically similar but not a known event.
+Impact: Low - not critical to the technical content
+
+---
+[Error #12 - Category: Speaker Attribution/Omission]
+Location: ~00:15:05 / Speaker: [Unlabeled participant]
+Transcript excerpt: "It does. I have a question, Elliot."
+Issue: Speaker line lacks attribution; several Q&A turns are unlabeled
+Likely intended: Likely Steve (based on adjacent lines), but unclear
+Confidence: Medium
+Reasoning: Immediately after, Elliot replies; later content suggests Steve was asking. Lack of speaker tag can confuse flow.
+Impact: Low - affects readability, not substance
+
+---
+[Error #13 - Category: Omission/Truncation]
+Location: ~00:06:10 / Speaker: Elliot
+Transcript excerpt: "You'll see kind stuff. Quite a gimme a second guys. You'll see sales can't spend."
+Issue: Multiple truncated/garbled phrases
+Likely intended: Transition to show sales and spend lines; incomplete due to ASR/technical pause
+Confidence: Medium
+Reasoning: Fragmentation likely from screen-share/connection causing ASR dropouts.
+Impact: Low-Medium - minor local confusion
+
+---
+[Error #14 - Category: Misheard Phrase]
+Location: ~00:20:45 / Speaker: Elliot
+Transcript excerpt: "The nice thing is on an income statement, you can actually look at it and on an absolute basis, you can look at the whole year versus letter it's..."
+Issue: "letter it's" is nonsensical
+Likely intended: “versus later” or “versus the prior year/letters”
+Confidence: Low
+Reasoning: Likely ASR confusion at sentence end; exact intended words unclear, but current text is incoherent.
+Impact: Low - localized clarity issue
+
+---
+
+Segment Mapping
+
+1) 00:00:00–00:04:00
+- Content: Greetings, introductions, Elliot’s background summary, session purpose
+- Classification: KEEP
+- Rationale: Establishes expert credibility and sets up financial statements training
+
+2) 00:04:00–00:05:10
+- Content: Screen-share/permission logistics (“I think I need permission.” “I gave you permission now.”)
+- Classification: REMOVE
+- Rationale: Technical housekeeping, not business content
+
+3) 00:05:10–00:26:30
+- Content: P&L overview; COGS definitions; labor allocation; marketing and ROAS discussion; add-backs and broker games
+- Classification: KEEP
+- Rationale: Core educational content on interpreting income statements and seller games
+
+4) 00:27:00–00:28:10
+- Content: Connection drop (“You freeze… we lost you… stop sharing my…”) between bartering discussion
+- Classification: REMOVE (technical only)
+- Rationale: Pure technical interruption; bartering content continues after
+
+5) 00:28:10–00:36:10
+- Content: Bartering and cash payments; QOE limitations; structuring with seller notes
+- Classification: KEEP
+- Rationale: Deal-structuring strategies and diligence risks
+
+6) 00:34:30–00:35:10
+- Content: Another brief connection loss (“we lost you for just a second again”)
+- Classification: REMOVE
+- Rationale: Technical interruption
+
+7) 00:36:10–00:46:40
+- Content: Cash vs accrual; revenue recognition; interim vs year-end adjustments; broker SIM vs QuickBooks mismatch
+- Classification: KEEP
+- Rationale: Critical financial reporting concepts and pitfalls
+
+8) 00:46:40–01:04:50
+- Content: Why cash vs accrual matters: working capital, cash flow, discounts, WIP; deposits
+- Classification: KEEP
+- Rationale: High-value guidance for underwriting and operational cash needs
+
+9) 01:04:50–01:16:30
+- Content: Balance sheet walkthrough: bank accounts, AR, other current assets, inventory, fixed assets, depreciation vs market/replacement value
+- Classification: KEEP
+- Rationale: Core educational content for balance sheet diligence
+
+10) 01:16:30–01:24:30
+- Content: CapEx vs maintenance vs replacement CapEx; trucking example; downtime risk
+- Classification: KEEP
+- Rationale: Cash flow modeling and risk
+
+11) 01:24:30–01:26:30
+- Content: Real-world example (car wash) on CapEx; how it appears on the balance sheet not P&L
+- Classification: KEEP
+- Rationale: Applied illustration
+
+12) 01:26:30–01:31:00
+- Content: Closing summary, encouragement to use experts, thanks
+- Classification: KEEP
+- Rationale: Brief professional closing; allowed by guidelines
+
+---
+
+Removals
+
+[REMOVAL #1 - Type: Off-Topic/Technical]
+Location: ~00:03:40–00:05:10
+Speakers involved: Athena, Anke, Elliot
+Content excerpt:
+"Athena: ...ask EDA to take the spotlight off me, give you share access...
+Elliot: ...lemme share my screen. I think I need permission.
+Anke: I gave you permission now.
+Elliot: Thank you..."
+Reasoning:
+Screen-share/permission logistics add no business value.
+Context impact: None—business content begins immediately after.
+Recommended action: REMOVE ~00:03:40–00:05:10
+
+[REMOVAL #2 - Type: Off-Topic/Technical]
+Location: ~00:27:00–00:28:10
+Speakers involved: Athena, Elliot
+Content excerpt:
+"Athena: You freeze. Yeah. You froze for a second... we lost you.
+Elliot: ...If I stop sharing my..."
+Reasoning:
+Connection issues and recovery chatter; interrupts flow without content.
+Context impact: Low—bartering topic resumes and is restated after.
+Recommended action: REMOVE ~00:27:00–00:28:10
+
+[REMOVAL #3 - Type: Off-Topic/Technical]
+Location: ~00:34:30–00:35:10
+Speakers involved: Athena, Elliot
+Content excerpt:
+"Athena: we lost you for just a second again.
+Elliot: Oh man... 20% is cash and..."
+Reasoning:
+Brief reconnection comments; not substantive.
+Context impact: None—substantive explanation restarts immediately.
+Recommended action: REMOVE ~00:34:30–00:35:10
+
+---
+
+Borderline Segments
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:01:55–00:03:30
+Content excerpt: "Elliot: Yeah, so I'm, I'm a kid from... Harvard... private equity... spun out... self-funded searcher... started Guardian due diligence..."
+Business relevance argument: Establishes credibility and context for expertise in diligence and financial statements.
+Personal content argument: Contains informal personal framing (“kid from... wanted to be rich”).
+Recommendation: KEEP—Directly supports authority and relevance of the educational session.
+
+[BORDERLINE #2 - Requires Review]
+Location: ~01:24:30–01:26:05
+Content excerpt: "Athena: example from my search life... car wash... equipment useful life five years... $250,000 to replace..."
+Business relevance argument: Illustrates maintenance and replacement CapEx implications on cash flow.
+Personal content argument: Personal anecdote about a past target.
+Recommendation: KEEP—Highly instructive example tied to CapEx concepts discussed.
+
+---
+
+Speaker Attribution Validation
+
+- Several Q&A lines are unlabeled or ambiguous (e.g., “It does. I have a question, Elliot.” ~00:15:05; “So do you see that certain businesses lend themselves...” ~00:38:25). Flow suggests Steve is asking most of these, with Elliot responding. Consider verifying and tagging these turns to maintain clarity.
+
+---
+
+Cross-Reference and Pattern Notes
+
+- Repeated ASR patterns:
+  - “CIM” → “sim” (occurs multiple times).
+  - “tax returns” → “text returns.”
+  - Host/company/event names distorted (“AcquiMatch” → “Aquamacs”; “SMBash” → “Esen Bash/Esen”; “IBISWorld” → “Worlds”).
+  - QOE terms inconsistently rendered (“quality of earnings” → “quality of learning”).
+- Numerous truncations and incomplete clauses during moments of audio instability and screen-share transitions. These likely reflect audio drops rather than speaker errors.
+- Consistent mixing of “cash-ish”/“accrual-ish” appears intentional colloquial usage; do not flag unless it obscures meaning in a given line.
+
+---
+
+Context Preservation Notes
+
+- Removing the technical/connection chatter will not disrupt the business narrative. The substantive points (bartering, cash verification, etc.) are restated clearly after reconnection.
+- Keep all introductory and closing remarks; they are brief and provide necessary context and professional closure.

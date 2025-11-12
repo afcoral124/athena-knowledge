@@ -1,0 +1,187 @@
+[Error #1 - Category: Entity Name]
+Location: ~00:08:15 / Speaker: Anke
+Transcript excerpt: "The first tab is the information on what the Acquimatch Virus Club is."
+Issue: Misnaming of company/program; “Acquimatch Virus Club” is likely incorrect.
+Likely intended: "AcquiMatch Buyers Club"
+Confidence: High
+Reasoning: Meeting header shows “AcquiMatch Buyers Club.” “Virus Club” is nonsensical in context and appears to be an ASR substitution.
+Impact: Medium - could confuse what program/channel is being referenced
+
+---
+[Error #2 - Category: Misheard Acronym]
+Location: ~00:11:15 / Speaker: Athena
+Transcript excerpt: "template that has all of the tips and tricks that we like to see in an ally."
+Issue: “ally” used where LOI (Letter of Intent) is expected.
+Likely intended: "LOI"
+Confidence: High
+Reasoning: Discussion is about creating a deal document template; LOI is the standard term in M&A; “ally” is a common ASR mishearing of LOI.
+Impact: High - incorrect term in a key deal document reference
+
+---
+[Error #3 - Category: Omissions/Truncations]
+Location: ~00:11:35 / Speaker: Athena
+Transcript excerpt: "they're going to come on and they're going to talk through, um. The and what you want to think about when you're putting together your..."
+Issue: Missing key noun(s) after “talk through” and before “putting together your…”; sentence truncated.
+Likely intended: "talk through the LOI and what you want to think about when you're putting together your LOI"
+Confidence: Medium
+Reasoning: Surrounding discussion is about lawyers and an LOI template; repeated LOI context suggests the omitted term is LOI.
+Impact: Medium - reduces clarity of the upcoming content
+
+---
+[Error #4 - Category: Misheard Acronym]
+Location: ~00:22:35 / Speaker: Athena
+Transcript excerpt: "With the changes in the S. P. A. S. O. P. It's called..."
+Issue: “S. P. A. S. O. P.” mishears SBA SOP (Standard Operating Procedure).
+Likely intended: "SBA SOP"
+Confidence: High
+Reasoning: SBA financing guidance is governed by the SBA SOP; “SPA” is incorrect in this context.
+Impact: High - affects interpretation of regulatory guidance
+
+---
+[Error #5 - Category: Entity Name Inconsistency]
+Location: ~00:15:40 / Speaker: Athena
+Transcript excerpt: "There's an amazing due diligence tracker that onca created..."
+Issue: “onca” appears to mis-transcribe the team member’s name.
+Likely intended: "Anke" (matches speaker label elsewhere) or "Anca"
+Confidence: High
+Reasoning: A team member named Anke speaks extensively; “onca” likely an ASR error for the same name.
+Impact: Medium - name consistency matters for attribution and follow-up
+
+---
+[Error #6 - Category: Entity Name]
+Location: ~00:05:10 / Speaker: Athena
+Transcript excerpt: "Awesome. Thanks Holly. We're excited making moves. Justin, how are you?"
+Issue: Speaker refers to “Holly” after Polly’s introduction.
+Likely intended: "Polly"
+Confidence: High
+Reasoning: Only Polly introduced herself; “Holly” is not present. Likely slip or ASR mishearing.
+Impact: Medium - could cause confusion among participants
+
+---
+[Error #7 - Category: Business Terminology Distortion]
+Location: ~00:48:05 / Speaker: Athena
+Transcript excerpt: "love about checking deals with letters is because they they have access to that sort of thing"
+Issue: “letters” used where “lenders” is intended.
+Likely intended: "lenders"
+Confidence: High
+Reasoning: Context is about lenders pulling legal/litigation history and term sheets; “letters” is nonsensical.
+Impact: Medium - could confuse responsibility/role
+
+---
+[Error #8 - Category: Misheard Acronym]
+Location: ~00:53:35 / Speaker: Athena
+Transcript excerpt: "Q V a meeting with next week, so we'll get a date in for them too."
+Issue: “Q V a” mishears QoE (Quality of Earnings).
+Likely intended: "QoE meeting"
+Confidence: High
+Reasoning: Surrounding content is about quality of earnings providers and reports.
+Impact: Medium - affects understanding of planned content
+
+---
+[Error #9 - Category: Business Terminology Distortion]
+Location: ~00:32:20 / Speaker: Athena
+Transcript excerpt: "put some money in escrow for that REFs and warranties if your lawyer is advising you"
+Issue: “REFs and warranties” mishears “reps and warranties.”
+Likely intended: "reps and warranties"
+Confidence: High
+Reasoning: Standard legal term is “representations and warranties” shortened to “reps and warranties.”
+Impact: Medium - legal terminology precision matters
+
+---
+[Error #10 - Category: Homophone/Near-homophone]
+Location: ~00:13:10 / Speaker: Steve
+Transcript excerpt: "Uh, Steve gang and literally one floor below my wife..."
+Issue: “gang” likely a mishear of “again” (as in “Steve, again”).
+Likely intended: "Steve, again, and literally one floor below my wife..."
+Confidence: Medium
+Reasoning: The phrase reads more naturally as an interjection; no evidence “Gang” is his surname.
+Impact: Low - minor, but affects perceived identity
+
+---
+[Error #11 - Category: Semantic Inconsistency]
+Location: ~00:41:25 / Speaker: Athena
+Transcript excerpt: "everything looks good. Stereotypes good up to the point. Lender's offered a term sheet..."
+Issue: “Stereotypes good” is semantically incoherent in context.
+Likely intended: "everything looks good up to the point the lender offers a term sheet" or “SDE looks good…”
+Confidence: Medium
+Reasoning: The surrounding topic is sequencing diligence steps (term sheets, QoE); “stereotypes” is anomalous.
+Impact: Medium - disrupts comprehension of recommended process
+
+---
+[Error #12 - Category: Entity Name/Punctuation Ambiguity]
+Location: ~00:02:45 / Speaker: Athena
+Transcript excerpt: "okay, Justin, you met Anca and Ryan Luke. Do you just want to unmute..."
+Issue: “Ryan Luke” likely two separate team members without a comma.
+Likely intended: "Anca and Ryan, Luke..."
+Confidence: Medium
+Reasoning: Immediately after, Luke speaks; suggests “Ryan” and “Luke” are separate people, not “Ryan Luke.”
+Impact: Low - minor ambiguity
+
+---
+[Error #13 - Category: Omission/Minor Grammar]
+Location: ~00:57:05 / Speaker: Athena
+Transcript excerpt: "We'll message you and, um, Uh, signal and see when you're available."
+Issue: Missing preposition before “Signal.”
+Likely intended: "We'll message you on Signal and see when you're available."
+Confidence: High
+Reasoning: “Signal” is a messaging app; preposition “on” is standard.
+Impact: Low - does not affect business meaning
+
+---
+
+[REMOVAL #1 - Type: Off-Topic/Personal Logistics]
+Location: ~00:45:00-00:45:20
+Speakers involved: Joe
+Content excerpt:
+"Sorry, I'm late... I was out of town all of last week, and then this week at an industry conference... getting unburied from the daily work."
+Reasoning:
+Personal schedule/travel apology; no connection to dealmaking or educational content.
+Context impact: None—discussion proceeds to substantive deal insights immediately after.
+Recommended action: REMOVE ~00:45:00-00:45:20
+
+---
+[REMOVAL #2 - Type: Administrative/Scheduling]
+Location: ~00:55:05-00:56:10
+Speakers involved: Joe, Athena
+Content excerpt:
+"Question for you, Thena, what, uh, the link for this meeting... recurring... Was there an actual invite on a calendar invite... I just wanna make sure it hits my phone every week."
+"Athena: Yeah, you were sent a calendar invite... If not, just send a message... we'll make sure you get that..."
+Reasoning:
+Purely operational scheduling details; not related to M&A content or process learning.
+Context impact: Low—removing does not affect understanding of business topics discussed.
+Recommended action: REMOVE ~00:55:05-00:56:10
+
+---
+
+[BORDERLINE #1 - Requires Review]
+Location: ~00:43:45-00:44:15
+Content excerpt: 
+"Athena: ...there’s some mob adjacent something going on in New Jersey... enjoyable part of the process of working in Justin's region."
+Business relevance argument: Light commentary about broker behavior in a specific region may reflect market dynamics/relationship management challenges.
+Personal content argument: Joking, speculative aside; not instructional and could be considered unprofessional/off-topic.
+Recommendation: REMOVE—Humorous aside adds little educational value and could distract; does not impact surrounding deal content.
+
+---
+[BORDERLINE #2 - Requires Review]
+Location: ~00:13:05-00:13:15
+Content excerpt:
+"Steve: ...literally one floor below my wife that's on this call as well."
+Business relevance argument: Part of a brief personal intro; helps humanize participants in a cohort setting.
+Personal content argument: Purely personal location detail; not relevant to acquisitions or financing.
+Recommendation: KEEP—Very brief; maintains conversational rapport without derailing content.
+
+---
+[BORDERLINE #3 - Requires Review]
+Location: ~00:56:50-00:57:25
+Content excerpt:
+"Athena: We'll message you and, um, Signal and see when you're available... Ryan can put some thoughts together... learning session on building seller relationships..."
+Business relevance argument: Sets up a future educational session on seller relationship building (a substantive topic).
+Personal content argument: Contains scheduling/logistical planning within the session.
+Recommendation: KEEP—Although logistical, it signals valuable upcoming content on off-market seller relationship best practices.
+
+---
+
+Additional notes and patterns:
+- Repeated LOI → “ally” mishearing across the session. Consider adding a custom ASR vocabulary for “LOI,” “Letter of Intent,” “QoE,” “SBA SOP,” “reps and warranties,” and team member names (“Athena,” “Anke/Anca,” “Ryan,” “Luke,” “Polly,” “Justin,” “Joe,” “Steve”).
+- Several truncations/omissions suggest audio dropouts or ASR segmentation issues (“talk through the…”, “the determination of the…”). Flag for audio quality review around 00:11:30 and 00:41:05.
+- Consistency: Use “lender(s)” not “letter(s)”; “reps and warranties” consistently; “QoE” consistently; and “AcquiMatch Buyers Club” throughout.

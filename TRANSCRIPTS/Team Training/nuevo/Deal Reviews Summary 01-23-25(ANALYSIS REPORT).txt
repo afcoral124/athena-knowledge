@@ -1,0 +1,291 @@
+Below is a focused error and relevance analysis of the provided transcript. I’ve prioritized high‑impact ASR issues (acronyms, financial figures, business terms, entities) and mapped non‑business chatter for removal while preserving business context.
+
+— ERRORS —
+
+[Error #1 - Category: Misheard Acronym]
+Location: 24:37 / Speaker: Athena Simpson
+Transcript excerpt: "I feel a lot better about this. I think we should try to let it see if it works. And, and then maybe this is something we roll out like we did with the NBA."
+Issue: "NBA" is used in a business compliance/process context.
+Likely intended: "NDA"
+Confidence: High
+Reasoning: Discussing call recording, consent, and compliance; NDA (non-disclosure agreement) is relevant while NBA is not. Common ASR substitution.
+Impact: High
+
+[Error #2 - Category: Misheard Acronym]
+Location: 29:25 / Speaker: AcquiMatch Team
+Transcript excerpt: "I think there might be an LMI done here in the next, you know, week."
+Issue: "LMI" appears in a deal status context.
+Likely intended: "LOI" (Letter of Intent)
+Confidence: High
+Reasoning: They immediately discuss LOIs, templates, and submission timing; LMI is not a relevant M&A artifact here.
+Impact: High
+
+[Error #3 - Category: Acronym/Term Pattern (LOI variants)]
+Location: Multiple (31:47, 32:00–32:24, 50:00)
+Transcript excerpt: "fill out the L.A.Y though..." / "Aloeye" / "LY"
+Issue: LOI appears repeatedly as "L.A.Y", "Aloeye", "LY".
+Likely intended: "LOI"
+Confidence: High
+Reasoning: The conversation is specifically about LOI drafting, templates, and submission; repeated ASR mis-hearing suggests a systematic error.
+Impact: High
+
+[Error #4 - Category: Business Terminology Distortion]
+Location: ~38:45–39:10 / Speaker: AcquiMatch Team
+Transcript excerpt: "if in the LY, he should put seller grace to note between five to ten percent"
+Issue: "seller grace to note" is nonsensical.
+Likely intended: "seller agrees to a note between five to ten percent"
+Confidence: High
+Reasoning: This is a standard M&A concept (seller note); wording indicates ASR misrecognition.
+Impact: High
+
+[Error #5 - Category: Homophone/Terminology]
+Location: 36:44 / Speaker: AcquiMatch Team
+Transcript excerpt: "Jason broke down turns on a sheet"
+Issue: "turns" in this context is incorrect.
+Likely intended: "terms"
+Confidence: High
+Reasoning: They’re discussing deal terms, pricing, and LOI content.
+Impact: Medium
+
+[Error #6 - Category: Misheard Entity/Term]
+Location: 36:44 / Speaker: AcquiMatch Team
+Transcript excerpt: "got him to accept the salary note"
+Issue: "salary note" is incorrect in M&A context.
+Likely intended: "seller note"
+Confidence: High
+Reasoning: Seller notes are common; “salary note” is not.
+Impact: High
+
+[Error #7 - Category: Financial/Numerical]
+Location: ~39:37 / Speaker: Athena Simpson
+Transcript excerpt: "So put time  1% and if the guy will sign them 5%"
+Issue: "1%" appears where 10% has been discussed; “time” and “them” also misrecognized.
+Likely intended: "So put 10%, and if the guy will sign, then 5%"
+Confidence: High
+Reasoning: The surrounding discussion consistently references a 5–10% seller note range; “1%” breaks consistency.
+Impact: High
+
+[Error #8 - Category: Homophone]
+Location: 39:37–39:45 / Speaker: Athena Simpson
+Transcript excerpt: "he's not gonna get taken seriously Landers if he doesn't have a signed L.O.I"
+Issue: "Landers" in lending context.
+Likely intended: "lenders"
+Confidence: High
+Reasoning: They refer to term sheets, modeling, lenders; “Landers” is a common ASR error.
+Impact: High
+
+[Error #9 - Category: Misheard Acronym/Term]
+Location: ~42:15–42:40 / Speaker: Athena Simpson
+Transcript excerpt: "whatever the QV You can do a retreat if he needs to"
+Issue: "QV" and "retreat" are incorrect in this context.
+Likely intended: "Q of E (Quality of Earnings)" and "re-trade"
+Confidence: High
+Reasoning: Post‑LOI diligence and renegotiation are standard; QofE and re-trade are the relevant terms.
+Impact: High
+
+[Error #10 - Category: Business Terminology Distortion]
+Location: 44:24 / Speaker: AcquiMatch Team
+Transcript excerpt: "He's got a big big week. got a sour call scumptered for him tomorrow"
+Issue: "sour call scumptered" is nonsensical.
+Likely intended: "seller call scheduled"
+Confidence: High
+Reasoning: Fits deal process; “seller call scheduled” is standard phrasing.
+Impact: High
+
+[Error #11 - Category: Misheard Acronym]
+Location: 48:00 / Speaker: Luke Gillespie
+Transcript excerpt: "it's one of those absentee low SD opportunities"
+Issue: "SD" is incomplete in financial context.
+Likely intended: "SDE" (Seller’s Discretionary Earnings)
+Confidence: High
+Reasoning: “Low SDE” is a common characterization of content sites; SD alone is atypical.
+Impact: Medium
+
+[Error #12 - Category: Tool/Entity Name Distortion]
+Location: 6:46 / Speaker: Luke Gillespie
+Transcript excerpt: "I've been mentioning them in my room video walkers as well."
+Issue: "room video walkers" is not a known tool/process.
+Likely intended: "Loom video walkthroughs"
+Confidence: Medium
+Reasoning: Loom is a standard screen-recording tool used for walkthroughs.
+Impact: Medium
+
+[Error #13 - Category: Homophone]
+Location: 26:58 / Speaker: Anke Badenhorst
+Transcript excerpt: "we're basically just waiting for the first leaves to come in."
+Issue: "leaves" vs "leads"
+Likely intended: "leads"
+Confidence: High
+Reasoning: They’re discussing a lead gen vendor; “leads” is correct.
+Impact: Medium
+
+[Error #14 - Category: Misheard Proper Name]
+Location: 6:12 / Speaker: Athena Simpson
+Transcript excerpt: "the GONCA, this needs to start with you"
+Issue: "GONCA" as a person reference.
+Likely intended: "Anke" (Anke Badenhorst)
+Confidence: High
+Reasoning: Anke is on the call and responsible for onboarding; “GONCA” is phonetic noise.
+Impact: Medium
+
+[Error #15 - Category: Speaker Misattribution]
+Location: 36:07 / Speaker: Luke Gillespie (as labeled)
+Transcript excerpt: "I'm sorry go ahead Luke. There was a power washing business I just submitted to her..."
+Issue: Speaker refers to “Luke” despite being labeled as Luke.
+Likely intended: The line "I'm sorry go ahead, Luke" was spoken by another team member; the remainder by Luke.
+Confidence: High
+Reasoning: Speakers typically don’t address themselves; indicates attribution swap/merge.
+Impact: Medium
+
+[Error #16 - Category: Day/Word Mishearing]
+Location: 45:25 / Speaker: AcquiMatch Team
+Transcript excerpt: "Two news day, um, and I went over the businesses with him."
+Issue: "Two news day" for a weekday reference.
+Likely intended: "Tuesday"
+Confidence: High
+Reasoning: Scheduling context; Tuesday is plausible and common ASR error.
+Impact: Low
+
+[Error #17 - Category: Semantic/Entity]
+Location: 41:36–41:45 / Speaker: AcquiMatch Team
+Transcript excerpt: "No, he's he's got with bottom lawyers."
+Issue: "bottom lawyers" unlikely to be entity.
+Likely intended: A specific law firm name (e.g., "Barton Lawyers" or similar)
+Confidence: Low
+Reasoning: Without more context, exact firm uncertain; but “bottom lawyers” appears to be ASR noise.
+Impact: Medium
+
+[Error #18 - Category: Business Terminology Distortion]
+Location: 1:23 / Speaker: Athena Simpson
+Transcript excerpt: "Like multi-tasking of a small child, too business owner."
+Issue: Awkward, ungrammatical phrase in business context.
+Likely intended: "Like multitasking as a small child-to-business owner" or "…small child to business owner"
+Confidence: Low
+Reasoning: Referencing someone juggling parenting and business; ASR garbling.
+Impact: Low
+
+[Error #19 - Category: Semantic Inconsistency]
+Location: 29:21 / Speaker: Luke Gillespie
+Transcript excerpt: "We'll get the contract checker."
+Issue: "contract checker" unclear in context.
+Likely intended: "contract check-in" or "contract checkers/targets" (progress metric)
+Confidence: Medium
+Reasoning: Team had been discussing meeting contract minimums and monthly checks; “checker” seems off.
+Impact: Medium
+
+[Error #20 - Category: Business Term]
+Location: 44:08 / Speaker: Luke Gillespie
+Transcript excerpt: "broker call today for the self-order roofing company"
+Issue: "self-order roofing" unlikely business descriptor.
+Likely intended: Possibly "self-storage roofing" or "self-performing roofing"
+Confidence: Low
+Reasoning: Without supporting context, exact correction uncertain; phrase is implausible as transcribed.
+Impact: Medium
+
+[Error #21 - Category: Word Choice/Truncation]
+Location: 20:00 / Speaker: Athena Simpson
+Transcript excerpt: "sending write-up stipives before getting him to sign the NDAs"
+Issue: "stipives" is not a word.
+Likely intended: "snippets"/"summaries"
+Confidence: Medium
+Reasoning: She describes sending partial write-ups before NDAs; “stipives” is garbled.
+Impact: Medium
+
+[Error #22 - Category: Speaker/Flow Confusion]
+Location: 28:23 / Speaker: AcquiMatch Team
+Transcript excerpt: "quicker me to do it that way. Okay, great. Jason, you were going to say Ryan, carry on. Yes, I didn't mean to keep continuing on."
+Issue: Overlap and misattribution create confusion about who is addressing whom.
+Likely intended: One speaker prompting another; lines likely merged or misattributed.
+Confidence: Medium
+Reasoning: Multiple names/interruptions in one block typical of ASR speaker-mix errors.
+Impact: Medium
+
+
+— SEGMENT MAPPING (KEEP/REMOVE/MIXED) —
+
+[REMOVAL #1 - Type: Small Talk/Technical Setup]
+Location: 0:06–0:15
+Speakers involved: Anke, Athena, Luke
+Content excerpt:
+"Hello. Oh, good."
+"…I was worried… sound driver isn't working…"
+"…your microphone was being a little bit goofy…"
+Reasoning:
+Brief audio troubleshooting unrelated to business content.
+Context impact: None—business topic begins immediately after.
+Recommended action: REMOVE 0:06–0:15
+
+[REMOVAL #2 - Type: Personal/Off-Topic Anecdote]
+Location: 1:14–1:23
+Speakers involved: Luke, Athena
+Content excerpt:
+"…his son was like the cutest thing… taking off his glasses…"
+"Like multi-tasking of a small child…"
+Reasoning:
+Personal anecdote about a child; not needed for business discussion.
+Context impact: Low—removing does not affect the subsequent discussion of client takeaways.
+Recommended action: REMOVE 1:14–1:23
+
+[REMOVAL #3 - Type: Personal Anecdote]
+Location: 35:18–35:46
+Speakers involved: Athena, Luke
+Content excerpt:
+"…we were in like double leopard print and the [fanny] pack…"
+"…the room just got a whole lot shinier…"
+Reasoning:
+Appearance/clothing anecdote during an in-person meetup; unrelated to deal content.
+Context impact: None—business resumes immediately after with lawyers’ feedback and client progress.
+Recommended action: REMOVE 35:18–35:46
+
+[REMOVAL #4 - Type: Personal/Well-being Aside]
+Location: 50:58–51:42
+Speakers involved: Athena, Anke, Team
+Content excerpt:
+"…happy to feel human again… take care of yourselves… if you're sick…"
+"I think I get some selfies for social media."
+"Oh, , come on."
+Reasoning:
+Health pep talk and social media selfies; unrelated to deal flow, financing, or process.
+Context impact: None—this is end-of-call rapport.
+Recommended action: REMOVE 50:58–51:42
+
+
+— BORDERLINE (Requires Review) —
+
+[BORDERLINE #1 - Requires Review]
+Location: 1:32–1:59
+Content excerpt: "…ask him to buy him a cup of coffee… is the towing company in Florida… how is he living in Irvine?"
+Business relevance argument: Discusses seller location and operating structure (running a Florida company while living in Irvine), which can be relevant to diligence and post-acquisition operations.
+Personal content argument: Casual tone about grabbing coffee and texting the seller may read as social.
+Recommendation: KEEP—Provides operational context about the seller and potential target businesses.
+
+[BORDERLINE #2 - Requires Review]
+Location: 25:41
+Content excerpt: "…I want to try to end on time because I got to get back up to this happy hour thing."
+Business relevance argument: Scheduling note that explains brevity.
+Personal content argument: Reference to a "happy hour" is unrelated to deal content.
+Recommendation: REMOVE (Low impact)—Purely scheduling/personal; removal won't affect comprehension.
+
+
+— NOTES ON CONTEXT PRESERVATION —
+
+- The core business content focuses on: call recording/consent policy, onboarding communications, LOI drafting and timing, seller notes (5–10%), lender expectations, escrow/indemnification holdbacks, client-by-client deal progress, lead gen status, and write-up/contract minimums. All such sections should be KEPT.
+
+- Recommended removals are short, self-contained, and do not disrupt business logic or transitions. For the 1:14–1:23 cut, the surrounding discussion about client learning from “Mike” remains intact and coherent.
+
+- For the “consent to share recordings” policy, ensure that references to disclaimers, onboarding scripts, and action items remain; they are compliance-relevant and should be preserved.
+
+- Action items with Fathom links are business-critical; KEEP all action items.
+
+
+— PATTERN OBSERVATIONS FOR ASR IMPROVEMENT —
+
+- LOI consistently misrecognized (L.A.Y / LY / Aloeye). Suggest adding a custom vocabulary for “LOI.”
+- Seller note frequently misheard as “salary note.”
+- NDA misheard as NBA; lenders as Landers; Q of E as QV; re-trade as retreat; SDE as SD.
+- “Note-taking” repeatedly transcribed as “no taking.” “Loom” as “room video walkers.”
+- Proper names (Anke) often corrupted (GONCA/Akka/uncle). Consider speaker profiles/custom dictionary.
+- Multiple numeric distortions (10% → 1%) in financial contexts; extra QA on numerals recommended.
+- Occasional speaker misattribution during rapid exchanges or overlaps (36:07, 28:23). Consider diarization tuning.
+
+If you want, I can also produce a condensed “KEEP-only” index by timestamp to facilitate quick review or handoff to a refiner.

@@ -1,0 +1,316 @@
+Segment Mapping (by timestamp)
+- 0:13-2:16 — Internal resources page, due diligence list, lender access constraints: KEEP
+- 2:16-3:00 — Modeling spreadsheet/tooling discussion and status: KEEP (some ASR garble)
+- 3:01-4:17 — Pipeline updates (SP, Jason, BH pressure washing): KEEP
+- 4:17-5:14 — Slack follow-ups with BH: KEEP
+- 5:19-6:15 — AH online education deal and preferences: KEEP
+- 6:17-7:16 — Off-market effort for BH; Facebook lead gen: KEEP
+- 7:16-10:00 — Andrew status, extra spend, online deal from marketplace, LOI note: KEEP
+- 10:00-11:32 — Facebook campaign performance; rural off-market tactics: KEEP
+- 11:32-12:16 — Direct mail/boots-on-ground ideas; action items for Andrew: KEEP
+- 12:16-15:50 — Diesel repair shop (remote/semi-absentee), TK Ventures/success fee; timing to write-up for Andrew; DFW steel fabricator; client summaries: KEEP
+- 15:50-20:28 — JB monthly minimums; BH re-engagement and responsiveness issues: KEEP
+- 20:28-28:52 — Managing BH expectations/engagement; AH health pause and approach: KEEP
+- 28:52-31:24 — AH: SBA pre-qual letter, comparing AAMCO vs power washing; modeling guidance: KEEP
+- 31:24-32:16 — DUI mention strictly in context of SBA letter acceptability: KEEP
+- 32:26-37:23 — Extended personal DUI stories and nostalgia (Uber/taxis): REMOVE
+- 37:25-41:53 — Gil’s anxiety about seller calls; coaching and process: KEEP
+- 41:53-42:47 — New clients Destin/Lindsey onboarding: KEEP
+- 42:47-45:52 — Buyer mindset/“therapist” support; month shaping up; offers: KEEP
+- 45:52-46:00 — Wrap-up and scheduling: KEEP
+
+Detected Transcription Errors
+
+[Error #1 - Category: Business terminology distortion]
+Location: ~1:52 / Speaker: Athena Simpson
+Transcript excerpt: "...the lenders firewalls won't let them access google documents... the Unders can't access it."
+Issue: “Unders” appears instead of “lenders.”
+Likely intended: “the lenders can’t access it.”
+Confidence: High
+Reasoning: Context is lender firewalls/Google Docs access; “Unders” is a phonetic ASR slip.
+Impact: High — changes subject of the limitation.
+
+[Error #2 - Category: Omissions/Truncations]
+Location: 2:30 / Speaker: Athena Simpson
+Transcript excerpt: "There’s three people ... about doing the modeling and doing new like modeling, but she's for clients, but."
+Issue: Garbled/clipped sentence; pronoun/phrase doesn’t resolve (“she’s for clients”).
+Likely intended: “…doing new modeling/budgets for clients…” (exact wording unclear)
+Confidence: Medium
+Reasoning: Sentence construction breaks, indicating ASR truncation.
+Impact: Medium — obscures point about modeling resource status.
+
+[Error #3 - Category: Semantic inconsistency]
+Location: 2:52 / Speaker: Luke Gillespie
+Transcript excerpt: "I can give you an update on deals on looking at following that report..."
+Issue: Ungrammatical, unclear phrasing.
+Likely intended: “I can give you an update on deals; I’m looking at/following that report…”
+Confidence: Medium
+Reasoning: Function words misrecognized; intent is to give a deal update aligned to a report.
+Impact: Low-Medium — minor clarity issue.
+
+[Error #4 - Category: Entity/Initials misheard]
+Location: 3:56 / Speaker: Luke Gillespie
+Transcript excerpt: "And then D H then This is a commercial, it's a pressure-washing business in Jacksonville."
+Issue: Client initials likely misheard as “D H.”
+Likely intended: “BH”
+Confidence: High
+Reasoning: Subsequent references consistently use “BH” for this client.
+Impact: Medium — could misattribute client.
+
+[Error #5 - Category: Semantic inconsistency]
+Location: 4:22 / Speaker: Luke Gillespie
+Transcript excerpt: "One Ida is horrifying and skinny in our pipeline..."
+Issue: Phrase is nonsensical in context.
+Likely intended: Possibly “One of those is qualifying and staying in our pipeline” or similar.
+Confidence: Low-Medium
+Reasoning: Severe phonetic distortion; context is two deals from Slack being added to pipeline.
+Impact: Medium — confuses status update.
+
+[Error #6 - Category: Entity/Initials misheard]
+Location: 5:19 / Speaker: Luke Gillespie
+Transcript excerpt: "Next, I have another age deal... they forgot what they taught on."
+Issue: “age deal” likely the client initial “AH”; “they forgot” likely “I forgot.”
+Likely intended: “another AH deal… I forgot what they teach on.”
+Confidence: Medium
+Reasoning: AH appears throughout; first person fits surrounding narrative.
+Impact: Low-Medium — minor clarity on client/deal.
+
+[Error #7 - Category: Omissions/Truncations]
+Location: 5:58 / Speaker: Athena Simpson
+Transcript excerpt: "How are we looking otherwise? is in local businesses for him."
+Issue: Stray “is”; truncated clause.
+Likely intended: “...as in local businesses for him?”
+Confidence: Medium
+Reasoning: Common ASR drop of lead-in words.
+Impact: Low — meaning mostly recoverable.
+
+[Error #8 - Category: Semantic inconsistency]
+Location: 6:17 / Speaker: AcquiMatch Team
+Transcript excerpt: "I'm also working in off-market form... seller is engaging me... It’s an age factor of $2 million a year of revenue..."
+Issue: Multiple distortions: “form” vs “for him”; “is engaging me” likely “isn’t engaging me”; “age factor” likely “HVAC.”
+Likely intended: “off-market for him… seller isn’t engaging me… it’s an HVAC that does $2M/yr revenue…”
+Confidence: High (HVAC), Medium (isn’t), High (“for him”)
+Reasoning: HVAC is a recurring category; “going pretty slow” conflicts with “seller is engaging me.”
+Impact: High — changes core deal status and category.
+
+[Error #9 - Category: Misheard word]
+Location: 7:37 / Speaker: AcquiMatch Team
+Transcript excerpt: "Sorry, can you beat that?"
+Issue: “beat” for “repeat.”
+Likely intended: “can you repeat that?”
+Confidence: High
+Reasoning: Standard conversational repair phrase.
+Impact: Low.
+
+[Error #10 - Category: Misheard Acronym]
+Location: 8:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "…I want to get you a business, you know, that you get an alloy under…"
+Issue: “alloy” in M&A context.
+Likely intended: “LOI (Letter of Intent)”
+Confidence: High
+Reasoning: LOI is standard; “alloy” is frequent ASR error.
+Impact: High — core deal stage term.
+
+[Error #11 - Category: Entity name misheard]
+Location: 8:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "Luke founded on Fireflippers."
+Issue: “Fireflippers” is not a known marketplace.
+Likely intended: “Empire Flippers”
+Confidence: High
+Reasoning: Empire Flippers is a common online-business marketplace.
+Impact: Medium — proper marketplace identification.
+
+[Error #12 - Category: Misheard Acronym]
+Location: 8:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "…and it went under a lot."
+Issue: “a lot” likely “LOI.”
+Likely intended: “went under LOI.”
+Confidence: High
+Reasoning: Deal update context; typical phrase “under LOI.”
+Impact: High — misstates deal status.
+
+[Error #13 - Category: Omissions/Truncations]
+Location: ~9:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "…got a call where we walk through all the pulp, think I like about it…"
+Issue: Garbled; key noun missing (“points,” “bullets,” “pulls”?).
+Likely intended: “walked through all the bullet points I like about it.”
+Confidence: Low-Medium
+Reasoning: Patterned truncation; unclear noun.
+Impact: Low — gist remains.
+
+[Error #14 - Category: Homophone/near-homophone]
+Location: 11:16 / Speaker: Luke Gillespie
+Transcript excerpt: "I can take an accident on the call or something."
+Issue: “accident” likely “action.”
+Likely intended: “take an action on the call…”
+Confidence: Medium
+Reasoning: Collocation “take action” in planning.
+Impact: Low.
+
+[Error #15 - Category: Business terminology distortion]
+Location: 12:16 / Speaker: Luke Gillespie
+Transcript excerpt: "remote works in my absentee 25 hours a week…"
+Issue: Phrase malformed; deal type descriptor muddled.
+Likely intended: “remote work, semi-absentee, ~25 hrs/week.”
+Confidence: High
+Reasoning: “Semi-absentee” is standard descriptor.
+Impact: Medium — affects understanding of owner involvement.
+
+[Error #16 - Category: Misheard financial term]
+Location: 12:16 / Speaker: Luke Gillespie
+Transcript excerpt: "They have like a million dollars to even dust…"
+Issue: “even dust” in financial context.
+Likely intended: “of EBITDA.”
+Confidence: High
+Reasoning: EBITDA is core metric; phonetic confusion common.
+Impact: High — critical financial detail.
+
+[Error #17 - Category: Word choice (minor) / Truncation]
+Location: 14:27 / Speaker: Athena Simpson
+Transcript excerpt: "So don't agree. Excellent."
+Issue: Sentence fragment likely misrendered.
+Likely intended: Possibly “So let’s agree—excellent.”
+Confidence: Low
+Reasoning: Context suggests alignment/commitment on timing.
+Impact: Low.
+
+[Error #18 - Category: Word choice/homophone]
+Location: 15:56 / Speaker: Athena Simpson
+Transcript excerpt: "If this one ends up not freaking out…"
+Issue: “freaking” likely “working.”
+Likely intended: “not working out.”
+Confidence: Medium
+Reasoning: Common ASR swap; idiomatic phrase is “working out.”
+Impact: Low.
+
+[Error #19 - Category: Homophone/near-homophone]
+Location: 16:58 / Speaker: Luke Gillespie
+Transcript excerpt: "…get on a call with the the gas station breakers…"
+Issue: “breakers” for “brokers.”
+Likely intended: “gas station brokers.”
+Confidence: High
+Reasoning: Context is broker calls.
+Impact: Low-Medium.
+
+[Error #20 - Category: Homophone/near-homophone]
+Location: 21:04 / Speaker: AcquiMatch Team
+Transcript excerpt: "…not going to put you on a burger call unprepared."
+Issue: “burger” for “broker.”
+Likely intended: “broker call.”
+Confidence: High
+Reasoning: Standard call type in this context.
+Impact: Low.
+
+[Error #21 - Category: Omissions/Truncations]
+Location: 24:00-24:20 / Speaker: AcquiMatch Team
+Transcript excerpt: "…some relatable this will segue to, um, a, a, she's still saying she's not feeling good."
+Issue: Word salad; missing connectors/pronouns.
+Likely intended: Transitioning to AH status update (not feeling well).
+Confidence: Medium
+Reasoning: Multiple clipped words typical of ASR under crosstalk.
+Impact: Medium — initial clause hard to parse.
+
+[Error #22 - Category: Semantic inconsistency]
+Location: 24:46 / Speaker: AcquiMatch Team
+Transcript excerpt: "…it’s Minnesota, it's not like there's, if she wait eight inches, there's the only four brokers there…"
+Issue: “eight inches” nonsensical in time context.
+Likely intended: “waits eight weeks/days” (time period).
+Confidence: Medium
+Reasoning: Time-delay warning; “inches” is an ASR slip.
+Impact: Medium.
+
+[Error #23 - Category: Grammar (pluralization)]
+Location: 28:52 / Speaker: AcquiMatch Team
+Transcript excerpt: "…there's plenty of lender out there…"
+Issue: Singular “lender” where plural intended.
+Likely intended: “lenders.”
+Confidence: High
+Reasoning: Count noun with “plenty of.”
+Impact: Low.
+
+[Error #24 - Category: Name misheard]
+Location: 28:52 / Speaker: AcquiMatch Team
+Transcript excerpt: "She really likes the business look, the power washing business."
+Issue: “look” likely misheard name “Luke.”
+Likely intended: “the business Luke [found]/the power washing business.”
+Confidence: Medium
+Reasoning: Luke is the deal sourcer; “look” is homophone confusion.
+Impact: Low.
+
+[Error #25 - Category: Entity name]
+Location: 28:52 / Speaker: AcquiMatch Team
+Transcript excerpt: "…comparing the two Amco and that."
+Issue: Brand “AAMCO” misspelled/misheard.
+Likely intended: “AAMCO” (auto repair franchise)
+Confidence: High
+Reasoning: AAMCO is a known franchise often considered by buyers.
+Impact: Medium — correct entity identification.
+
+[Error #26 - Category: Misheard Acronym]
+Location: 31:24 / Speaker: Athena Simpson
+Transcript excerpt: "I figured it was in the D.U."
+Issue: “D.U.” incomplete.
+Likely intended: “DUI.”
+Confidence: High
+Reasoning: Next line: “I had a D.U.I. Everyone has a D.U.I.”
+Impact: Low.
+
+[Error #27 - Category: Entity name misheard]
+Location: 41:53 / Speaker: Athena Simpson
+Transcript excerpt: "…letting them into buyer's blood after we get their like deal box…"
+Issue: “buyer’s blood” for “Buyers Club.”
+Likely intended: “Buyers Club.”
+Confidence: High
+Reasoning: Buyers Club is referenced elsewhere; “blood” is phonetic error.
+Impact: Medium — program name.
+
+Removals
+
+[REMOVAL #1 - Type: Personal/Off-Topic]
+Location: 32:26-37:23
+Speakers involved: Athena Simpson, Luke Gillespie, AcquiMatch Team
+Content excerpt:
+"Athena: I mean, God, mine was almost 20 years ago… they're not concerned about that…
+Luke: And I mean, I don't even know what would you guys do if you didn't have Uber back then?
+AcquiMatch Team: That's the thing. have to drive…
+[…extended stories about taxis, buses, risky rides, bar nights, concert story, crying to police officer, parents in the 70s, etc…]
+Athena: …No, actually… then I stopped drinking six years ago.
+Luke: Ryan, have you had a DUI?
+AcquiMatch Team: But I have stories.
+Athena: …our parents… in the 70s… they just drove drunk…"
+Reasoning:
+Extended personal anecdotes about past DUIs, nightlife, transportation, and personal history. No business relevance beyond earlier brief reassurance that a past DUI won’t block SBA.
+Context impact: Low — Business thread about SBA letter is closed at 32:16 (“we already checked and told her it was fine”). Conversation resumes to business at 37:25 with “Anyways… Gil.”
+Recommended action: REMOVE lines 32:26-37:23
+
+Borderline Segments (Requires Review)
+
+[BORDERLINE #1 - Requires Review]
+Location: 31:57-32:01
+Content excerpt: 
+"Athena: I had a D.U.I. Everyone has a D.U.I."
+Business relevance argument: Brief reassurance aimed at normalizing a client’s SBA concern; ties directly to SBA pre-qualification letter discussion.
+Personal content argument: References personal legal history; could be considered anecdotal and not strictly necessary since the prior line already notes “we checked and told her it was fine.”
+Recommendation: KEEP — It’s a brief, context-relevant reassurance before the conversation veers off-topic (which is removed).
+
+[BORDERLINE #2 - Requires Review]
+Location: 11:46-12:10
+Content excerpt: 
+"Athena: …can just hire people to run around in t-shirts… ‘sell me your towing business’… have brand ambassadors on the ground…"
+Business relevance argument: Brainstorming off-market sourcing tactics and local direct outreach approaches.
+Personal content argument: Light, hypothetical imagery; could be seen as tangential.
+Recommendation: KEEP — It pertains to deal sourcing strategy in targeted geographies.
+
+Speaker Attribution/Consistency Notes
+- Multiple initials (SP, AH, BH, JB) used for clients consistently; one likely mishearing “D H” should be “BH” (Error #4).
+- Long mid-call paragraphs attributed to “AcquiMatch Team” likely Ryan; content fits role (coaching clients), not a misattribution issue.
+
+Patterns Observed (useful for ASR improvement)
+- Acronyms/terms: LOI → “alloy”/“a lot”; EBITDA → “even dust”; DUI → “D.U.”
+- Industry categories: HVAC → “age back/age factor”
+- Roles/entities: broker → “burger/breakers”; Buyers Club → “buyer’s blood”; Empire Flippers → “Fireflippers”
+- Common truncations/repairs and dropped function words in fast speech or crosstalk segments.
+
+Notes on Context Preservation
+- Removing 32:26-37:23 eliminates extended personal chatter without affecting the SBA letter thread (which is resolved by 32:16) or subsequent deal discussions (resume cleanly at 37:25).
+- All client/deal/financing/strategy content retained to preserve business flow.
